@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:svg="http://www.w3.org/2000/svg"
+	xmlns:math="http://www.w3.org/1998/Math/MathML"
+	xmlns="http://www.tei-c.org/ns/1.0"
+	xmlns:html="http://www.w3.org/1999/xhtml">
+<teiHeader>
+   <fileDesc>
+     <titleStmt>
+       <title>Account of a remarkable Conspiracy formed by a Negro in the Island of St. Domingo</title>
+     </titleStmt>
+     <publicationStmt>
+     	<p>Published by the American Antiquarian Society's Just Teach One Initiative.</p>
+     </publicationStmt>
+     <sourceDesc xml:id="aas15585">
+   		<biblStruct>
+   			<monogr>
+   				<author>
+   					<persName>Anonymous</persName>
+   				</author>
+   			  <title>Account of a remarkable Conspiracy formed by a Negro in the Island of St. Domingo</title>
+   			  <edition url="http://catalog.mwa.org/vwebv/holdingsInfo?bibId=15585"></edition>
+   			  <idno type="aas">15585</idno>
+   			  <imprint>
+   			    <pubPlace>
+   			      <bibl style="font­-style: italic">Account of a remarkable conspiracy</bibl>, published in <bibl style="font­-style: italic">New-York Magazine</bibl> <date when="1796-08-01">Aug 1</date> &amp; <date when="1796-09-01">Sept 1, 1796</date>
+   			    </pubPlace>
+   			    <publisher>
+   			    </publisher>
+   			  </imprint>
+   			</monogr>
+   		</biblStruct>
+   	</sourceDesc>
+     
+     <sourceDesc xml:id="15585.01">
+       <biblStruct>
+         <monogr>
+           <title>Account of a remarkable Conspiracy formed by a Negro in the Island of St. Domingo</title>
+           <idno type="aas">15585</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               New-York Weekly Magazine
+             </publisher>
+             <date when="1796-08-01"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume 1, Number 8</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     <sourceDesc xml:id="15585.02">
+       <biblStruct>
+         <monogr>
+           <title>Account of a remarkable Conspiracy formed by a Negro in the Island of St. Domingo</title>
+           <idno type="aas">15585</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               New-York Weekly Magazine
+             </publisher>
+             <date when="1796-09-01"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume 1, Number 9</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     
+   </fileDesc>
+ </teiHeader>
+  <text corresp="#aas15585">
+  <front>
+   <pb/>
+   <titlePart type="desc"><head style="text-align:center; font-style:italic">Account of a remarkable Conspiracy formed by a Negro in the Island of St. Domingo</head>
+   </titlePart>
+    <docImprint style="text-transform:none">
+      <docDate when="1796">1796</docDate></docImprint>
+   </front>
+    
+  
+    <text corresp="#15585.01">
+      <body>
+    <head style="text-align:center; font-style:italic"><seg xml:id="a001" corresp="#n001">Account of a remarkable Conspiracy formed by a Negro in the Island of <placeName>St. Domingo</placeName></seg>
+      <note xml:id="n001" corresp="#a001">The English source, <bibl style="font­-style: italic">The Literary Magazine and British Review</bibl> of <date when="1789-01">January 1789</date>, adds the following note to the title: “<quote>The author may have embellished this story a little in the narration, but the ground work of it is undoubtedly true.</quote>” Many versions also included as an epigraph a line from the French writer and philosopher <persName>Voltaire’s</persName> epic poem <bibl>“La Henrïade,”</bibl> “<quote>Le crime a ses héros, l’erreur ses martyrs</quote>”; Crime has its heroes, Error its martyrs.</note></head>
+   
+     <p>
+       THE history of illustrious vil-
+       <lb break="no"/>lains ought to be effaced 
+       <lb/>from the annals of nations, did not 
+       <lb/>a faithful picture of their crimes 
+       <lb/>serve to render them more odious. 
+       <lb/>Writers who have deigned to em-
+       <lb break="no"/>ploy their talents in exposing the 
+       <lb/>depravity of some monsters, have, perhaps, 
+       <lb/>contributed no less to the 
+       <lb/>happiness of mankind than those 
+       <lb/>who have exhibited only virtues.</p>
+     <p>
+       The negro who is the subject of 
+       <lb/>the following relation, was not so 
+       <lb/>fortunate as <persName>Mahomet</persName> or <persName>Crom-
+         <lb break="no"/>well</persName>; but from what he did, the rea-
+       <lb break="no"/>der may judge what he would have 
+       <lb/>done, had he been placed in the 
+       <lb/>same situation as these two ambi-
+       <lb break="no"/>tious <seg xml:id="a002" corresp="#n002">fanatics</seg><note xml:id="n002" corresp="#a002">The French original begins more simply, “<quote>The negro whose life I am about to recount was neither a <persName>Mahomet</persName> nor a <persName>Cromwell</persName> . . .</quote>” Criticisms of religious cultures were not uncommon in 18C French writing about colonization, and were sometimes indirect reflections on Roman Catholicism. Beliefs and how they are experienced become important throughout the narrative.</note>.—There is no need 
+       <lb/>to exaggerate the truth, to shew 
+       <cb/>
+       <lb/>how horrible and dangerous his 
+       <lb/>projects were; for about twenty-
+       <lb/>five years past, the people of <placeName><choice><sic>St. 
+         <lb/>Dominigo</sic><corr>St. Domingo</corr></choice></placeName> have always shuddered 
+       <lb/>at the name of <persName>Makandal</persName>.</p>
+     <p>
+       Born in <placeName>Africa</placeName>, in one of those 
+       <lb/>countries which border on <seg xml:id="a003" corresp="#n003"><placeName>Mount 
+         <lb/>Atlas</placeName></seg><note xml:id="n003" corresp="#a003"><term style="font-style:italic">Mount Atlas</term>: The <placeName>Atlas Mountain range</placeName> stretches some 1600 miles across northwestern <placeName>Africa</placeName> through what is modern day <placeName>Algeria</placeName>, <placeName>Morocco</placeName> and <placeName>Tunisia</placeName>.</note>, this negro appeared to have 
+       <lb/>been of illustrious rank, as he had 
+       <lb/>received a much better education 
+       <lb/>than what negroes generally have. 
+       <lb/>He could read and write the Ara-
+       <lb break="no"/>bian language, and he is not the 
+       <lb/>only negro, reduced by bad fortune 
+       <lb/>to a state of <seg xml:id="a004" corresp="#n004">slavery,</seg><note xml:id="n004" corresp="#a004">The French original here includes the clause “<quote>and brought to our Colonies.</quote>”</note> who has pos-
+       <lb break="no"/>sessed the same <seg xml:id="a005" corresp="#n005">slavery,</seg><note xml:id="n005" corresp="#a005">The percentage of enslaved Muslims that were transported to the <placeName>Caribbean</placeName> and <placeName>North America</placeName> as part of the transatlantic slave trade has long been underestimated, and some historians now believe it was perhaps about 10% (or approximately 1.2 million people). Given the ways in which Islam emphasizes literacy, the percentages of these enslaved people literate in Arabic has likewise also been typically underestimated.</note> <persName>Makandal</persName> 
+       <lb/>had also a strong natural turn for 
+       <lb/>music, painting and sculpture; and 
+       <lb/>though only twelve years of age when carried to the <seg xml:id="a006" corresp="#n006"><placeName>West-Indies</placeName>,</seg><note xml:id="n006" corresp="#a006">The French original uses the term “<placeName>Amérique</placeName>” instead of <placeName>West-Indies</placeName>.</note>
+       <pb/>
+       <lb/>he was well acquainted with the 
+       <lb/>medicine of his own country, and 
+       <lb/>with the virtue of plants, so useful, 
+       <lb/>and often so dangerous in the <seg xml:id="a007" corresp="#n007">tor-
+         <lb break="no"/>rid zone.</seg><note xml:id="n007" corresp="#a007"><term style="font-style:italic">Torrid Zone</term>: the equatorial region between the tropics of Cancer and Capricorn.</note></p>
+     <p>
+       Transported to <placeName>St. Domingo</placeName>, 
+       <lb/>and sold to a planter in the neigh-
+       <lb break="no"/>borhood of <seg xml:id="a008" corresp="#n008"><placeName>Cape François</placeName>,</seg><note xml:id="n008" corresp="#a008"><term style="font-style:italic">Cape François</term>: the capital city of the French colony of <placeName>Saint-Domingue</placeName>. The city was renamed <placeName>Cap-Haïtien</placeName> at the end of the Haitian Revolution in <date when="1804">1804</date>.</note> <persName>Mak-
+         <lb break="no"/>andal</persName> soon gained the esteem of 
+       <lb/>his master, by his knowledge and 
+       <lb/>industry, and made himself re-
+       <lb break="no"/>spected by his fellow slaves, on ac-
+       <lb break="no"/>count of the care which he took to 
+       <lb/>procure them amusement, by mul-
+       <lb break="no"/>tiplying their festivals, and to cure 
+       <lb/>their disorders, after they had baf-
+       <lb break="no"/>fled the skill of the European phy-
+       <lb break="no"/>sicians. In a short time he was 
+       <lb/>the soul of all their assemblies and 
+       <lb/><seg xml:id="a009" corresp="#n009">dances,</seg><note xml:id="n009" corresp="#a009">The French original here reads “<quote>He soon was the soul of all the Calendas, a sort of dance gathering that the Negroes passionately love . . .</quote>”  The term <term style="font-style:italic">calenda</term>, or <term style="font-style:italic">calinda</term> as it more commonly appears, is Spanish in origin.</note> and from one end of the 
+       <lb/>island to the other, the sick who 
+       <lb/>were deemed incurable, invoked 
+       <lb/>the name of <persName>Makandal</persName>, sending to 
+       <lb/>ask from him the leaf or root of 
+       <lb/>some herb, which for the most part 
+       <lb/>relieved them.</p>
+     <p>
+       Young <persName>Makandal</persName> was known 
+       <lb/>then only by his beneficence, and 
+       <lb/>his great taste for pleasure. Hap-
+       <lb break="no"/>py! had he always employed his 
+       <lb/>talents for innocent purposes; but 
+       <lb/>they soon became the source of the 
+       <lb/>greatest crimes.</p>
+     <p>
+       At the age of 15 or 16, love began 
+       <lb/>to inflame his breast and to rule 
+       <lb/>with the most astonishing impetu-
+       <lb break="no"/>osity. He did not, however, en-
+       <lb break="no"/>tertain an exclusive passion for one 
+       <lb/>object, but every woman who pos-
+       <lb break="no"/>sessed any charms, received part of 
+       <lb/>his homage, and inflamed his sen-
+       <lb break="no"/>ses. His passion acquired energy 
+       <lb/>and activity in proportion as the 
+       <lb/>objects which inspired it were mul-
+       <lb break="no"/>tiplied. In every quarter he had 
+       <lb/>a mistress. It is well known that 
+       <lb/>among the negroes, enjoyment soon 
+       <lb/>follows <seg xml:id="a010" corresp="#n010">desire</seg><note xml:id="n010" corresp="#a010">The French original uses the term “jouissance” which has a stronger implication of sexual behavior.</note>; and that satiety and 
+       <lb/>indifference are the usual consequences; but <persName>Makandal</persName>, on the 
+       <lb/>contrary, appeared always to be 
+       <cb/>
+       <lb/>more enamoured of those who had 
+       <lb/>contributed to his felicity, and a 
+       <lb/>proud jealousy defended the em-
+       <lb break="no"/>pire of his love.</p>
+     <p>
+       The overseer of the plantation 
+       <lb/>to which he belonged fell in love 
+       <lb/>with a beautiful young negro girl, 
+       <lb/>who had attracted the notice also 
+       <lb/>of <persName>Makandal</persName>. The reader may 
+       <lb/>readily imagine how much embar-
+       <lb break="no"/>rassed such a female must be, to 
+       <lb/>fix her choice between a rigorous 
+       <lb/>and despotic master, and the most 
+       <lb/>distinguished of all the negroes in 
+       <lb/>that part of the country: her heart, 
+       <lb/>however, inclined towards her e-
+       <lb break="no"/>qual, and the offers of the over-
+       <lb break="no"/>seer were rejected.</p>
+     <p>
+       Enraged at this affront, he dis-
+       <lb break="no"/>covered that <persName>Makandal</persName> had been 
+       <lb/>the cause of it, and he vowed to be 
+       <lb/>revenged; but Makandal, not-
+       <lb break="no"/>withstanding his nocturnal <seg xml:id="a011" corresp="#n011">peregri-
+         <lb break="no"/>nations,</seg><note xml:id="n011" corresp="#a011"><term style="font-style:italic">Peregrinations</term>: ramblings, random movements.</note> and the time which he de-
+       <lb break="no"/>voted to pleasure, discharged his 
+       <lb/>duty with so much punctuality and 
+       <lb/>zeal, that he was never exposed to 
+       <lb/>the least chastisement; a circum-
+       <lb break="no"/>stance rather astonishing in a coun-
+       <lb break="no"/>try where the lash is continually 
+       <lb/>lacerating the bodies of the unhap-
+       <lb break="no"/>py negroes, and where the soul of 
+       <lb/>the European not yet <seg xml:id="a012" corresp="#n012">enured</seg><note xml:id="n012" corresp="#a012"><term style="font-style:italic">Enured</term>: habituated.</note> by 
+       <lb/>custom to the most horrid specta-
+       <lb break="no"/>cles, is filled with both terror and 
+       <lb/>pity.</p>
+     <p>
+       The overseer, eagerly desirous 
+       <lb/>of surprising <persName>Makandal</persName> in some 
+       <lb/>fault, redoubled his vigilance, but 
+       <lb/>in vain; the slave was always irre-
+       <lb break="no"/>proachable. His rival, however, 
+       <lb/>seeing that he could find no cause 
+       <lb/>for punishing him, endeavored to 
+       <lb/>invent a pretext; and one day, in 
+       <lb/>the middle of a new plantation of 
+       <lb/>sugar canes, he ordered him to be 
+       <lb/>stretched out on his belly, and to 
+       <lb/>receive fifty lashes. The pride of 
+       <lb/><persName>Makandal</persName> revolted at this act of 
+       <lb/>injustice. Instead of humbling 
+       <lb/>himself, and imploring the prayers 
+       <pb/>
+       <lb/>and intercession of all the other 
+       <lb/>slaves, who were filled with asto-
+       <lb break="no"/>nishment and pity, he disdainfully 
+       <lb/>cast his <seg xml:id="a013" corresp="#n013">implements of husbandry</seg><note xml:id="n013" corresp="#a013"><term style="font-style:italic">Implements of husbandry</term>: agricultural tools.</note> 
+       <lb/>at the feet of his rival, telling him, 
+       <lb/>that such a barbarous order was to 
+       <lb/>him a signal of liberty, and imme-
+       <lb break="no"/>diately running towards the moun-
+       <lb break="no"/>tains, escaped, in spite of the over-
+       <lb break="no"/>seer’s fury, and the pretended pur-
+       <lb break="no"/>suit of the negroes, who gave them-
+       <lb break="no"/>selves little trouble to overtake him.</p>
+     <p>
+       When he had thus saved himself 
+       <lb/>from the unjust punishment of an 
+       <lb/>European despot, he united himself 
+       <lb/>to the <seg xml:id="a014" corresp="#n014">maroons;</seg><note xml:id="n014" corresp="#a014"><term style="font-style:italic">Maroons</term>: self-emancipated former slaves (or their descendants) or communities thereof. There were many large scale maroon communities in the <placeName>Caribbean</placeName> and <placeName>South America</placeName>, some in <placeName>North America</placeName> (in <placeName>Florida</placeName> and <placeName>Louisiana</placeName>, for instance), and <placeName>Saint-Domingue’s mountainous region</placeName> provided shelter to many marrons from the earliest moment of colonization until the successful end of the Haitian Revolution.</note> that is to say, run-
+       <lb break="no"/>away slaves; and twelve years 
+       <lb/>elapsed before he could be appre-
+       <lb break="no"/>hended. He still, however, kept 
+       <lb/>up a correspondence with his for-
+       <lb break="no"/>mer companions; never was there 
+       <lb/>a festival of any consequence cele-
+       <lb break="no"/>brated, at which he was not their 
+       <lb/><seg xml:id="a015" corresp="#n015"><persName>Corypheus</persName>.</seg><note xml:id="n015" corresp="#a015"><term style="font-style:italic"><persName>Corypheus</persName></term>: In classical Greek drama, <persName>Corypheus</persName> was the head of the chorus, the collective body providing commentary on the dramatic action of plays. By the eighteenth century it had become a generic term for principal actor of a company.</note> But how came the 
+       <lb/>negroes to betray their friend, their 
+       <lb/>comforter, and their prophet? for 
+       <lb/>he had address enough to make 
+       <lb/>them at length believe that he had 
+       <lb/>supernatural virtues, and divine 
+       <lb/>revelations. Having carved out, 
+       <lb/>with much art, upon the head of a 
+       <lb/>stick made of the orange tree, a hu-
+       <lb break="no"/>man figure, which, when pressed 
+       <lb/>a little on the back part of the head, 
+       <lb/>moved its eyes and lips, and ap-
+       <lb break="no"/>peared to be animated, he pretended 
+       <lb/>that this puppet answered whatever 
+       <lb/>questions were put to it, and uttered 
+       <lb/>oracles, and when he made it pre-
+       <lb break="no"/>dict the death of any one, it is cer-
+       <lb break="no"/>tain that he was never <seg xml:id="a016" corresp="#n016">mistaken.</seg><note xml:id="n016" corresp="#a016">
+         <persName>Makandal’s</persName> carving—later referred to as his “image,” and called a “fétiche” or <term style="font-style:italic">fetish</term> in the French original, may have had roots in Sufi traditions from <placeName>Africa</placeName>. When the term <term style="font-style:italic">fetish</term> starts to appear in French dictionaries in the mid-eighteenth century, it is associated exclusively with “Nègres,” and is a pejorative term for primitive religious beliefs. Some of the earlier English translations—for example, that published by <bibl style="font­-style: italic">The Gentleman’s and London Magazine</bibl> in <date when="1788">1788</date>—did keep the term “fetiche,” adding the following note: “<term style="font-style:italic">Fetiche</term> is a name given in <placeName>Guinea</placeName> to their divinities; one of whom is supposed to preside over a whole province, and one over every family. The idol is a tree, the head of an ape, a bird, or any such thing as their fancy may suggest.” The term was relatively new in English-language writing, and the <bibl style="font-style:italic">OED</bibl> suggests it became more common in next two decades.</note></p>
+     <p>
+       The great knowledge which 
+       <lb/><persName>Makandal</persName> had of <seg xml:id="a017" corresp="#n017">simples,</seg><note xml:id="n017" corresp="#a017"><term style="font-style:italic">Simples</term>: medical herbs and plant life.</note> enabled 
+       <lb/>him to discover in <placeName>St. Domingo</placeName> se-
+       <lb break="no"/>veral poisonous plants; and by 
+       <lb/>these above all he acquired great 
+       <lb/>reputation.—Without explaining 
+       <lb/>the means which he made use of, 
+       <lb/>he would foretel that such or such 
+       <lb/>another male or female negro, 
+       <lb/>who sometimes lived at the distance 
+       <cb/>
+       <lb/>of <seg xml:id="a018" corresp="#n018">fifty leagues</seg><note xml:id="n018" corresp="#a018"><term style="font-style:italic">Fifty leagues</term>: with a league roughly equivalent to just over 3 miles, here a distance of over 170 miles.</note> from him, would 
+       <lb/>die that very day, or next morning; 
+       <lb/>and those who heard him utter this 
+       <lb/>denunciation, soon learned with 
+       <lb/>terror that his prediction was ac-
+       <lb break="no"/>complished.</p>
+     <p>
+       The manner in which he com-
+       <lb break="no"/>mitted crimes which were not dis-
+       <lb break="no"/>covered till carried to excess, was 
+       <lb/>as follows: The negroes in general 
+       <lb/>are very fond of <seg xml:id="a019" corresp="#n019">commerce.</seg><note xml:id="n019" corresp="#a019">The French original reads: “<quote>The negroes in general have a great aptitude for commerce.</quote>”</note> In 
+       <lb/>our colonies there are great num-
+       <lb break="no"/>bers of them who go about with 
+       <lb/>European goods to the different 
+       <lb/>plantations, like our <seg xml:id="a020" corresp="#n020">pedlars.</seg><note xml:id="n020" corresp="#a020">The French original refers to these sellers as “Pacotilleurs.” The term <term style="font-style:italic">pacotille</term> referred specifically to lower quality goods sold for personal profit by sailors on trading vessels."</note> A-
+       <lb break="no"/>mong these <persName>Makandal</persName> had his disci-
+       <lb break="no"/>ples and zealous partizans; and it 
+       <lb/>was by their means that he execut-
+       <lb break="no"/>ed whatever good or bad action he 
+       <lb/>wished to accomplish. The ne-
+       <lb break="no"/>groes are accustomed also to exer-
+       <lb break="no"/>cise the hospitable virtues with the 
+       <lb/>most religious care, and to partake 
+       <lb/>of some food together when they 
+       <lb/>see one another after the shortest 
+       <lb/>absence. When <persName>Makandal</persName> was 
+       <lb/>desirous of destroying any one, he 
+       <lb/>engaged one of these pedlars who 
+       <lb/>was his friend, to present the per-
+       <lb break="no"/>son with some vegetables or some 
+       <lb/><seg xml:id="a021" corresp="#n021">fruit,</seg><note xml:id="n021" corresp="#a021">The French original reads “<quote>a fruit or a calaloo,</quote>” the latter a West Indian term for a number of greens used in cooking. The <bibl style="font­-style: italic">Literary Magazine and British Review</bibl> version gives this footnoted definition: “<quote>Soup which the negroes make of a kind of plant.</quote>”</note> which he said would occa-
+       <lb break="no"/>sion death to whoever tasted it. 
+       <lb/>The person, instead of imagining 
+       <lb/>that <persName>Makandal</persName> had poisoned the 
+       <lb/>fruit, trembled at the power of the 
+       <lb/><seg xml:id="a022" corresp="#n022">image</seg><note xml:id="n022" corresp="#a022">Here the original French “fétiche” is translated as “image.”</note> which he had on his stick, 
+       <lb/>and executed the orders of the pre-
+       <lb break="no"/>tended prophet, without daring to 
+       <lb/>speak to any one; the victim expir-
+       <lb break="no"/>ed, and the <seg xml:id="a023" corresp="#n023">prescience</seg><note xml:id="n023" corresp="#a023"><term style="font-style:italic">Prescience</term>: foreknowledge.</note> of <persName>Makan-
+         <lb break="no"/>dal</persName> was every where extolled.</p>
+     <p>
+       His friends always found in him 
+       <lb/>a formidable avenger, and his ri-
+       <lb break="no"/>vals, his faithless mistresses, and 
+       <lb/>above all, those who refused to 
+       <lb/>grant him favors, were sure to fall 
+       <lb/>a prey to his barbarity. But love, 
+       <lb/>which had favored him so much
+       <lb/>—love, for which he incessantly 
+       <lb/>committed crimes without num-
+       <lb break="no"/>ber, at length caused his destruc-
+       <pb/>
+       <lb break="no"/>tion, and brought him to <seg xml:id="a024" corresp="#n024">pu-
+         <lb break="no"/>nishment.</seg><note xml:id="n024" corresp="#a024">The French original reads “<quote>just punishment.</quote>”</note></p>
+     <p>
+       <persName>Makandal</persName> had with him two ac-
+       <lb break="no"/>complices, or assistants, who blind-
+       <lb break="no"/>ly devoted themselves to his ser-
+       <lb break="no"/>vice. One of them was named 
+       <persName>Teysselo</persName>, the other <seg xml:id="a025" corresp="#n025"><persName>Myombe</persName>;</seg><note xml:id="n025" corresp="#a025"><term style="font-style:italic"><persName>Teysselo</persName>, the other <persName>Myombe</persName></term>: <persName>Teysselo</persName> and <persName>Mayombé</persName> (as the names are spelled in the French original) were enslaved Africans (perhaps from <placeName>West or Central Africa</placeName>) who were captured and executed alongside <persName>Makandal</persName>, and believed by the French to be his chief co-conspirators.</note> and 
+       <lb/>it is very probable that they alone 
+       <lb/>were in part acquainted with the 
+       <lb/>secret means which he employed 
+       <lb/>to make himself feared and re-
+       <lb break="no"/>spected.</p>
+     <p>
+       It was generally to the highest 
+       <lb/>mountains of <seg xml:id="a026" corresp="#n026"><placeName>Margaux</placeName></seg><note xml:id="n026" corresp="#a026">The French original reads “<quote><placeName>Margaux</placeName> &amp; le <placeName>Liubé</placeName>,</quote>” the latter seemingly a misprint for <placeName>Limbé</placeName>. <placeName>Limbé</placeName> (<term style="font-style:italic"><placeName>Lenbe</placeName></term> in Haitian Kreyol) and <placeName>Port-Margot</placeName> (<term style="font-style:italic"><placeName>Pò Mago</placeName></term>) are in the hills to the southwest of <placeName>Cap-Haïtien</placeName>."</note> that he re-
+       <lb break="no"/>tired in the day time, and there, with 
+       <lb/>these two chiefs, he assembled a 
+       <lb/>number of maroons. Upon the 
+       <lb/>summit of the mountains, almost 
+       <lb/>inaccessible, they had their wives 
+       <lb/>and children, with well cultivated 
+       <lb/>plantations; and armed troops of 
+       <lb/>these plunderers came down 
+       <lb/>sometimes under the command of 
+       <lb/><persName>Makandal</persName>, to spread terror and 
+       <lb/>devastation through the neighbor-
+       <lb break="no"/>ing plantations, or to exterminate 
+       <lb/>those who had disobeyed the pro-
+       <lb break="no"/>phet.</p>
+     <p>
+       Besides this, he had gained over 
+       <lb/>several young negroes, who were 
+       <lb/>able to give him an account of 
+       <lb/>whatever passed upon the planta-
+       <lb break="no"/>tions to which they belonged, and 
+       <lb/>among the number was <persName>Senegal 
+         <lb/>Zami</persName>, aged eighteen, beautiful in 
+       <cb/>
+       <lb/>shape as the <seg xml:id="a027" corresp="#n027">Apollo of the Belvidere</seg><note xml:id="n027" corresp="#a027"><term style="font-style:italic">Apollo of the Belvidere</term>: also called the Pythian Apollo, a celebrated marble sculpture from classical antiquity. By the mid-18C it was considered the greatest ancient sculpture by ardent neoclassicists.</note> 
+       <lb/>and full of spirit and courage.</p>
+     <p>
+       One Sunday, <persName>Zami</persName> having gone 
+       <lb/>to an <seg xml:id="a028" corresp="#n028">entertainment,</seg><note xml:id="n028" corresp="#a028">The French original again uses the term “Calenda” for what is translated as “entertainment.”</note> which was 
+       <lb/>given at a plantation at the distance 
+       <lb/>of three leagues from that of his 
+       <lb/>master, saw on his arrival, that the 
+       <lb/>dancing was begun. A number 
+       <lb/>of slaves, who stood in a ring, were 
+       <lb/>beholding, with transports of plea-
+       <lb break="no"/>sure and admiration, a young fe-
+       <lb break="no"/>male of <placeName>Congo</placeName>, named <persName>Samba</persName>, 
+       <lb/>who danced with delightful grace, 
+       <lb/>and who, to enchanting looks, 
+       <lb/>united the most engaging and timid 
+       <lb/>modesty. Her figure was elegant, 
+       <lb/>and in her motions, which were 
+       <lb/>graceful and nimble, she resembled 
+       <lb/>the tender and flexible reed, agitated 
+       <lb/>by the freshening breeze.—Her 
+       <lb/>sparking eyes, half concealed by 
+       <lb/>long eyelids, shot forth <seg xml:id="a029" corresp="#n029">killing 
+         <lb/>glances;</seg><note xml:id="n029" corresp="#a029">“Killing glances” is not in the French original.</note> the whiteness of her teeth 
+       <lb/>exceeded that of snow, and her 
+       <lb/>complexion, as black as ebony, still 
+       <lb/>added to her incomparable charms. 
+       <lb/>No sooner had <persName>Zami</persName> beheld her, 
+       <lb/>than he felt in his bosom the first 
+       <lb/>impressions of love. At the same 
+       <lb/>instance chance directed the beauti-
+       <lb break="no"/>ful eyes of <persName>Samba</persName> towards <persName>Zami</persName>, 
+       <lb/>and she was wounded by the same 
+       <lb/>dart which had just pierced the heart 
+       <lb/>of the young negro.</p>
+   
+     <trailer style="font-style:italic;text-align:center">(To be continued.)</trailer>
+      </body>
+    </text>
+    
+    <text corresp="#15585.02">
+      <body>
+<p>       
+       WHEN the dance was ended, 
+       <lb/>these lovers sought each 
+  <lb/>other’s company, and enjoyed a 
+  <lb/>few happy moments together; and 
+  <lb/>when they were obliged to separate, 
+  <lb/>they promised to visit one another 
+  <lb/>as often as they possibly could. La-
+  <lb break="no"/>bor employed each of them dur-
+  <lb break="no"/>ing the day; but when the sun sunk 
+  <lb/>below the horizon, they met at a 
+  <lb/>private place, where, amidst a grove 
+  <lb/>of odoriferous orange trees, on the 
+  <lb/>turf, ever crowned with <seg xml:id="a030" corresp="#n030">verdure,</seg><note xml:id="n030" corresp="#a030"><term style="font-style:italic">Verdure</term>: lush green vegetation.</note> 
+  <lb/>under a serene sky, never obscur-
+  <lb break="no"/>ed by clouds, in the presence of 
+  <lb/>the <seg xml:id="a031" corresp="#n031">sparkling orbs of heaven,</seg><note xml:id="n031" corresp="#a031"><term style="font-style:italic">Sparkling orbs of heaven</term>:the stars.</note> and 
+  <lb/>favored by the silence of night, 
+  <lb/>they renewed the ardent testimo-
+  <lb break="no"/>nies of their affection, and comfort-
+  <lb break="no"/>ed each other, by the tenderest ca-
+  <lb break="no"/>resses, for the necessity to which 
+  <lb/>their situation reduced them, of se-
+  <lb break="no"/>parating before returning <seg xml:id="a032" corresp="#n032">Aurora</seg><note xml:id="n032" corresp="#a032"><term style="font-style:italic">Aurora</term>: the dawn of the sun.</note>
+  <lb/>should gild the skies.</p>
+       <p>
+       This happiness continued for 
+       <lb/>near six months, when <persName>Samba</persName> per-
+         <lb break="no"/>ceived that she was about to become 
+         <lb/>a mother. It would be impossible 
+         <lb/>to describe <persName>Zami’s</persName> joy when he 
+         <lb/>heard this <seg xml:id="a033" corresp="#n033">news.</seg><note xml:id="n033" corresp="#a033">Here the French original reads as follows: “<quote>It is not when one starts to become familiar with one’s mistress [maitresse] that one loves her the most; it is not even when she gives us the first proofs of her tenderness, but rather when she carries on her breast a pledge [gage] of our love. It then seems that she is going to double our being. She becomes a thousand times more dear &amp; more precious. We quake at the tiniest danger that menaces her. Her slightest discomforts are for us the cruelest pains, &amp; her simplest joys our delights.</quote>” This is the largest body of original text removed from the <bibl style="font­-style: italic">LMBR</bibl> version.</note> He was still in 
+         <lb/>the delirium of his intoxication, 
+         <lb/>when, on quitting <persName>Samba</persName>, at the 
+         <lb/>break of day, and entering his hut, 
+         <lb/>he found <persName>Makandal</persName>, who was wait-
+         <lb break="no"/>ing for him. <persName>Makandal</persName>, who was 
+         <lb/>ignorant of <persName>Zami’s</persName> passion and 
+         <lb/>good fortune, addressed him in the 
+         <lb/>following manner:</p>
+       <p>
+       ‘<persName>Zami</persName>, you know the formidable 
+         <lb/>power of my <seg xml:id="a034" corresp="#n034">image.</seg><note xml:id="n034" corresp="#a034">Again, the French version uses “fétiche” here.</note> Rejoice, then, 
+         <lb/>that you have found grace in its 
+         <lb/>sight, and that you have merited 
+         <lb/>its confidence. Go to such a plan-
+         <lb break="no"/>tation, seek for the beautiful <persName>Samba</persName>, 
+         <lb/>who has hitherto disdained the vows 
+         <lb/>of all her admirers, and who, for 
+         <lb/>more than a year, has mortified me 
+         <cb/>
+         <lb/>with continued refusals. Ask her 
+         <lb/>to partake of some refreshment 
+         <lb/>with you, and when she is about to 
+         <lb/>eat, dexterously put this powder in-
+         <lb break="no"/>to her <emph style="font-style: italic">calilou</emph>. It will deprive <persName>Sam-
+           <lb break="no"/>ba</persName> of <seg xml:id="a035" corresp="#n035">life.</seg><note xml:id="n035" corresp="#a035">In the French original, this paragraph concludes with the following sentence: “<quote>At the same time, he handed <persName>Zami</persName> a piece of banana leaf containing the deadly powder.</quote>”</note> </p>
+       <p>
+       <persName>Zami</persName>, struck with these words, 
+         <lb/>threw himself at the feet of <persName>Ma-
+         <lb break="no"/>kandal</persName>, and bursting into tears, 
+         <lb/>said, ‘O! <persName>Makandal</persName>, why shouldest 
+         <lb/>thou require me to sacrifice to thy 
+         <lb/>vengeance the most perfect beau-
+         <lb break="no"/>ty, and the purest heart that can 
+         <lb/>honor <seg xml:id="a036" corresp="#n036">our country?</seg><note xml:id="n036" corresp="#a036">While “our country” suggests something akin to a nation or homeland, the French original uses the word “climats,” which is closer to “our regions.”</note> Know that 
+         <lb/>I adore <persName>Samba</persName>; and that I am 
+         <lb/>tenderly beloved by her, and that 
+         <lb/>her love will soon give the unfor-
+         <lb break="no"/>tunate <persName>Zami</persName> a title to the appella-
+         <lb break="no"/>tion of father.’</p>
+       <p>
+       Whilst he was uttering these 
+       <lb/>words, he embraced the knees of 
+         <lb/>the ferocious <persName>Makandal</persName>, who, fired 
+         <lb/>with indignation at seeing a hap-
+         <lb break="no"/>py rival, had drawn his cutlass, 
+         <lb/>and would have doubtless sacrific-
+         <lb break="no"/>ed him to his vengeance, had he 
+         <lb/>not heard the voices of some Eu-
+         <lb break="no"/>ropeans, who were calling the 
+         <lb/>slaves to their labor. He had 
+         <lb/>time, therefore, only to save him-
+         <lb break="no"/>self with precipitation, and, with-
+         <lb break="no"/>out reflecting on the consequen-
+         <lb break="no"/>ces, left the poisonous powder in 
+         <lb/>the hands of <persName>Zami</persName>.</p>
+       <p>
+       <persName>Zami</persName> immediately resolved to 
+         <lb/>make a full discovery to the over-
+         <lb break="no"/>seer; but he still feared <persName>Makandal</persName>, 
+         <lb/>whose <seg xml:id="a037" corresp="#n037">image</seg><note xml:id="n037" corresp="#a037">Fetish in the original.</note> he dreaded, and on 
+         <lb/>that account he thought it prudent 
+         <lb/>to be silent.</p>
+       <p>
+       The day appeared to him to be 
+       <lb/>insupportably long. He was op-
+         <lb break="no"/>pressed with sadness and uneasi-
+         <lb break="no"/>ness; but, at length, when his 
+         <lb/>labor was ended, he flew to meet 
+         <lb/>his beloved <persName>Samba</persName>, and repaired 
+         <lb/>to the orange grove.</p>
+       <pb/>
+       <p>
+       <persName>Samba</persName> had not yet arrived. Her 
+         <lb/>lover waited a long time with 
+         <lb/>inexpressible impatience, agitated 
+         <lb/>between hope and fear. Every 
+         <lb/>moment he imagined he heard the 
+         <lb/>sound of steps; the least noise, 
+         <lb/>the slightest agitation of the trees 
+         <lb/>heightened his illusion, and made his 
+         <lb/>heart beat with joy. But perceiv-
+         <lb break="no"/>ing that the hour of appointment 
+         <lb/>was passed, the most dismal fore-
+         <lb break="no"/>bodings took possession of his soul; 
+         <lb/>he gave himself up to the most ter-
+         <lb break="no"/>rible conjectures, and he at length 
+         <lb/>lost all hopes of seeing the dear ob-
+         <lb break="no"/>ject of his love, when <seg xml:id="a038" corresp="#n038">the great 
+           <lb/>bear</seg><note xml:id="n038" corresp="#a038">The French reads “<quote>le char de la grande ourse,</quote>” the Chariot of the Great Bear, a constellation including but extending beyond what is often called the Big Dipper in English.</note> announced it was mid-
+         <lb break="no"/>night. Stimulated by impatience, he 
+         <lb/>hastened to the habitation of <persName>Sam-
+           <lb break="no"/>ba</persName>; the fear of alarming a strange 
+         <lb/>plantation did not repress his <seg xml:id="a039" corresp="#n039">ar-
+           <lb break="no"/>dor,</seg><note xml:id="n039" corresp="#a039"><term style="font-style:italic">Ardor</term>: passion.</note> and he could no longer delay 
+         <lb/>to inform himself what had be-
+         <lb break="no"/>come of his mistress.</p>
+       <p>
+       But who can describe the terror, 
+       <lb/>the grief, and the despair of the 
+         <lb/>unfortunate <persName>Zami</persName>, when, on ap-
+         <lb break="no"/>proaching the hut of his adored 
+         <lb/><persName>Samba</persName>, he heard the lamentations 
+         <lb/>of several negro women. He en-
+         <lb break="no"/>tered, and beheld <persName>Samba</persName> stretched 
+         <lb/>out on a mat; he threw himself 
+         <lb/>towards her, upon which, lifting 
+         <lb/>up her dying eyes, she stretched 
+         <lb/>out her hand and expired, pro-
+         <lb break="no"/>nouncing the name of <persName>Zami</persName>.</p>
+       <p>
+       <persName>Zami</persName> fell motionless by her side; 
+         <lb/>he was carried away senseless, and 
+         <lb/>was not informed till next morn-
+         <lb break="no"/>ing that a female negro <seg xml:id="a040" corresp="#n040">hawker</seg><note xml:id="n040" corresp="#a040"><term style="font-style:italic">Hawker</term>: peddler; the French uses the term “pacotilleuse,” the feminine version of pacotilleur (see note 20).</note> had 
+         <lb/>been on the plantation, and had 
+         <lb/>dined with <persName>Samba</persName>. He then <seg xml:id="a041" corresp="#n041">dis-
+           <lb break="no"/>covered</seg><note xml:id="n041" corresp="#a041"><term style="font-style:italic">Discovered</term>: revealed.</note> what he knew of <persName>Makan-
+           <lb break="no"/>dal’s</persName> design, and he shewed the 
+         <lb/>powder, which a chemist at <placeName>Cape 
+           <lb/>François</placeName> examined, and found to 
+         <lb/>be violent poison.</p>
+       <p>
+       It was then suspected what had 
+       <lb/>been the cause of an immense num-
+         <lb break="no"/>ber of sudden deaths which hap-
+         <lb break="no"/>pened among the negroes. People 
+         <cb/>
+         <lb/>shudder at the thoughts of the dan-
+         <lb break="no"/>ger which threatened the whole co-
+         <lb break="no"/>lony: the officers of <seg xml:id="a042" corresp="#n042">justice</seg><note xml:id="n042" corresp="#a042">The French term here is “Maréchaussées,” close to the English marshals, and the term for some French police. According to <persName>Stewart R. King</persName>, the “maréchaussées” of <placeName>Saint-Domingue</placeName> were all of African origin by <date when="1733">1733</date>, and their primary responsibility was policing the enslaved population. See <bibl>“The maréchaussée of <placeName>Saint-Domingue</placeName>: Balancing the Ancien Régime and Modernity”</bibl> (<bibl style="font­-style: italic">Journal of Colonialism and Colonial History</bibl> 5.2, <date when="2004">2004</date>).</note> were 
+         <lb/>dispersed throughout the country 
+         <lb/>to seize <persName>Makandal</persName>, but they des-
+         <lb break="no"/>paired of being able to succeed, 
+         <lb/>when <persName>Zami</persName> offered to secure him.</p>
+       <p>
+       He armed himself only with a 
+       <lb/>club made of the wood of the guava 
+         <lb/>tree, and lay hid to watch him in a 
+         <lb/>narrow pass of the mountain to 
+         <lb/>which <persName>Makandal</persName> had retired.—
+         <lb/>There he waited for five days, but 
+         <lb/>on the sixth, before the dawn of 
+         <lb/>day, he heard him marching along 
+         <lb/>with two or three other maroons. 
+         <lb/><persName>Zami</persName> immediately starting up, 
+         <lb/>knocked down <persName>Makandal’s</persName> two 
+         <lb/>companions. <persName>Makandal</persName> drew his 
+         <lb/>cutlass to make a stroke at <persName>Zami</persName>, 
+         <lb/>who, with a blow of his club, 
+         <lb/>made him drop it from his <seg xml:id="a043" corresp="#n043">hand,</seg><note xml:id="n043" corresp="#a043">The French includes the following clause: “<quote>and knocked him [<persName>Makandal</persName>] to the ground himself.</quote>”</note> 
+         <lb/>and immediately rushing upon 
+         <lb/>him, held him fast, and having ti-
+         <lb break="no"/>ed his hands behind his back with 
+         <lb/>his long girdle, conducted him to 
+         <lb/><placeName>the Cape</placeName>.</p>
+       <p>
+       Some of <persName>Makandal’s</persName> accompli-
+         <lb break="no"/>ces were arrested also, and when 
+         <lb/>put to the rack, confessed the se-
+         <lb break="no"/>cret of the poison. They did 
+         <lb/>more—they declared that <persName>Makan-
+           <lb break="no"/>dal’s</persName> intention was to destroy pri-
+         <lb break="no"/>vately the greater part of the plan-
+         <lb break="no"/>ters, or to ruin them, by poison-
+         <lb break="no"/>ing all their slaves who appeared 
+         <lb/>to be attached to them; and last-
+         <lb break="no"/>ly to exterminate the whole race of 
+         <lb/>white men by a general massacre 
+         <lb/>which would render him the deli-
+         <lb break="no"/>verer and sovereign of the whole 
+         <lb/>island. The truth of this dread-
+         <lb break="no"/>ful conspiracy was confirmed by 
+         <lb/>the evidence of several other con-
+         <lb break="no"/>fidants of <seg xml:id="a044" corresp="#n044"><persName>Makandal</persName>;</seg><note xml:id="n044" corresp="#a044">In the French original, this paragraph begins: “<quote>Among the accomplices of <persName>Makandal</persName>, <persName>Teysselo</persName> &amp; Mayombé were also arrested and under torture confessed the secret of the poisons.</quote>” The sentences about the broader conspiracy appear to have been added in <date when="1789">1789</date> in the version published in the <bibl style="font­-style: italic">LMBR</bibl>.</note> but he him-
+         <lb break="no"/>self would never confess any 
+         <lb/>thing; he retained his audacity 
+         <lb/>and fanaticism even in the midst 
+         <lb/>of the flames. He declared haught-
+         <lb break="no"/>ily from the top of the pile, that 
+         <lb/>the fire would respect his body; 
+         <pb/>
+         <lb/>that instead of dying, he would 
+         <lb/>only change his form; and that 
+         <lb/>he would always remain in the 
+         <lb/>island, either as a large knat, bird, 
+         <lb/>or a serpent, to protect his <seg xml:id="a045" corresp="#n045">nation.</seg><note xml:id="n045" corresp="#a045">This sentence was also added to the English translation. <term style="font-style:italic">Knat</term>: gnat.</note> 
+         <lb/>His discourse made the ignorant 
+         <lb/>negroes believe that his <seg xml:id="a046" corresp="#n046">image</seg><note xml:id="n046" corresp="#a046">Again, fetish in the original.</note>
+         <lb/>would save him; a singular cir-
+         <lb break="no"/>cumstance appeared even for a 
+         <lb/>moment to favor such an opini-
+         <lb break="no"/>on. A post had been driven in-
+         <lb break="no"/>to the earth, around which a pile 
+         <lb/>of <seg xml:id="a047" corresp="#n047">faggots</seg><note xml:id="n047" corresp="#a047"><term style="font-style:italic">Faggots</term>: bundles of sticks, kindling.</note> was raised, and <persName>Ma-
+           <lb break="no"/>kandal</persName> was fixed to the stake by 
+         <lb/>means of a wooden collar. The 
+         <lb/>efforts which he made when fire 
+         <lb/>was put to the pile were so violent 
+         <lb/>that he tore up the stake, and 
+         <lb/>walked ten or twelve paces with it 
+         <lb/>in the midst of the spectators. All 
+         <lb/>the negroes immediately cried out, 
+         <cb/>
+         <lb/>a miracle! but a soldier who hap-
+         <lb break="no"/>pened to be near, soon shewed by 
+         <lb/>a stroke of his sabre, that he was 
+         <lb/>more powerful than the pretended 
+         <lb/>prophet; and he was once more 
+         <lb/>thrown into the pile, where he 
+         <lb/>suffered the punishment which he 
+         <lb/>so justly <seg xml:id="a048" corresp="#n048">deserved.</seg><note xml:id="n048" corresp="#a048"><term style="font-style:italic">. . . where he suffered the punishment which he so justly deserved.</term>This concluding clause was also added in the <date when="1789">1789</date> British version, as was the next small paragraph about poisonings in <placeName>St. Domingo</placeName>.</note></p>
+       <p>
+       Such was the origin of the de-
+         <lb break="no"/>vastations occasioned by poison in 
+         <lb/>the island of <placeName>St. Domingo</placeName>, where 
+         <lb/>such practices are become more 
+         <lb/>rare, thought they are not yet en-
+         <lb break="no"/>tirely eradicated.</p>
+       <p>
+       As for <persName>Zami</persName>, when he had a-
+         <lb break="no"/>venged the unfortunate <persName>Samba</persName>, he 
+         <lb/>put himself to death, in hopes of 
+         <lb/>meeting with a lover, without 
+         <lb/>whom he considered life as an in-
+         <lb break="no"/>supportable burden.</p>
+      
+      </body>
+    </text>
+  </text>
+</TEI>

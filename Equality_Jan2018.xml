@@ -1,0 +1,2260 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:svg="http://www.w3.org/2000/svg"
+	xmlns:math="http://www.w3.org/1998/Math/MathML"
+	xmlns="http://www.tei-c.org/ns/1.0"
+	xmlns:html="http://www.w3.org/1999/xhtml">
+<teiHeader>
+   <fileDesc>
+     <titleStmt>
+       <title>Equality—A Political Romance</title>
+     </titleStmt>
+     <publicationStmt>
+     	<p>Published by the American Antiquarian Society's Just Teach One Initiative.</p>
+     </publicationStmt>
+   	<sourceDesc xml:id="975">
+   		<biblStruct>
+   			<monogr>
+   			  <author>
+   			    <persName>Anonymous</persName>
+   			  </author>
+   			  <title>Equality—A Political Romance</title>
+   			  <ref type="catalog-url">http://catalog.mwa.org/vwebv/holdingsInfo?bibId=975</ref>
+   			  <idno type="aas">975</idno>
+   			  <imprint>
+   			    <pubPlace>
+   			      <bibl style="font­-style: italic">Equality</bibl>, published in the <bibl style="font­-style: italic">Temple of Reason</bibl>, <date when="1802-05-15">May 15</date> to <date when="1802-07-03">July 3, 1802</date>
+   			    <placeName>Philadelphia</placeName>
+   			    </pubPlace>
+   			    <publisher>
+   			    </publisher>
+   			  </imprint>
+   			  </monogr>
+   		</biblStruct>
+   	</sourceDesc>
+    
+     <sourceDesc xml:id="975.01">
+       <biblStruct>
+         <monogr>
+           <title>Equality—A Political Romance</title>
+           <idno type="aas">975</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               Temple of Reason
+             </publisher>
+             <date when="1802-05-15"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume II, Number 16</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     <sourceDesc xml:id="975.02">
+       <biblStruct>
+         <monogr>
+           <title>Equality—A Political Romance</title>
+           <idno type="aas">975</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               Temple of Reason
+             </publisher>
+             <date when="1802-05-22"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume II, Number 17</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     <sourceDesc xml:id="975.03">
+       <biblStruct>
+         <monogr>
+           <title>Equality—A Political Romance</title>
+           <idno type="aas">975</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               Temple of Reason
+             </publisher>
+             <date when="1802-05-29"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume II, Number 18</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     <sourceDesc xml:id="975.04">
+       <biblStruct>
+         <monogr>
+           <title>Equality—A Political Romance</title>
+           <idno type="aas">975</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               Temple of Reason
+             </publisher>
+             <date when="1802-06-05"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume II, Number 19</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     <sourceDesc xml:id="975.05">
+       <biblStruct>
+         <monogr>
+           <title>Equality—A Political Romance</title>
+           <idno type="aas">975</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               Temple of Reason
+             </publisher>
+             <date when="1802-06-12"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume II, Number 20</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     <sourceDesc xml:id="975.06">
+       <biblStruct>
+         <monogr>
+           <title>Equality—A Political Romance</title>
+           <idno type="aas">975</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               Temple of Reason
+             </publisher>
+             <date when="1802-06-19"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume II, Number 21</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     <sourceDesc xml:id="975.07">
+       <biblStruct>
+         <monogr>
+           <title>Equality—A Political Romance</title>
+           <idno type="aas">975</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               Temple of Reason
+             </publisher>
+             <date when="1802-06-26"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume II, Number 22</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     <sourceDesc xml:id="975.08">
+       <biblStruct>
+         <monogr>
+           <title>Equality—A Political Romance</title>
+           <idno type="aas">975</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               Temple of Reason
+             </publisher>
+             <date when="1802-07-03"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume II, Number 23</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+    
+   </fileDesc>
+ </teiHeader>
+  <text corresp="#975">
+  <front>
+   <pb/>
+    <docImprint style="text-transform:none">
+      <docDate when="1802">1802</docDate></docImprint>
+   </front>
+    
+    <group>
+      <text corresp="#975.01">
+  <body>
+     <p>
+       <seg xml:id="a001" corresp="#n001">A</seg><note xml:id="n001" corresp="#a001">
+         The following introduction, dedication, and preface, appearing in the <date when="1802-05-15">May 15, 1802</date> issue of <bibl style="font­-style: roman">The Temple of Reason</bibl>, announced the serialization of <bibl style="font­-style: italic">Equality</bibl> in subsequent issues.</note> 
+       captain of a vessel has politely favoured us with a manu-
+       <lb break="no"/>script, found among the papers of a gentleman who died at sea, 
+       <lb/>and which we have titled, <bibl style="font­-style: italic">Equality a Political Romance</bibl>. We 
+       <lb break="no"/>shall continue it in each successive number till the whole is laid 
+       <lb/>before the public; and then, if a subscription can be obtained 
+       <lb/>for 500 copies, at a price not exceeding half a dollar, it will be 
+       <lb/><seg xml:id="a002" corresp="#n002">printed in a pamphlet by itself.</seg><note xml:id="n002" corresp="#a002"><term style="font-style: italic">Printed in a pamphlet by itself</term>: this printing never happened; <bibl style="font­-style: italic">Equality</bibl> was not published as a standalone pamphlet until the <date when="1837">1837</date> reprint discussed above.</note> For the present we shall con-
+       <lb break="no"/>tent ourselves with publishing only the dedication and the au-
+       <lb break="no"/>thor's preface.
+     </p>
+     <p>
+       <head style="font-style:italic">DEDICATION.</head>
+     </p>
+     <floatingText>
+       <body>
+         <opener><salute><hi rend="italic">To <seg xml:id="a003" corresp="#n003"><persName>Dr. Reynolds</persName></seg>,</hi><note xml:id="n003" corresp="#a003"><hi rend="italic"><persName>Dr. Reynolds</persName></hi>: see the introductory note <ref type="resource-url">http://jto.common-place.org/just-teach-one-homepage/equality-a-political-romance-1802/</ref>.</note>
+           <lb/>SIR,</salute></opener>
+         <p>
+       As you are the only person known to us, who has visited the 
+       <lb/>country of <placeName>Lithconia</placeName>, we beg you will take the following work 
+           <lb/>more immediately under your protection, as we are certain you 
+           <lb/>can, better than any other man, vouch for its authenticity. Se-
+           <lb break="no"/>veral great travellers, with whom we have conversed on the sub-
+           <lb break="no"/>ject, have assured us that there is no such place on the maps; 
+           <lb/>and that consequently there is no such place on the earth; but 
+           <lb/>as we can make no such deduction, and are inclined to trust to 
+           <lb/>the captain'’s veracity, we would refer those that are sceptically 
+           <lb/>inclined to read some of the former numbers of the Temple, 
+           <lb/>where it is demonstrated that in large seas the water does not 
+           <lb/>freeze, even under the Pole. We should not, therefore, be 
+           <lb/>surprised, if the island where equality reigns be not some where 
+           <lb/>there abouts: be that as it may, it is certain, that if there be not 
+           <lb/>such an island, it is possible there will be, some time or other.
+         </p>
+         <closer>We are your obliged friends,
+         <signed>THE EDITORS.</signed>.</closer>
+       </body>
+     </floatingText>
+        
+       <p>
+         <head>PREFACE.</head>
+       </p>
+       <p>
+       IT has been said, that the man who could find out the means 
+       <lb/>of making two blades of grass, or ears of corn, grow where 
+         <lb/>there was only one, would deserve the gratitude and thanks of 
+         <lb/><seg xml:id="a004" corresp="#n004">mankind:</seg><note xml:id="n004" corresp="#a004"><term style="font-style: italic">It has been said . . .</term>: In <persName>Jonathan Swift’s</persName> <bibl style="font­-style: italic">Gulliver’s Travels</bibl> (<date when="1726">1726</date>), the king of <placeName>Brobdingnag</placeName> tells <persName>Gulliver</persName>, “that whoever could make two ears of corn, or two blades of grass, to grow upon a spot of ground where only one grew before, would deserve better of mankind, and do more essential service to his country, than the whole race of politicians put together.”</note> so it may, with equal truth, be asserted, that he who 
+         <lb/>should be able to shew the manner of multiplying human enjoy-
+         <lb break="no"/>ments would deserve well of the human race. The <term style="font-style: italic">summum 
+           <lb/>bonum</term>, like the <seg xml:id="a005" corresp="#n005">philosophers stone,</seg><note xml:id="n005" corresp="#a005"><term style="font-style: italic">Summum bonum</term>: the highest good; <term style="font-style: italic">Philosophers Stone</term>: a substance believed to have special alchemical properties which could transform inexpensive metals into gold.</note> has been long sought for 
+         <lb/>without being found. The only approach that has been made 
+         <lb/>towards the discovery has been in the form of governments. 
+         <lb/>A few are happy, or at least have sufficient enjoyment, under 
+         <lb/>every possible form; but that is the most desirable, and what we 
+         <lb/>should seek after with assiduity, which would diffuse enjoyments, 
+         <lb/>rational and substantial enjoyments, among the greatest number 
+         <lb/>of citizens. Men have some enjoyments which are founded in 
+         <lb/>nature, and others that are factitious or imaginary. If we take 
+         <pb/>
+         <lb/>up those only which nature holds out, endeavour to multiply 
+         <lb/>them, and make them common to the human race, we are then 
+         <lb/>doing the greatest possible good. Friendship, love, and a well-
+         <lb/>regulated industry, are blessings which might amply compensate 
+         <lb/>for all the evils which flesh is heir to, if we were suffered to en-
+         <lb break="no"/>joy them: but friendship is poisoned by self-interest and worldly 
+         <lb/>pursuits—love loses its charms by restraint, and the fatal conse-
+         <lb break="no"/>quences flowing from illicit amours, and industry has been no 
+         <lb/>where well regulated. Why should love ever be illicit? Nature 
+         <lb/>is continually inviting us to the feast of love, while men are 
+         <lb/>as sedulously pushing each other from the banquet: and is it not 
+         <lb/>possible to prevent jarring interests from cutting the bands of 
+         <lb/>friendship? If the construction of our political association be 
+         <lb/>unfavorable to these enjoyments, in vain may we seek for the 
+         <lb/>blessings of life. A society where friendships are with difficulty 
+         <lb/>formed or retained, where love brings only a train of evils as, 
+         <lb/>in some instances, a numerous family, in others disease and in-
+         <lb break="no"/>famy, and where industry is wound up to oppression, can never 
+         <lb/>be on a good construction. There may be abundance of wealth, 
+         <lb/>but not much enjoyment. Is it living, to exist without friend-
+         <lb break="no"/>ship? Is life worth the possessing, without love? <choice><orig>Does</orig><reg>Do</reg></choice> men en-
+         <lb break="no"/>joy themselves in either idleness or slavery? No: These are 
+         <lb/>what we are always seeking after, but on finding that they elude 
+         <lb/>our grasp, we lay the fault on the construction of the universe 
+         <lb/>and the God of nature, when it is only in the folly of human 
+         <lb/>institutions. Whatever is within the power of man, either as 
+         <lb/>an individual or associated, would be folly to expect from the 
+         <lb/>gods. Man must seek for resources in his own mind, when 
+         <lb/>that fails, it is sufficient time to apply to heaven for assistance.—
+         <lb/>Inferior animals, without reason, or having very little, are formed 
+         <lb/>in the perfection of their nature: but man, being endowed with 
+         <lb/>reason, is furnished only with the materials of perfection, it is his 
+         <lb/>duty to work upon these materials; and it is for this reason that 
+         <lb/>his affections are carried forward to millions of generations yet 
+         <lb/>unborn, and that he feels a pleasure in being able to contribute 
+         <lb/>his mite to their enjoyment. Next to the utility of multiply-
+         <lb break="no"/>ing the means of human enjoyment, is the endeavor to root out 
+         <lb/>the malevolent passions, or remove their causes. Hatred, jea-
+         <lb break="no"/>lousy, pride, revenge, have their origin also in the imperfection 
+         <lb/>of the social compact—We are all subject to these passions when 
+         <lb/>placed in certain circumstances, and if by the constitution of 
+         <lb/>society these circumstances are often recurring, we begin to 
+         <lb/>think these passions are so implanted in our nature, that it is im-
+         <lb break="no"/>possible to avoid them. The doctrine of waging an eternal 
+         <lb/>warfare against the passions has not been successful; we would 
+         <lb/>rather remove their causes than enter into such a conflict. One 
+         <lb/>nation has obtained the character of being proud, another of 
+         <lb/>being jealous, a third of cherishing a spirit of revenge. It is 
+         <lb/>the same with individuals. What has given them this charac-
+         <lb break="no"/>ter, but the circumstances in which they have been respectively 
+         <lb/>placed, and the nature of their institutions. In order to make 
+         <lb/>an essential difference in the character of a nation, it must be 
+         <lb/>accomplished by an alteration in the laws of descent, in religion, 
+         <lb/>in the nature of the contract betwixt the sexes, or in the distri-
+         <lb break="no"/>bution of the political powers of the state. Where the laws 
+         <lb/>of descent divide the estates among the children, there can be no 
+         <lb/>family pride, and where there is no established religion, the 
+         <lb/>cause of hatred and animosity, which always reigns betwixt those 
+         <lb/>who hold opposite opinions, is totally removed. With respect to 
+         <lb/>marriage, or a contract between the sexes: sometimes it has been 
+         <lb/>a political and at other times a religious institution. Every 
+         <cb/>
+         <lb/>thing that religion has touched it has contaminated. Under the 
+         <lb/>specious pretext of giving purity to the conjugal embrace, the 
+         <lb/>most brutal and unnatural practices have been forced upon the peo-
+         <lb break="no"/>ple. In a city of 50,000 inhabitants there must be twelve thou-
+         <lb break="no"/>sand women capable of enjoying the pleasures of love; but, 
+         <lb/>how have they managed the matter? Six thousand, more by 
+         <lb/>chance than superior virtue, enjoy the sweets and sours of matri-
+         <lb break="no"/>mony: three thousand live in expectation, and three thousand, 
+         <lb/>as good as the rest, but more unfortunate, live in a state of 
+         <lb/>shameful prostitution, a disgrace (not to themselves) but to the 
+         <lb/>human understanding, for having so long neglected the most es-
+         <lb break="no"/>sential regulation in civil society, and for permitting the clergy 
+         <lb/>to intermeddle with it.  But those nations who have viewed the 
+         <lb/>contract betwixt the sexes in a political aspect, have not been 
+         <lb/>more successful in diffusing the blessing of love than the clergy, 
+         <lb/>and the reason is obvious: to multiply enjoyments, or destroy 
+         <lb/>malevolent passions, was not their object; they considered more 
+         <lb/>the bringing up of children and the population of the state, than 
+         <lb/>the happiness of the people; and they forced on the heads of 
+         <lb/>families obligations which nature sufficiently enforces without 
+         <lb/>the aid of human laws, without ever thinking of relieving them 
+         <lb/>from any public burden. Among the Christians there is only 
+         <lb/>one species of contract, that is, marriage with one woman for 
+         <lb/>life; and this is the reason there is so much prostitution. Among 
+         <lb/>the <seg xml:id="a006" corresp="#n006">Mahometans</seg><note xml:id="n006" corresp="#a006">Mahometans: Muslims.</note> there are several orders of wives, the children 
+         <lb/>of whom are <choice><sic>acknowled</sic><corr>acknowledged</corr></choice> by various rules—“<quote>It would be con-
+         <lb break="no"/>trary to reason (says <seg xml:id="a007" corresp="#n007"><persName><choice><sic>Montesqueu</sic><corr>Montesquieu</corr></choice></persName></seg><note xml:id="n007" corresp="#a007"><term style="font-style: italic"><persName>Montesquieu</persName></term>: The French political theorist <persName>Charles-Louis de Secondat, Baron de La Brède et de Montesquieu</persName> (<date when="1689">1689</date>-<date when="1755">1755</date>), best known for <bibl style="font­-style: italic">De l’Esprit des Loix</bibl> (<bibl style="font­-style: italic">The Spirit of the Laws</bibl>), popular in <placeName>Anglo-America</placeName>. The passage cited here appears in Book XXIII, “<quote>Of Laws in the Relation They Bear to the Number of Inhabitants.</quote>”</note>) that the law should stigma-
+         <lb break="no"/>tize the children for what it approved in the father,</quote>” and we 
+         <lb/>may add, it is a shame that women should be stigmatized, by cus-
+         <lb break="no"/>tom, for what is approved in a man. It would certainly be a 
+         <lb/>pleasing reflection, if the necessity for prostitution could be cut 
+         <lb/>off. It is a blot on the character of civilization and on repub-
+         <lb break="no"/>licanism, and shews, though much has been gained to the enjoy-
+         <lb break="no"/>ments of man, yet, in this respect, that is, in the pleasure of 
+         <lb/>love, we are yet <seg xml:id="a008" corresp="#n008">Goths and Vandals.</seg><note xml:id="n008" corresp="#a008"><term style="font-style: italic">Goths and Vandals</term>: two “barbaric” populations responsible for the collapse of classical Roman culture.</note>
+       </p>
+     <p>
+         If the laws of <placeName>Lithconia</placeName> will throw any light upon this 
+       <lb/>subject, it will be a sufficient recompence for all my trouble in 
+       <lb/>writing an account of their customs and manners.
+     </p>
+     <p>
+         That we have gained considerably by a better distribution of 
+         <lb/>the power of government cannot be denied. Institutions that 
+       <lb/>bent down the moral faculties of man are not now so sacred, and 
+       <lb/>may be touched with impunity; from this every thing may be 
+       <lb/>expected, as it opens to the human faculties a new career which 
+       <lb/>can only end in a state of perfect happiness.
+     </p>
+     <FloatingText><closer><signed>THE AUTHOR.</signed></closer></FloatingText>
+     <pb/>
+  </body>
+      </text>
+       
+      <text corresp="#975.02">
+        <body>
+         <p>
+           <seg xml:id="a009" corresp="#n009">IN</seg><note xml:id="n009" corresp="#a009">The following installment appeared in the <date when="1802-05-22">May 22, 1802</date> issue, under the heading “EQUALITY—A POLITICAL ROMANCE.”  While 19C reprintings added chapter breaks, all subsequent installments in <bibl style="font­-style: roman">The Temple of Reason</bibl> used the simple title heading, generally with “[Continued.]” as well.</note>
+             
+             those regions lately discovered by political philosophers, 
+     <lb/>there is an island, the singularity of whose government and man-
+           <lb break="no"/>ners deserves the attention of the curious, and the particular 
+           <lb/>notice of those who would wish to make discoveries in those 
+           <lb/>latitudes in time coming.
+         </p>
+         <p>
+     Having been engaged in exploring those seas where lie the 
+           <lb/>countries of <seg xml:id="a010" corresp="#n010"><placeName>Utopia</placeName>, <placeName>Brobdignag</placeName>, <placeName>Lilliput</placeName>,</seg><note xml:id="n010" corresp="#a010"><term style="font­-style: italic"><placeName>Utopia</placeName>, <placeName>Brobdignag</placeName>, <placeName>Lilliput</placeName></term>: <placeName><term style="font­-style: italic">Utopia</term></placeName> was the name of <persName>Thomas More’s</persName> <date when ="1516">1516</date> ideal society, and <placeName>Brobdignag</placeName> and <placeName>Lilliput</placeName> were fictional societies visited in <persName>Swift’s</persName> <bibl style="font­-style: italic">Gulliver’s Travels</bibl>.</note> &amp;c. and touching to 
+           <lb/>take in fresh water at an island, which I afterwards found to be 
+           <lb/>called <placeName>Lithconia</placeName>, I was so struck with the order and regularity 
+           <lb/>with which every thing was conducted, that I was resolved to 
+           <lb/>stay some time amongst them, to observe whether there was any 
+           <lb/>thing in their constitution or form of government, worthy of 
+           <lb/>being recorded for the instruction of our modern politicians.
+         </p>
+         <p>
+     For that purpose I prevailed upon the master of the vessel to 
+     <lb/>permit me to remain on the island, and call for me on his home-
+           <lb break="no"/>ward passage. This he readily agreed to, being equally curious 
+           <lb/>with myself to know some further particulars respecting a people 
+           <lb/>so apparently happy. As soon as I had packed up what necessaries 
+           <lb/>I supposed would be wanting, the boat was ordered to carry the 
+           <cb/>
+           <lb/>captain and myself on shore, he being willing to see what recep-
+           <lb break="no"/>tion I should meet with from the natives, upon their being ac-
+           <lb break="no"/>quainted with my intention of staying among them. It was 
+           <lb/>about four o’clock P. M. A great number of the people came 
+           <lb/>down to meet us on the beach: I was surprised that there should 
+           <lb/>be more this time than ever I had seen before, at any of our 
+           <lb/>former landings: but I afterwards found that it was past their 
+           <lb/>hour of labour, and that they were then beginning their sports 
+           <lb/>and pastimes, as is their custom, every day in fine weather, after 
+           <lb/>the hour of four o’clock. 
+         </p>
+         <p>
+     We immediately informed them of my intention, upon which 
+     <lb/>I was conducted to a man, who seemed to be past the prime of 
+           <lb/>life, but active, healthy and robust. His first enquiry was, how 
+           <lb/>I intended to employ myself during my residence on the island? 
+           <lb/>I informed him, that I wished to travel, and visit the principal 
+           <lb/>towns and villages, in order to make such observations on the 
+           <lb/>manners, customs, and laws of the people, as my time and abili-
+           <lb break="no"/>ties would permit.—When the elder understood this, he let me 
+           <lb/>know the impracticability of my scheme, by reason of my not 
+           <lb/>being furnished with those marks or signs, by which alone I 
+           <lb/>could obtain provisions on my journey. These signs I immedi-
+           <lb break="no"/>ately supposed to be money; upon which I drew out my purse 
+           <lb/>and shewed him an hundred guineas, which I imagined would 
+           <lb/>be a sufficient passport to every town in the island, at least, for 
+           <lb/>the short time I had to stay. He smiled at my simplicity; and, 
+           <lb/>at the same time, gave me to understand, that such pieces of 
+           <lb/>metal would be of no service to me in the country of <placeName>Lith-
+           <lb break="no"/>conia</placeName>. But the good man, when he saw my disappointment 
+           <lb/>and embarrassment, bid me have comfort, for that I surely would 
+           <lb/>be willing, as he saw I was able, to perform some labour, at the 
+           <lb/>appointed times, which alone could obtain for me the privilege 
+           <lb/>of travelling. By making further inquiries I found, that there 
+           <lb/>was no money in the country, that the lands are in common, and 
+           <lb/>that labour is a duty required of every citizen, till a certain age, 
+           <lb/>and that duty being performed, the remainder of his time is his 
+           <lb/>own.  I therefore agreed to take my share of labour, being 
+           <lb/>convinced I should have sufficient time to spare both for excur-
+           <lb break="no"/>sion and observation.
+         </p>
+         <p>
+     Four hours each day is set aside for work; this I could ea-
+           <lb break="no"/>sily accomplish, and walk a moderate day’s journey afterwards—
+           <lb/>and this is the manner in which I spent my time, during a three 
+           <lb/>months residence on the island: in the forenoon I performed 
+           <lb/>my work, which was sometimes in the field, and often in the 
+           <lb/><emph style="font­-style: italic">work-shops</emph>, where shoes are made, of which trade I had some 
+           <lb/>knowledge, having served part of an apprenticeship to it before 
+           <lb/>I went to sea.
+         </p>
+         <p>
+     Having obtained my certificate and dined, I would walk 16 
+     <lb/>or 20 miles along the best roads in the world, before supper, 
+           <lb/>to obtain which I had nothing to do, but present my certificate to 
+           <lb/>the <emph style="font­-style: italic">Menardon</emph>, or director of labour, who, immediately, shewed 
+           <lb/>me where I might sup, sleep, and what I should employ myself 
+           <lb/>in next day. Sometimes I stayed several days in one place, and 
+           <lb/>at other times I would travel several days successively; but 
+           <lb/>when I had an intention of doing the latter, I used to perform 
+           <lb/>two days labour in one, for as many days as I intended to tra-
+           <lb break="no"/>vel; this being noted in my certificate, gained me permission to 
+           <lb/>travel on, without any interruption of labour.
+         </p>
+         <p>
+     There is the same regulation for the natives. No man is 
+     <lb/>permitted to do another’s work, though he may anticipate his 
+           <lb/>own—the practice of suffering the work allotted to one man to 
+           <lb/>be performed by his neighbour, was formerly, say the Lithco-
+           <pb/>
+           <lb break="no"/>nians, the beginning of barter, and barter produced money, 
+           <lb/>which was the root of all evil. Therefore, if a man were to 
+           <lb/>perform three days labour in one, he cannot bestow it upon any 
+           <lb/>individual, supposing it a thing which might be separated from 
+           <lb/>other labour; for industry is a duty which every man owes the 
+           <lb/>state, and which he is not required to perform, unless he be able.  
+           <lb/>There is, therefore, no occasion to perform it by proxy.
+         </p>
+         <p>
+     Nothing but fame or love of country, can induce a Lithco-
+           <lb break="no"/>nian to extra labour, but these two passions frequently produce 
+           <lb/>great exertions. All the ornamental part of the country, whe-
+           <lb break="no"/>ther it be the decorations of buildings, or statues and paintings, 
+           <lb/>are all produced by these principles—for the regulations of the 
+           <lb/>state require only the useful.
+         </p>
+         <p>
+     A clock-maker made a curious clock at leisure hours: the 
+     <lb/>metal, the wood and tools, were all the property of the com-
+           <lb break="no"/>munity—he could not purchase them. By making the mate-
+           <lb break="no"/>rials into a clock, he had only improved the goods of the com-
+           <lb break="no"/>munity, and, as he could not, in justice, bestow the clock upon 
+           <lb/>any person, it became the property of the state, and no people 
+           <lb/>being more fond of public ornament than the Lithconians, it 
+           <lb/>was put up in the great work-shop for workers in metal, adorned 
+           <lb/>with some elegant mason work, and a handsome copy of verses 
+           <lb/>engraved underneath, celebrating the genius of the artists, and 
+           <lb/>transmitting their names to posterity, together with that of the 
+           <lb/>poet. The whole was the extra labour of young men, stimu-
+           <lb break="no"/>lated by no other motives than the passions above mentioned.
+         </p>
+         <p>
+     There are no towns or markets in all the island of <placeName>Lithco-
+           <lb break="no"/>nia</placeName>—the whole is only one large city upon a grand scale; for 
+           <lb/>the roads, from one end of the island to the other, have houses 
+           <lb/>(with a small opening betwixt each house) on both sides all the 
+           <lb/>way, and there are fifty such roads from north to south, the 
+           <lb/>length of the island, and upwards of 200 from east to west.
+         </p>
+         <p>
+     The houses are all built upon one plan, two stories high, 
+     <lb/>which contain nine sleeping apartments, a kitchen and public 
+           <lb/>hall, with offices behind: no houses are built on the back 
+           <lb/>ground, except for cattle; so that there is no such thing as a 
+           <lb/>cluster of houses that may be called a town. At the crossings a 
+           <lb/>square of 100 yards is left vacant, without any houses, adjoin-
+           <lb break="no"/>ing to which the public buildings, such as granaries, work-shops, 
+           <lb/>&amp;c. are regularly erected.
+         </p>
+         <p>
+     I found in the history of the country, that there were for-
+           <lb break="no"/>merly  large towns, as in Europe; but the evils, natural and mo-
+           <lb break="no"/>ral, which are the concomitant of great cities, made them think 
+           <lb/>of abandoning them, and building in the manner above  described
+           <lb/>--but what finally determined them, was, an earthquake, which 
+           <lb/>destroyed 1000 houses, a fire which burned 3000 in the princi-
+           <lb break="no"/>pal city, and the plague which swept away 500,000 inhabitants, 
+           <lb/>from the different cities of the empire. But since the people 
+           <lb/>have spread themselves over the country, no such calamities 
+           <lb/>have afflicted them. 
+         </p>
+         <p>
+     As to markets, there are three large stores in each district; 
+     <lb/>one for provisions of every kind, one for clothing, and a third 
+           <lb/>for household utensils and furniture. The keepers of provisions, 
+           <lb/>whose stores are supplied from the field, send round, twice a 
+           <lb/>week, in covered carts, to each house, every necessary for the 
+           <lb/>consumption of a family. Clothing is distributed once a year, 
+           <lb/>and household utensils as they are wanted; so that no idle peo-
+           <lb break="no"/>ple are seen lounging behind the counters, anxiously expecting 
+           <lb/>customers, whom they may impose upon. Two men will distri-
+           <lb break="no"/>bute as much provisions,  as half the hucksters, grocers, bakers, 
+           <lb/>and butchers, in <placeName>Philadelphia</placeName>; and two more can distribute as 
+           <cb/>
+           <lb/>much clothing in one month as all the Quakers in <placeName>Pennsylvania</placeName> 
+           <lb/>will sell in a year.—Hence that host of shopkeepers which 
+           <lb/>seem so necessary in barbarous countries, is here unknown.
+         </p>
+         <p>
+     The agriculturist and manufacturer has only to deposit his 
+     <lb/>commodities in the public stores; he has nothing to do with 
+           <lb/>the knavery of merchandise, and the words, “a good market,” 
+           <lb/>if such a term were in use here, could only have one idea, viz,
+           <lb/><emph style="font­-style: italic">a plentiful supply</emph>; whereas it is well known, that what is a good 
+           <lb/>market for the seller, is a bad one to the buyer in all the dis-
+           <lb break="no"/>jointed countries in <placeName>Europe</placeName> and <placeName>America</placeName>.
+         </p>
+         <p>
+     Every person above the age of fifteen, has a separate apart-
+           <lb break="no"/>ment—from five to fifteen, two sleep together; and children un-
+           <lb break="no"/>der five sleep in the mother’s chamber. They are distributed 
+           <lb/>in the houses as chance, passion or accident direct, male and fe-
+           <lb break="no"/>male promiscuously.
+         </p>
+         <head style="text-align:center; font-style:italic">[To be continued.]</head>
+        </body>
+      </text>
+       
+    
+      <text corresp="#975.03">
+        <body>
+             <p>
+               <seg xml:id="a011" corresp="#n011">Marriage,</seg><note xml:id="n011" corresp="#a011">The following installment appeared in the <date when="1802-05-29">May 29, 1802</date> issue.</note> 
+                 formerly, I understand, was held as sacred here as 
+               <lb/>in other countries; but <seg xml:id="a012" corresp="#n012">when property became in common,</seg><note xml:id="n012" corresp="#a012"><term style="font-style: italic">When property became in common</term>: this phrase was changed to “<quote>when things were put on a rational footing</quote>” in the later 19C printings, a sign of how the <date when="1802">1802</date> work was deradicalized.</note> it 
+               <lb/>fell gradually into disuse—for children being the property of 
+               <lb/>the state, educated and brought up at the public expense, and 
+               <lb/>as women could live as well single as united, young people were 
+               <lb/>seldom at the trouble to make such a contract. Children were 
+               <lb/>born, and no man thought it his business or interest to inquire 
+               <lb/>who was the father. But a thousand inconveniences arose out 
+               <lb/>of this legislative negligence, which, for the sake of order, and 
+               <lb/>to make love a blessing to society, it was necessary to correct.—
+               <lb/>The great evil that called for legislative interference was, the 
+               <lb/>frequent quarrels that took place between rival lovers.
+             </p>
+             <p>
+              Weak women were too often unable to determine betwixt 
+              <lb/>two admirers, which should have the preference, and it was ne9
+               <lb break="no"/>cessary, for the good of society, that she should decide. To 
+               <lb/>accomplish this, it was decreed, that all the young women of 
+               <lb/>each district, who had arrived at a certain age, should, on the 
+               <lb/>first day of the year after, inscribe the name of her lover in the 
+               <lb/>matrimonial register of the district.—Next day, all the young 
+               <lb/>men, unengaged, go to examine this register, and as many as 
+               <lb/>are satisfied with the girls who have chosen them, signify their 
+               <ob/>assent to the recorder. After which it would be <seg xml:id="a013" corresp="#n013-">a crime, pu-
+                 <lb break="no"/>nishable by imprisonment, and sometimes flagellation,</seg><note xml:id="n013" corresp="#a013"><term style="font-style: italic">A crime, punishable by imprisonment, and sometimes flagellation</term>: this phrasing was also changed in some later editions, replaced by the milder “<quote>regarded as a high misdemeanor.</quote>”</note> if either 
+               <lb/>of the parties should be found to admit, or give encouragement 
+               <lb/>to another lover.
+             </p>
+             <p>
+               This kind of marriage, however, occasions no separation of 
+               <lb/>property from the stock of the community, nor any of the pro-
+               <lb break="no"/>perty of the parties.—They continue to live in separate apart-
+               <lb break="no"/>ments, and never sleep together only every seventh night.—
+               <lb/>Whether this last regulation is a positive law, or only a political 
+               <lb/>custom, I could never learn; but it certainly has the happiest 
+               <lb/>effects. It seems to be an institution or custom, calculated to 
+               <lb/>make the most of love, the only solace of mankind, and to make 
+               <lb/>it last to the longest possible period of our existence. Never-
+               <lb break="no"/>theless, it sometimes happens that lovers thus united, become 
+               <lb/>dissatified with each other, and that for the happiness of one 
+               <lb/>or both of the parties, a separation is necessary.----- In that 
+               <lb/>case the party aggrieved announces his or her intention of era-
+               <lb break="no"/>sing the opposite party’s name from the matrimonial register—
+               <lb/>four weeks is then given for further deliberation, and if at the 
+               <lb/>end of that time the same resolution is persisted in the process 
+               <lb/>of separation is recorded, and the parties are at liberty to in-
+               <lb break="no"/>scribe other names on the register.
+             </p>
+             <p>
+               When a young woman is within three months of her time, 
+               <lb/>she announces the same to the senior, who has the immediate 
+               <cb/>
+               <lb/>direction of her work, who exempts her from attendance, and 
+               <lb/>a nurse is allowed, if necessary, and everything else convenient 
+               <lb/>to accommodate her; and if she have a safe delivery, there is 
+               <lb/>always rejoicings, entertainments and mirth among the neigh-
+               <lb break="no"/>bours.
+             </p>
+             <p>
+               Here are no parents repining at the increase of a family, from 
+               <lb/>the fear of being unable to support them.
+             </p>
+             <p>
+               Here the laws do not make the trembling female swear to the 
+               <lb/>father of her child; for no man can have any reason to deny 
+               <lb/>or confess his offspring—and child-murder, a crime so frequent 
+               <lb/>in barbarous nations—a crime which the happier females of 
+               <lb/><placeName>Lithconia</placeName> would shudder at the idea of, is totally unknown.
+             </p>
+             <p>
+               Here there is no occasion for asylums for the wretched and 
+               <lb/>outcast female, because none are wretched or outcast.
+             </p>
+             <p>
+               Here also there is no seduction, except it be on the part of 
+               <lb/>the women—they are the only seducers; their bewitching man-
+               <lb break="no"/>ners had nearly seduced my unwary heart;—unaccustomed 
+               <lb/>to see nature unveiled, I was insensibly allured by their native 
+               <lb/>and artless simplicity, how much more charming than the studied 
+               <lb/>coyness of our English fair: and I must say, that the freedom 
+               <lb/>and gaiety of their manners made me regret, more than any-
+               <lb break="no"/>thing else, my departure from the country. Every where the 
+               <lb/>female character is superior to the male, but here, women are 
+               <lb/>transformed to angels.
+             </p>
+             <p>
+               Every evening the chief of my entertainment proceeded 
+               <lb/>from them. They would invite me to dance on the green, an 
+               <lb/>amusement which was practised every fine evening, and they 
+               <lb/>seemed to take a pleasure in shewing me the beauties of nature 
+               <lb/>and the decorations of the public buildings, such as work-shops, 
+               <lb/>&amp;c. At supper they vied with each other in helping me to the 
+               <lb/>most delicate morsels; and I was often charmed with the soft 
+               <lb/>music of their fine voices: some singing in their own apartments, 
+               <lb/>and others in the hall or public room; for in each house there 
+               <lb/>is a hall for public recreation free to all. But no person pre-
+               <lb break="no"/>sumes to enter, or even make advances, towards the private 
+               <lb/>chamber of another, without being asked. <emph style="font­-style: italic">These</emph> are sacred to 
+               <lb/>retirement, to love and friendship.
+             </p>
+             <p>
+               In short, the duties of hospitality in this country seemed to 
+               <lb/>be given up to the women, and they are not backward in per-
+               <lb break="no"/>forming it; yet when I made this observation to a Lithconian, 
+               <lb/>he remarked, that the men were equally attentive to women who 
+               <lb/>were strangers, and so I found afterwards.
+             </p>
+             <p>
+               Friendship I found to be more frequent and durable here than 
+               <lb/>in any other country. For, if we consider that it is the equa-
+               <lb break="no"/>lity of men’s conditions and the similarity of their pursuits, that 
+               <lb/>unite men in the bonds of friendship, we shall not be surprised 
+               <lb/>to find attachments more lasting in this country, where all men 
+               <lb/>are equal. What is it that produces false and inconstant friends 
+               <lb/>in barbarous nations, but the fickleness of fortune (occasioned 
+               <lb/>by a want of government) which is forever altering men’s con-
+               <lb break="no"/>ditions and changing their pursuits. It is well known that a 
+               <lb/>rich and poor man, not having the same views, nor the same ob-
+               <lb break="no"/>jects to pursue, are never united in the intimate bonds of friend-
+               <lb break="no"/>ship: but in this country, where there are no rich or poor, and 
+               <lb/>where the terms are even unknown, friendships are as durable 
+               <lb/>as the existence of the parties. Hence I heard no complaints 
+               <lb/>of false and deceitful friends in all my travels through this island, 
+               <lb/>a theme so frequent in every other country.
+             </p>
+             <p>
+               And so much are their institutions favorable to friendship, 
+               <lb/>that if two persons of congenial spirits meet, and find a pleasure 
+               <lb/>in the company and conversation of each other, they have the 
+               <pb/>
+               <lb/>liberty of dwelling in the same house if they please;—for a per-
+               <lb break="no"/>son may remove to any part of the island, or to any house where 
+               <lb/>there is a vacancy: nothing can hinder him but the want of a 
+               <lb/>certificate that he has performed the accustomed labour; having 
+               <lb/>done <emph style="font­-style: italic">that</emph> he is at perfect liberty; nor has the senior the power 
+               <lb/>(if it could be supposed they were willing) to refuse a certifi-
+               <lb break="no"/>cate. Hence the houses are in general occupied by nine or ten 
+               <lb/>persons, whom love or friendship has drawn together. If any 
+               <lb/>difference arises (which is but seldom) one of the parties retires 
+               <lb/>to another house, where he thinks of meeting with people more 
+               <lb/>congenial to his temper and disposition.
+             </p>
+             <p>
+               Every year at the end of harvest, all the men and women 
+               <lb/>above 50 years, assemble together in their respective districts; 
+               <lb/>the oldest presides and the youngest is the secretary: those 
+               <lb/>above 60 may attend or not as they please.
+             </p>
+               <p>
+               Those who have the superintendence of the work-shops, the 
+               <lb/>care of the warehouses and granaries, and the distribution of 
+                 <lb/>every necessary, being all above fifty years, and necessarily pre-
+                 <lb break="no"/>sent in the assembly, give in their accounts of the produce of the 
+                 <lb/>fields, of the work-shops, of the consumption, and of what re-
+                 <lb break="no"/>mains in stock. Likewise what has been received from and 
+                 <lb/>delivered to other districts; all which is laid before the meet-
+                 <lb break="no"/>ing. The secretary makes out a general return, which is car-
+                 <lb break="no"/>ried, with other matters, to the grand assembly of the ancients, 
+                 <lb/>in the centre of the island, by the oldest man of each district, 
+                 <lb/>who chuses to go, above 60; and if all above 60 decline, which 
+                 <lb/>they have the privilege of doing, then he or she that is nearest 
+                 <lb/>that age is obliged to go. It therefore happens that all the pub-
+                 <lb break="no"/>lic business of every kind generally falls upon those betwixt 50 
+                 <lb/>and 60.
+               </p>
+             <p>
+               Here is no election, and consequently no intriguing for 
+               <lb/>places. Every man or woman, if they live long enough, will 
+               <lb/>succeed in their turn to the duties of administration. None 
+               <lb/>can be excepted but those who are suffering the punishments due 
+               <lb/>to crimes.
+             </p>
+             <p>
+               Elections for the purpose of chusing men of great abilities, 
+               <lb/>or men best acquainted with the interests of nations, or who 
+               <lb/>are most conversant in the constitution and laws of the state; 
+               <lb/>or, those who have much at stake in the country, and are sup-
+               <lb break="no"/>posed on that account to have the greatest interest in its prospe-
+               <lb break="no"/>rity and grandeur—is quite unnecessary here.  Every man’s 
+               <lb/>stake in the country is equal. The laws are not contained in 
+               <lb/>huge volumes—they are written in the hearts of the Lithconi-
+               <lb break="no"/>ans. Every child of five years can repeat, without book, the 
+               <lb/>whole code: and the abilities required of those whose duty it 
+               <lb/>is to attend the grand assembly, is not so great as the ordinary 
+               <lb/>duties of superintending work-shops, instructing youth, adjusting 
+               <lb/>differences, &amp;c. require. Besides, those who have a right to at-
+               <lb break="no"/>tend the grand assembly never think of making new laws—they 
+               <lb/>assemble to fulfil the laws already made, which say, “<quote>Let 
+               <lb/>thy neighbours partake of thy abundance, that thou mayest par-
+               <lb break="no"/>take of theirs.</quote>”
+             </p>
+             <p>
+               In this meeting the accounts from every district are read 
+               <lb/>over, and the wants of one directed to be supplied out of the 
+               <lb/>abundance of another. It is also settled, what quantity of each 
+               <lb/>article of necessity should be produced, or manufactured, in the 
+               <lb/>districts for the ensuing year, and likewise, what quantity may 
+               <lb/>be exported or imported.
+             </p>
+             <p>
+               These matters being arranged, every one retires to his home, 
+               <lb/>and communicates the result to a meeting of the seniors in his 
+               <lb/>district, who make the necessary regulations for the reception of 
+               <cb/>
+               <lb/>such articles as they may want, and for the conveyance of the 
+               <lb/>superfluities to the districts requiring them.
+             </p>
+             <p>
+               This whole country has the appearance of one vast manufac-
+               <lb break="no"/>tory, conducted by one mind; and although it was some time 
+               <lb/>before I could understand the motions of this immense machine, 
+               <lb/>it being so new, and what I had no previous conception of; 
+               <lb/>yet after I had got a perfect comprehension of all its parts, it ap-
+               <lb break="no"/>peared much more simple than any other form of government 
+               <lb/>in the world.
+             </p>
+             <p>
+               Labour is performed by every citizen equally—The excepti-
+               <lb break="no"/>ons are— 
+             </p>
+             <p>
+               1st.  Infants under five years.
+             </p>
+             <p>
+               2d.  Women in the last three months of their time, and nine 
+               <lb/>months afterward, if they have a happy delivery.
+             </p>
+             <p>
+               3d. All sick persons whatever.
+             </p>
+             <p>
+               4th. Every man and woman above 50 years, who have in 
+               <lb/>right of their age, the direction of labour; the instruction of 
+               <lb/>youth; the distribution of goods; and the exercise of the ju-
+               <lb break="no"/>dicial powers.
+             </p>
+             <p>
+               As to what in other countries is called the legislature, there 
+               <lb/>is no such thing, unless we call the district meetings, which have 
+               <lb/>been already noticed, a legislative body, or the grand assembly 
+               <lb/>of ancients: but both these bodies have more the appearance 
+               <lb/>of an executive deliberating upon the best mode of carrying the 
+               <lb/>principles of justice into execution, than a legislature.
+             </p>
+             <p>
+               By the fundamental laws, or constitution of <placeName>Lithconia</placeName>, 
+               <lb/>crimes are divided into two classes—personal and public. Per-
+               <lb break="no"/>sonal comprehending every thing which may be done to injure 
+               <lb/>the person of another—such as murder, maiming, striking, abu-
+               <lb break="no"/>sive language, and want of respect or attention. Public crimes 
+               <lb/>are such things as injure the community; as idleness, waste and 
+               <lb/>negligence, or disobedience to the command of the seniors.
+             </p>
+             <p>
+               In personal crimes (except murder) he who receives the of-
+               <lb break="no"/>fence must be the accuser: but for murder or public crimes, any 
+               <lb/>of the elders may, and it is their duty, to accuse. The pu-
+               <lb break="no"/>nishment for murder is death—every other crime is punished at 
+               <lb/>the discretion of the jurors. For personal crimes the party of-
+               <lb break="no"/>fended may forgive—but for crimes against the society or public, 
+               <lb/>there is no pardon.
+             </p>
+             <p>
+               In every district there is a person who is called the serastedor 
+               <lb/>or recorder, whose business it is to keep a list of the jurors, and 
+               <lb/>the record of the trials.
+             </p>
+             <p>
+               Every man and women in the district, above 50, are ranged 
+               <lb/>alphabetically in the list of jurors: on each trial fifteen are 
+               <lb/>taken as they stand on the list—every succeeding trial has five 
+               <lb/>struck off and five added, which makes every juryman 
+               <lb/>stand three trials. In pronouncing a man guilty, they must be 
+               <lb/>unanimous—but in affixing the punishment, the majority is suffi-
+               <lb break="no"/>cient. There is no other judge. The recorder has no fur-
+               <lb break="no"/>ther business but to record, minutely, the proceedings, and re-
+               <lb break="no"/>ceive the verdict. The oldest man of the jury pronounces the 
+               <lb/>sentence.</p>
+             <p>
+               As there is no such thing as debtor and creditor, so there is 
+               <lb/>no property to contend for, consequently no lawyers.
+             </p>
+             <p>
+               As every trial commences immediately after the accusation, 
+               <lb/>and as no person can possibly escape from justice, so there are no 
+               <lb/>jails, which are the nurseries of vice in barbarious nations.—
+               <lb/>To give instruction and advice being the duty of the seniors, 
+               <lb/>there is no occasion for priests or physicians, and it being every 
+               <lb/>man’s duty to defend his country, there can be no soldiers by 
+               <lb/>profession.
+             </p>
+             [<head style="text-align:center; font-style:italic">(To be continued.)</head>]
+        </body>
+      </text>
+               
+      <text corresp="#975.04"> 
+        <body>
+               <p>
+                 <seg xml:id="a014" corresp="#n014">The</seg><note xml:id="n014" corresp="#a014">The next installment appeared in the <date when="1802-06-05">June 5, 1802</date> issue.</note> 
+                 period of life of <emph style="font­-style: italic">one</emph> man is employed in nearly the 
+                 <lb/>same manner as any other. To give the history then, of one 
+                 <lb/>Lithconian, is to describe the manners of the nation.
+               </p>
+               <p>
+     Children, as has been already observed, until five years old, 
+     <lb/>remain with the mother. From their earliest age they are in-
+                 <lb break="no"/>structed in the principles of equal rights—No such words as 
+                 <lb/><term style="font­-style: italic">mine</term> and <term style="font­-style: italic">thine</term> are ever heard. Ours and yours are words which 
+                 <lb/>are made use of, when speaking of districts, and even that 
+                 <lb/>phraseology is discouraged; and, consequently, not reckoned so 
+                 <lb/>polite as to mention the name of the district.
+               </p>
+               <p>
+     Children are also taught to repeat by memory, the short sen-
+                 <lb break="no"/>tences which are the principles of their government—their po-
+                 <lb break="no"/>litics and morals—upon which the verdicts of juries are founded, 
+                     <lb/>and which serve them for a constitution and laws. For the 
+                     <lb/>Lithconians are not a people that are progressing from a state of 
+                     <lb/>nature, to what is vulgarly called, civilization; on the contrary, 
+                     <lb/>they are progressing from civil society to a state of nature, if 
+                     <lb/>they have not already arrived at that state: for in the history of 
+                     <lb/>the country, many and surprising revolutions are recorded.
+               </p>
+               <p>
+                 But previous to the revolution which settled the present sys-
+                 <lb break="no"/>tem of things, there was a wonderful propensity or desire, in the 
+                 <lb/>men of those times, to form constitutions, or fundamental laws, 
+                 <lb/>which <emph style="font­-style: italic">should</emph>, like the <seg xml:id="a015" corresp="#n015">laws of the Medes and Persians, be un-
+                   <lb break="no"/>alterable and eternal.</seg><note xml:id="n015" corresp="#a015"><term style="font-style: italic">The laws of the Medes and Persians</term>: a proverbial phrase in Anglo-American political writing, almost always used to criticize the idea of unchanging law, with reference to two past empires centered in present-day <placeName>Iran</placeName>.</note>
+               </p>
+               <p>
+     History records no less than ten infallible constitutions, all 
+     <lb/>declared to be founded on the rights of man, in the short period 
+                 <lb/>of forty years; each of which, in its turn, gave way to its suc-
+                 <lb break="no"/>cessor, and was buried in oblivion. After the failure of the first 
+                 <lb/>ten, the idea of infallibility was abandoned, and the period of 
+                 <lb/>their existence was then limited to a certain number of years, 
+                 <lb/>when a revisal was to take place. This scheme also failing, it 
+                 <lb/>was at last discovered, that the will of the people was paramount 
+                 <lb/>to every system of laws; and the only good thing produced by 
+                 <lb/>this fermentation of opinion and changes of government, was, 
+                 <lb/>that of getting the people into the habit of peaceably expressing 
+                 <lb/>their will, and of having it accurately known—this was indeed 
+                 <lb/>one great point gained, as it was the first step to every subsequent 
+                 <lb/>improvement.
+               </p>
+               <p>
+                 But quitting this digression, let us proceed in shewing how 
+                 <lb/>the life of a Lithconian is spent. At five he begins to be under 
+                 <lb/>the direction of one of the seniors, who instructs him <emph style="font­-style: italic">gradually</emph> 
+                 <lb/>in all the duties of a citizen. His first task is to work at some 
+                 <lb/>easy employment one hour a day, and one hour more is employed 
+                 <lb/>in learning to read; the rest of his time is spent in play in the 
+                 <lb/>open air. These are the duties of the sixth year.
+               </p>
+               <pb/>
+               <p>
+                 The seventh year, half an hour per day is added to the time 
+                 <lb/>required for work; and so on, half an hour every year, till it 
+                 <lb/>comes to four per day,—which has been found, upon experi-
+                 <lb break="no"/>ence, to be sufficient for all the labour of the state.
+               </p>
+               <p>
+                 All labour is performed either in the public work-shops or in 
+                 <lb/>the fields. At my different stages I made a point of going thro’ 
+                 <lb/>as many of the work-shops as my time would allow, there being 
+                 <lb/>always in them something curious to be seen, if it were nothing 
+                 <lb/>but the order and regularity with which every thing was con-
+                 <lb break="no"/>ducted—here was always industry, without bustle, hurry, or 
+                 <lb/>confusion. 
+               </p>
+               <p>
+                 Instead of workshops being mean, cold and inconvenient, as 
+                 <lb/>in other countries, I found them elegant, well finished, and fur-
+                 <lb break="no"/>nished with every convenience. The first I entered was the 
+                 <lb/>joiners’ shop of the district; one hundred benches were ranged 
+                 <lb/>on each side of the lower apartment: on the second storey 
+                 <lb/>were as many lathes and benches for turning. Adjoining was 
+                 <lb/>a large hall for placing the work when finished, and previous to 
+                 <lb/>its distribution.—The company of so many young active men at 
+                 <lb/>work together, makes labour rather a recreation than otherwise
+                 <lb/>—and the senior who has the superintendence of the shop feels 
+                 <lb/>delighted, at the alacrity and promptness with which his orders 
+                 <lb/>are obeyed—no bad debts sour his mind—he rejoices in the ease, 
+                 <lb/>independence, and superiority, which crowns his old age.
+               </p>
+               <p>
+                 But the spinning and weaving far surpassed my conception—
+                 <lb/>both which are performed by the power of water. Cotton, 
+                 <lb/>woollen and linen, are all spun by machinery, but in different 
+                 <lb/>districts. In the fourth part of the island, where cotton grows, 
+                 <lb/>there it is spun and wove. In the middle of the country, where 
+                 <lb/>there are the best sheep, <emph style="font­-style: italic">there</emph> wool is manufactured into cloth; 
+                 <lb/>and towards the north, where the land is suitable for flax, linen, 
+                 <lb/>is the staple commodity.
+               </p>
+               <p>
+                 The looms are also moved by the force of water, in which 
+                 <lb/>cloth is wove ten yards wide. A great deal of time, attention 
+                 <lb/>and labour is saved in all their manufactories, by not having any 
+                 <lb/>necessity for weighing the materials, upon delivery to the work-
+                 <lb break="no"/>men, and entering the same in books—Hence there are no 
+                 <lb/>clerks employed, as in other countries, merely to keep men ho-
+                 <lb break="no"/>nest: indeed the temptation to steal, or embezzle the materials, 
+                 <lb/>or finished work of the manufactories, is reduced to nothing, 
+                 <lb/>since no man can appropriate any thing to his own use, or con-
+                 <lb break="no"/>ceal it from the public eye.
+               </p>
+               <p>
+                 From the age of 15, he begins to be taught the nicer branches 
+                 <lb/>of the arts: at 18 he is generally considered a finished adept in 
+                 <lb/>his profession—he amuses himself with the use of arms; is fond 
+                 <lb/>of all kinds of exercise and diversion; attachments take place 
+                 <lb/>with some favorite female; and in this manner his life is spent 
+                 <lb/>betwixt love, friendship, amusements, and the arts, till he ar-
+                 <lb break="no"/>rives at fifty years, when he undertakes the direction and ma-
+                 <lb break="no"/>nagement of some portion of the national industry, or assists in 
+                 <lb/>the instruction of youth, and the distribution of justice. At 60, 
+                 <lb/>no social duties are any longer required, though they are not 
+                 <lb/>forbidden him; and peace, serenity, and independence, accom-
+                 <lb break="no"/>pany him through the remainder of his days.
+               </p>
+               <p>
+                 Such is the life of the Lithconians.
+               </p>
+               <p>
+                 Poverty and riches, as may be easily conceived, are words not 
+                 <lb/>to be found in the language. There are no distinctions, but 
+                 <lb/>what are founded in nature; no artificial inequalities. When a 
+                 <lb/>person’s rank in society is mentioned, it is only by the natural 
+                 <lb/>distinctions of infancy, youth, manhood, and seniority—Hence 
+                 <lb/>the sources of the malevolent passions are dried up. No man 
+                 <cb/>
+                 <lb/>looks upon his neighbours’ riches with envy, nor with contempt 
+                 <lb/>upon another’s poverty. The only pride or ambition is, in that 
+                 <lb/>of excelling in the mechanic arts, or handling with dexterity 
+                 <lb/>the tools of a man’s profession.
+               </p>
+               <p>
+                 Family pride has long been extinct in this island; there be-
+                 <lb break="no"/>ing only one great family which comprehends all the Lithconi-
+                 <lb break="no"/>ans. Even national pride is unknown, as they have never been 
+                 <lb/>at war for many ages. So their seniors have not had occasion 
+                 <lb/>to deceive them by a false estimation of themselves, or degrada-
+                 <lb break="no"/>tion of their neighbours. They have no <emph style="font­-style: italic">natural enemies</emph>, as is 
+                 <lb/>frequent with barbarous nations. The people of the neighbour-
+                 <lb break="no"/>ing islands, or the more remote inhabitants of the continent, are 
+                 <lb/>all naturally <emph style="font­-style: italic">friends</emph> (without being allies) of Lithconia, how-
+                 <lb break="no"/>ever they may disagree and quarrel among themselves.
+               </p>
+               <p>
+                 Variety of dress and equipage is also unknown. Every ci-
+                 <lb break="no"/>tizen having a certain quantity of clothes distributed to him at 
+                 <lb/>stated periods, the whole country appears almost in uniform—
+                 <lb/>The only difference that I could perceive was, that some people, 
+                 <lb/>better economists than others, had their clothes fresh and clean, 
+                 <lb/>consequently had a better appearance. But the women, without 
+                 <lb/>exception, are remarkable for economy and neatness in dress.—
+                 <lb/>In their head-dress I remarked a fanciful variety, which I found 
+                 <lb/>to be decorations of their own invention—this being the only 
+                 <lb/>part of their dress which is subject to fashion or fancy.
+               </p>
+               <p>
+                 The whole island may be compared to a city spread over a 
+                 <lb/>large garden: not a spot can be seen but what is in a high state 
+                 <lb/>of cultivation.  Every district is divided into as many fields as 
+                 <lb/>is thought convenient and advantageous for culture, and num-
+                 <lb break="no"/>bered from one upwards: each field is entered in a book—on 
+                 <lb/>one page the crops and management, and on the other the pro-
+                 <lb break="no"/>duce. The management for each succeeding year is determined 
+                 <lb/>at the annual meeting of each district; a matter which is easily 
+                 <lb/>settled, as the approved routine of crops is always preferred, ex-
+                 <lb break="no"/>cept in a limited number of fields, reserved for experi-
+                 <lb break="no"/>ments.
+               </p>
+               <p>
+                 The old men who have the superintendence of those fields, 
+                 <lb/>may, if necessary, demand from the workshops, as many hands 
+                 <lb/>over and above the ordinary agriculturists, as will execute the 
+                 <lb/>intended labour.
+               </p>
+               <p>
+                 Any man who finds out a method of making the soil produce 
+                 <lb/>more abundantly, may, if he pleases, be exempt from work.—
+                 <lb/>He who invents a machine, to facilitate or expedite labour, has 
+                 <lb/>the same reward. Here are no idle disputes about the propriety 
+                 <lb/>of introducing machines into practice: no vain fears of depriv-
+                 <lb break="no"/>ing the poor of work, and of the means of subsistence. Every 
+                 <lb/>man is convinced, that he who can make useful labour more easy 
+                 <lb/>and expeditious, or who makes three grains of wheat to grow 
+                 <lb/>where there were only two, augments the number of the enjoy-
+                 <lb break="no"/>ments of every Lithconian, and deserves the applause of his 
+                 <lb/>country. Therefore, no country in the world has such excel-
+                 <lb break="no"/>lent tools, or perfect machinery, as are to be found here. Not-
+                 <lb break="no"/>hing excites ridicule so much as a man labouring with a bad in-
+                 <lb break="no"/>strument, or machine out of repair. On the other hand, no-
+                 <lb break="no"/>thing seems to give a Lithconian so much pleasure, as the sight 
+                 <lb/>of a dextrous workman, using an excellent machine.
+               </p>
+               <p>
+                 The genius of this people has been displayed in nothing so 
+                 <lb/>much as in their aqueducts, public baths, canals, and roads, 
+                 <lb/>which excel every thing of the kind I ever saw: besides, they 
+                 <lb/>have a kind of road peculiar to this country, for the transporta-
+                 <lb break="no"/>tion of heavy commodities in those places where a level may be, 
+                 <lb/>without much difficulty, obtained, yet not sufficient water for the 
+                 <pb/>
+                 <lb/>supply of a canal. These are first made upon a perfect level, 
+                 <lb/>by means of bridges, mounds of earth, or cutting a little from 
+                 <lb/>the tops of hills—then a tract of cast iron is laid for each wheel, 
+                 <lb/>which is concave, and rises above the road about a foot; the 
+                 <lb/>carriages having their wheels made convex to fit the tract, so 
+                 <lb/>that the carriage runs upon a smooth surface, on level ground, 
+                 <lb/>and by this means one horse can draw as much as four on the 
+                 <lb/>ordinary roads. One horse carriages are in most use here; but 
+                 <lb/>one man will conduct five or six along these roads, at those 
+                 <lb/>seasons of the year when the interchange of commodities takes 
+                 <lb/>place between the districts: at other times the roads are 
+                 <lb/>not much occupied, except in leading to and from the fields, 
+                 <lb/>or on the <emph style="font­-style: italic">seventh</emph> day, which, as in other countries, 
+                 <lb/>is a day of cessation from labour—and, consequently, devoted 
+                 <lb/>to pleasure and recreation. It is on those days that they mount 
+                 <lb/>their wicker coach, which is impelled forward, not by the power 
+                 <lb/>of horses, but by the force of the persons within, who, turning 
+                 <lb/>a crank, gives motion to the axle-tree and wheels fixed thereon. 
+                 <lb/>Along the roads above described, these carriages move with in-
+                 <lb break="no"/>credible swiftness, and are turned at pleasure, by the action of a 
+                 <lb/>set of reins, upon the fore wheels, which are made, as in other 
+                 <lb/>four-wheel’d carriages.
+               </p>
+               <p>
+                 These roads, though they require a great industry to perfect 
+                 <lb/>them at first, are easily kept in repair. I have been told, that 
+                 <lb/>one of them extends above 500 miles, besides the smaller 
+                 <lb/>branches which run into it.
+               </p>
+               <p>
+                 Here are no idle people employed to collect tolls, nor <seg xml:id="a016" corresp="#n016">annui-
+                   <lb break="no"/>tants</seg><note xml:id="n016" corresp="#a016"><term style="font-style: italic">Annuitants</term>: people granted an annual salary for filling a position, here, for example, toll-collector.</note> living in splendid idleness upon the profits of these tolls; 
+                 <lb/>indeed it would be endless to recount the many institutions 
+                 <lb/>which are found necessary to barbarous countries, to patch up a 
+                 <lb/>bad government; but which are not wanting, because unneces-
+                 <lb break="no"/>sary, in the perfect government of <placeName>Lithconia</placeName>. For example—
+               <lb/>of what use would an infirmary be here, where not only the 
+               <lb/>sick, but those in health, are all maintained from the public stock
+               <lb/>—or an insurance company from fire, where no loss can fall 
+               <lb/>upon an individual—Or banks, where there are no bills to dis-
+                 <lb break="no"/>count—Or hospitals for <choice><orig>poor</orig><reg>the poor</reg></choice>, where there are no poor—Or for 
+                 <lb/>orphans, where there are no orphans—Or <seg xml:id="a017" corresp="#n017">Magdalens,</seg><note xml:id="n017" corresp="#a017"><term style="font-style: italic">Magdalens</term>: reformed prostitutes, so-called after <persName>Mary Magdalen</persName>, who appears in the Christian gospel of John 20:1-18.</note> where 
+               <lb/>there are no prostitutes to reform. In a word, there is no cha-
+                 <lb break="no"/>ritable <choice><orig>institutions</orig><reg>institution</reg></choice> of any kind. In this country charity remains 
+               <lb/>where nature placed it—in the heart.
+               </p>
+               <p>
+                 Although they are not destitute of religion, I could perceive 
+                 <lb/>neither an order of men, nor a place, dedicated to divine wor-
+                 <lb break="no"/>ship. That part of the duty of the priesthood, which consists 
+                 <lb/>in teaching morality, is chiefly practised by the old men, who 
+                 <lb/>have made eloquence their favorite pursuit.
+               </p>
+               <p>
+                 The principal theme of their declamation, is the evil of idle-
+                 <lb break="no"/>ness, and waste of the public stores—from whence (say they) 
+                 <lb/>proceeds the judgement of famine, upon the whole land. Indeed 
+                 <lb/>their morality is so intimately interwoven with their constitution 
+                 <lb/>and laws, that a stranger would find it a hard matter to distin-
+                 <lb break="no"/>guish whether their discourses belonged properly to law or reli-
+                 <lb break="no"/>gion—whether it was a priest, or lawyer, that spoke—when it 
+                 <lb/>was neither one nor the other. Their religion is the love of 
+                 <lb/>order and harmony, their constitution and laws, is that order 
+                 <lb/>and harmony systemized.</p>
+               <p>
+                 As to the mysterious rites of their religion, which I did not 
+                 <lb/>understand, I shall say nothing, only that they appeared to con-
+                 <lb break="no"/>sist chiefly of vocal and instrumental music and dancing, in which 
+                 <lb/>every person joined, and was always performed in the open air. 
+                 <lb/>Every instrument was also equally sacred. The organ has no 
+                 <cb/>
+                 <lb/>peculiar privileges here. String’d instruments have the prefer-
+                 <lb break="no"/>ence of wind instruments, in general, because the performer 
+                 <lb/>can play and sing at the same time; for without a vocal accom-
+                 <lb break="no"/>panyment, instrumental, in the opinion of the Lithconians, is 
+                 <lb/>only half music. When they play in concert, which they some-
+                 <lb break="no"/>times do, with a thousand voices and instruments; it is always 
+                 <lb/>some studied piece adapted to the occasion—the grandeur and 
+                 <lb/>harmony of which would astonish an inhabitant of the barbarous 
+                 <lb/>nations of Europe, unaccustomed as they are, to such concerts. 
+                 <lb/>But when an individual performs it is always an <seg xml:id="a018" corresp="#n018">extempore 
+                   <lb/>piece,</seg><note xml:id="n018" corresp="#a018"><term style="font-style: italic">Extempore</term>: without preparation.</note> except when they are either learning to play, or practi-
+                 <lb break="no"/>cing for the public festivals; for it would be deemed puerile to 
+                 <lb/>amuse themselves with the lessons even of the greatest masters. 
+                 <lb/>The subject of these extempore pieces is always love, or religion, 
+                 <lb/>or more properly devotion; for they seem to have no idea of 
+                 <lb/>any other subject being adapted for music; and therefore they 
+                 <lb/>have no hunting, historical, drinking or war songs; nevertheless 
+                 <lb/>beautiful descriptions of nature are not wanting in their songs of 
+                 <lb/>love. Music may be considered here as a principal branch of 
+                 <lb/>liberal education; if the word <term style="font­-style: italic">liberal</term> be a proper expression 
+                 <lb/>where a thing is rather <emph style="font­-style: italic">taken</emph> than <emph style="font­-style: italic">bestowed</emph>.
+               </p>
+               <p>
+                 Education, or instruction, is bestowed or held out, to every 
+                 <lb/>member of the community alike; but some, as in every other 
+                 <lb/>country, not having so great a genius, talent or capacity, for 
+                 <lb/>knowledge, as others, will not imbibe so great a quantity.
+               </p>
+               [<head style="text-align:center">[To be continued.]</head>
+        </body>
+      </text>
+      
+          <text corresp="#975.05">
+            <body>
+                 <p>
+                   <seg xml:id="a019" corresp="#n019"></seg><note xml:id="n019" corresp="#a019">The following installment appeared in the <date when="1802-06-12">June 12, 1802</date> issue.</note>
+                     Painting, and the lovers of that sublime art, are held in high 
+                   <lb/>estimation. All the workshops are ornamented with the labors 
+                   <lb/>of young men and women, whose genius had led them to study 
+                   <lb/>that noble art.
+                 </p>
+                 <p>
+                   There are also few young men or women, of bright parts, but 
+                   <lb/>who are taught the art of printing—there being one printing-
+                   <lb/>press to each district, with a sufficient number of types of various 
+                   <lb/>founts. Every person is at liberty to use them under the direc-
+                   <lb break="no"/>tion of a senior, and to throw off a limited number of sheets at 
+                   <lb/>spare hours, of any piece of his own production; but if the 
+                   <lb/>work be judged of sufficient importance, by the grand assembly, 
+                   <lb/>and time can be spared from the necessary labours of the state, 
+                   <lb/>it is then ordered that a certain number of copies be printed in 
+                   <lb/>the ordinary time of labour, and distributed to the districts.
+                 </p>
+                 <p>
+                   It has been already observed, that there are in <placeName>Lithconia</placeName>, no 
+                   <lb/>soldiers by profession; but it must also be observed, that every 
+                   <lb/>man is a defender of his country, and obliged to learn the art 
+                   <lb/>of acting in the field together, as soldiers in other countries; 
+                   <lb/>for, under the old government, and during the infancy of the 
+                   <lb/>new, they had been so frequently attacked by their ambitious 
+                   <lb/>neighbours, that it was found necessary to continue the use of 
+                   <lb/>arms.
+                 </p>
+                 <p>
+                   Every male is furnished with a complete set of arms and ac-
+                   <lb break="no"/>coutrements, as soon as he arrives at the age of 18: for two 
+                   <lb/>years he is considered as in a state of pupilage. After twenty 
+                   <lb/>years every man is classed in different requisitions—The first 
+                   <lb/>from 20 to 25; the second from 25 to 30; the third from 30 
+                   <lb/>to 35; and the fourth from 35 to 40—and the last class in-
+                   <lb break="no"/>cludes all the healthy male citizens above forty.
+                 </p>
+                 <p>
+                   When the first requisition is called out, they are officered by 
+                   <lb/>the oldest men of the second, and when the second are called 
+                   <lb/>out, they are in like manner officered by the oldest men of the 
+                   <lb/>third, and so on—but when the nation rises in mass, all the offi-
+                   <lb break="no"/>cers are taken from the senior class, or men above 50—And at 
+                   <lb/>all times the commander of any expedition, consisting of 1000 
+                   <lb/>men, is taken from the class of seniors. Nothing can be so easy 
+                   <lb/>as to raise and organize an army upon this plan.
+                 </p>
+                 <p>
+                   Upon the first supposition of an invasion, the first requisitions 
+                   <lb/>are ordered to be in readiness, to march towards that quarter, 
+                   <pb/>
+                   <lb/>from whence the attack is expected, together with all those in 
+                   <lb/>their 30th year—these are all officers, and the whole is divided 
+                   <lb/>into as many small divisions as there are officers: Every thou-
+                   <lb break="no"/>sand is then put under the command of a senior, who organizes 
+                   <lb/>his regiment in the following manner: The right wing, consist-
+                   <lb break="no"/>ing of 500 men, is commanded by the oldest man among the 
+                   <lb/>class of officers, and the left wing by the next eldest—he next 
+                   <lb/>divides each wing into two grand divisions, giving the command 
+                   <lb/>of these to the four next eldest—He then proceeds to divide 
+                   <lb/>each grand division into two divisions, and gives the command 
+                   <lb/>of these to the eight next eldest, and so on, continually divid-
+                   <lb break="no"/>ing till there are no officers left. All of whom are armed with 
+                   <lb/>long pikes.
+                 </p>
+                 <p>
+                   Formerly, when an invasion had actually taken place, the 
+                   <lb/>men of the second requisition were generally called on, and they 
+                   <lb/>were either marshaled into separate regiments, or mixed with 
+                   <lb/>the first requisition, as was deemed most advantageous for de-
+                   <lb break="no"/>fence or annoyance; but, in general, they were kept separate. 
+                   <lb/>I was not informed of their having any cavalry, for the pur-
+                   <lb break="no"/>pose of fighting, but the troops at a distance from the scene of 
+                   <lb/>action, were often transported thither on horseback.
+                 </p>
+                 <p>
+                   Though they have not had occasion to marshall an army of 
+                   <lb/>late years, their young men still learn the art of war. They 
+                   <lb/>are taught to fire six times in a minute, and to perform various 
+                   <lb/>evolutions—to advance or retreat with either a more extended 
+                   <lb/>or more contracted front—to wheel upon the right or left flank, 
+                   <lb/>or upon the center, in order to change their position—all which 
+                   <lb/>is performed without any word of command or beat of drum. 
+                   <lb/>A standard, with two crosses, is lifted up in the centre, to which 
+                   <lb/>all the officers eyes are directed. The first is the signal of at-
+                   <lb break="no"/>tention, which shews the crosses in their natural position—they 
+                   <lb/>are then moved by pulleys and strings, which pass down the side 
+                   <lb/>of the shaft of the standard, and being pulled by the operator 
+                   <lb/>at the order of the commander, throws the crosses into various 
+                   <lb/>figures, expressive of the movement he means should <choice><sic>be.</sic><corr>be</corr></choice> per-
+                   <lb break="no"/>formed. Each officer has small crosses upon his pike, with 
+                   <lb/>which he repeats the signals to his division. All which can be 
+                   <lb/>easily done amidst the greatest confusion and noise of musquetry, 
+                   <lb/>cannon, or the cries and groans of the dying. They have sig-
+                   <lb break="no"/>nals performed by lights for the night also.
+                 </p>
+                 <p>
+                   While the island had foreign possessions during the old form 
+                   <lb/>of government, they kept up a powerful fleet at an amazing ex-
+                   <lb break="no"/>pence, and it was at that time deemed the only sure defence of 
+                   <lb/>the island; but one of their wise reformers, in a small pamphlet, 
+                   <lb/>ridiculed the folly of going out to fight their enemies upon the 
+                   <lb/>ocean, when they had no longer distant possessions to maintain, 
+                   <lb/>with so much success, and demonstrated the wisdom of waiting 
+                   <lb/>till their invaders should actually land, when they might be so 
+                   <lb/>easily driven into the sea, that the Lithconians agreed to burn 
+                   <lb/>the whole fleet, which they actually put in force. Since which 
+                   <lb/>they have never thought of fighting upon an element, which 
+                   <lb/>has, in its own nature, evils and dangers sufficient, without add-
+                   <lb break="no"/>ing that moral evil, <emph style="font­-style: italic">war</emph>, to the catalogue.
+                 </p>
+                 <p>
+                   This political philosopher demonstrated, that no nation, who 
+                   <lb/>has not distant foreign possessions, <choice><orig>have</orig><reg>has</reg></choice> any occasion for ships of 
+                   <lb/>war, even if the sea-coast was ever so extensive—and that it 
+                   <lb/>would be cheaper, and more certain, to defend the country on 
+                   <lb/>shore, than at sea—And in answer to those who objected, that 
+                   <lb/>commerce could not be so well defended, it was observed, that 
+                   <lb/>commerce was not, particularly, for the benefit of one nation; 
+                   <lb/>but for the reciprocal advantage of all; and that no individual 
+                   <cb/>
+                   <lb/>nation could expect to monopolize the trade of intelligent na-
+                   <lb break="no"/>tions, by warfare, although ignorant countries have been, in fo-
+                   <lb break="no"/>rmer times, deluded and over-reached by a superior naval force. 
+                   <lb/>Such an instance was never more to be expected in the enlight-
+                   <lb break="no"/>ened state in which nations are at this day—as the juggler hath 
+                   <lb/>no more power when his tricks are known. While there were 
+                   <lb/>wild and barbarous nations to discover, conquer, and keep in 
+                   <lb/>awe, a navy might be of use; but since the world has been dis-
+                   <lb break="no"/>covered, and considerably enlightened, those nations who have 
+                   <lb/>a large navy, may, as it is said of <persName>Alexander</persName>, sit down and 
+                   <lb/>weep, that there are no more worlds to conquer; for upon such 
+                   <lb/>enterprises their navies depend, as well as formerly did his con-
+                   <lb break="no"/>quering army.
+                 </p>
+                 <p>
+                   Such was the subject of the arguments adduced by this po-
+                   <lb break="no"/>litical reformer, enforced with such a vein of irony and wit as 
+                   <lb/>did not fail, (bursting from the bonds of prejudice as they were) 
+                   <lb/>to convince the Lithconians. 
+                 </p>
+            </body>
+          
+        <body>
+                 
+                 <head style="text-align:center; font-style:italic">HISTORY 
+                   <lb/>OF THE 
+                   <lb/><seg xml:id="a020" corresp="#n020">LITHCONIANS.</seg><note xml:id="n020" corresp="#a020">The following segment also appeared in the <date when="1802-06-12">June 12, 1802 issue</date> issue, but separated by a double line and with the following heading.</note>
+                 </head>
+                 
+                   <p>
+                     THAT strange propensity in all nations, of tracing their history 
+                     <lb/>to the remotest antiquity, is also to be found in <placeName>Lithconia</placeName>.—
+                     <lb/>Like the Jews, they commence the history of their nation, 
+                     <lb/>with a fabulous account of the creation. Their first chapter 
+                     <lb/>runs so much in the style of the first of Genesis, that if there 
+                     <lb/>had followed an account of the fall of man, and the flood, we 
+                     <lb/>should have been led to think, that the one had been taken from 
+                     <lb/>the other—but of these events no mention is made, neither 
+                     <lb/>have they any account of a race of giants, or of the sons of 
+                     <lb/>God being smitten with the fairness of the daughters of <seg xml:id="a021" corresp="#n021">men,</seg><note xml:id="n021" corresp="#a021"><term style="font-style: italic">Giants . . .</term>: these are allusions to passages like Genesis 6:4, which reads, “<quote>There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare <emph style="font-style: italic">children</emph> to them, the same <emph style="font-style: italic">became</emph> mighty men which were of old, men of renown</quote>” (KJV). This kind of passage was often cited by deists to demonstrate the pagan and mythological elements of the Old Testament.</note> 
+                     <lb/>so that we must conclude, notwithstanding the similarity, that 
+                     <lb/>the first historians of <placeName>Lithconia</placeName> were totally unacquainted with 
+                     <lb/>the writings of <persName>Moses</persName>.
+                   </p>
+                 <p>
+                   Although I only intend to give an abridgement of the his-
+                   <lb break="no"/>tories I have read, and that from memory only, I cannot resist 
+                   <lb/>the desire I have of giving the world a few verses of the first 
+                   <lb/>chapter as I read it myself—it is in these words.
+                 </p>
+                 <p>
+                   When the gods began to create the planetary system, this 
+                   <lb/>world was only a round globe of liquid matter, of a diameter 
+                   <lb/>four times larger than the earth is, moving in the immensity of 
+                   <lb/>space, void of inhabitants, and darkness was upon the face of 
+                   <lb/>the deep.
+                 </p>
+                 <p>
+                   And God said, “let there be light,” and the spirit of God, 
+                   <lb/>exerting itself, on the surface of the waters, produced light, 
+                   <lb/>and the revolution from darkness to light was the first epocha.
+                 </p>
+                 <p>
+                   And God said, let there be a light in the middle of the sys-
+                   <lb break="no"/>tem, to divide the day from the night, and let it be for seasons, 
+                   <lb/>and for days and years.
+                 </p>
+                 <p>
+                   At this period, God made two great lights; the greater 
+                   <lb/>light to rule the day, and the reflected light to rule the night: 
+                   <lb/>he made the stars also: and it was so. This is the second 
+                   <lb/>epocha.
+                 </p>
+                 <p>
+                   And God said, let there be firm land, in the midst of the wa-
+                   <lb break="no"/>ters, and let it percolate the fresh from the salt waters.
+                 </p>
+                 <p>
+                   And God said, let the salt waters be gathered together into 
+                   <lb/>one place, and let the dry land appear, and it was so. This is 
+                   <lb/>the third epocha.
+                 </p>
+                 <p>
+                   And God said, let the waters bring forth abundantly the mo-
+                   <pb/>
+                   <lb break="no"/>ving creature that hath life; and God created great whales, and 
+                   <lb/>every living creature that moveth, which the waters brought 
+                   <lb/>forth abundantly after their kind. This is the fourth epocha.
+                 </p>
+                 <p>
+                   And God said, let the earth bring forth grass, the herb yield-
+                   <lb break="no"/>ing seed, and the fruit-tree yielding fruit, and it was so. This 
+                   <lb/>is the fifth epocha.
+                 </p>
+                 <p>
+                   And God said, let the earth bring forth the living creature 
+                   <lb/>after his kind, cattle and creeping thing, and man to govern and 
+                   <lb/>subdue the earth, and all that is therein, and to direct nature to 
+                   <lb/>the best end, and it was so. This is the sixth epocha.
+                 </p>
+                 <p>
+                   After this the historians proceed to relate, that God dele-
+                   <lb break="no"/>gated to man a certain power of directing the principal opera-
+                   <lb break="no"/>tions of nature on this globe of the earth.
+                 </p>
+                 <p>
+                   And the earth teemed with man and beast, and fruits, and 
+                   <lb/>herbs, and flowers, which an eternal spring continued in gay suc-
+                   <lb break="no"/>cession. And God said unto the men whom he had created, Be-
+                   <lb break="no"/>hold, I have given you the whole earth to inhabit, and have 
+                   <lb/>stored it with every thing necessary for use and for enjoyment. 
+                   <lb/>I have also given you the means of knowledge, whereby you 
+                   <lb/>may discover the road to happiness; and for your good I have 
+                   <lb/>strewed a few difficulties in your paths, to spur you to enquiry, 
+                   <lb/>and to exercise the means of knowledge. Consider yourselves 
+                   <lb/>as one great family, cherish and comfort each other; but be-
+                   <lb break="no"/>ware of dividing your patrimony.
+                 </p>
+                 <p>
+                   So, we never hear of the agency of superior powers, every 
+                   <lb/>thing is ascribed to natural causes, or men directing these 
+                   <lb/>causes.
+                 </p>
+                 <p>
+                   Ten millions of years (according to the historians) rolled 
+                   <lb/>away in plenty, innocence and peace, without affording matter 
+                   <lb/>for the historian, who only delights to record great and terrible 
+                   <lb/>events—but abundance for the peaceful muse, whose pleasure is 
+                   <lb/>the beauties and the charms of nature. This is called the age 
+                   <lb/>of innocence.
+                 </p>
+                 <p>
+                   While men contented themselves with fruits and herbs, they 
+                   <lb/>lived in harmony with the brute creation; and while their lands 
+                   <lb/>were undivided, and the whole stock continued in common, 
+                   <lb/>they cultivated peace and friendship with each other. But, in 
+                   <lb/>process of time, several causes co-operated to destroy this state 
+                   <lb/>of felicity.
+                 </p>
+                 <p>
+                   The liquid element, or salt sea, was continually diminishing, 
+                   <lb/>from two natural causes constantly operating—one was, the im-
+                   <lb break="no"/>mense beds of shell-fish, which being formed from the liquid, 
+                   <lb/>but never returning to that element, raised strata of limestone at 
+                   <lb/>the bottom of the deep;—and, secondly, that immense body 
+                   <lb/>of water annually converted into vegetable and animal sub-
+                   <lb break="no"/>stances, but which never return to water again, caused, in time, 
+                   <lb/>new islands to rise above the surface of the ocean, and the old 
+                   <lb/>continents to extend further into the clouds. This caused a 
+                   <lb/>great inequality, and changed the climates from temperate to a 
+                   <lb/>greater degree of heat and cold. Summers became intense, 
+                   <lb/>and winters severe. During the age of innocence men multipli-
+                   <lb break="no"/>ed prodigiously on the earth; and therefore a greater foresight 
+                   <lb/>was necessary to provide against future contingencies. The ne-
+                   <lb break="no"/>cessities of man increased faster than his knowledge—instead of 
+                   <lb/>making experiments and inquiring into the operations of na-
+                   <lb break="no"/>ture, in times of plenty and peace; the days were suffered to 
+                   <lb/>pass away in pleasure and enjoyment—this lost time has never 
+                   <lb/>been recovered in any country, except in <placeName>Lithconia</placeName>. They 
+                   <lb/>only have improved their situation, by a knowledge of their 
+                   <lb/>errors, and made industry and experience get the start of their 
+                   <lb/>wants.
+                 </p>
+                   <cb/>
+                 <p>
+                   The face of the earth changing, by the mountains increasing 
+                   <lb/>in height—marshes being formed by the retiring of the waters, 
+                   <lb/>rendered the face of the globe more unhealthy, diseases began 
+                   <lb/>to appear before man had a knowledge of their cure—the heats 
+                   <lb/>of summer caused droughts and a scarcity of herbs, before the 
+                   <lb/>use of irrigation was known: thus, a change of climate, an in-
+                   <lb break="no"/>crease of population, and, above all, ignorance—all contributed 
+                     <lb/>to bring to a period the age of innocence, and to usher in the 
+                   <lb/>age of iron, so called, from men beginning to prey on the infe-
+                   <lb break="no"/>rior animals, and by seeking, in the bowels of the earth, the ma-
+                   <lb break="no"/>terials for sharp instruments of destruction. Then began <choice><sic>Men</sic><corr>men</corr></choice> 
+                   <lb/>to be dreaded by his fellow animals, and these, to seek refuge in 
+                   <lb/>caverns, rocks, and impenetrable forests, to hide themselves from 
+                   <lb/>his view. From this period, for 20 millions of years, nothing 
+                   <lb/>is to be found in the history of man worthy of recording, or 
+                   <lb/>if recorded, would give any pleasure to the philanthropic mind. 
+                   <lb/>Famine, pestilence, and war, had nearly extinguished the human 
+                   <lb/>race—and those who survived, were little superior to the beasts 
+                   <lb/>of the forests. Their wants, and the passions those wants cre-
+                   <lb break="no"/>ated, made man a savage and an hostile animal—so much had 
+                   <lb/>they departed from their native innocence, that some have assert-
+                   <lb break="no"/>ed, that man is only a superior species of monkey, capable of 
+                   <lb/>improvement, which the common <choice><orig>Monkies</orig><reg>monkeys</reg></choice> are not.
+                 </p>
+                 <p>
+                   How deplorable and unsatisfactory would this history have 
+                   <lb/>been, if we had not seen, in the foregoing pages, the redemption 
+                   <lb/>of man in the country of <placeName>Lithconia</placeName>. And from thence the 
+                   <lb/>pleasing inference may be drawn, that such will be the case all 
+                   <lb/>over the globe. Let it not damp the spirits, or obliterate the 
+                   <lb/>hope of the chosen few, that the day of regeneration is slow in 
+                   <lb/>its approaches; or that ten millions of years was the short pe-
+                   <lb break="no"/>riod of the age of innocence, while thirty millions have elapsed, 
+                   <lb/>and man has not renewed his nature in any other country but in 
+                   <lb/>that small island—But good example is like a grain of <seg xml:id="a022" corresp="#n022">mustard-
+                     <lb/>seed.</seg><note xml:id="n022" corresp="#a022"><term style="font-style: italic">Mustard-seed</term>: a favorite <bibl>New Testament</bibl> metaphor, as in <bibl>Mark 4:31</bibl>, <bibl>Matthew 13:31 and 17:20</bibl>, and <bibl>Luke 13:19 and 17:6</bibl>.</note>
+                 </p>
+                 [<head style="text-align:center">[To be continued.]</head>
+        </body>
+          </text>
+    
+      <text corresp="#975.06">
+        <body>
+      <p>
+        <seg xml:id="a023" corresp="#n023">Man</seg><note xml:id="n023" corresp="#a023">The following installment appeared in the <date when="1802-06-19">June 19, 1802</date> issue.</note> 
+          had not long commenced a warfare upon the brutes, 
+        <lb/>than they divided themselves into separate hunting parties, for 
+        <lb/>the better securing the prey—and very few generations had 
+        <lb/>elapsed, before these separate hunting parties, forgetting their 
+        <lb/>original, considered themselves as distinct nations,—and, on the 
+        <lb/>slightest offence, cherished the most implacable hatred, rivalship 
+        <lb/>and animosity; and waged against each other, fell and bloody 
+        <lb/>wars: peace was only brought about, by necessity, and from a 
+        <lb/>fear of being mutually exterminated. Such was the lot of hu-
+        <lb break="no"/>man nature, (with only now and then an effort in some great 
+        <lb/>minds to elevate man to his native dignity) for more than 20 
+        <lb/>millions of years.
+      </p>
+      <p>
+        What a number of circumstances must combine before any 
+        <lb/>effort can be successful in favour of human nature! Time; 
+        <lb/>place; the dispositions of the people to receive instruction; and 
+        <lb/>above all, the powers, or capacity of the instructor to give it—
+        <lb/>If one of these fail, the process is incomplete, and the condi-
+        <lb break="no"/>tion of our species is thrown back, at least a million of years.
+      </p>
+      <p>
+        Happily for mankind, the same causes which had put an end 
+        <lb/>to the age of innocence, contributed, in some degree, to put an 
+        <lb/>end to the age of iron, which had made the globe almost a de-
+        <lb break="no"/>sert, and assisted in putting in train another era, which, though 
+        <lb/>not in itself much preferable to the age of iron, yet tended, in 
+        <lb/>its effects, to bring about the regeneration of the human race: 
+        <lb/>and when we applaud the subsequent revolutions that have taken 
+        <lb/>place in the affairs of mankind, it is not so much on their in-
+        <lb break="no"/>trinsic merit as that they are harbingers of that glorious era, 
+        <lb/>when the reign of equality shall be universally established all 
+        <lb/>over the world, and the age of innocence be renewed.
+      </p>
+      <p>
+        Islands rising above the surface of the ocean—mountains tow-
+        <lb break="no"/>ering to the clouds—having been the cause of the decline of 
+        <lb/>the age of innocence, are now shewn to be the cause of the age of 
+        <lb/>brass.
+      </p>
+      <p>
+        In a small island, a few leagues from the continent of <placeName>Eu-
+          <lb break="no"/>rope</placeName>, a number of people had taken up their hunting quarters, 
+        <lb/>thinking themselves safe from the intrusions of that fiercer ene-
+        <pb/>
+        <lb/>my, man, on the continent.—But what happened? In a few 
+        <lb/>years the island was destitute of prey—almost all the quadru-
+        <lb break="no"/>peds were destroyed; so that those islanders were in the greatest 
+        <lb/>distress imaginable, at a season too when it was hazardous to 
+        <lb/>sail to the continent. In this extremity a council was called, 
+        <lb/>of those reputed the wisest men of the nation, in which it was 
+        <lb/>determined, that the few cattle and sheep remaining, should be 
+        <lb/>caught alive, preserved, and domesticated for a breed, to supply 
+        <lb/>the wants of the island. Such a proposition, when first made, 
+        <lb/>was treated with sovereign contempt by the great body of the 
+        <lb/>people, and considered as a thing totally impracticable. The 
+        <lb/>trouble of rearing and tending of herds and flocks, was deemed 
+        <lb/>too great to be compensated by any profits that could arise from 
+        <lb/>it: however, the necessity of the case, and a conviction of 
+        <lb/>some of the wisest men, made the resolution to be followed.—
+        <lb/>Patience and perserverance, for a few years, and hope, which 
+        <lb/>every day was growing into certainty, convinced the most scep-
+        <lb break="no"/>tical of the propriety of the measure. Now, we may fancy 
+        <lb/>we see the country spread over with herds and flocks—and suc-
+        <lb break="no"/>cess in one undertaking always having the effect to stimulate the 
+        <lb/>mind to fresh pursuits, the arts of making cheese and butter, 
+        <lb/>followed almost as a matter of course: it could not fail to 
+        <lb/>strike these men, that every part of the animal might be ren-
+        <lb break="no"/>dered more useful and commodious, than they had hitherto 
+        <lb/>seen it—hence tanning of hides, and spinning and weaving of 
+        <lb/>wool, were arts which followed each other in quick succession.
+      </p>
+      <p>
+        These people, living in peace, and at a distance from their 
+        <lb/>turbulent neighbours, increased in population and wealth; and 
+        <lb/>the first evil that presented itself to these otherwise happy peo-
+        <lb break="no"/>ple, was a claim that some discontented minds set up to a few 
+        <lb/>choice and particular cattle, which they had paid more attention 
+        <lb/>to in breeding and rearing, than the rest. Those contentions 
+        <lb/>and claims growing frequent, and likely to embroil the whole 
+        <lb/>community, it was resolved to divide the flocks, into equal 
+        <lb/>parts among each family; and soon after, by reason of other 
+        <lb/>contentions, a division of the land took place.
+      </p>
+      <p>
+        Little did those islanders think, that a trifling regulation, 
+        <lb/>made to remedy a great evil, should, in its consequences, dis-
+        <lb break="no"/>turb the felicity of mankind, and put back the regeneration of 
+        <lb/>the human race at least ten millions of years.
+      </p>
+      <p>
+        If we were to enumerate all the evils that have spring out 
+        <lb/>of this system of separate property, it would fill a volume, and 
+        <lb/>divert us from the main subject of this history. It was from 
+        <lb/>this small island that the larger one of <placeName>Lithconia</placeName> was after-
+        <lb break="no"/>wards peopled, and hither they brought their principles of go-
+        <lb break="no"/>vernment, founded on the system of separate property. As 
+        <lb/>yet the ground had not been tilled—they lived on milk, some 
+        <lb/>fruit, and the flesh of animals. The first dawn of the pastoral 
+        <lb/>life had many charms, in a country with few inhabitants: the 
+        <lb/>range for their cattle being almost unbounded, they had abund-
+        <lb break="no"/>ance of leisure to contemplate the beauties and grandeur of na-
+        <lb break="no"/>ture—hence astronomy, and music, were cultivated, and <seg xml:id="a024" corresp="#n024">cha-
+          <lb break="no"/>racters</seg><note xml:id="n024" corresp="#a024"><term style="font-style: italic">Characters</term>: system for writing.</note> were invented in that age. The poets still sing of the 
+        <lb/>enjoyments of shepherds, and their scenes are laid at that pe-
+        <lb break="no"/>riod of time.
+      </p>
+      <p>
+        Indeed the pastoral life was infinitely superior to the life of a 
+        <lb/>hunter, which preceded it, or to the more stormy scenes which 
+        <lb/>followed after—during the life of a hunter one man was suffi-
+        <lb break="no"/>cient for every square mile, but during the pastoral life 20 might 
+        <lb/>be maintained on the same spot.
+      </p>
+      <cb/>
+      <p>
+        A greater increase of population in either of these stages, 
+        <lb/>brought on <choice><sic>proverty</sic><corr>poverty,</corr></choice> contentions and war—in a few hundred 
+        <lb/>years that event took place—the population became too nume-
+        <lb break="no"/>rous for their manner of life, and they were also liable to fre-
+        <lb break="no"/>quent invasions, for the sake of plunder, from their neighbours. 
+        <lb/>The first evil that shewed itself, springing from the system of 
+        <lb/>separate property, was, that the people in the interior not being 
+        <lb/>liable to be plundered, would not march to assist their brethren 
+        <lb/>on the coast. Neither would those on the one coast move to 
+        <lb/>the assistance of those on the other. As long as a man’s own 
+        <lb/>property was safe, he gave himself no cares about his neighbors. 
+        <lb/>In the mean while  population increased—poverty and want was 
+        <lb/>the consequence. While these things were going forward, a 
+        <lb/>fortunate event took place, which should be recorded as a re-
+        <lb break="no"/>markable æra in the history of man. A few invaders from the 
+        <lb/>continent, had taken possession of a corner of the island, both 
+        <lb/>as a shelter from the islanders and the ravagers from the main; 
+        <lb/>but being destitute of herds or flocks, and well knowing that 
+        <lb/>if they attempted to supply themselves by depredations, the 
+        <lb/>consequence would be a certain extermination—they therefore 
+        <lb/>attempted to multiply, by art, the fruits and herbs which the 
+        <lb/>peninsula spontaneously produced—their success surpassed their 
+        <lb/>most sanguine expectation, insomuch, that the Lithconians, who 
+        <lb/>had not yet turned up the <seg xml:id="a025" corresp="#n025">glebe,</seg><note xml:id="n025" corresp="#a025"><term style="font-style: italic">Glebe</term>: soil, though by 1802 this usage was mostly poetic and archaic.</note> and who were consequently 
+        <lb/>in want of such articles, made the generous and noble proposal 
+        <lb/>of exchanging the skins of animals for the fruits and herbage 
+        <lb/>of the peninsulians. What a pity that the name of these in-
+        <lb break="no"/>habitants of the peninsula was not transmitted to after times—
+        <lb/>but it is probable they had no name as a distinct people, but re-
+        <lb break="no"/>tained that of their ancestors on the continent, until they mixed 
+        <lb/>with the Lithconians, which it is probable they very soon did. 
+        <lb/>Those events, which have produced the greatest revolutions in 
+        <lb/>the affairs of mankind, and have shewn man under a variety of 
+        <lb/>aspects, which have sunk his character sometimes below the 
+        <lb/>brutes, and at other times elevated him above the angels, (if 
+        <lb/>there are such beings)—having been considered of little mo-
+        <lb break="no"/>ment at the time they happened, the actors have been suffered 
+        <lb/>to sink into oblivion, and future historians have passed them 
+        <lb/>over in silence. Thus we have to lament our ignorance of the 
+        <lb/>people and time when those two important events occurred, the 
+        <lb/>first ploughing of the earth, and the introduction of barter.
+      </p>
+      <p>
+        The present age will hardly believe, that upwards of thirty 
+        <lb/>millions of years had passed away, before tillage or barter could 
+        <lb/>be introduced among men, though they had frequently been 
+        <lb/>suggested and recommended for experiment, by wise men in 
+        <lb/>different ages; several millions of years before necessity, situation 
+        <lb/>and peculiar circumstances, brought them into use.
+      </p>
+      <p>
+        The historians then proceed to shew the happiness and flou-
+        <lb break="no"/>rishing state of <placeName>Lithconia</placeName>, and the increase of population; as 
+        <lb/>also the evils that were averted from that country by the intro-
+        <lb break="no"/>duction of barter and tillage, and the union of the agricultural 
+        <lb/>and pastoral life. Still they have to lament and describe other 
+        <lb/>evils springing up out of the system of separate property and 
+        <lb/>the silly means that were taken, from time to time, to patch up 
+        <lb/>that system. It was too common for children to fall out about 
+        <lb/>the lands and other property of their deceased parents; and it 
+        <lb/>is equally curious to observe the various customs that were adopt-
+        <lb break="no"/>ed, and grew up, in different parts of the island. At first, the 
+        <lb/>females were heirs to all the property of the deceased, and the 
+        <lb/>youngest son was heir to the homestead, or dwelling house—be-
+        <lb break="no"/>cause it was thought that the females and the youngest son 
+        <pb/>
+        <lb/>would generally be incapable of acquiring property, whereas 
+        <lb/>the eldest, while there was land uncultivated, might easily ac-
+        <lb break="no"/>quire by their greater experience and strength, new acquisitions
+        <lb/>—and this plan succeeded very well while there was land ca-
+        <lb break="no"/>pable of improvement, and in cases where the females or 
+        <lb/>youngest son had arrived at the age of maturity, and were ca-
+        <lb break="no"/>pable of managing the property; but where that was not the 
+        <lb/>case, and the elder sons obliged to take care of the property for 
+        <lb/>the helpless younger branches of a family, they generally em-
+        <lb break="no"/>bezzled or gave a very bad account to their wards.
+      </p>
+      [<head style="text-align:center">[To be continued.]</head>
+        </body>
+      </text>
+    
+      <text corresp="#975.07">
+        <body>
+      <p>
+        <seg xml:id="a026" corresp="#n026">Innumerable</seg><note xml:id="n026" corresp="#a026">The following installment appeared in the <date when="1802-06-26">June 26, 1802</date> issue.</note> 
+          were the laws and regulations made, from time 
+        <lb/>to time, respecting the rights of individuals to separate property, 
+        <lb/>insomuch that no man knew his own right. From hence a 
+        <lb/>new order of beings sprung up, who, under the pretence of ex-
+        <lb break="no"/>plaining their rights, acquired an authority over the lives and 
+        <lb/>property of their fellow men, which nearly deprived them of 
+        <lb/>all right. In those days the acquisition of property was every 
+        <lb/>thing, and the cunningest knave was the best man.
+      </p>
+      <p>
+        Such was the progress of evil which arose out of the system 
+        <lb/>of separate estates, that nine-tenths of mankind groaned un-
+        <lb break="no"/>der the most oppressive tyranny, labouring from morning till 
+        <lb/>night for a poor and scanty diet, and hardly clothes to protect 
+        <lb/>them from the inclemency of the seasons, while the other tenth 
+        <lb/>enjoyed every luxury, and rioted in waste and profusion.
+      </p>
+      <p>
+        But as wealth and property was the object of every man’s 
+        <lb/>pursuit, it was, sometimes, hardly gained before it was snatched 
+        <lb/>away by another more dexterous knave; so that it was no un-
+        <lb break="no"/>frequent thing to see the man of affluence reduced to poverty, 
+        <lb/>and the poor man elevated above the necessity of labour, which 
+        <lb/>begat an habit of idleness, which begat disease. The wise man 
+        <lb/>was the slave of a fool, and an idiot commanded the man of 
+        <pb/>
+        <lb/>talents. All these evils were ascribed to fortune, or to the 
+        <lb/>gods; and no man dreamt of its being the effects of the sys-
+        <lb break="no"/>tem of separate property, agreed to at first by fools, and con-
+        <lb break="no"/>tinued by knaves. However, if the system had been compleat 
+        <lb/>in all its parts, the evils resulting from it would not have been 
+        <lb/>so terrible. This will be better understood by the following 
+        <lb/>explanation. 
+      </p>
+      <p>
+        When nations enjoyed their patrimony in common, during 
+        <lb/>the age of innocence, and while they continued to be hunters, 
+        <lb/>they were then merely numerical societies without any local 
+        <lb/>boundaries—their divisions were into tribes, families and indi-
+        <lb break="no"/>viduals; and the duties of each were prescribed, without any 
+        <lb/>regard to place; but when the division of land and separate pro-
+        <lb break="no"/>perty commenced, each nation lost its numerical character, or 
+        <lb/>boundary, and assumed a local one. The divisions and subdi-
+        <lb break="no"/>visions were also of necessity local, but the misfortune was, that 
+        <lb/>they retained the family division, which is a numerical one.—
+        <lb/>This ought not to have been done. In a local society or go-
+        <lb break="no"/>vernment, there should be no numerical division—nor in a nu-
+        <lb break="no"/>merical society should there be any local section.
+      </p>
+      <p>
+        By this inadvertency in their first institutions, nine-tenths of 
+        <lb/>the families were excluded from any local inheritance, and the 
+        <lb/>whole country was in possession of the other tenth.
+      </p>
+      <p>
+        When tribes was the division under the numerical govern-
+        <lb break="no"/>ment, all the children born in the tribe <choice><sic>was</sic><corr>were</corr></choice> maintained and 
+        <lb/>educated out of the public stock of the tribe: but when local 
+        <lb/>governments took place by the division of the land, then fami-
+        <lb break="no"/>lies were left to shift for themselves, and children remained a 
+        <lb/>heavy burthen on parental affection. Nature has, indeed, made 
+        <lb/>that affection very powerful; but sometimes it has sunk under 
+        <lb/>the weight imposed on it, by this abominable institution. It is 
+        <lb/>fine talking of a social compact, where a pair, who have eight 
+        <lb/>or ten children, are obliged to provide for them all; and where 
+        <lb/>the society, local or numerical, to which that family is said to 
+        <lb/>belong, takes no share in their burthen. As far as it respects 
+        <lb/>them, it is a dissolution of the social compact, and they would 
+        <lb/>have been justified before God, if they had committed depre-
+        <lb break="no"/>dations upon such an ill-organized society.
+      </p>
+      <p>
+        After a long term of years and infinite wretchedness, the 
+        <lb/>loud cry of nature was, in some degree, attended to, and a par-
+        <lb break="no"/>tial return to reason took place, in certain districts, and the ex-
+        <lb break="no"/>treme of misery was, in a small degree, relieved by private and 
+        <lb/>public institutions. The poor contributed to the support of 
+        <lb/>the poorest: but the rich, who governed every thing, made a 
+        <lb/>great shew of charity, without doing any real good—the bread 
+        <lb/>was by them snatched from the mouth of the indigent, that 
+        <lb/>part of it might be returned in ostentatious alms.
+      </p>
+      <p>
+        This misery and distress of families, prevented prudent peo-
+        <lb break="no"/>ple from entering into the state of matrimony, and by this 
+        <lb/>means half the women were thrown into a state of prostitution, 
+        <lb/>disease and infamy—Which, however distressing such a life must 
+        <lb/>be, it was often preferred to the still more miserable condition 
+        <lb/>of being obliged to support a large family of children.
+      </p>
+      <p>
+        In those miserable times, when men saw the innumerable 
+        <lb/>evils with which they were surrounded, they could not help in-
+        <lb break="no"/>quiring sometimes into the cause of it; and it astonishes the 
+        <lb/>Lithconians that their ancestors were so stupid as not to disco-
+        <lb break="no"/>ver, with a very little reflection, that those evils sprung out of 
+        <lb/>the division of property. But their wonder ought to cease 
+        <lb/>when it is known, that the rich actually paid and maintained an 
+        <lb/>order of men to teach the people, that all the evils which afflict 
+        <cb/>
+        <lb/>the generations of men were appointed by God the Supreme 
+        <lb/>Ruler,—that a little good, mixed with a great deal of evil, had 
+        <lb/>always been, and always would be, the lot of humanity; so 
+        <lb/>that it was of no use to repine, or study how to avoid that 
+        <lb/>which was unavoidable. To make this matter more feasible to 
+        <lb/>the wretched poor, these hired deceivers told them, that the 
+        <lb/>possession of wealth was the cause of still more misery—that 
+        <lb/>the poor had many enjoyments, whereas with riches it was im-
+        <lb break="no"/>possible to be happy; and, to crown all, they pretended to re-
+        <lb break="no"/>ceive these hellish doctrines from God himself.
+      </p>
+      <p>
+        That such a state of things was permitted for a time, by the 
+        <lb/>Almighty, is not to be denied; but since we have seen, that the 
+        <lb/>happiness of man, in society, altogether depends upon their own 
+        <lb/>wisdom in organizing their communities, and forming their in-
+        <lb break="no"/>stitutions, and that God has provided no other means but the 
+        <lb/>united wisdom and reason of men to work out their happiness 
+        <lb/>on earth, it must be highly criminal in those who obstruct its 
+        <lb/>operation and prevent the full exercise of reason and enquiry.
+      </p>
+      <p>
+        However, to shew that this state of things was not useless, 
+        <lb/>and that although mind was fettered in one way, it had free 
+        <lb/>scope in others. This was the age in which the genius and 
+        <lb/>powers of the mind were displayed more than in any other—
+        <lb/>It might be very properly termed, the age of invention—So 
+        <lb/>many thousands of families without any inheritance were con-
+        <lb break="no"/>tinually striving to make the most of their ingenuity and wit, 
+        <lb/>and it would fill a volume itself to describe the various means 
+        <lb/>by which men of genius converted everything to their use—
+        <lb/>the wealth of the rich and the labour of the industrious.
+      </p>
+      <p>
+        It is certain that the Lithconians, with all their system of 
+        <lb/>equality, are indebted for the principal part of their enjoyments, 
+        <lb/>and even their art of government, to the state of things we are 
+        <lb/>now speaking of. It was evidently a link in that great chain 
+        <lb/>of events, which is certainly drawing mankind to a state of hap-
+        <lb break="no"/>piness on earth. It had been a dogma of the schools, that God 
+        <lb/>created the world out of nothing, by the word of his power, 
+        <lb/>and for this reason they have complained against their Maker, 
+        <lb/>because all his operations are not performed in the same manner, 
+        <lb/>because in many cases, especially in that of the perfection of 
+        <lb/>the social system, he has employed the agency of finite beings; 
+        <lb/>because his purposes are to be accomplished by wisdom, acquired 
+        <lb/>by experience, which necessarily supposes time. Nature is a 
+        <lb/>wonderful machine, put in motion by immense power, and all 
+        <lb/>its operations are consequently precognizable by that wis-
+        <lb break="no"/>dom which contrived it. But they would change this ad-
+        <lb break="no"/>mirable order, and have a nature which, like an instrument in 
+        <lb/>the hands of power, might be used to correct the general prin-
+        <lb break="no"/>ciples of being.—The Lithconians are contented to use 
+        <lb/>the means which God hath appointed to accomplish human hap-
+        <lb break="no"/>piness, namely, the united reason of man; and, finding that suf-
+        <lb break="no"/>ficient, smile at their forefathers for expecting any immediate in-
+        <lb break="no"/>terference of the Gods.
+      </p>
+      <p>
+        But what gave me the most entertainment in this part of the 
+        <lb/>history, while it made me blush at the folly of the times, was, 
+        <lb/>the absurdity, not to say criminality of some of their laws.
+      </p>
+      <p>
+        It was difficult for me to conceive the design of some of 
+        <lb/>them; but I could easily discover that the greater part were 
+        <lb/>framed for the purpose of keeping the power in the hands of 
+        <lb/>those who governed, and seldom with any view to the public 
+        <lb/>happiness.
+      </p>
+      <p>
+        It was strictly forbidden for any person to scratch, however 
+        <lb/>he might itch, without permission; and it was held infamous to 
+        <pb/>
+        <lb/>perform the necessary evacuations before a certain hour in the 
+        <lb/>day. In some places no person was admitted to eat flesh till 
+        <lb/>they arrived at a certain age, and whatever kind of meat was 
+        <lb/>chosen at the first time, must be the person’s food for life, how-
+        <lb break="no"/>ever it might disagree with the appetite—This meat was also 
+        <lb/>chosen without tasting, and frequently without seeing it. It is 
+        <lb/>not difficult to conceive the innumerable evils that must follow 
+        <lb/>from such an obvious opposition to the principles of nature—
+        <lb/>But what appeared worst of all, was, that few of their laws ex-
+        <lb break="no"/>tended to every member of the community, and notwithstand-
+        <lb break="no"/>ing there were laws prohibiting murder, robbery, larceny, swin-
+        <lb break="no"/>dling, cheating, extortioning and idleness, yet there were vari-
+        <lb break="no"/>ous classes of men who were licensed to commit these crimes—
+        <lb/>For example, there was a class of privileged murderers, who 
+        <lb/>were held in high estimation and honour—another class of 
+        <lb/>avowed robbers, equally respected. The class of swindlers were 
+        <lb/>very numerous, and lived in great pomp. The cheats were 
+        <lb/>looked up to with the most profound reverence and holy fear. 
+        <lb/>And the extortioners, as they were only licensed from year to 
+        <lb/>year, though they were not considered so honorable as the other 
+        <lb/>classes, yet held a considerable rank in the country, and as it 
+        <lb/>was a lucrative trade, and raised the envy of the other classes, 
+        <lb/>the journeymen murderers were frequently quartered upon 
+        <lb/>them; to keep the one down, and raise the spirits of the others; 
+        <lb/>for murder was but a lean trade, though it was, of all others, 
+        <lb/>the most honourable, and was also a proof of honour—for if a 
+        <lb/>murderer’s honor was called in question, he had only to ap-
+        <lb break="no"/>point a time, when he would, before witnesses, murder or be 
+        <lb/>murdered, to prove how very honorable he was.
+      </p>
+      <p>
+        To support, and do greater honor to these classes of men, se-
+        <lb break="no"/>vere punishments were inflicted upon those, who, in any manner, 
+        <lb/>degraded, dishonored, or opposed their interest. For example, 
+        <lb/>when the class of murderers was required to be filled up, if a 
+        <lb/>man refused to join them he was put in prison, and otherwise 
+        <lb/>severely handled, till at last he was forced to comply; and if 
+        <lb/>afterwards any qualms of conscience should happen to seize 
+        <lb/>him, and he was induced to run away from a scene of iniquity 
+        <lb/>which would have harrowed up the soul of a reasonable being, 
+        <lb/>he was, for the first offence, flogged most severely, and shot for 
+        <lb/>a coward for the second.
+      </p>
+      <p>
+        As an encouragement to the licensed extortioners who dealt 
+        <lb/>in the necessary article of drink, other people who were con-
+        <lb break="no"/>tented with a reasonable profit, were prohibited from selling it 
+        <lb/>in small quantities to the poor, under severe penalties, which 
+        <lb/>ruined many an industrious honest man.
+      </p>
+      <p>
+        As the deceivers could only be detected by the free use of 
+        <lb/>reason and investigation, this faculty was cried down as danger-
+        <lb break="no"/>ous to civil society; and, <emph style="font­-style: italic">doubt</emph>, that state of the mind which 
+        <lb/>calls forth the exercise of reason, was threatened with eternal 
+        <lb/>punishment. In short, every person was deterred by temporal 
+        <lb/>or eternal punishments, either by the laws of fools or the preju-
+        <lb break="no"/>dices created by knaves, from using the faculties given him by 
+        <lb/>the God of nature, to discover the tricks of the class of decei-
+        <lb break="no"/>vers. As for the public robbers, that class of privileged thieves, 
+        <lb/>pretending as they did, to rob by rule, and steal under the sanc-
+        <lb break="no"/>tion of law, having also the whole class of murderers at their 
+        <lb/>nod, it was in vain to resist them.
+      </p>
+      <p>
+        There must have been a wonderful sympathy between those 
+        <lb/>classes—they cherished and protected each other with a zeal 
+        <lb/>which astonishes; and as all the officers of government and 
+        <lb/>legislators were generally in one or other of these classes, we 
+        <cb/>
+        <lb/>need not be surprized that their laws were numerous, and all 
+        <lb/>calculated for the benefit and protection of themselves.
+      </p>
+      <p>
+        But the idlers, the most powerful and influential class in the 
+        <lb/>state, because they possessed all the land, was, perhaps, of all 
+        <lb/>others, the most pernicious and destructive—they were the can-
+        <lb break="no"/>ker worms which preyed upon the vitals of the people—they 
+        <lb/>were protected in the high privilege of doing nothing, by a va-
+        <lb break="no"/>riety of statutes, denominated poor laws, and laws against va-
+        <lb break="no"/>gabonds. It was highly criminal in any person not of this class 
+        <lb/>to turn <seg xml:id="a027" corresp="#n027">vagabond.</seg><note xml:id="n027" corresp="#a027"><term style="font-style: italic">Vagabond</term>: a homeless person who moves from place to place.</note> They were right in one respect, for no state 
+        <lb/>can maintain many of these.
+      </p>
+      <p>
+        In those days, men were so ignorant as to believe, that this 
+        <lb/>class had no right to work, or any social duties to perform, and 
+        <lb/>when any of them yielded to this dictate of nature, it was con-
+        <lb break="no"/>sidered as an extraordinary act of virtue and uncommon merit.
+      </p>
+        </body>
+      </text>
+    
+      <text corresp="#975.08">
+        <body>
+        <p>
+          <seg xml:id="a028" corresp="#n028">We</seg><note xml:id="n028" corresp="#a028">The following installment appeared in the <date when="1802-07-03">July 3, 1802</date> issue, with the added notation “Concluded.”</note> 
+            shall now hasten to that part of the history which gives 
+          <lb/>an account of the revolutions which led them to the genuine 
+          <lb/>system of property. It appears, as has been already observed, 
+          <lb/>that for many thousands of years there had been always men 
+          <lb/>of superior talents, who considered all the evils, with which 
+          <lb/>they saw themselves surrounded, had certainly their origin in 
+          <lb/>the folly of human institutions; and, that the remedy was 
+          <lb/>within the powers of human reason, if it could only be exerted 
+          <lb/>to that end. But these men were continually watched, and 
+          <lb/>persecuted, by the privileged classes above mentioned; and, 
+          <lb/>particularly, by the class of deceivers, who were urged on by the 
+          <lb/>robbers, and abetted by the swindlers, &amp;c.
+        </p>
+        <p>
+          Nothwithstanding the intelligent class saw the pernicious ten-
+          <lb break="no"/>dency of the others, their artillery was directed only against 
+          <lb/>the deceivers, by this means the other classes, not seeing them-
+          <lb break="no"/>selves attacked, either stood neutral, or joined the intelligent 
+          <lb/>class. The deceivers, thus abandoned, soon lost their influence, 
+          <lb/>and the lies by which they had imposed upon mankind, were 
+          <lb/>every day detected. No sooner was the power of the deceivers 
+          <lb/>abridged and investigation laid open, in some measure, to the 
+          <lb/>people, than they began to suspect the class of public robbers; 
+          <lb/>and the men of intelligence, seeing the people on their side, 
+          <lb/>took courage, called in question their right of plunder; and, 
+          <lb/>what was fortunate for them was, that the murderers took part 
+          <lb/>against the robbers, and their power was also very much cur-
+          <lb break="no"/>tailed, though the class still had an existence, and continued to 
+          <lb/>commit great depredations on the community.
+        </p>
+        <p>
+          The intelligent class now became so formidable, and were so 
+          <lb/>much respected by the people, as to create a considerable alarm 
+          <lb/>in the minds of the privileged orders, but it was too late; rea-
+          <lb break="no"/>son could not be made to take a retrograde movement, but she 
+          <lb/>unfortunately became stationary, for a considerable time.
+        </p>
+        <p>
+          It appeared then, even to the most intelligent, that every 
+          <lb/>thing depended on the form of government. One form, namely 
+          <lb/>monarchy, was universally condemned; but it was not so clearly 
+          <lb/>seen what would produce the happiest result, and lead the hu-
+          <lb break="no"/>man to a state of felicity, suitable to their nature. Long 
+          <lb/>after it was acknowledged, that men had the right of self-go-
+          <lb break="no"/>vernment, the privileged classes (which still continued to exist, 
+          <lb/>though not to be so formidable) were afraid of trusting men with 
+          <lb/>that power, to its full extent.
+        </p>
+        <p>
+          Certain fundamental principles of government, or what was 
+          <lb/>then called constitutions, were not to be touched or altered, but 
+          <lb/>at certain periods by select individuals, and much formality,—
+          <pb/>
+          <lb/>whatever might be the general opinion concerning them; and, 
+          <lb/>as we have mentioned in the first part of this work, notwith-
+          <lb break="no"/>standing they considered these constitutions, or forms of go-
+          <lb break="no"/>vernment, as the foundation of human happiness, it was not 
+          <lb/>easy to please the privileged classes in this particular; and, 
+          <lb/>therefore, we find them often changed without ever producing 
+          <lb/>any considerable alteration on the sum of human happiness.—
+          <lb/>Public plunder was still carried on—The murderers indeed were 
+          <lb/>not so often employed, but they were still a separate class, and 
+          <lb/>treated with respect. The swindlers did more business than 
+          <lb/>ever, living on the contentions naturally bred out of the system 
+          <lb/>of separate property. The idlers were still as numerous, so that 
+          <lb/>the only benefit that accrued, for a long time, was the humi-
+          <lb break="no"/>liation of the deceivers, and the elevation of the mortal ene-
+          <lb break="no"/>mies of all the classes, the intelligent beings<choice><sic>,</sic><corr>.</corr></choice>
+        </p>
+        <p>
+          After having experienced the truth of these lines of a cele-
+          <lb break="no"/>brated poet, 
+        </p>
+          <p><floatingText>
+            <body>
+              <emph style="font­-style: italic">For forms of government let fools contest—
+                Whate’er is best administered is <seg xml:id="a029" corresp="#n029">best.</seg></emph><note xml:id="n029" corresp="#a029">The author here quotes <persName>Alexander Pope</persName>, <bibl>“An Essay on Man”</bibl> (<date when="1733">1733</date>), Epistle III, lines 302-03.</note>
+            </body>
+          </floatingText>
+          <lb/>The world seemed to be satisfied, that election and representa-
+          <lb break="no"/>tion, and a total annihilation of the class of deceivers, if not 
+          <lb/>the best possible form, would ultimately lead to it.—Accord-
+          <lb break="no"/>ingly, men of intelligence having seen this point gained, were 
+          <lb/>determined to try the strength of reason, and to mark its ef-
+          <lb break="no"/>fects, in changing the condition of human society. It was soon 
+          <lb/>discovered, that a great portion of the evils of which mankind 
+        <lb/>complain, lurked under the laws, unperceived, and unquestion-
+        <lb break="no"/>ed, by reason of the sacred character they had assumed. Rea-
+        <lb break="no"/>son would have nothing sacred, she now entered boldly into the 
+        <lb/>sanctuary of the law, as she had before done into the sanctuary 
+        <lb/>of the deceivers. Every law which militated against the eter-
+        <lb break="no"/>nal principles of justice and reason was proscribed, and it was 
+        <lb/>thought better to have no rule of conduct than one which ad-
+        <lb break="no"/>mitted uncertainty or doubt; and it was founded upon this 
+        <lb/>principle, that where there is no law there is no transgression.—
+        <lb/>Jurors began to give in their verdict, in these words,—“<emph style="font­-style: italic">The 
+          <lb/>law is silent</emph>” —or when the first lawyers of the country dis-
+        <lb break="no"/>covered a diversity of opinion, by long harangues, and nume-
+        <lb break="no"/>rous quotations, the jury was sure to bring in a verdict of, <emph style="font­-style: italic">The 
+          <lb/>law is obscure</emph>, from which verdict no judge could pass a sentence 
+        <lb/>of punishment. Such conduct frequently occurring, among ra-
+        <lb break="no"/>tional jurors, had two good effects; first, to make legislators 
+        <lb/>more attentive and correct; and second, to banish from the bar, 
+        <lb/>that host of swindlers who had been so long fanning the flames 
+        <lb/>of discord, and living on the contentions of their fellow citi-
+        <lb break="no"/>zens. It was not long after the class of swindlers had been 
+        <lb/>swept from the courts of justice, and the legislators had simpli-
+        <lb break="no"/>fied the laws, before the inutility of the judges themselves was 
+        <lb/>apparent, and jurors, as has been mentioned in the first parts of 
+        <lb/>this work, were found adequate to all the purposes of distribu-
+        <lb break="no"/>tive justice.
+          </p>
+      <p>
+        In those days it seemed to be the first object in the attention 
+        <lb/>of intelligent men, to endeavor, with all their might, to bring 
+        <lb/>law and justice into union; and the genuine system of property 
+        <lb/>began to be spoken of, as no visionary phantom, but as a <emph style="font­-style: italic">good</emph>, 
+        <lb/>which might be realized. Philosophers mentioned it in terms 
+        <lb/>of approbation, and the people listened with attention: but the 
+        <lb/>class of idlers, which was the only formidable class that re-
+        <lb break="no"/>mained, was its bitter and avowed enemies.
+      </p>
+        <cb/>
+        <p>
+          Every man of reflection, saw that a revolution in the system 
+          <lb/>of property of such magnitude, could not be accomplished 
+          <lb/>without great difficulty, and hazarding the peace of society, 
+          <lb/>and the wisest were puzzled to find an opening that would ad-
+          <lb break="no"/>mit an entering wedge. But when men are zealous in a cause, 
+          <lb/>and never lose sight of the darling object, occasions will present 
+          <lb/>themselves which would otherwise be overlooked, and which 
+          <lb/>the attentive and intelligent observer seizes with avidity.—
+          <lb/>When by the force of the elective principle the people had 
+          <lb/>placed men of intelligence, their steady friends, into the legis-
+          <lb break="no"/>lature, it became a maxim, that as long as moral evil existed, a 
+          <lb/>government could not be called the best possible; it was presum-
+          <lb break="no"/>able that there was still occasion for the exertion of his facul-
+          <lb break="no"/>ties, and that it was folly to look beyond the moon, for reme-
+          <lb break="no"/>dies which, if infinite wisdom rules on high, must be placed 
+          <lb/>within his grasp.
+        </p>
+        <p>
+          The evils which called forth the attention of the men of 
+          <lb/>those times, and produced considerable agitation, was the care 
+          <lb/>society as such, ought to take of the aged, the lunatic, the wi-
+          <lb break="no"/>dow, orphan, illegitimate children and their mothers, and 
+          <lb/>finally, to put an end to prostitution, and the diseases which ac-
+          <lb break="no"/>company it. It was proposed that an adequate provision should 
+          <lb/>be made, by law, for people reduced to the above circumstances; 
+          <lb/>and the idlers, fearing that the burden should principally fall on 
+          <lb/>this class, wished to have no alteration or innovation upon the 
+          <lb/>ancient practice, or if anything was done, it should be by a tax 
+          <lb/>that should operate equally upon the citizens; and as for the 
+          <lb/>mothers of illegitimate children and their offspring, and the 
+          <lb/>whole host of prostitutes and their encouragers, nothing but the 
+          <lb/>severest punishment, said they, could put a stop to the growing 
+          <lb/>evil, which, it is true, had encreased to an alarming degree, ever 
+          <lb/>since the threatenings of eternal punishment had ceased with 
+          <lb/>the class of deceivers.
+        </p>
+        <p>
+          On the contrary it was insisted on, by the intelligent, that 
+          <lb/>society were bound to relieve every kind of distress, brought on 
+          <lb/>by the operations of nature—That getting children was an ir-
+          <lb break="no"/>resistible dictate of nature, and ought not to be held as a crime, 
+          <lb/>or subject to punishment; that prostitution was an <seg xml:id="a030" corresp="#n030">excrescence</seg><note xml:id="n030" corresp="#a030"><term style="font-style: italic">Excrescence</term>: outgrowth.</note> 
+          <lb/>from a bad law, which would perish when the law which gave 
+          <lb/>it being, ceased to exist: and in order to find a stepping stone 
+          <lb/>by which the river might be crossed, it was proposed, instead of 
+          <lb/>a tax, that the laws of descent should be altered, and the bene-
+          <lb break="no"/>fits arising therefrom, extending to those objects of, what was 
+          <lb/>then called, charity. In a word, the law of descent was con-
+          <lb break="no"/>fined to the descendant in a <seg xml:id="a031" corresp="#n031">right line;</seg><note xml:id="n031" corresp="#a031"><term style="font-style: italic">Right line</term>: direct descent from the father’s line.</note> and those of a collate-
+          <lb break="no"/>ral branch were cut off from the succession.
+        </p>
+        <p>
+          It was therefore enacted, that all real and personal estates 
+          <lb/>which had no heirs in a right line should be vested in the na-
+          <lb break="no"/>tion for the benefit of that description of people above enume-
+          <lb break="no"/>rated, whom the ancient institutions had abandoned to chance, 
+          <lb/>to infamy, or at best, to a miserable and scanty subsistence.
+        </p>
+        <p>
+          The natural operation of this law, in a short time, made an 
+          <lb/>ample provision for those who had before been the outcasts of 
+          <lb/>society. It had also that effect, which was foreseen by the 
+          <lb/>promoters of it, namely, to prevent young women of no for-
+          <lb break="no"/>tune from entering into the state of matrimony,—they saw 
+          <lb/>that themselves and their offspring would be treated with more 
+          <lb/>care and attention, from that fund, than they possibly could be, 
+          <lb/>by the industry of the best man that ever existed—from that 
+          <pb/>
+          <lb/>moment there were few marriages, except among the rich—so 
+          <lb/>that while the funds were increasing, the objects which it was 
+          <lb/>destined to support were increasing also.
+        </p>
+        <p>
+          At the commencement of this institution, these bastards were 
+          <lb/>put apprentices to mechanical arts, at the age of 15; at 21 a 
+          <lb/>handsome sum was bestowed on them to begin the world; but, 
+          <lb/>as it frequently happened, that these young people saw their 
+          <lb/>children educated under the same institution, and whatever for-
+          <lb break="no"/>tunes they might gain in life naturally, or rather lawfully de-
+          <lb break="no"/>scended to the same fund—they procured a law by which they 
+          <lb/>were permitted to remain attached to the institution from this 
+          <lb/>period, that part of the community who possessed separate pro-
+          <lb break="no"/>perty, were every year diminishing in number, and they saw 
+          <lb/>themselves subjected to a thousand cares and anxieties from 
+          <lb/>which those who lived in common were totally exempt; while 
+          <lb/>at the same time all the riches and property of the nation was 
+          <lb/>running with a rapid current into the aggregate fund.
+        </p>
+        <p>This state of society is described by the historians as being 
+          <lb/>very stormy and factious; when the two parties became nearly 
+          <lb/>balanced, the separate property-men who still had the go-
+          <lb break="no"/>vernment in their hands, and being pressed for money, as all 
+          <lb/>such governments are, proposed to seize upon the aggregate 
+          <lb/>property, and sell it, as they said, for the benefit of the nation. 
+          <lb/>But the equal right men who had laboured indefatigably to 
+          <lb/>render the aggregate fund beneficial to those, whom the law 
+          <lb/>had placed under its protection, were convinced that it would 
+          <lb/>be better for mankind, and produce a greater sum of happiness, 
+          <lb/>if all the property in the community were under like regulati-
+          <lb break="no"/>ons, and many men of intelligence, though possessed of great 
+          <lb/>fortunes, thought it to their advantage, to sink it in the aggre-
+          <lb break="no"/>gate fund, rather than expose their children to the caprice of 
+          <lb/>fortune. These contentions continued for many years—in the 
+          <lb/>mean while the families possessing separate property were grow-
+          <lb break="no"/>ing fewer in number: they saw themselves loaded with a thou-
+          <lb break="no"/>sand anxieties, from which those who lived under the genuine 
+          <lb/>system of property were totally exempt. Pride, however, for 
+          <lb/>a long time, prevented them from joining the institution, and 
+          <lb/>the same pride pushed on the society to take every step which 
+          <lb/>should render the members of it comfortable and happy.
+        </p>
+        <p>
+          To give retirement and peace to the aged, every person after 
+          <lb/>the age of 60, was exempted from duty: and to give wisdom 
+          <lb/>and experience to their councils, the principle of election was 
+          <lb/>laid aside for that of seniority, which had an effect, not at first 
+          <lb/>foreseen, that of producing almost perfect unanimity.
+        </p>
+        </body>
+      </text>
+    </group>
+  </text>
+</TEI>

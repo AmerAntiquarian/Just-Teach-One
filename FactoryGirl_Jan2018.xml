@@ -1,0 +1,1783 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:svg="http://www.w3.org/2000/svg"
+	xmlns:math="http://www.w3.org/1998/Math/MathML"
+	xmlns="http://www.tei-c.org/ns/1.0"
+	xmlns:html="http://www.w3.org/1999/xhtml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Factory Girl</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Published by the American Antiquarian Society's Just Teach One Initiative.</p>
+      </publicationStmt>
+      <sourceDesc xml:id="aas306456">
+        <biblStruct>
+          <monogr>
+            <author>
+              <persName>Anonymous</persName>
+            </author>
+            <title>The Factory Girl</title>
+            <edition url="http://catalog.mwa.org/vwebv/holdingsInfo?bibId=306456"/>
+            <idno type="aas">306456</idno>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text corresp="#aas306456">
+    <front>
+      <titlePage type="main">
+        <docTitle>
+          <titlePart style="text-transform: uppercase"> THE <lb/>FACTORY <lb/>GIRL. </titlePart>
+        </docTitle>
+        <docRole type="author">
+          <respLine style="text-transform: uppercase">BY A LADY.</respLine>
+          <lb/>“The fruit of the spirit is love, joy, peace, long-suffering, gentleness, goodness,
+          faith, meekness, temperance.” <seg xml:id="a001" corresp="#n001"><emph
+              style="font­-style: italic"><persName>St. Paul</persName></emph>.</seg><note
+            xml:id="n001" corresp="#a001">Galatians 5:22-23.</note>
+        </docRole>
+
+        <docImprint>
+          <p>
+            <emph style="font­-style: italic"><pubPlace>BOSTON</pubPlace>:</emph>
+          </p>
+          <p>
+            <docRole type="printer" style="text-transform: uppercase"> PUBLISHED BY
+                <persName>MUNROE</persName>, <persName>FRANCIS</persName> &amp;
+                <lb/><persName>PARKER</persName>. <docDate when="1814">1814</docDate>
+            </docRole>
+          </p>
+          <p> NO. 4, CORNHILL. </p>
+        </docImprint>
+      </titlePage>
+    </front>
+
+
+    <body>
+      <p>
+        <head style="text-align:center"><date when="1814">1814</date>. <lb/>THE <lb/>FACTORY GIRL.
+          <lb/>CHAPTER I. </head>
+      </p>
+      <floatingText>
+        <body>
+          <p> The heart benevolent and kind <lb/>The most resembles God. </p>
+          <p>
+            <head style="text-align:right"><persName><seg xml:id="a002" corresp="#n002"
+                  >Burns</seg><note xml:id="n002" corresp="#a002">These are the final lines of the
+                  Scottish poet <persName>Robert Burns’s</persName> “A Winter
+                Night.”</note></persName>.</head>
+          </p>
+        </body>
+      </floatingText>
+
+      <div type="section">
+        <p> “I WILL go this morning, if you think <lb/>it best, and hear what <persName>Mr.
+            Crawford</persName>
+          <lb/>will say to me,” said <persName>Mary</persName> to her <lb/>grandmother as she stood
+          washing the <lb/>cups and saucers after breakfast. </p>
+        <p> “I don’t know what to say to it, my <lb/>dear;” replied <persName>Mrs.
+          Burnam</persName>; “for tho’ <lb/>this is your birth-day, and I have all along
+          <lb/>promised you, that when you were eigh- <lb break="no"/>teen you should have my
+          consent to try <lb/>to earn something; yet, when the time <lb/>comes, my heart misgives
+          me. It will, <lb/>indeed, it will, be a sad day to me when <lb/>you go into the factory;
+          for I shall be <pb/>
+          <lb/>thinking all the time, what your poor <lb/>father would say, were he alive, to have
+          <lb/>you get your bread in such a manner; <lb/>not but what he would love you the
+          <lb/>better for being industrious, and so du- <lb break="no"/>tiful to your grandmother;
+          for I know <lb/>it is not to get fine clothes for yourself, <lb/>but comforts for me, that
+          makes you so <lb/>desirous to go out to work: but I don’t <lb/>think he would consent. Oh
+          no, I <lb/>am sure he would not consent to your <lb/>being with people who were not good
+          <lb/>and serious. I never shall forget what <lb/>he said to me on his dying bed: ‘My
+          <lb/>dear mother,’ said he, ‘with all my hard <lb/>labour, I sha’n’t be able to leave you,
+          and <lb/>my poor little girl, very well in the <lb/>world; for though you own this little
+          <lb/>snug house, and the clever bit of land <lb/>about it, and have got along in times
+          <lb/>past, and been as good a liver, as most <lb/>of the neighbours of our standing, yet
+          <lb/>when I am gone you will find a differ- <lb break="no"/>ence; for you know I have
+          never hired <pb/>
+          <lb/>a stroke of work done, since father’s <lb/>death; and when you come to hire la- <lb
+            break="no"/>bour, you’ll find it will take from the <lb/>profits; the load of hay, that
+          I always <lb/>put by to sell for your niceties, must go <lb/>to pay wages.—It makes me
+          grieve <lb/>when I think of it, till it comes to my <lb/>mind that God has said, “Leave
+          thy <lb/>fatherless children, I will preserve them <lb/>alive; and let thy widows trust in
+            <seg xml:id="a003" corresp="#n003">me;”</seg><note xml:id="n003" corresp="#a003"
+            >Jeremiah 49:11</note>
+          <lb/>that kind promise comforts me, dear <lb/>mother.’ Here, <persName>Mary</persName>,
+          your poor, dear <lb/>father stopped, took both my hands, and <lb/>as he squeezed them in
+          his, gave as sweet <lb/>a smile as ever he did when he was well; <lb/>and there was such a
+          bright pleasant look <lb/>in his eyes, as I never saw before,—tho’ <lb/>he always had an
+          easy contented way of <lb/>looking,—and I am sure a cheerful good <lb/>child he was to me
+          from his birth. </p>
+        <p> “When he had squeezed my hands a <lb/>great while, he began again, and said:
+          <lb/>‘Though you will have to work hard, <lb/>mother, to get along, I know you will <pb/>
+          <lb/>contrive to spare time to teach <persName>Mary</persName>
+          <lb/>(as you did me) to read the Bible, and <lb/>to talk to her about what it contains.—
+          <lb/>Tell her, when she is old enough to un- <lb break="no"/>derstand you, that there was
+          nothing her <lb/>father took such delight in as the book <lb/>that lays on the little
+          round table: no, not <lb/>even in her, when she was a playing, <lb/>laughing baby, even
+          though she was a <lb/>great joy to my poor heart, after her <lb/>dear mother left me, whom
+          now I trust I <lb/>am going to live with forever.’—And <lb/>here again he gave such a
+          heavenly sort <lb/>of look as I never can forget; but he did <lb/>not stop, he went on and
+          said: ‘When <lb/><persName>Mary</persName> is grown up, she will, I am sure, <lb/>want to
+          return some of your goodness, <lb/>(for the knowledge of the Bible, that you <lb/>will
+          give her, will make her dutiful;) and <lb/>if she should incline to show her grati- <lb
+            break="no"/>tude, by earning something for you, you <lb/>will be careful, dear mother,
+          that she does <lb/>not work for any one, or with any body, <lb/>who is not good; for then
+          she may forget <lb/>her Bible, and your advice, and go astray <lb/>after all.’ </p>
+        <pb/>
+        <p> “How can I, my child, after all this, <lb/>that your father said to me,” cried
+            <persName>Mrs. <lb/>Burnam</persName>, “allow you to leave me?” </p>
+        <p> “I would not, dear grandmother,” <lb/>said <persName>Mary</persName>, “do any thing for
+          the world <lb/>to make you uneasy; or any thing you <lb/>think my father would dislike
+          were he <lb/>alive; but I cannot think even <emph style="font­-style: italic">he</emph>
+          would <lb/>have any objection to my working in <lb/>the factory. The young people there
+          <lb/>are much better than you suppose. <lb/><persName>Mr. and Mrs. Danforth</persName>
+          (who you <lb/>know are good judges of correct behav- <lb break="no"/>iour) have told me
+          there are some very <lb/>good girls who work there.” </p>
+        <p> “I know,” replied <persName>Mrs. Burnam</persName>, “we <lb/>ought not to judge people
+          by any one <lb/>particular action;—indeed we should <lb/>not judge the heart at all, for
+          we can’t <lb/>look into any body’s but our own; and, <lb/>perhaps some things, that appear
+          bad to <lb/>us, may be done with a very good mean- <lb break="no"/>ing. Just, you know, as
+          neighbour <persName>Blan- <lb/>chard</persName> thought our dear <persName>Mr. Dan-
+            <lb/>forth</persName> niggardly, till he found out, that <pb/>
+          <lb/>what he saved by not living away show- <lb/>ily, as too many young married folks do
+          <lb/>now a days, he gave to old <persName>Sarah Gould</persName>, <lb/>to pay her
+          house-rent. But I was only <lb/>going to say, that as <persName>Mr. Crawford</persName>,
+          the <lb/>agent, had never, since he lived in <placeName>Hamp- <lb/>ton</placeName> been
+          constant at church, I was afraid <lb/>he did not set his work people a good <lb/>example
+          in other things; for I always <lb/>mind, that those who love religion, and <lb/>who wish
+          to be upright and honest in all <lb/>their dealings, like to go where they may <lb/>join
+          with others in praising their Creator, <lb/>and where they may learn their duty <lb/>to
+          him, and to their fellow creatures.” </p>
+        <p> “You will set preaching there an <lb/>hour, sister,” said <persName>Mrs.
+            Holden</persName>, “till <lb/><persName>Mr. Crawford</persName> has left the factory,
+          and <lb/>got engaged in his own private affairs. <lb/>If you mean to let the child go, do
+          <lb/>let her go at once. Such a fuss about <lb/>nothing is enough to kill one. Some
+          <lb/>people are bound up in their own flesh and <lb/>blood, and think of nobody else; you <pb/>
+          <lb/>would not care a fig, what I suffered, <lb/>so long as <persName>Miss Mary</persName>
+          was made a lady, <lb/>and sat prim’d up at home reading some <lb/>nonsensical book or
+          other.”—Notwith- <lb break="no"/>standing this rebuke from her selfish and <lb/>irascible
+          sister-in-law, <persName>Mary</persName> had set up <lb/>the little breakfast table, and
+          waited nearly <lb/>two hours, before <persName>Mrs. Burnam</persName> granted <lb/>her
+          reluctant consent to the solicitations <lb/>of her granddaughter; who, the moment <lb/>she
+          received it, hastened to <persName>Mr. Crawford</persName>, <lb/>the superintendent of a
+          cotton factory in <lb/>the neighbourhood, to whom she offered <lb/>her services, which
+          were readily accepted; <lb/>and on some abatement of wages, he com- <lb break="no"/>plied
+          with her request of having the priv- <lb break="no"/>ilege to leave the factory at sunset;
+          the <lb/>infirmities of her grandmother rendering <lb/>her attentions necessary in the
+          evening. <lb/>The lightness of her heart, was only ri- <lb break="no"/>valled by her
+          steps, as she returned <lb/>home filled with anticipations of future <lb/>pleasure, from
+          having it in her power <lb/>to procure for her grandmother the com- <pb/>
+          <lb break="no"/>forts which declining life made pecu- <lb/>liarly needful. She never shall
+          again <lb/>want her cup of tea, thought <persName>Mary</persName>, or <lb/>the little
+          luxuries agreeable with it. <lb/>“O how happy I shall be,” said she <lb/>almost audibly,
+          “when I see my dear <lb/>grandmother sitting at her tea-table, en- <lb break="no"/>joying
+          her favourite repast, which I have <lb/>earned for her.”—The glow of filial
+          <lb/>benevolence kept her unusually cheerful <lb/>through the day; and it was not till she
+          <lb/>united with her grandmother at night <lb/>in petitions for divine protection, amidst
+          <lb/>the temptations and difficulties to which <lb/>she might be exposed, that she remem-
+            <lb break="no"/>bered there was any labour, or were any <lb/>privations, attending her
+          new situation; <lb/>and the recollection of this only served to <lb/>increase the fervency
+          of her desires, that <lb/>she might be blessed with healthful ac- <lb break="no"/>tivity,
+          and persevering diligence in the <lb/>discharge of her duties. </p>
+        <p> She was summoned to her occupation <lb/>the following Monday morning by the <pb/>
+          <lb/>factory bell. Her employment, which <lb/>was reeling cotton, was neither difficult
+          <lb/>nor laborious; and <persName>Mary</persName> thought if she <lb/>had not been a
+          stranger she should have <lb/>felt quite happy. The factory had been <lb/>newly
+          established, and those employed <lb/>in it were from distant towns, conse- <lb break="no"
+          />quently every face was unknown to her, <lb/>and naturally timid, that circumstance
+          <lb/>increased it to a painful degree; it was <lb/>however soon relieved by the benevolent
+          <lb/>attentions of a young woman who stood <lb/>near her engaged in the same business,
+          <lb/>who perceiving her embarrassment, en- <lb break="no"/>deavoured by many little kind
+          efforts <lb/>to remove it. </p>
+        <p> Mary had no sooner left the factory, <lb/>than numberless remarks were made <lb/>upon
+          her. <persName>Nancy Raymond</persName>, who had <lb/>so good naturedly assisted her
+          through <lb/>the day, extolled her modest, pleas- <lb break="no"/>ing manner, and declared
+          she loved her <lb/>already. Others less discerning, or <lb/>perhaps less free from envy,
+          pronoun- <pb/>
+          <lb break="no"/>ced her a stupid thing, declaring they <lb/>had as lief have a wooden
+          image to reel <lb/>the cotton, for they did not believe she <lb/>could turn her eyes. “Do
+          you think,” <lb/>cried <persName>Jane Sandford</persName>, “she has any <lb/>muscles in
+          her face?” “I doubt it,” <lb/>answered <persName>William Raymond</persName>, “for when
+          <lb/>all those excellent stories were told, and <lb/>there was all that capital joking, as
+          we <lb/>were walking home to dinner, I did not <lb/>see her laugh once.” “And was that
+          <lb/>any thing against her, brother?” asked <lb/><persName>Nancy</persName>; “I like her
+          the better,” added <lb/>she, “for her serious way, for it makes <lb/>me feel as if I could
+          place some de- <lb break="no"/>pendence upon her. And though she <lb/>does not laugh and
+          talk, as much as <lb/>some do, I dare say she is never gloomy <lb/>and ill-tempered. I
+          minded when her <lb/>spools were tangled, she did not get an- <lb break="no"/>gry with
+          them, as some of the girls do; <lb/>but when she was almost out of patience, <lb/>she
+          turned round and looked at me with <lb/>such a good-humoured smile, that it <pb/>
+          <lb/>made her look quite handsome.”— <lb/>“Stop, stop, <persName>Nancy</persName>, any
+          thing but that,” <lb/>exclaimed <persName>William</persName>, “you may say any <lb/>thing,
+          but that she is handsome; she <lb/>may be very good, and all that; but is <lb/>as ugly
+          as—I suppose you won’t like, <lb/><persName>Nancy</persName>, to hear me say who, since
+          you <lb/>have taken such a fancy to her.” <lb/>“Come, come, let’s go to supper, and
+          <lb/>laugh no more about the poor child,” <lb/>said <persName>Jane Sandford</persName>,
+          “she has, I dare say, <lb/>the beauty my good mother is always <lb/>advising me to get,
+          the <emph style="font­-style: italic">beauty of the <lb/>mind</emph>; for they say she
+          rises before day- <lb/>light to read, and is kind to the sick, <lb/>and dutiful to her
+          grandmother, and, <lb/>what I can hardly believe, sweetly pa- <lb break="no"/>tient with a
+          terrible old scold, that lives <lb/>with them; all this and a hundred more <lb/>fine
+          stories are told of her, that I cannot <lb/>remember now, while I am so cold, and
+          <lb/>hungry, and tired; but I must just say, <lb/>that it would be strange, if all these
+          pretty <lb/>things did not sometimes peep through <pb/>
+          <lb/>her eyes and make her look handsome. <lb/>And now, <emph style="font­-style: italic"
+            >Miss</emph>
+          <persName>Nancy Raymond</persName>, please <lb/>to loosen the <emph
+            style="font­-style: italic">muscles</emph> of your forehead, <lb/>and answer me
+          honestly, if I have not <lb/>made up for having doubted whether <lb/>your friend had any
+          in her cheeks?” </p>
+        <p>
+          <persName>Mary</persName>, unconscious of the interest she <lb/>had excited, was quietly
+          seated with her <lb/>grandmother, endeavouring, as well as <lb/>her ignorance on the
+          subject would <lb/>admit, to describe the complicated ma- <lb break="no"/>chinery of the
+          factory. She had taken <lb/>particular notice of it, knowing her <lb/>grandmother’s
+          curiosity would be raised <lb/>to hear an account of what facilitated so <lb/>much the art
+          of spinning, in which, in <lb/>early life, it had been her ambition to <lb/>excel.
+            <persName>Mrs. Burnam</persName>, though her hum- <lb break="no"/>ble station had
+          precluded her from the <lb/>advantages of a refined education, had <lb/>an inquisitive
+          mind, and by much ob- <lb break="no"/>servation had in some measure supplied <lb/>the want
+          of instruction. She did not <lb/>know the meaning of the word <emph
+            style="font­-style: italic">philoso- <pb/>
+            <lb break="no"/>phy</emph>; but yet, no one was more pleased <lb/>to examine and observe
+          the effects of <lb/>the machines and instruments, that were <lb/>used in the country
+          business to which <lb/>she had been accustomed; particularly if <lb/>they were new
+          inventions, or old ones <lb/>improved. The term <emph style="font­-style: italic">natural
+            history</emph>
+          <lb/>she could not have defined; but was <lb/>practically acquainted with some of its
+          <lb/>most useful branches, for she knew <lb/>every tree of the forest, and every medic-
+            <lb break="no"/>inal herb and root that grew within sev- <lb break="no"/>eral miles
+          around her; hardly a bird <lb/>warbled within her hearing, of which <lb/>she could not
+          describe some peculiarity. <lb/>She frequently made the remark, that <lb/>if country
+          people would attend to the <lb/>engaging ways of the animals about their <lb/>doors, with
+          the beautiful and curious <lb/>appearances of plants and flowers, they <lb/>would have
+          amusement enough, with- <lb break="no"/>out attending to and prying into their
+          <lb/>neighbours’ affairs. </p>
+        <pb/>
+        <p> Several weeks passed away, and <persName>Mary</persName>, <lb/>by her diligence and
+          uniform pleasant- <lb break="no"/>ness, had gained the good opinion of <lb/><persName>Mr.
+            Crawford</persName>, as well as that of her <lb/>companions. They found <emph
+            style="font­-style: italic">she could <lb/>smile and look about</emph>; and they even
+          <lb/>determined to ask her to a dance they <lb/>were shortly to have in a neighbouring
+          <lb/>town. <persName>William Raymond</persName>, who, to <lb/>please his sister, gave her
+          an invitation, <lb/>was not a little vexed at her decided <lb/>refusal; and told her, in a
+          manner rath- <lb break="no"/>er calculated to wound, than to gratify <lb/>her feelings,
+          that he supposed she <lb/>thought it <emph style="font­-style: italic">wicked</emph> to
+          dance. “By no <lb/>means,” she replied; “I shall be ready <lb/>and happy to join you, next
+          summer, <lb/>whenever there is a dance on the green, <lb/>before the factory.” “Then why,”
+          <lb/>asked <persName>William</persName>, “are you unwilling to <lb/>go with us tomorrow
+          evening? There <lb/>is certainly no more harm in dancing in <lb/>a house, than out of
+          doors.” “No, <lb/>there would not be,” answered <persName>Mary</persName>, <pb/>
+          <lb/>“if you did not have to pay for the room <lb/>and the musick, with the horses and
+          <lb/>sleighs for conveyance; besides the loss <lb/>of a whole evening, which will take
+          <lb/>something from your wages at the end <lb/>of the week.” “Well, what of all that?”
+          <lb/>said <persName>William</persName>, angrily, “I can afford it.” <lb/>“But,” said
+            <persName>Mary</persName> (with a look that <lb/>seemed to ask forgiveness for her
+          plain- <lb break="no"/>ness) “yesterday, when poor old <persName>Cato</persName>
+          <lb/>came to the door, and asked for some- <lb break="no"/>thing—only a few pence to buy
+          him a <lb/>supper, you told him you had nothing <lb/>for beggars; and when
+            <persName>Nancy</persName> pleaded for <lb/>him, you replied, that you had enough
+          <lb/>to do to maintain yourself, without giv- <lb break="no"/>ing to every body, and yet,
+          you are wil- <lb break="no"/>ling to give your money to <persName>Nancy</persName> and
+          <lb/>me for our pleasure, when we can be <lb/>happy enough without it.” </p>
+        <p> “But would you never,” said <persName>Wil- <lb break="no"/>liam</persName>, “have us
+          take any pleasure? That <lb/>is a hard doctrine; I hope <persName>Mr. Seymore</persName>
+          <lb/>don’t teach such, for, I promise you, if <pb/>
+          <lb/>he does, I sha’n’t go to hear him very <lb/>often.” “I can assure you,” said
+            <persName>Mary</persName>, <lb/>“<persName>Mr. Seymore</persName> never discourages
+          cheer- <lb break="no"/>fulness; on the contrary, he is always <lb/>urging us to the
+          practice of those actions, <lb/>which afford the highest enjoyment. <lb/>The pleasures he
+          recommends are, in- <lb break="no"/>deed, a little different from those, <persName>Mr.
+            <lb/>Raymond</persName>, you seem to think so neces- <lb break="no:"/>sary; but, believe
+          me, they are much <lb/>better. He would direct us to give <lb/>poor
+            <persName>Cato</persName> a warm jacket and a comfort- <lb break="no"/>able supper,
+          instead of gratifying our- <lb break="no"/>selves with an expensive amusement; <lb/>and,
+          tell me truly, do you think you <lb/>shall feel happier tomorrow evening <lb/>while
+          dancing, than you would to look <lb/>into <persName>Cato’s</persName> room, and see him
+          examin- <lb break="no"/>ing with joy the jacket you had given <lb/>him, or eating by a
+          warm fire the supper <lb/>with which you had supplied him?” <lb/>“I can’t answer the
+          question now,” said <lb/><persName>William</persName>, hastily turning away to con- <lb
+            break="no"/>ceal his conviction; “we are determined <pb/>
+          <lb/>on having the dance, and you had better <lb/>go with us.” </p>
+        <p> Mary remained inflexible, even to <lb/>the entreaties and more persuasive argu- <lb
+            break="no"/>ments of her friend <persName>Nancy</persName>, who declared <lb/>half her
+          pleasure would be destroyed if <lb/>she did not go. “And then only con- <lb break="no"
+          />sider,” said she, “how odd it will ap- <lb break="no"/>pear for you to stay at home; the
+          girls <lb/>will say you are proud, or that you <lb/>set yourself up to be wiser then they—
+          <lb/>and then I shall be angry; so I may as <lb/>well stay at home, as to go for any com-
+            <lb break="no"/>fort I shall have. You say yourself, <lb/>that nobody can be happy while
+          they <lb/>are fretted; and I could not help being <lb/>put out, if you should be laughed
+          about, <lb/>and called a <seg xml:id="a004" corresp="#n004"><emph
+              style="font­-style: italic">new-light</emph>,</seg><note xml:id="n004" corresp="#a004"
+              ><term style="font-style: italic">new-light</term>: during the early
+            nineteenth-century US revival movement known as the Second Great Awakening, “new-lights”
+            were evangelical Christians especially focused on personal salvation.</note> and <emph
+            style="font­-style: italic">Miss Propri- <lb break="no"/>ety</emph>, and such sort of
+          queer names, as <lb/>some, I know, would like to call you, if <lb/>they were not ashamed
+          to, you are always <lb/>so good-tempered and obliging.” “They <lb/>will not talk as much
+          about me, as you <lb/>suppose, dear <persName>Nancy</persName>,” said
+            <persName>Mary</persName>; “and <pb/>
+          <lb/>if they should, you would not have me <lb/>do what I believe to be wrong, to avoid
+          <lb/>any thing, which might be said of me. <lb/>Besides, if by a <emph
+            style="font­-style: italic">new-light</emph> they mean <lb/>one that loves religion, I
+          am sure I <lb/>should be proud of the title, if I truly <lb/>deserved it. It would be
+          strange in- <lb break="no"/>deed, if I, an ignorant girl, should be <lb/>ashamed of being
+          interested in that <lb/>cause, which the wise and learned <persName>St.
+            <lb/>Paul</persName> thought it the greatest honour and <lb/>privilege to espouse; and
+          was not afraid, <lb/>even before a king and other great men, <lb/>to defend, and
+          acknowledge his ardent <lb/>love of it.”—“I wish,” said <persName>Nancy</persName>,
+          <lb/>interrupting her, “that I knew as much <lb/>about those holy men as you do; for I
+          <lb/>believe you try to be like them, and that <lb/>makes you so much better than other
+          <lb/>people. But I hope to be acquainted <lb/>with their characters before long; for I
+          <lb/>have begun, as you advised me, to read <lb/>a portion in the Bible every morning
+          <lb/>when I first get up. I have found the <pb/>
+          <lb/>advantage of it already, for I have got <lb/>so used to my work in the factory, that
+          it <lb/>don’t take up my attention, and foolish <lb/>thoughts will come into my mind;
+          <lb/>but now I can drive them out, by <lb/>reflecting on what I have read. I was
+          <lb/>pondering all yesterday on a passage <lb/>that I cannot but think you have forgot-
+            <lb break="no"/>ten, if I understand the right meaning <lb/>of it. This was the verse:
+          ‘Let your <lb/>light so shine before men, that they may <lb/>see your good works and
+          glorify your <lb/>Father, which is in <seg xml:id="a005" corresp="#n005"
+            >heaven.’</seg><note xml:id="n005" corresp="#a005">Matthew 5:16</note> I under- <lb
+            break="no"/>stood it to mean, that we must not only <lb/>do a great many good things,
+          but must <lb/>let our acquaintance see us do them in <lb/>such a pleasant, agreeable kind
+          of way, <lb/>as should make them love and admire <lb/>goodness, and thus they might be led
+          <lb/>to practise the same things themselves. <lb/>Now, as you are always trying always to
+          make <lb/>every body happy, I thought you must <lb/>have forgotten this command, or you
+          <lb/>would go to the dance with us, to let <pb/>
+          <lb/>those, who a’n’t as much acquainted with <lb/>you as I am, see that you can be cheer-
+            <lb break="no"/>ful, and yet be religious; for perhaps, if <lb/>they were convinced of
+          that, they might <lb/>become religious too.” </p>
+        <p> Nancy could not have used a more <lb/>powerful argument; for <persName>Mary’s</persName>
+          correct <lb/>judgment had taught her, that it was not <lb/>only her duty to exercise the
+          virtues, <lb/>but that she must endeavour to make <lb/>them appear amiable and desirable
+          to <lb/>others, by a conciliating manner, and an <lb/>innocent conformity to general
+          customs. <lb/>Though she was too humble to believe <lb/>her influence extensive, she
+          thought it <lb/>right to act as if it were so. For she <lb/>considered that Providence
+          often em- <lb break="no"/>ploys humble means to effect important <lb/>purposes; and that
+          her imperfect ex- <lb break="no"/>ample might, when she was least con- <lb break="no"
+          />scious of it, be used as an instrument <lb/>for improving some, who had not been
+          <lb/>blessed with her advantages, or who <lb/>were inferior to her in years. She hesi- <pb/>
+          <lb break="no"/>tated therefore, what answer to give to <lb/><persName>Nancy</persName>,
+          till, recollecting that in this in- <lb break="no"/>stance it would be wrong to comply
+          <lb/>with the wishes of her friend, particu- <lb break="no"/>larly after what she had said
+          to <persName>William</persName>, <lb/>she repeated the objections she had to <lb/>such a
+          party of pleasure for those who <lb/>have but little more than the necessaries <lb/>of
+          life; and promised at the same time <lb/>to obviate any ill appearance her not <lb/>going
+          might have, by a more uniform <lb/>readiness to oblige, whenever it could <lb/>be done
+          consistently with her ideas of <lb/>rectitude; and by greater vigilance in <lb/>preserving
+          an unbroken cheerfulness of <lb/>temper. </p>
+      </div>
+
+
+      <div type="section">
+        <p>
+          <head style="text-align:center"> CHAPTER II. </head>
+        </p>
+        <floatingText>
+          <body>
+            <p> But with diviner beams, the sacred word <lb/>Shines o’er the soul, and guides it to
+              the Lord. <lb/>Unerring guide, which heavenly light supplies, <lb/>Transforms the
+              heart, and makes the simple wise . </p>
+            <p>
+              <head style="text-align:right"><seg xml:id="a006" corresp="#n006"><persName>Mrs.
+                    Steele</persName>.</seg><note xml:id="n006" corresp="#a006">The lines come from
+                  Psalm 19 as translated by <persName>Anne Steele</persName>, a British Baptist
+                  poet; a three volume collection of her devotional poetry was published in <date
+                    when="1780">1780</date>, with selections widely reprinted
+                thereafter.</note>.</head>
+            </p>
+          </body>
+        </floatingText>
+
+        <p> THE next evening, Mary stood at <lb/>the window to give her gay friends a <lb/>smile, as
+          they passed. The merriest <lb/>among them had not a heart more sus- <lb break="no"
+          />ceptible of social pleasure, than hers, or <lb/>one more alive to exhilarating sights
+          <lb/>and sounds. No sooner had the lively <lb/>sleigh-bells come within her hearing,
+          <lb/>than her imagination flew to the festive <lb/>scene; the lighted ball-room, the
+          sprite- <lb break="no"/>ly musick, the smiling faces were all <lb/>before her; for a
+          moment her fortitude <lb/>forsook her, and she wondered at herself <lb/>for declining to
+          join so pleasant a party. <lb/>But her regret was as transient, as the <lb/>sound of the
+          bells, and, as that died <lb/>away, her serenity returned with all her <pb/>
+          <lb/>amiable solicitude to render their little <lb/>fire-side cheerful. She brushed the
+          <lb/>hearth; made a clear blaze; fixed her <lb/>grandmother’s chair in the warmest
+          <lb/>place; and made <persName>Mrs. Holden’s</persName> so comforta- <lb break="no"/>ble,
+          and did it with such an air of kind- <lb break="no"/>ness, that even she relaxed into good
+          <lb/>humour. <persName>Mary</persName>, sedulous to preserve <lb/>it, redoubled her
+          exertions to be enter- <lb break="no"/>taining, told all the amusing anecdotes <lb/>her
+          memory would furnish, and, when <lb/>those failed, had recourse to singing. <lb/>She was
+          in the midst of her grandmoth- <lb break="no"/>er’s favourite tune, when she was inter-
+            <lb break="no"/>rupted by the entrance of <persName>Mr. and Mrs.
+            <lb/>Danforth</persName>, whose excellent character <lb/>and long habits of intimacy had
+          endeared <lb/>them to <persName>Mrs. Burnam</persName> and her grand- <lb break="no"
+          />daughter in no common degree. They <lb/>frequently spent the evenings together,
+          <lb/>which <persName>Mr. Danforth</persName> would sometimes <lb/>enliven by reading,
+          aloud, some useful <lb/>or entertaining book. He was reading <lb/>the character of
+            <persName>Miranda</persName>, in <seg xml:id="a007" corresp="#n007">“Law’s <pb/>
+            <lb/>serious Call,”</seg><note xml:id="n007" corresp="#a007">The book is
+              <persName>William Law’s</persName>
+            <bibl style="font­-style: italic">A Serious Call to a Devout and Holy Life</bibl>,
+            published in <placeName>Britain</placeName> in <date when="1729">1729</date>. Several
+            chapters considered <persName>Miranda</persName> as the model Christian woman, in
+            contrast to her frivolous sister <persName>Flavia</persName>.</note> and his auditors
+          were <lb/>listening with deep attention, when a <lb/>rap drew <persName>Mary</persName> to
+          the door, where with <lb/>pleased surprise she found the physician, <lb/><persName>Dr.
+            Mandeville</persName>, who occasionally visited <lb/>her grandmother, having been
+          formerly <lb/>a boarder in the family, with <persName>Mr Sey- <lb break="no"
+            />more</persName>, their clergyman. <persName>Mrs. Burnam</persName>
+          <lb/>welcomed them with warm cordiality; <lb/>while her features were expressive of
+          <lb/>the high gratification she felt, at receiv- <lb break="no"/>ing so early a visit from
+          the new settled <lb/>minister. For though compared with <lb/>her age he was very young,
+          yet she <lb/>reverenced him as her teacher, and <lb/>had even asserted that, from all she
+          had <lb/>heard of his excellencies, she was inclin- <lb break="no"/>ed to believe him to
+          be nearly as good <lb/>as his predecessor. Nor could her <lb/>judgment in this instance be
+          called in <lb/>question. For <persName>Mr. Seymore</persName> was a man <lb/>of good sense
+          and uncommon purity of <lb/>character; in his manner (which was a <lb/>faithful index of
+          his heart) there was an <lb/>unaffected simplicity, that impressed on <pb/>
+          <lb/>all he said the stamp of truth. Humble <lb/>as he was learned, he conciliated the
+          <lb/>affections, while he gained the respect <lb/>of his parishioners. </p>
+        <p> His modesty was severely tried, by <lb/>the honest and well meant, but rather <lb/>blunt
+          commendations of <persName>Mrs. Burnam</persName>, <lb/>on his mode of preaching. “I know
+          I <lb/>should admire your sermons, sir,” said <lb/>she, “if I were well enough to go out
+          <lb/>and hear them, from what I learn of <lb/>them from my granddaughter, who has <lb/>got
+          a pretty good memory, and is so <lb/>desirous that I should enjoy some bene- <lb
+            break="no"/>fit from your excellent discourses, that <lb/>she writes, what she can
+          recollect, after <lb/>meeting, for me to read at my leisure. I <lb/>know, sir, I should
+          like your preaching, be- <lb break="no"/>cause you not only teach us that we ought
+            <lb/><del>we</del>to do our duty, but you tell us so exactly <lb/><emph
+            style="font­-style: italic">how</emph> we ought to do it. One of my neigh- <lb
+            break="no"/>bours told me yesterday, she never knew <lb/>how to instruct her children in
+          religion, <lb/>till your discourse upon that subject last <lb/>Sunday had enlightened her
+          mind.” </p>
+        <pb/>
+        <p> “I listened, Sir,” said <persName>Dr. Man- <lb break="no"/>deville</persName>, “with the
+          deep interest, and <lb/>anxious feelings of a father, while <lb/>you explained, and
+          inculcated, the du- <lb break="no"/>ties which we owe to our children; <lb/>and
+          particularly the obligation we are <lb/>under to give them an early and intimate
+          <lb/>knowledge of the scriptures. I have <lb/>always considered it a very important
+          <lb/>part of their education; for if it should <lb/>fail of yielding immediate good conse-
+            <lb break="no"/>quences, it may, in the course of life, be <lb/>the means of producing
+          the best effects. <lb/>For there seems to be in the memory <lb/>the remarkable property of
+          retaining, <lb/>oftentimes in a latent state, whatever has <lb/>been deeply impressed upon
+          it, and <lb/>which old age, or some uncommon oc- <lb break="no"/>currence, that strongly
+          agitates the mind, <lb/>has the power of developing. I have <lb/>frequently, in the course
+          of my practice, <lb/>been called to visit persons, in whom <lb/>every idea of religion
+          appeared to have <lb/>been obliterated by the dissipation of <pb/>
+          <lb/>pleasure, or an overstrained attention to <lb/>their secular concerns; but when the
+          <lb/>leisure of sickness has recalled to more <lb/>matured understandings the religious
+          <lb/>lessons of their childhood, it has often <lb/>brought a conviction of their truth, so
+          <lb/>strong and clear, as, with divine grace, <lb/>to have produced the most salutary
+          <lb/>change of views, and moral feeling. </p>
+        <p> “An early acquaintance with the pure <lb/>morality, contained in the word of God,
+          <lb/>imperceptibly operates, also, in rectify- <lb break="no"/>ing the heart; good
+          dispositions are <lb/>formed by its secret influence, before we <lb/>are aware of it; and
+          I believe with a <lb/>late agreeable writer, that the amiable <lb/>qualities, we sometimes
+          perceive in un- <lb break="no"/>believers, may be traced to associations <lb/>formed in
+          childhood by reading the <lb/>scriptures.” </p>
+        <p> “I am happy, my dear sir,” repli- <lb break="no"/>ed <persName>Mr. Seymore</persName>,
+          “to hear you ex- <lb break="no"/>press sentiments so congenial with my <lb/>own. It has
+          always been a subject of <lb/>sincere regret to me, when I have heard <pb/>
+          <lb/>parents complain that they could not ex- <lb break="no"/>cite in their children a
+          fondness for read- <lb break="no"/>ing the Bible; for I have always con- <lb break="no"
+          />sidered the disinclination of the child, <lb/>as arising from the inattention, or im-
+            <lb break="no"/>proper method of the instructor. Noth- <lb break="no"/>ing can be
+          interesting that is not under- <lb break="no"/>stood. It cannot therefore be expected
+          <lb/>that a child, when it first begins to read, <lb/>should find pleasure from perusing
+          the <lb/>scriptures in course. But select for it <lb/>the beautiful and pathetic story of
+            <persName>Jos- <lb break="no"/>eph</persName>, or of <persName>Moses</persName>,
+            <persName>Ruth</persName>, and many oth- <lb break="no"/>ers, and we shall soon find
+          curiosity <lb/>awakened, and all the sympathy of the <lb/>infant heart excited. I knew a
+          child <lb/>taught in this way, who on hearing the <lb/>history of
+          <persName>Job</persName>, when she arrived at the <lb/>highest point of his suffering,
+          clasped <lb/>her little hands, and exclaimed, (while <lb/>her whole countenance was
+          expressive <lb/>of fearful apprehension,) ‘Oh! I am <lb/>afraid now he will curse
+          God.’—The <lb/>parables of our Saviour are not only <pb/>
+          <lb/>pleasing and instructive to the wisest <lb/>theologian, but by their admirable sim-
+            <lb break="no"/>plicity they are adapted to the capacity of <lb/>the most uninformed;
+          what, for exam- <lb break="no"/>ple, can be more entertaining to a child <lb/>than the
+          ‘Prodigal Son?’ </p>
+        <p> “How easily might a lively interest be <lb/>raised in the character of our blessed
+          <lb/>Redeemer, and a fervent love and grati- <lb break="no"/>tude be excited towards him,
+          by a judi- <lb break="no"/>cious choice of some of those striking <lb/>instances of
+          benevolence he displayed. <lb/>His feeding by a miracle the hungry <lb/>multitude; his
+          weeping with the affection- <lb break="no"/>ate sisters of <persName>Lazarus</persName>,
+          and restoring to <lb/>them their beloved brother; the readiness <lb/>with which he called
+          to life the son of <lb/>the distressed widow of <seg xml:id="a008" corresp="#n008"
+              ><persName>Nain</persName>;</seg><note xml:id="n008" corresp="#a008"><term
+              style="font-style: italic">Multitude, <persName>Lazarus</persName>,
+                <persName>Nain</persName></term>: each of these allusions refers to a miracle
+            performed by <persName>Jesus</persName>, and expressive of compassion for the
+                unfortunate. The feeding of the multitude occurs in <bibl>Matthew 14</bibl>, <bibl>Mark 6</bibl>, <bibl>Luke 9</bibl>, and <bibl>John 6</bibl>
+                ; weeping with <persName>Lazarus’s</persName> sisters occurs in <bibl>John 11</bibl>; and the
+            resurrection of the widow of <persName>Nain’s</persName> son occurs in Luke 7.</note>
+          and above <lb/>all, the affecting proof he gave of tender <lb/>compassion in what he
+          suffered on the <lb/>cross for all mankind; might, by simple <lb/>and familiar comments,
+          be made to pro- <lb break="no"/>duce the most agreeable and lasting <lb/>impressions. </p>
+        <pb/>
+        <p> “It is, I conceive, sir, highly important <lb/>that, in unfolding the rudiments of reli-
+            <lb break="no"/>gion, the manner and language should <lb/>be easy and natural; never
+          made weari- <lb break="no"/>some by long lectures, (for it is difficult <lb/>to keep the
+          attention of a child fixed on <lb/>one subject,) but instilled by striking, <lb/>frequent,
+          and incidental hints. A par- <lb break="no"/>ent should be in season, and out of sea- <lb
+            break="no"/>son; ready to improve every opportunity, <lb/>every uncommon providence,
+          whether <lb/>fortunate or adverse, of explaining some <lb/>perfection of the Deity. True
+          religion <lb/>is an operative principle, pervading the <lb/>whole character, interwoven
+          with every <lb/>affection, and chastening every passion; <lb/>it must, in a word, be the
+          spring of moral <lb/>action. The grace of God can alone <lb/>sow the seed, or being to
+          maturity this <lb/>happy temper; but, it is our duty to <lb/>prepare the soil. And how is
+          this to <lb/>be done, but by cultivating a knowledge <lb/>of the scriptures, and by
+          teaching the <lb/>first dawn of reason to trace every event, <pb/>
+          <lb/>and every appearance of nature, to the <lb/>great Author of all things? The objects
+          <lb/>around them, the hills and the fields, <lb/>the nosegays they gather, and the insects
+          <lb/>they pursue, may all be used, as means <lb/>of directing their attention to God.” </p>
+        <p> “ Ah yes, Sir,” exclaimed <persName>Mrs. Bur- <lb break="no"/>nam</persName>, who had
+          been attentively listening <lb/>to the conversation; “that is exactly <lb/>what I have
+          often thought. I did not <lb/>know how to express it; for I never <lb/>had much schooling:
+          when I was a <lb/>young woman, we did not have the ad- <lb break="no"/>vantages they do
+          now. But, for all that, <lb/>I was always fond of looking into the <lb/>works of God, and
+          of teaching my chil- <lb break="no"/>dren to admire them.—Many people, <lb/>who have to
+          work hard, think they have <lb/>not time for such things. But, sir, they <lb/>would lose
+          nothing by allowing a few <lb/>minutes every day for such meditation. <lb/>One goes to
+          work with greater cheer- <lb break="no"/>fulness, after having considered a little
+          <lb/>the wisdom of that good Being who <pb/>
+          <lb/>allots to all their portions. For though <lb/>he may give some poverty and sickness,
+          <lb/>and to others hard labour and distress, <lb/>yet we can’t but think, that he, who
+          <lb/>made every thing so well, must know <lb/>what is best for us frail, ignorant crea-
+            <lb break="no"/>tures. And if he has taken such care <lb/>to provide food and clothing
+          for every <lb/>little insect that flies about, (some so <lb/>small we can hardly see
+          them,) he will <lb/>certainly do the same for rational beings, <lb/>and give them what is
+          proper for them. <lb/>I have sometimes thought, that if brute <lb/>animals were as
+          discontented as man, <lb/>we should be quick enough to blame <lb/>them; and yet <emph
+            style="font­-style: italic">we</emph> don’t know what is <lb/>best for us any better
+          than they do. <lb/>Suppose a butterfly should find fault <lb/>with having wings, and
+          should think, if <lb/>it had not the incumbrance of those <lb/>great sheets at its sides,
+          it could fly <lb/>much higher in the air, and with much <lb/>more ease. I think, sir, we
+          should <lb/>laugh, and tell the butterfly, it was a fool- <pb/>
+          <lb break="no"/>ish little murmurer. So perhaps angels <lb/>wonder at our folly; because
+          they see <lb/>clearly that we could never rise above <lb/>the world, without what we call
+          our <lb/>troublesome incumbrances. But I am <lb/>running away from the subject. I am an
+          <lb/>old woman, sir. When I interrupted <lb/>you I was only going to say, I was glad
+          <lb/>to hear the remarks you have just made, <lb/>because when my granddaughter
+            <persName>Mary</persName>
+          <lb/>was a little girl, (for she had no mother <lb/>but me, poor thing) I used to try to
+          <lb/>make God known to her by shewing <lb/>her his wonderful works. I have often
+          <lb/>called her to look at a joint I have been <lb/>separating, when cooking, to see how
+          <lb/>curiously one bone was set into another; <lb/>or to examine the nice little even
+          fringe <lb/>that borders each side of every hair that <lb/>makes up the feather of a bird;
+          and <lb/>many other such sort of things. And <lb/>when I found she took delight in look-
+            <lb break="no"/>ing at them, I have given her a psalm <pb/>
+          <lb/>or verse to read, in which God was <lb/>declared to be the Maker of all things.” </p>
+        <p> “Your method,” replied <persName>Mr. Seymore</persName>, <lb/>“was in my opinion
+          perfectly correct; <lb/>such hints, judiciously given and appli- <lb break="no"/>ed, will
+          rarely fail of producing a good <lb/>effect. The existence and perfections <lb/>of God are
+          manifested in all we behold, <lb/>and may be proved to a child by simple, <lb/>familiar
+          remarks on the regular change <lb/>of the seasons, the growth of plants, the <lb/>ripening
+          of fruits, and the numberless <lb/>wonders and beauties of creation, which <lb/>we who
+          live in the country have always <lb/>before us. We should teach them the <lb/>goodness of
+          God, while their little hearts <lb/>are filled with joy; amidst their very <lb/>sports, we
+          should remind them from <lb/>whom they receive all they enjoy; that <lb/>it was God, who
+          gave the fruit they are <lb/>regaled with, and painted the blossoms <lb/>they admire. A
+          few remarks on the <lb/>power of the Almighty, during a thunder <lb/>storm, would have
+          more effect, than a <pb/>
+          <lb/>long discourse on that attribute, when <lb/>the weather was calm and the mind at
+          <lb/>ease.” </p>
+        <p> “This conversation,” said <persName>Dr. Man- <lb break="no"/>deville</persName> to
+            <persName>Mr. Seymore</persName>, “reminds me <lb/>of a subject, on which I have been
+          in- <lb break="no"/>tending to speak to you. I am one of <lb/>the proprietors of a cotton
+          factory in this <lb/>town. In these establishments the la- <lb break="no"/>bours of
+          children are so useful, as to <lb/>render their wages a temptation to par- <lb break="no"
+          />ents to deprive their offspring of the <lb/>advantages of education; and, for an
+          <lb/>immediate supply of pressing wants, to <lb/>rob them of their just rights—the bene-
+            <lb break="no"/>fit of those publick schools, which were <lb/>founded peculiarly for the
+          advantage of <lb/>the poor. These thoughtless parents <lb/>do not consider that they are
+          taking <lb/>from their children an essential good, <lb/>for which money cannot compensate.
+          <lb/>Ignorance will necessarily lessen their <lb/>future respectability in society, and <pb/>
+          <lb/>check the stimulating hope of rising <lb/>into eminence, which, in a free county
+          <lb/>like ours, may and ought to be cherish- <lb break="no"/>ed, for next to religion it
+          is the best s <lb/>ecurity for honest industry and lauda- <lb break="no"/>ble exertion.
+          Can you not think, my <lb/>good sir, of some plan for giving in- <lb break="no"/>struction
+          to those unfortunate children? <lb/>It would relieve my mind from much <lb/>anxiety.”
+          “Would not an institution,” <lb/>replied <persName>Mr. Seymore</persName>, “similar to the
+          <lb/>Sunday Charity Schools, established in <lb/>the manufacturing towns in
+            <placeName>England</placeName>, <lb/>in some degree answer your generous <lb/><seg
+            xml:id="a009" corresp="#n009">purpose?”</seg><note xml:id="n009" corresp="#a009"><term
+              style="font-style: italic">Sunday Charity Schools</term>: see the discussion in the
+              headnote<ref type="resource-url"
+              >http://jto.common-place.org/just-teach-one-homepage/the-factory-girl-1814/</ref>.</note>
+        </p>
+        <p> “That,” said <persName>Dr. Mandeville</persName>, “has <lb/>been my favourite object;
+          but I was obli- <lb break="no"/>ged to give it up, from want of success <lb/>in all my
+          applications for an instructor, <lb/>as I can offer but a small reward for the
+          <lb/>service.” “O,” said Mary, with quick- <lb break="no"/>ness, (forgetting her usual
+          timidity,) <lb/>“I wish I were capable of performing <pb/>
+          <lb/>such a delightful task!” “Your ability, <lb/>my good girl,” said the Doctor, “is
+          fully <lb/>equal to the duty, and I should consider <lb/>myself happy indeed, to obtain
+          such an <lb/>instructress for our poor little labourers, <lb/>but I cannot in conscience
+          require it; <lb/>you work at the factory through the <lb/>week, and certainly need the
+          grate- <lb break="no"/>ful rest of the Sabbath to recruit your <lb/>strength.” </p>
+        <p>
+          <persName>Mrs. Burnam</persName>, who saw <persName>Mary</persName> was <lb/>edesirous of
+          the office, though her mod- <lb break="no"/>esty restrained a further expression of
+          <lb/>her wishes, assured <persName>Dr. Mandeville</persName> that <lb/>if he thought her
+          grand-daughter was <lb/>able to discharge the duties of such a <lb/>station, she thought
+          the gratification, it <lb/>would afford her, would overbalance any <lb/>injury the fatigue
+          might occasion her.— <lb/><persName>Dr. Mandeville</persName> gladly accepted the pro- <lb
+            break="no"/>posal, which he had been prevented <lb/>from making himself, from a tender
+          <lb/>regard to the health of <persName>Mary</persName>, whose <pb/>
+          <lb/>gentle, unassuming manner, and faithful <lb/>discharge of relative duties, had
+          excited <lb/>an interest in his benevolent heart. A <lb/>humble station could not obscure
+          from <lb/>the discerning eye of <persName>Dr. Mandeville</persName>
+          <lb/>good sense and virtue, and wherever he <lb/>found those qualities, he honoured and
+          <lb/>esteemed the possessor. </p>
+        <p> “Now, my dear <persName>Mary</persName>,” said <persName>Mrs. <lb/>Burnam</persName>,
+          when they were left alone, “you <lb/>have your reward for all the exertion <lb/>you have
+          made to get a little learning. <lb/>You would not have been able to teach <lb/>this little
+          school if you had not, by early <lb/>rising and uncommon industry, <de>have</de>
+          <lb/>saved time to study your books. We <lb/>don’t know how much good may come <lb/>of one
+          right action. Your attention <del>to <lb/>your books</del>may be, in the end, the
+          <lb/>means of carrying some souls to heaven; <lb/>for by teaching them to read the bible,
+          <lb/>you will give them the best guide to <lb/>that better world.” </p>
+      </div>
+
+      <div type="section">
+
+        <p>
+          <head style="text-align:center"> CHAPTER III. </head>
+        </p>
+        <floatingText>
+          <body>
+            <p> “When, instead of regulating our actions by reason <lb/>and principle, we suffer
+              ourselves to be guided by eve- <lb break="no"/>ry slight and momentary impulse of
+              inclination, we <lb/>shall doubtless be so variable and inconstant, that no- <lb
+                break="no"/>body can guess by our behaviour to-day, what may be <lb/>expected from
+              us to-morrow; nor can we ourselves <lb/>tell whether what we delighted in a week ago,
+              will <lb/>now afford us the least degree of pleasure.” </p>
+            <p>
+              <head style="text-align:right">
+                <seg xml:id="a010" corresp="#n010"><persName>MRS. CHAPONE</persName>.</seg>
+                <note xml:id="n010" corresp="#a010">From <bibl style="font­-style: italic">Letters
+                    on the Improvement of the Mind</bibl> (<date when="1773">1773</date>), by the
+                  British writer <persName>Hester Chapone</persName>.</note>
+              </head>
+            </p>
+          </body>
+        </floatingText>
+
+        <p> FRAUGHT with this favourite pro- <lb break="no"/>ject, <persName>Mary</persName> went to
+          the factory the <lb/>next morning with a cheerful heart, <lb/>and a countenance beaming
+          with benev- <lb break="no"/>olence. <persName>William</persName> stood a moment to
+          <lb/>look at her, as she entered the door, <lb/>struck with the contrast her sprightly
+          <lb/>appearance bore to the haggard looks <lb/>and languid movements of her compan- <lb
+            break="no"/>ions. He had passed the evening before <lb/>with much less satisfaction,
+          than he had <lb/>expected. For though he had laughed, <pb/>
+          <lb/>talked, and danced, with the prettiest <lb/>and gayest young women of the party,
+          <lb/>he could not but wish that the gentle, <lb/>modest <persName>Mary Burnam</persName>
+          had made one <lb/>of them. There is not, thought he, <lb/>among these bright eyes one that
+          has <lb/>exactly that <emph style="font­-style: italic">taking way</emph> with it, that
+          hers <lb/>had, while she talked of the poor old <lb/>man. And once, when he had nearly
+          <lb/>raised a glass to his lips, he set it down <lb/>again, for he recollected that
+          perhaps the <lb/>same poor man was suffering for that, <lb/>which he was going to take
+          without its <lb/>being necessary. </p>
+        <p>
+          <persName>William</persName> was endowed by nature with <lb/>an amiable disposition; he
+          was good- <lb/>humoured, and had an agreeable manner, <lb/>which generally recommended
+          him. <lb/>But he had been unfortunate in not hav- <lb break="no"/>ing received, in
+          childhood, those religious <lb/>and moral impressions, which are usual- <lb break="no"/>ly
+          most permanent and efficacious, when <lb/>made on the mind by the precepts and <pb/>
+          <lb/>example of affectionate parents, before <lb/>prejudice and self-confidence have gain-
+            <lb break="no"/>ed the ascendancy; or an intercourse <lb/>with the world has lessened
+          that delicacy <lb/>of conscience, and sensibility to reproof, <lb/>which is so apparent in
+          amiable children. <lb/>His affections, undirected by parental <lb/>judgment to their
+          proper object, and <lb/>his passions uncontrolled by a knowl- <lb break="no"/>edge of
+          divine commands, he was driven <lb/>from object to object, without any view <lb/>but
+          present pleasure, or temporary ad- <lb break="no"/>vantage. His heart being thus left
+          <lb/>open, by a want of steady principles, to <lb/>the attack of every passing allurement,
+          <lb/>he was more indebted, for his general <lb/>good conduct, to those with whom he
+          <lb/>associated, than to his own firmness or <lb/>stability. Whatever was new, captiva-
+            <lb break="no"/>ted his imagination, and kept him in <lb/>bondage, till another novelty
+          unbound <lb/>the chain, only to make way for new <lb/>fetters. </p>
+        <p> The charitable feelings, and indiffer- <lb break="no"/>ence to personal gratification,
+          that <persName>Mary</persName>
+          <lb/>discovered, were refinements in virtue, <lb/>to which he was unaccustomed; and he
+          <lb/>thought she must have some selfish <lb/>motive, which she chose to conceal by
+          <lb/>pretended benevolence. But when as- <lb break="no"/>sured by his sister, that she was
+          actuat- <lb break="no"/>ed only by a desire to convince him of <lb/>her sincerity in
+          disapproving of those <lb/>expensive amusements, which destroy <lb/>the power of relieving
+          the wants of the <lb/>indigent, he could no longer doubt, the <lb/>reason she assigned was
+          genuine; es- <lb break="no"/>pecially when he found on recollection <lb/>nothing in her
+          general conduct, that <lb/>did not harmonize with this instance of <lb/>virtuous
+          self-denial. </p>
+        <p> A character, superior to any he had <lb/>been accustomed to contemplate, aston- <lb
+            break="no"/>ished and delighted him; and mistaking <lb/>the admiration of the woman,
+          thus sud- <lb break="no"/>denly conceived, for a love of the <emph
+            style="font­-style: italic">virtue</emph>
+          <pb/>
+          <lb/>which rendered her so pleasing, he de- <lb break="no"/>termined to form his own life
+          on the <lb/>same model, and to make her conduct <lb/>the rule of all his actions; looking
+          for- <lb break="no"/>ward to being the husband of <persName>Mary</persName>, as <lb/>a
+          sufficient reward for any sacrifices his <lb/>new mode of life might require. </p>
+        <p> He improved the first opportunity to <lb/>apologize for his rudeness in their last
+          <lb/>conversation, and to express his grati- <lb break="no"/>tude for the admonition,
+          which had led <lb/>him to a juster view of his duty, and to <lb/>a resolution of
+          performing it. The <lb/>pleasure she expressed, and the kind, <lb/>complacent manner, with
+          which she <lb/>urged him to perseverance, gave a new <lb/>stimulus to exertion; and
+            <persName>William</persName> soon <lb/>became, from the gay, thoughtless young <lb/>man,
+          serious and self-denying, constant <lb/>at church, and scrupulously careful in
+          <lb/>attending to the externals of religion. <lb/>In <persName>Mary’s</persName> society
+          he found all the <lb/>amusement he could relish; and the <pb/>
+          <lb/>privilege of assisting in her garden, or <lb/>Sunday-school, he thought an ample
+          <lb/>compensation for the rigid discipline he <lb/>imposed upon himself. </p>
+        <p> Not insensible to his constant atten- <lb break="no"/>tion, and pleased with the
+          goodness his <lb/>actions seemed to demonstrate, <persName>Mary</persName>
+          <lb/>yielded to his solicitations, and gave her <lb/>consent to the request that, on the
+          day <lb/>he should be made foreman of the fac- <lb break="no"/>tory, (an event he shortly
+          expected,) he <lb/>should be allowed to ask her grand- <lb break="no"/>mother’s permission
+          for their union. <lb/><persName>William</persName> talked to his sister of his pleas- <lb
+            break="no"/>ing prospects; and <persName>Mary</persName> listened with <lb/>inward
+          satisfaction to <persName>Nancy</persName>, while she <lb/>repeated the fond anticipations
+          of her <lb/>brother. Even her own sober and <lb/>well-regulated mind, would sometimes
+          <lb/>give way to the suggestions of fancy, <lb/>and she would look forward with de- <lb
+            break="no"/>light to the period when she might use <lb/>the influence of a wife to lead
+          the mind <pb/>
+          <lb/>of <persName>William</persName> to clearer notions of the true <lb/>spirit of
+          christianity, and more uniform <lb/>consistency of conduct. For she could <lb/>not but
+          sometimes discover, that the <lb/>language of humility was dictated by <lb/>vanity; that
+          he censured others, with- <lb break="no"/>out regard to the law of love; and that <lb/>her
+          approbation was too nearly the boun- <lb break="no"/>dary of his desires. She could not
+          but <lb/>sometimes lament, that he was not more <lb/>like her friend <persName>Mr.
+            Danforth</persName>; and wish- <lb break="no"/>ed she could see in
+            <persName>William</persName> the same <lb/>command of temper, the same resigna- <lb
+            break="no"/>tion of will, and the same unaffected <lb/>benevolence, which distinguished
+          him; <lb/>and which was not displayed by singu- <lb break="no"/>lar and showy acts, but by
+          a careful im- <lb break="no"/>provement of every opportunity to pro- <lb break="no"/>mote
+          the happiness of those he could <lb/>benefit; a constant readiness to give <lb/>up his own
+          convenience for the com- <lb break="no"/>fort of others, and an unremitting refer- <lb
+            break="no"/>ence in his thoughts, words, and actions, <pb/>
+          <lb/>to God, the great object of his dearest <lb/>hopes and wishes. But, with fond par-
+          <lb/>tiality, she trusted the foundation of re- <lb break="no"/>ligion and virtue was
+          laid, and that a <lb/>more intimate acquaintance with divine <lb/>truths would complete
+          the superstruc- <lb break="no"/>ture. </p>
+      </div>
+
+      <div type="section">
+        <p>
+          <head style="text-align:center"> CHAPTER IV. </head>
+        </p>
+        <floatingText>
+          <body>
+            <p> “No evil is insupportable but that which is accom- <lb break="no"/>panied with the
+              consciousness of wrong.” </p>
+            <p>
+              <head style="text-align:right">
+                <seg xml:id="a011" corresp="#n011">
+                  <persName>DR. JOHNSON.</persName>
+                </seg>
+                <note xml:id="n011" corresp="#a011">From Chapter 35 of <persName>Samuel
+                    Johnson’s</persName>
+                  <bibl style="font­-style: italic">Rasselas</bibl> (<date when="1759">1759</date>),
+                  by the British writer <persName>Hester Chapone</persName>.</note>
+              </head>
+            </p>
+          </body>
+        </floatingText>
+
+        <p> THE return of summer, that season <lb/>of innocent joy, found the heart of <persName>Ma-
+              <lb break="no"/>ry</persName> in unison with all its gay appearances <lb/>and pleasant
+          sounds. Accustomed <lb/>from infancy to early hours, she united <lb/>her voice of grateful
+          praise with the first <lb/>musical notes that enlivened the morn- <lb break="no"/>ing, and
+          vied with nature herself in the <lb/>cheerful animation with which she re- <lb break="no"
+          />ceived her grandmother, at their simple <lb/>breakfast, which she took care should
+          <lb/>always be neatly prepared; for <persName>Mary</persName>
+          <lb/>added to the injunction of <persName>Solomon</persName>, that <lb/>“Whatsoever thy
+          hand findeth to do, <lb/>do it with all thy might,” the direction <lb/>of <placeName>St.
+            Paul</placeName> to <seg xml:id="a012" corresp="#n012">“Let all things be done
+            <lb/>decently, and in order.”</seg><note xml:id="n012" corresp="#a012">Ecclesiastes 9:10
+            and I Corinthians 14:40.</note>
+        </p>
+        <pb/>
+        <p> The roses looked in at the windows <lb/>of their little white-washed parlour, the
+          <lb/>honeysuckle bordered the door that ad- <lb break="no"/>mitted its rich perfume, the
+          locust gave <lb/>sweetness to the air; but neither the <lb/>flavour of the roses, the
+          perfume of the <lb/>honeysuckle, <choice><orig>or</orig><reg>nor</reg></choice> the
+          sweetness of the <lb/>locust, rose to heaven with such frag- <lb break="no"/>rance as the
+          gratitude that glowed in <lb/>the hearts of <persName>Mary</persName> and her grandmother.
+          <lb/>While they sat together at this happy <lb/>repast, when undisturbed by the pee- <lb
+            break="no"/>vishness of <persName>Mrs. Holden</persName>, who always <lb/>wasted the
+          best part of the morning in <lb/>bed, they could indulge in an unrestrain- <lb break="no"
+          />ed interchange of fond inquiries, and <lb/>affectionate attentions. <persName>Mrs.
+            Burnam</persName>
+          <lb/>then gave way to all her tender solici- <lb break="no"/>tude for her beloved
+          grand-daughter, <lb/>which in the presence of her sister-in- <lb/>law she endeavoured to
+          repress; for <lb/>she justly considered, that knowingly to <lb/>irritate even an
+          unreasonable temper, <pb/>
+          <lb/>when it can be innocently avoided, was <lb/>hardly less criminal than the indulgence
+          <lb/>of anger itself. For <persName>Mrs. Holden</persName>, <lb/>though indebted for a
+          home and mainte- <lb break="no"/>nance to <persName>Mrs. Burnam’s</persName> generosity,
+          <lb/>could not see without <choice><sic>jealously</sic><corr>jealousy</corr></choice> the
+          af- <lb break="no"/>fection she lavished upon <persName>Mary</persName>; and <lb/>giving
+          way to her suspicious disposition, <lb/>concluded that as so much was bestow- <lb
+            break="no"/>ed on another, there could be none left <lb/>for her. </p>
+        <p>
+          <persName>Mrs. Burnam</persName>, pitying the weakness <lb/>and ill-temper which she could
+          not cure, <lb/>tried to alleviate the self-created misery <lb/>of <persName>Mrs.
+            Holden</persName> by many sacrifices of <lb/>her own enjoyment, and by many res- <lb
+            break="no"/>traints which she voluntarily imposed <lb/>on herself. </p>
+        <p>
+          <persName>Mary’s</persName> happiness was much augment- <lb break="no"/>ed by the
+          establishment of the Sunday- <lb/>school for the children of the factory, <lb/>(of whom
+          there were twenty, including <lb/>boys and girls.) She had always pitied <pb/>
+          <lb/>their unfortunate situation, deprived of <lb/>every means of gaining moral or intel-
+            <lb break="no"/>lectual improvement, and now rejoiced <lb/>that it was in her power to
+          afford them <lb/>any portion of those advantages. Indeed <lb/>a general, directing an
+          immense army, <lb/>or an emperor giving laws to his sub- <lb break="no"/>jects, could not
+          have felt more interest- <lb break="no"/>ed in the result of his decisions, than did
+          <lb/>the pious, benevolent sunday-school- <lb/>mistress of <placeName>Hampton</placeName>,
+          in the success of <lb/>her simple regulations and humble in- <lb break="no"/>structions.
+          And few are the kings, or <lb/>military heroes, that enjoy such pleasure <lb/>on success
+          as she did, for it was unsul- <lb break="no"/>lied by the recollection of cruelty, and
+          <lb/>unalloyed by a thirst of fame. Her love <lb/>of glory was satisfied with the sound of
+          <lb/>one still small voice, that whispered she <lb/>was doing service acceptable to
+          heaven. <lb/>The method she adopted, was to re- <lb break="no"/>ceive the children in the
+          public school- <lb/>house on Sunday, between the morning <pb/>
+          <lb/>and evening divine service. The first <lb/>exercise was an account, from the six
+          <lb/>eldest, of the text, divisions, &amp;c. of the <lb/>morning sermon; the one who
+          excelled <lb/>was rewarded by the honourable office <lb/>of assistant, and aided in
+          preserving or- <lb break="no"/>der, and performing many little services, <lb/>which
+            <persName>Mary</persName> had the talent of rendering <lb/>highly desirable. This was
+          followed <lb/>by a recitation of the lessons they had <lb/>been required to get in the
+          preceding <lb/>week, which consisted of select passa- <lb break="no"/>ges of scripture,
+          enforcing moral duties; <lb/>with a certain number of words which <lb/>they had learned to
+          spell in their inter- <lb break="no"/>vals of labour; to this succeeded read- <lb
+            break="no"/>ing in rotation from the New Testament, <lb/>each four or five verses; and
+          all was <lb/>closed by a short appropriate prayer, <lb/>which <persName>Mr.
+            Seymore</persName> had written and <lb/>given to <persName>Mary</persName> to read on
+          that occasion. <lb/>She found little difficulty in governing, <lb/>for she ruled her
+          scholars by love. <pb/>
+          <lb/>Proudly happy, indeed, was the favour- <lb break="no"/>ed one, who received from her
+          the re- <lb break="no"/>ward of a flower, which was worn in <lb/>triumph at the factory on
+          the succeed- <lb break="no"/>ing Monday, and afterwards carefully <lb/>preserved as long
+          as possible. </p>
+        <p>
+          <persName>Mr. Seymore</persName>, knowing the character <lb/>of <persName>Dr.
+            Mandeville</persName>, whose benevolence <lb/>exceeded his means of gratifying it,
+          <lb/>relieved him from the expense of sup- <lb break="no"/>plying the children with books,
+          &amp;c. by <lb/>using his exertions in forming a society <lb/>in
+            <placeName>Hampton</placeName> for that purpose. It con- <lb break="no"/>sisted of one
+          hundred persons, who gave <lb/>annually twelve cents, or one cent <lb/>monthly, as most
+          agreeable to the cir- <lb break="no"/>cumstances or inclinations of the sub- <lb
+            break="no"/>scribers. These assessments, which <lb/>amounted to twelve dollars yearly,
+          were <lb/>appropriated to the purchase of books; <lb/>two thirds of the sum to be expended
+          on <lb/>such as were necessary for the use of <lb/>the school, and the remainder laid out
+          on <lb/>moral tracts and other instructive works <pb/>
+          <lb/>to be given amongst the children as re- <lb break="no"/>wards for uncommon merit. </p>
+        <p> From her useful occupations and in- <lb break="no"/>nocent amusements,
+            <persName>Mary</persName> was called to <lb/>attend on the fatal illness of
+            <persName>Mrs. Dan- <lb break="no"/>forth</persName>; four weeks she was the unweari-
+            <lb break="no"/>ed nurse, the faithful attendant, and the <lb/>sympathizing companion of
+          her earliest <lb/>friend; she did not leave her bedside <lb/>till she received her
+          grateful thanks, and <lb/>gentle benediction, on the morning of <lb/>her death.
+            <persName>Mary</persName> was deeply afflicted <lb/>with the loss of this affectionate
+          asso- <lb break="no"/>ciate of her childhood and youth, but she <lb/>endeavoured in the
+          presence of her <lb/>grandmother to repress her own grief, <lb/>and that which she felt
+          for <persName>Mr. Dan- <lb break="no"/>forth</persName> and his two infant sons. For she
+          <lb/>knew that even sympathy, unless it can <lb/>be brought into active usefulness, ceas-
+            <lb break="no"/>es to be amiable, when it afflicts those <lb/>who depend on our
+          cheerfulness for a <lb/>large portion of their own. But though <lb/>she could conceal her
+          sorrow, it was not <pb/>
+          <lb/>in her power to hide from the vigilant <lb/>eye of her grandmother an indisposition
+          <lb/>that too constant watching with <persName>Mrs. <lb/>Danforth</persName> had produced.
+          “I am sure,” <lb/>thought <persName>Mrs. Burnam</persName>, as she tied the <lb/>ribband
+          round her mob cap, “I am sure <lb/>something must be the matter with <persName>Ma- <lb
+              break="no"/>ry</persName>, or she would have been here before <lb/>now, to smooth out
+          the bows of my rib- <lb break="no"/>band and fix the border of my cap.” She <lb/>was
+          terrified, when she went below <lb/>stairs, to find no preparations for break- <lb
+            break="no"/>fast; and hastening to <persName>Mary’s</persName> room, <lb/>found her just
+          recovering from a faint- <lb break="no"/>ness, that an attempt to dress herself had
+          <lb/>occasioned. </p>
+        <p>
+          <persName>Dr. Mandeville</persName> was instantly called, <lb/>who pronounced her disease,
+          a slow <lb/>nervous fever. </p>
+        <p> The first three weeks of her illness, <lb/>which was very severe, she bore with <lb/>an
+          uncomplaining quiet serenity, that <lb/>proved she did not forget, amidst the <lb/>heat
+          and painful restlessness of a fever, <pb/>
+          <lb/>that there were virtues to be practised <lb/>in that situation, as important, as the
+          <lb/>most active duties of health. By placid <lb/>submission, and patient endurance, she
+          <lb/>did all in her power to alleviate the anxi- <lb break="no"/>ety of her grandmother,
+          whose attentions <lb/>she uniformly received with a smile of <lb/>gratitude and
+          expressions of hope that <lb/>the medicine she handed, or the cordial <lb/>she prepared,
+          would prove a restorative. </p>
+        <p> To the daily and almost hourly enqui- <lb break="no"/>ries of
+            <persName>William</persName>, which were brought by <lb/>her friend
+            <persName>Nancy</persName>, her answers were al- <lb break="no"/>ways so pleasant and
+          cheerful, that he <lb/>could hardly believe her as sick as was <lb/>represented. For he
+          did not know the <lb/>power of resignation, which can make <lb/>the bed of sickness as
+            <seg xml:id="a013" corresp="#n013">“soft as downy <lb/>pillows are.”</seg><note
+            xml:id="n013" corresp="#a013">The reference is to the hymn by <persName>Isaac
+              Watts</persName>, “<persName>Christ’s</persName> Presence Makes Death Easy,” which
+            concludes, “<persName>Jesus</persName> can make a dying bed / Feel soft as downy pillows
+            are, / While on His Breast I lean my head, / And breathe my life out sweetly
+            there.”</note> The performance of the <lb/>exterior of religion had not infused its
+          <lb/>spirit into his heart, had not conformed <lb/>his will to the will of God; he had
+          <lb/>learned indeed to say that we should re- <pb/>
+          <lb break="no"/>sign ourselves to his disposal, but he had <lb/>not learned to <emph
+            style="font­-style: italic">do</emph> it. </p>
+        <p> When the violence of <persName>Mary’s</persName> disor- <lb break="no"/>der abated, it
+          left her in a state of weak- <lb break="no"/>ness that resisted for a time the power
+          <lb/>of medicine. But though it was not so <lb/>extreme as to prevent her feeling a rel-
+            <lb break="no"/>ish for the activity which she was una- <lb break="no"/>ble to exert,
+          and to anticipate with de- <lb break="no"/>light a return to duties which she could
+          <lb/>not then perform; yet the same habitual <lb/>submission, which had blunted the acute-
+            <lb break="no"/>ness of pain, silenced now every accent <lb/>of fretfulness, and stopped
+          every mur- <lb break="no"/>mur of impatience; though morning af- <lb break="no"/>ter
+          morning promised strength, and <lb/>evening after evening confirmed the dis- <lb
+            break="no"/>appointment of the day. She had con- <lb break="no"/>tinued in this state
+          nearly four months, <lb/>when one morning in the latter part of <lb/>autumn, as
+            <persName>Dr. Mandeville</persName> sat by her, <lb/>examining her pulse, “I wish, sir,”
+          said <lb/>she, “you would allow me to go below <pb/>
+          <lb/>stairs to-morrow, I think it would almost <lb/>make me well.” “So you shall if you
+          <lb/>will be prudent, my good girl,” said her <lb/>pleasant friendly physician, “for I
+          suppose <lb/>you are weary of seeing nobody but <lb/>such an old man as myself. And by
+          <lb/>the bye,” added he, “perhaps I may <lb/>please another besides yourself, by al- <lb
+            break="no"/>lowing you to take a little fresh air; for <lb/>one of my brother
+          proprietors told me <lb/>this morning that <persName>Crawford</persName>, our agent,
+          <lb/>had dismissed his foreman, and that <lb/><persName>William Raymond</persName> was to
+          take his place <lb/>to-morrow. I was pleased to hear it; <lb/>for I understand he has been
+          waiting for <lb/>it a year past, to ask permission of a <lb/>certain excellent grandmother
+          to allow <lb/>him to marry a very clever young wo- <lb break="no"/>man of whom I have some
+          knowledge, <lb/>and who I am well assured will make <lb/>him a good wife, because she has
+          been <lb/>a dutiful grandchild. I would never <lb/>advise a young man to marry a disobe- <pb/>
+          <lb break="no"/>dient daughter—but stop, stop, I’ll tell <lb/>no more news, your pulse
+          grows too <lb/>quick, you will not be able to go below <lb/>stairs to-morrow, you are
+          quite too fever- <lb break="no"/>ish,” said the Doctor, smiling; “but <lb/>perhaps quiet
+          will be better than medi- <lb break="no"/>cine, so I’ll bid you good morning.” </p>
+        <p> In compliance with <persName>Mary’s</persName> request, <lb/>when
+            <persName>William</persName> first made his proposals <lb/>to her of having a few weeks
+          for delib- <lb break="no"/>erate consideration on the subject, he <lb/>named to her the
+          day on which he <lb/>should be made foreman of the factory <lb/>for making his proposals
+          to her grand- <lb break="no"/>mother, expecting his promotion would <lb/>take place within
+          two weeks, but it had <lb/>been delayed from month to month till <lb/>the present time.
+          When <persName>William</persName> rep- <lb break="no"/>resented to
+            <persName>Mary</persName> his frequent disap- <lb break="no"/>pointments, and his
+          impatience to be au- <lb break="no"/>thorized to visit her familiarly, and beg- <lb
+            break="no"/>ged that he might be allowed to name <lb/>an earlier day than that he had
+          first ap- <lb break="no"/>pointed, she replied that an adherence to <pb/>
+          <lb/>his engagement would be a pleasing proof, <lb/>of his desire of gratifying her by
+          afford- <lb break="no"/>ing her an opportunity of witnessing an <lb/>instance of his
+          self-command. At the <lb/>commencement of her sickness his res- <lb break="no"/>olution
+          was nearly subdued; but the <lb/>pride and satisfaction he imagined he <lb/>should feel,
+          in relating to her his strug- <lb break="no"/>gles, and giving such an evidence of the
+          <lb/>government he had acquired over hims- <lb break="no"/>elf, prevented the avowal which
+          was <lb/>frequently just ready to escape him. <lb/>He entreated his sister to use her en-
+            <lb break="no"/>deavours to keep alive the partiality <lb/>with which
+            <persName>Mary</persName> had acknowledged she <lb/>regarded him.
+            <persName>Nancy</persName> was not deficient <lb/>in performing this office, for her
+          brother <lb/>was her favourite theme; and till the last <lb/>four weeks of
+            <persName>Mary’s</persName> confinement, she <lb/>would spend hours in talking with ani-
+            <lb break="no"/>mated delight of the change in <persName>William’s</persName>
+          <lb/>character, and of their pleasing prospects <lb/>of future comfort. Though
+            <persName>Mary</persName>, <pb/>
+          <lb/>whenever her friend spoke on the sub- <lb break="no"/>ject, preserved a modest
+          silence, and <lb/>would often check her volubility in the <lb/>midst of some agreeable
+          scheme of do- <lb break="no"/>mestick arrangement or social enjoy- <lb break="no"/>ment;
+          yet these frequent descriptions <lb/>of happiness had insensibly strengthened <lb/>her own
+          hopes of it. And in the few <lb/>hours of the wakeful night succeeding <lb/><persName>Dr.
+            Mandeville’s</persName> visit and intelligence, <lb/>she imagined the felicity of years. </p>
+        <p> One moment she beheld <persName>William</persName> the <lb/>kindest and most virtuous of
+          men, unit- <lb break="no"/>ing with herself in procuring for her <lb/>grandmother the
+          comforts her age re- <lb break="no"/>quired, receiving with humility from her <lb/>lips
+          religious instruction, and useful <lb/>advice. The next she saw him by his <lb/>industry
+          made the possessor of a fer- <lb break="no"/>tile farm, and herself the busy dairy
+          <lb/>woman; and she smiled at the fancied <lb/>approbation her grandmother and
+            <persName>Wil- <lb break="no"/>liam</persName> bestowed on her housewifery. <lb/>Her
+          indigent neighbours were all assist- <pb/>
+          <lb break="no"/>ed by her kindness, and her Sunday <lb/>pupils were made both good and
+          wise, <lb/>by the ingenious plans she adopted for <lb/>their benefit. An imaginary garden
+          <lb/>was laid out in squares for their culti- <lb break="no"/>vation, in which every
+          flower that bloom- <lb break="no"/>ed, and every plant that grew, was made <lb break="no"
+          />productive of moral as well as of nat- <lb break="no"/>ural beauty; for the children
+          sold the <lb/>produce for the use of the poor—and <lb/><persName>Mary</persName> exulted
+          in their benevolence, and <lb/>her own invention. </p>
+        <p>
+          <persName>Mary</persName> was pleased to find in the morn- <lb break="no"/>ing the weather
+          was such, as even her <lb/>grandmother did not think unfavoura- <lb break="no"/>ble for
+          her release from confinement. </p>
+        <p> She quitted her chamber with the <lb/>liveliest feelings of gratitude for recov- <lb
+            break="no"/>ered health. She spent much of the <lb/>morning in preparing her mind for
+          the <lb/>expected interview with <persName>William</persName>, which, <lb/>after so long
+          an absence, occasioned <lb/>some perturbation, particularly as it was <lb/>to happen on a
+          day which had been an- <pb/>
+          <lb break="no"/>ticipated with feelings of such peculiar <lb/>interest. Her serenity was
+          continually <lb/>disturbed by the obtruding recollection <lb/>that at twelve o’clock
+            <persName>William</persName> would <lb/>renew his accustomed visit. As the <lb/>hour
+          approached, she wished something <lb/>might prevent his coming, and more <lb/>than once
+          rose to retire to her chamber <lb/>—but the dreaded hour came, and went, <lb/>without
+          realizing the hopes and fears of <lb/><persName>Mary</persName>.
+            <persName>William</persName> feels as awkwardly as <lb/>myself, thought she; and again
+          her anx- <lb break="no"/>iety was awakened when she looked for- <lb break="no"/>ward to
+          sunset—the sun was almost <lb/>down, the little glass buffet was glitter- <lb break="no"
+          />ing with its last beams, when the latch <lb/>was lifted so gently that
+            <persName>Mary</persName> thought <lb/>no hand but <persName>William’s</persName> could
+          have rais- <lb break="no"/>ed it—it was the affectionate <persName>Nancy</persName>,
+          <lb/>who called to make a hasty inquiry af- <lb break="no"/>ter her health, and who seemed
+          to have <lb/>an increase of the dejection which <persName>Mary</persName> had ob-
+          <lb/>served in her for a month past—but no <lb/><persName>William</persName> came. </p>
+        <pb/>
+        <p> Day after day passed away, and <persName>Ma- <lb break="no"/>ry</persName> heard nothing
+          from him, and though <persName>Nancy</persName> called every evening, her man- <lb
+            break="no"/>ner was so reserved and altered she <lb/>could not summon resolution to ask
+          af- <lb break="no"/>ter her brother. Apprehensions for his <lb/>health now alarmed her,
+          and she ventur- <lb break="no"/>ed to ask her grandmother if he had not <lb/>sometimes
+          called there, during her sick- <lb break="no"/>ness. “Yes, indeed, my dear,” replied
+            <lb/><persName>Mrs. Burnam</persName>, “through the first <lb/>three months of your
+          confinement, he used <lb/>to come four or five times a day, and <lb/>was so helpful and
+          kind, and would so <lb/>often speak of the comfort you must be <lb/>to me, that I really
+          began to love him, <lb/>but he has not been here of late; it is <lb/>now five weeks since
+          I have seen him. <lb/>When I asked his sister about him the <lb/>other day, she began to
+          cry; so I said no <lb/>more about it. I did not mention it to <lb/>you, for I thought it
+          would make you <lb/>uneasy to know <persName>Nancy</persName> was in trouble. <lb/>Alarmed
+          at this account, <persName>Mary</persName> waited <pb/>
+          <lb/>impatiently for <persName>Nancy’s</persName> visit, who was <lb/>no sooner seated
+          than she asked if <persName>Wil- <lb break="no"/>liam</persName> was not well. “Yes, he is
+          well,” <lb/>replied <persName>Nancy</persName>; “but if he were sick I <lb/>could not be
+          more unhappy than he <lb/>makes me by his fickleness. O, how <lb/>much I have depended on
+          his being <lb/>made the foreman, for then I thought I <lb/>might venture to call you
+          sister. This <lb/>day a week ago, was the very one on <lb/>which he was to have asked your
+          grand- <lb break="no"/>mother’s consent to your marriage. It <lb/>was a sad, sad day to
+          me; I almost <lb/>cried myself sick, but it did no good, <lb/>for I found he had engaged
+          himself to <lb/>the young woman that took your place <lb/>in the factory.”
+            <persName>Mary</persName> turned away her <lb/>head to conceal the increased paleness of
+          <lb/>her face, and the tears that started to her <lb/>eyes. But in a moment she summoned
+          <lb/>fortitude to say, “if she is amiable, and <lb/>better calculated to make
+            <persName>William</persName> hap- <lb break="no"/>py, I ought not to regret that he
+          prefers <lb/>her; and if he prefers her, I ought not <pb/>
+          <lb/>surely to be angry that he should forget <lb/>me.” <persName>Nancy</persName> wept,
+          and sisterly affec- <lb break="no"/>tion hardly restrained her from expres- <lb break="no"
+          />sing with warmth her indignation at the <lb/>unworthy conduct of her brother. But
+            <lb/><persName>Mary</persName>, always accustomed to trace her <lb/>misfortunes to her
+          own faults, rather <lb/>than to those of others, found the cause <lb/>of that severity,
+          with which she felt her <lb/>disappointment, more in the indulgence <lb/>she had given her
+          own imagination, than <lb/>in the unkindness of <persName>William</persName>. For had
+          <lb/>I thought, she considered, that happiness <lb/>does not depend on situation, or on
+          the <lb/>favour of any one, but my Creator; had <lb/>I realized these truths as clearly,
+          as I <lb/>have sometimes supposed I did, I should <lb/>not now feel so grieved at the loss
+          of <lb/><persName>William’s</persName> partiality. Humbled with <lb/>this lesson of self
+          knowledge, she for- <lb break="no"/>gave, she even forgot that
+            <persName>William</persName> had <lb/>done wrong, and readily resigned her- <lb
+            break="no"/>self to the means which she trusted <pb/>
+          <lb/>Providence had used to make her ac- <lb break="no"/>quainted with her own weakness
+          and <lb/>liability to error. So far from giving <lb/>way to gloomy despondency, she was
+          <lb/>even more solicitous than ever to be <lb/>cheerful, that she might remove from
+          <lb/>the mind of her grandmother any sus- <lb break="no"/>picion that she was unhappy.
+        </p>
+      </div>
+
+      <div type="section">
+        <p>
+          <head style="text-align:center"> CHAPTER V. </head>
+        </p>
+        <floatingText>
+          <body>
+            <p> “Men must be taught, as if you taught them not, <lb/>And things unknown, propos’d as
+              things forgot. <lb/>Without good breeding, truth is disapprov’d; <lb/>That only makes
+              superior sense belov’d.” </p>
+            <p>
+              <head style="text-align:right">
+                <seg xml:id="a014" corresp="#n014">
+                  <persName>Pope.</persName>
+                </seg>
+                <note xml:id="n014" corresp="#a014">The lines are from <persName>Alexander
+                    Pope’s</persName>
+                  <bibl style="font­-style: italic">Essay on Criticism</bibl> (<date when="1711"
+                    >1711</date>).</note>
+              </head>
+            </p>
+          </body>
+        </floatingText>
+
+        <p> HAD <persName>William</persName> with the same sincer- <lb break="no"/>ity scrutinized
+          his heart, he would soon <lb/>have discovered, that, at the very time he <lb/>imagined
+          himself at the height of excel- <lb break="no"/>lence, he was actuated by selfish mo- <lb
+            break="no"/>tives in all his boasted virtues; for <lb/>no sooner was
+            <persName>Mary</persName> removed by her <lb/>sickness from the constant observation
+          <lb/>of them, than he began to relax in their <lb/>performance. </p>
+        <p> The novelty of being good had ceas- <lb break="no"/>ed; <persName>Mary</persName> was
+          absent; there was no eye <lb/>to approve—no eye but his Maker’s; <lb/>that he had never
+          had in view; and re- <lb break="no"/>ligious duties became irksome, and, at <pb/>
+          <lb/>length, disgusting. He began to wish <lb/>that <persName>Mary</persName> had not such
+          ‘particular no- <lb break="no"/>tions,’ as he termed her steady adher- <lb break="no"
+          />ence to the dictates of conscience; and <lb/>secretly hoped, that, in every message
+          <lb/>she returned to the frequent inquiries <lb/>he sent to her chamber, there would be
+          <lb/>some indication of a change in her views <lb/>and feelings.
+            <persName>William</persName> was in this state <lb/>of mind, when a young woman of live-
+            <lb break="no"/>ly manners and handsome person, from <lb/>a neighbouring town, engaged
+          herself <lb/>at the factory. He was first induced to <lb/>observe her from the
+          circumstance of <lb/>her supplying <persName>Mary’s</persName> place; and soon
+          <lb/>thought the vacancy very agreeably fil- <lb break="no"/>led by his new acquaintance,
+          in whom <lb/>he found such a similarity of opinions <lb/>and desires, that he began to
+          suspect <lb/>she would make him a better companion <lb/>for life, than
+            <persName>Mary</persName>, whom he was now <lb/>convinced he never could make happy.
+          <lb/>If I cannot make her happy, thought he, <pb/>
+          <lb/>I ought certainly to give her up—<persName>Mary</persName>
+          <lb/>herself would do so, were she in my <lb/>place, she is always so careful not to be
+          <lb/>the means of uneasiness to any one. <lb/>With these conclusive arguments
+            <persName>Wil- <lb break="no"/>liam</persName> quieted his conscience, and openly
+          <lb/>avowed himself the admirer of <persName>Lucy <lb/>Newcome</persName>, in whose
+          character there was <lb/>nothing very distinguishing, except a <lb/>thoughtless levity.
+          She would not have <lb/>done a wrong action, knowing it abso- <lb break="no"/>lutely to be
+          such, but took no pains to <lb/>learn the difference between right and <lb/>wrong, and was
+          very apt to think noth- <lb break="no"/>ing reprehensible that was agreeable to <lb/>her
+          wishes. It was this trait that <persName>Nan- <lb break="no"/>cy</persName> saw with
+          sorrow; and though she en- <lb break="no"/>deavoured to conceal from general ob- <lb
+            break="no"/>servation the defects of her intended sis- <lb break="no"/>ter, yet she
+          could not refrain from la- <lb break="no"/>menting them to <persName>Mary</persName>.
+          “Whenever,” <lb/>said she to her, as they sat together one <lb/>evening, “I attempt to
+          represent to <persName>Lu- <pb/>
+            <lb break="no"/>cy</persName> the folly of spending all her leisure <lb/>time in
+          trifling company and chit chat, <lb/>she turns my remonstrances into ridi- <lb break="no"
+          />cule, becomes angry, and asks where I <lb/>have learned that the tongue was not
+          <lb/>made for use, and the feet for walking <lb/>abroad where one wishes to go.” “But
+          <lb/>perhaps, dear <persName>Nancy</persName>,” replied <persName>Mary</persName>, “you
+          <lb/>don’t recollect that you are almost a <lb/>stranger to <persName>Lucy</persName>, and
+          that most people <lb/>are not fond of hearing their faults from <lb/>any but those in
+          whose affectionate re- <lb break="no"/>gard they have the most perfect confi- <lb
+            break="no"/>dence; and who, they are well assured, <lb/>do not reprove others with a
+          view to <lb/>show their own superiority, but from an <lb/>unaffected zeal to serve them.
+          Your <lb/>motive is pure, but perhaps <persName>Lucy</persName> has <lb/>not been
+          acquainted with you long <lb/>enough to be convinced that it is so.” <lb/>“I did not
+          indeed think of that,” said <lb/><persName>Nancy</persName>, “for I don’t remember ever
+          be- <lb break="no"/>ing unwilling to hear my faults from any <pb/>
+          <lb/>one. I considered it was no matter <lb/>how they were made known to me, so <lb/>long
+          as I got at the knowledge of them.” <lb/>“Every one has not your desire to know <lb/>their
+          duty,” answered <persName>Mary</persName>. “It reminds <lb/>me of what I wrote down of the
+          sermon <lb/>last Sunday. I will run and get it, and <lb/>read the passage to you. ‘As
+          there is <lb/>a promise,’ said <persName>Mr. Seymore</persName>, ‘that the <lb/>sins of
+          ignorance shall be punished with <lb/>few stripes, many prefer remaining in <lb/>that
+          state, not considering that it is only <lb/>that ignorance, which <emph
+            style="font­-style: italic">is unavoidable</emph>, <lb/>that will escape the just
+          condemnation <lb/>of our righteous Judge. They do not <lb/>allow themselves to consider,
+          that if they <lb/>neglect to read the scriptures, in which <lb/>religious and moral duties
+          are clearly <lb/>explained, and the path which leads to <lb/>heaven made straight and
+          plain to eve- <lb break="no"/>ry eye that looks upon it, that they are <lb/>as guilty, as
+          those who know the com- <lb break="no"/>mandments which they transgress. But <lb/><emph
+            style="font­-style: italic">their</emph> indifference to spiritual knowledge, <pb/>does
+          not lessen our obligation to use eve- <lb break="no"/>ry endeavour to awaken them to a
+          sense <lb/>of their mistake; it should only make <lb/>us more solicitous that the <emph
+            style="font­-style: italic">manner</emph> of <lb/>conveying instruction be pleasing, and
+          <lb/>as little calculated as possible to disgust <lb/>or give offence. If, in giving what
+          they <lb/>are unwilling to receive, vanity is <lb/>wounded, or anger excited, there is
+          dan- <lb break="no"/>ger of its being rejected altogether; and <lb/>to gratify their
+          pride, a course of actions <lb/>may be persisted in, even after a convic- <lb break="no"
+          />tion of their criminality is felt. Exam- <lb break="no"/>ple, under all circumstances,
+          but more <lb/>especially where the age, and advanta- <lb break="no"/>ges of education,
+          &amp;c. have been pretty <lb/>similar, is the most efficacious way of <lb/>giving advice.
+          That silent lesson, like <lb/>the noiseless dew which does not agitate <lb/>the tenderest
+          plant it fertilizes, can give <lb/>no offence. Not being particularly di- <lb break="no"
+          />rected to any one, it does not excite the <lb/>alarm of a direct admonition, and that
+          <lb/>feeling of shame and inferiority that is <lb/>so painful, and which many try to over- <pb/>
+          <lb break="no"/>come by a sturdy defence of their senti- <lb break="no"/>ments and
+          practice. These sensations <lb/>are not produced by a view of goodness; <lb/>when <emph
+            style="font­-style: italic">real</emph>, it is always accompanied by <lb/>humility,
+          which prevents the envy of <lb/>the beholder, and many of those pas- <lb break="no"/>sions
+          that are too apt to rise in the breast <lb/>of one directly charged with folly and
+          <lb/>imprudence.’” </p>
+        <p> “I admire,” said <persName>Nancy</persName>, “every thing <lb/>our good <persName>Mr.
+            Seymore</persName> says. I have no <lb/>doubt example often has an effect; but <lb/>in
+          one instance, it has certainly failed, <lb/>for I have been particularly careful, since
+          <lb/>I have known <persName>William’s</persName> partiality for
+            <lb/><persName>Lucy</persName>, to show her my dislike of foolish <lb/>amusements by not
+          frequenting them; <lb/>and have endeavoured to make her sen- <lb break="no"/>sible of the
+          value of a leisure evening, <lb/>by staying at home myself, and yet—” <lb/>“Stop,”
+          interrupted <persName>Mary</persName>, “we will not <lb/>condemn
+          <persName>Lucy</persName>, till <emph style="font­-style: italic">all</emph> means have
+          been <lb/>tried, by example, to make her what you <lb/>wish; you have tried only one, and
+          per- <lb break="no"/>haps that one may not have had the de- <lb break="no"/>sired effect,
+          from her supposing that, <pb/>
+          <lb/>possibly, you preferred staying at home, <lb/>because you were not noticed enough
+          <lb/>abroad, or had not dresses that suited <lb/>you; or, worse than all, she may think
+          <lb/>it a mere freak, an oddity, which only <lb/>lessens her esteem for you. But per- <lb
+            break="no"/>haps you would succeed, were you to <lb/>strive by your own conduct to
+          impress <lb/>on her mind the importance of spending <lb/>every moment to the best
+          advantage; <lb/>that time is the same valuable commod- <lb break="no"/>ity at all seasons,
+          in the morning, as well <lb/>as in the evening.” “Ah now,” said
+            <lb/><persName>Nancy</persName>, smiling, “I take your meaning; <lb/>you think, while I
+          indulge myself by <lb/>laying a bed in the morning, I ought <lb/>not to reprove
+            <persName>Lucy</persName> for spending the eve- <lb break="no"/>ning abroad.” “Exactly
+          so, dear <persName>Nan- <lb break="no"/>cy</persName>,” said <persName>Mary</persName>;
+            <seg xml:id="a015" corresp="#n015">“you will forgive me, <lb/>but I really think, with
+            such a beam in <lb/>our own eyes,</seg><note xml:id="n015" corresp="#a015">Luke 6:42 or
+            Matthew 7:3.</note> it is not strange, if we <lb/>should be suspected of not seeing
+          clear <lb/>enough to take the mote out of another’s. <lb/>Not that I consider wasting the
+          morning <lb/>in bed a greater crime, than spending <lb/>time idly in any other way; but I
+          think <pb/>
+          <lb/>it, I believe, a little more blameable <lb/>than you do: it is an unnecessary indul-
+            <lb break="no"/>gence for those in good health; and <lb/>while we are guilty of excess
+          in any <lb/>pleasure, we cannot reasonably expect <lb/>that our censure of those, that
+          differ only <lb/>in kind, will be regarded with attention, <lb/>or heard with good-nature.
+          Those, we <lb/>may wish to benefit by our advice, will <lb/>give us little credit for zeal
+          in the cause <lb/>of virtue, while they see us so strangely <lb/>inconsistent, as to
+          condemn their fond- <lb break="no"/>ness for gay enjoyments, while we take <lb/>care not
+          to deny ourselves a single grat- <lb break="no"/>ification that happens to suit our incli-
+            <lb break="no"/>nation.” “Well,” said <persName>Nancy</persName>, with a
+          <lb/>good-natured smile, “I will wait no lon- <lb break="no"/>ger for the factory bell to
+          call me up. <lb/>But I am afraid, were I to rise before <lb/>daylight, I should not be
+          able to con- <lb break="no"/>vince <persName>Lucy</persName> that that it was better to
+          stay at <lb/>home, than to go into company.” </p>
+        <p> “And I hope, my dear <persName>Nancy</persName>,” replied
+          <lb/><persName>Mary</persName>, “you would not wish to convince <lb/>her that staying at
+          home is always bet- <pb/>
+          <lb break="no"/>ter than visiting. We are commanded <lb/>to love our fellow-creatures, and
+          gener- <lb break="no"/>al benevolence is often increased by an <lb/>acquaintance with
+          those of respectable <lb/>characters, whom Providence has placed <lb/>within our reach. On
+          an intimacy, we <lb/>commonly find in them qualities to ad- <lb break="no"/>mire, which we
+          did not suppose they <lb/>possessed, that leads us to hope stran- <lb break="no"/>gers may
+          have virtues which we do not <lb/>see, and disposes our hearts to kindness <lb/>towards
+          them. An intercourse with <lb/>society has a tendency to weaken our <lb/>pride and
+          self-complacency. We are very <lb/>apt to think ourselves more virtuous than <lb/>other
+          people, till we see them conducting <lb/>under difficulties and trials better than <lb/>we
+          should in similar circumstances. </p>
+        <p> “There is still another advantage. <lb/>We may discover in company what our
+          <lb/>prevailing desires are, if we are really as <lb/>religious, as we imagine ourselves
+          to be <kb/>when alone and undisturbed by tempta- <lb break="no"/>tion. We may try our
+          faith in the om- <lb break="no"/>nipresence of God, by the earnestness <pb/>
+          <lb/>of our endeavours to preserve purity in <lb/>conversation, and sincerity in manner.
+          <lb/>We may judge of our obedience to the <lb/>command of the Saviour, to <seg
+            xml:id="a016" corresp="#n016">‘love one <lb/>another,’</seg><note xml:id="n016"
+            corresp="#a016">John 13:34-35.</note> by the unwillingness with <lb/>which we hear
+          slander, and the readi- <lb break="no"/>ness to vindicate, where it can be done <lb/>with
+          truth; and also by the pleasure we <lb/>can take in witnessing the happiness and
+          <lb/>superior advantages of our companions. <lb/>Of our humility, we may judge, by the
+          <lb/>meekness with which we bear the neg- <lb break="no"/>lect and indifference of those,
+          whose es- <lb break="no"/>teem and attentions we cannot but wish.” </p>
+        <p> “But you seem to be contradicting <lb/>now, what I have often heard you say,” <lb/>said
+            <persName>Nancy</persName>; “that a few hours of mirth, <lb/>spent in company, would
+          soon be pas- <lb break="no"/>sed away, and perhaps leave nothing <lb/>worth remembering;
+          but if the same <lb/>time had been improved in reading a <lb/>useful book, it might leave
+          in the mem- <lb break="no"/>ory something agreeable to recollect <lb/>through life.” </p>
+        <pb/>
+        <p> “Don’t you remember,” said <persName>Mary</persName>, <lb/>“that <persName>Mr.
+            Seymore</persName> told us last Sunday, <lb/>that the duties of a christian formed an
+          <lb/>extensive circle, and that every virtue <lb/>which composed the ample round requir-
+            <lb break="no"/>ed our attention, or the beautiful sym- <lb break="no"/>metry of the
+          figure would be broken <lb/>and injured?” </p>
+        <p> “Oh yes,” said <persName>Nancy</persName>, “now you re- <lb break="no"/>peat it, I
+          remember it perfectly; though <lb/>I had
+              <choice><sic>forgotton</sic><corr>forgotten</corr></choice> all but that part where
+          <lb/>he observed, that some people were apt <lb/>to reduce all excellence to a certain
+          <lb/>point. I could not think what that <lb/>meant, but now it seems clear.” “By
+          <lb/>confining all goodness, to the single act <lb/>of staying at home to read,” said
+            <persName>Mary</persName>, <lb/>“we should do the same thing. I did <lb/>not mean to
+          condemn visiting altogeth- <lb break="no"/>er, but only that excessive fondness for
+          <lb/>company, that dissipates the thoughts <lb/>and leaves no time for reading. Both
+          <lb/>are good in their turn, if we are careful <lb/>to keep in mind, that reading will be <pb/>
+          <lb/>of no advantage, unless we choose good <lb/>books; and that visiting is time thrown
+          <lb/>away, if we do not practice, when abroad, <lb/>the virtues we have learned to love in
+          <lb/>retirement.” </p>
+        <p> “But yet,” said <persName>Nancy</persName>, “you seem by <lb/>your example to recommend
+          reading, in <lb/>preference to going out; for you are sel- <lb break="no"/>dom from home
+          of an evening.”—“Gen- <lb break="no"/>eral rules will not apply to all,” replied
+            <lb/><persName>Mary</persName>, lowering her voice; “every one <lb/>must consult his
+          peculiar situation. I <lb/>should gain the advantages of society at <lb/>too great a
+          price, to leave my grandmo- <lb break="no"/>ther alone, who depends on me for much <lb/>of
+          her amusement; and needs my atten- <lb break="no"/>tion on many accounts, particularly in
+          <lb/>the evening.”—“Ah,” said <persName>Nancy</persName>, with <lb/>a look of affectionate
+          approbation, “it is <lb/>you who keep that same beautiful circle <lb/>of <persName>Mr.
+            Seymore’s</persName> as round and as bright <lb/>as the sun.” </p>
+      </div>
+
+      <div type="section">
+        <p>
+          <head style="text-align:center"> CHAPTER VI. </head>
+        </p>
+        <floatingText>
+          <body>
+            <p> “Pure in her aim, and in her temper mild, <lb/>Her wisdom seems the weakness of a
+              child. <lb/>She rather waves, than will dispute her right; <lb/>And, injured, makes
+              forgiveness her delight.” </p>
+            <p>
+              <head style="text-align:right">
+                <seg xml:id="a017" corresp="#n017">
+                  <persName>COWPER.</persName>
+                </seg>
+                <note xml:id="n017" corresp="#a017">The lines are from British poet
+                    <persName>William Cowper’s</persName>
+                  <date when="1782">1782</date> poem “Charity.”</note>
+              </head>
+            </p>
+          </body>
+        </floatingText>
+
+        <p> ON ordinary occasions, the effort to <lb/>be cheerful seldom fails of success, and
+            <lb/><persName>Mary</persName> evinced by the sprightly alacrity <lb/>with which she
+          returned to her occupa- <lb break="no"/>tion in the factory, that even a disap- <lb
+            break="no"/>pointment in love may be borne with an <lb/>even spirit, if the heart is
+          properly af- <lb break="no"/>fected with a sense of the watchful care <lb/>of Providence;
+          which not only directs, <lb/>with infinite wisdom, great events, and <lb/>important
+          concerns, but orders, for our <lb/>best good, the most minute incidents <lb/>which are
+          beyond our own control. </p>
+        <p> The awkward embarrassment of <persName>Wil- <lb break="no"/>liam</persName>,
+            <persName>Mary</persName> could not but perceive, and <lb/>she endeavoured to remove it
+          by kind- <lb break="no"/>ness and composure, that there might <lb/>be nothing in their
+          manner towards each <lb/>other to remind <persName>Lucy</persName> of the attachment <pb/>
+          <lb/>that had once subsisted between them. <lb/>But <persName>Lucy</persName> had not the
+          generosity her- <lb break="no"/>self to understand the disinterested con- <lb break="no"
+          />duct of <persName>Mary</persName>; she watched every word <lb/>and action with the most
+          scrutinizing <lb/>suspicion; and though she saw nothing <lb/>to excite her jealousy, she
+          treated her <lb/>with a cold indifference and reserve, <lb/>which
+            <persName>Mary</persName> tried to overcome by cor- <lb break="no"/>diality and
+          frankness, and those little <lb/>nameless attentions that her accustomed <lb/>regard to
+          the feelings of her associates <lb/>always prompted. </p>
+        <p> “I am sorry, <persName>Nancy</persName>,” said <persName>Lucy</persName> one <lb/>day,
+          as <persName>Mary</persName> was standing by, “I did <lb/>not get a blue ribbon for my
+          straw hat; <lb/><persName>William</persName> says I have spoiled it, by trim- <lb
+            break="no"/>ming it with pink.” Before <persName>Mary</persName> went <lb break="no"/>to
+          the factory the next morning, she <lb/>took from the drawer, her blue ribbon, <lb/>the
+          ribbon she had purchased to please <lb/><persName>William</persName>: the sight of it
+          suddenly re- <lb break="no"/>vived the recollection of his former <lb/>fondness for her.
+          She thought (for <lb/><persName>Mary</persName> had the feelings of humanity) what <pb/>
+          <lb/>additional beauty the delicacy of the col- <lb break="no"/>our would give to the
+          complexion of <lb/>her rival; the lid of the paste-board box <lb/>that contained the
+          ribbon was nearly <lb/>again closed—but, though <persName>Mary</persName> had the
+          <lb/>passions of humanity, she had learned <lb/>to subdue them, and before she had quite
+          <lb/>covered the box, the wound her delicate <lb/>conscience had received by this sudden
+          <lb/>intrusion of envy, threw the blood to her <lb/>face, and she instantly drew out the
+          rib- <lb break="no"/>bon, folded it neatly, and presented it to
+            <lb/><persName>Lucy</persName> with a smile of such genuine be- <lb break="no"
+          />nevolence, as will give to the plainest <lb/>features an inexpressible beauty. This
+          <lb/>was the last effort of a similar kind, that <lb/><persName>Mary</persName> was
+          obliged to make; for she soon <lb/>discovered by <persName>William’s</persName> conduct
+          and <lb/>conversation, that there had not been <lb/>such a change of character, as she had
+          <lb/>imagined; and while she saw with sin- <lb break="no"/>cere sorrow that he had
+          returned to his <lb/>former unconcern for his future interest, <lb/>she acknowledged, with
+          an increased <lb/>reliance on the direction of heavenly <pb/>
+          <lb/>wisdom, that the denial of favourite wish- <lb break="no"/>es often proves the
+          greatest blessing; <lb/>and events, which have been deplored <lb/>as adverse, have, in
+          their result, been fre- <lb break="no"/>quently found the most fortunate. She
+          <lb/>rejoiced that she had not been united to <lb/>a man, from whom she must have been
+          <lb/>estranged during the sacred hours of <lb/>devotion, when the heart is most open to
+          <lb/>every amiable affection; to one who <lb/>could not have taken a religious view of
+          <lb/>surrounding objects, from which a prin- <lb break="no"/>cipal source of her happiness
+          arose; for <lb/><persName>Mary</persName> saw the hand of the Deity in eve- <lb break="no"
+          />ry blushing flower, and humming insect, <lb/>and delighted to read his wisdom in the
+          <lb/>fair volume which nature presents. </p>
+        <p>
+          <persName>William</persName> was soon married, and hav- <lb break="no"/>ing drawn in a
+          lottery a prize of four <lb/>thousand dollars, he left the factory, <lb/>hired a handsome
+          house, bought a horse <lb/>and chaise, and believing there would <lb/>be no end to his
+          fortune, determined, for <lb/>some time at least, to lead the life of a <lb/>gentleman. </p>
+        <p> With trembling apprehension <persName>Mary</persName>
+          <lb/>thought she discovered an increased <lb/>feebleness in her grandmother; her
+          <lb/>fears were strengthened by the readiness <lb/>with which <persName>Mrs.
+            Burnam</persName> accepted her <lb/>proposal of staying at home with her. <lb/>She
+          found, on consulting <persName>Dr. Mandeville</persName>, <lb/>that she must soon part
+          with her ten- <lb break="no"/>der and indulgent parent. Her weak- <lb break="no"/>ness
+          gradually increased, when one day, <lb/>as <persName>Mary</persName> stood watching by her
+          bed- <lb break="no"/>side with anxious solicitude, “I am <lb/>going to leave you, my
+          child,” said she, <lb/>“but you will still have a parent; your <lb/>Heavenly Father will
+          never forsake you <lb/>while you strive to keep his holy com- <lb break="no"/>mandments,
+          and call upon him with <lb/>sincerity in prayer. Pray often, my <lb/>child; it binds the
+          christian armour more <lb/>closely about us; and will enable you <lb/>to bear up under the
+          trials and difficul- <lb break="no"/>ties which you must expect, and which <lb/>you must
+          try to encounter with a resign- <lb break="no"/>ed and cheerful spirit, since our blessed
+          <lb/>Saviour has said, that we cannot be his <pb/>
+          <lb/>followers, unless we take up our cross <lb/>daily. When the world frowns, my
+          <lb/>child, you will not be cast down, if you <lb/>have the light of that countenance
+          which <lb/>is life, and that <seg xml:id="a018" corresp="#n018">‘loving kindness which
+            <lb/>is better than life.’</seg><note xml:id="n018" corresp="#a018">Psalm 63:3.</note>
+          You were always <lb/>kind to your fellow-creatures, and quick <lb/>to forgive injuries:
+          continue to be so, <lb/>my <persName>Mary</persName>, for God is kind to us. Your
+          <lb/>poor <persName>aunt Holden</persName> will need your care: <lb/>you will give it, I
+          know, for your grand- <lb break="no"/>father’s sake; she was his only sister, <lb/>and he
+          loved her. The dying blessing <lb/>of my parents has been my comfort <lb/>through life. I
+          give you <emph style="font­-style: italic">mine</emph>, my dear <lb/>child, and I pray
+          that it may comfort <lb/>you.” Her voice faltered—an expres- <lb/>sion of maternal
+          tenderness, and pious <lb/>hope, came over her mild features, and <lb/>in a few moments
+          she fell into a gentle <lb/>sleep, from whence she awoke only to <lb/>utter a short
+          prayer, and expired. </p>
+        <p> The first emotions of nature <persName>Mary</persName>
+          <lb/>struggled in vain to suppress; for the <pb/>
+          <lb/>eye that had been so lately turned on her <lb/>with benignity was now closed, the
+          <lb/>voice was silent, that had never spoken <lb/>to her but in accents of affection, and
+          the <lb/>hand was now motionless, that had al- <lb break="no"/>ways been ready to minister
+          to her wants. <lb/>“Oh my beloved grandmother,” cried <lb/>she, “may I never forget your
+          lovely <lb/>character, or your last, dear, dear injunc- <lb break="no"/>tions.” She had
+          already found them <lb/>salutary, for by prayer her spirits were <lb/>composed, and she
+          was able to seek her <lb/>aunt, whom she found sitting alone. <lb/>On
+            <persName>Mary’s</persName> entering the room, <persName>Mrs. <lb/>Holden</persName>
+          exclaimed, while her face red- <lb break="no"/>dened to scarlet, “You would not care
+          <lb/>whether I were dead or alive; I might <lb/>sit here and suffer from morning to
+          <lb/>night, and you would not come to me. <lb/>Do you think nobody cared for your
+          <lb/>grandmother but yourself? I believe <lb/>you think I have got no feeling.” <lb/>“Oh
+          no, my dear aunt,” interrupted <persName>Ma- <lb break="no"/>ry</persName>, “I do not
+          think so; I have come <lb/>now to try to comfort you, and ask you <pb/>
+          <lb/>to take some refreshment.” “Don’t <emph style="font­-style: italic">dear
+            <lb/>me</emph>, and talk so silly, <persName>Mary</persName>, I beg of you,”
+          <lb/>replied her aunt, “when you know, as <lb/>well as I do, there is nothing in the
+          <lb/>house to eat.” </p>
+        <p>
+          <persName>Mary</persName> now recollected she had pro- <lb break="no"/>vided nothing for
+          dinner, and, imput- <lb break="no"/>ing her aunt’s ill-humour to the true <lb/>cause, she
+          hastened to prepare some; <lb/>and while her own heart was almost <lb/>bursting with
+          grief, she tried, by every <lb/>little kind endearment she could think <lb/>of, to quiet
+          the ruffled temper and soothe <lb/>the less keen affliction of her ungracious
+          <lb/>companion. <persName>Mary</persName> received, on this mel- <lb break="no"/>ancholy
+          occasion, the most friendly at- <lb break="no"/>tentions from <persName>Mr.
+            Seymore</persName>, as well as <lb/>from every one else who knew her. <lb/>Her uniform
+          sweetness of temper, and <lb/>readiness to oblige and assist the sick, <lb/>and those more
+          indigent than herself, <lb/>had endeared her in an uncommon <lb/>manner to the
+          neighbourhood in which <lb/>she lived; there was not a dry eye, that <lb/>saw her composed
+          sorrowful counte- <pb/>
+          <lb break="no"/>nance, as she turned from the church- <lb break="no"/>yard, where the
+          remains of her venera- <lb break="no"/>ble parent had been deposited. “I pity <lb/>that
+          child,” said an old man who <lb/>stood bending over his staff; “for when <lb/>I was a boy
+          I lost my grandfather, and <lb/>though now I am as grey as he was, <lb/>yet I cannot even
+          now think of his sil- <lb break="no"/>ver hair, or look at his oaken stick, with- <lb
+            break="no"/>out shedding a few tears. And they <lb/>say <persName>Mary</persName> was
+          mighty fond of her grand- <lb break="no"/>mother, and has a tender heart—a ten- <lb
+            break="no"/>der heart I know she has, for when I <lb/>was sick, and my wife had the
+          rheuma- <lb break="no"/>tism, she came and took care of us both. <lb/>I could not pay her,
+          but Heaven will <lb/>bless her.” Amidst all the kindness of <lb/>her friends,
+            <persName>Mary</persName> missed the sympathy <lb/>of <persName>Mr. Danforth</persName>,
+          whose heart, deeply im- <lb break="no"/>bued with religion, could pour forth to <lb/>the
+          afflicted the most consolatory lan- <lb break="no"/>guage. With him she would not have
+          <lb/>felt the restraint, that <persName>Mr. Seymore’s</persName>
+          <lb/>learning and situation imposed; and <pb/>
+          <lb/>his intimate knowledge of her grand- <lb break="no"/>mother’s virtues, and the
+          interest he <lb/>had always taken in their concerns, ren- <lb break="no"/>dered him more
+          capable than any one <lb/>else of entering into her feelings. He <lb/>had removed, a short
+          time before, into a <lb/>distant town to take possession of a <lb/>farm he inherited on
+          the decease of his <lb/>father. </p>
+        <p>
+          <persName>Mary</persName> found <persName>Mrs. Holden’s</persName> infirmi- <lb break="no"
+          />ties and dread of solitude would oblige <lb/>her to relinquish her employment at the
+          <lb/>factory, and she determined to contract <lb/>her personal expences, and to devote her
+          <lb/>time and the income of her little patri- <lb break="no"/>mony to the comfort of her
+          aunt. </p>
+        <p>
+          <persName>Mrs. Holden</persName> had one son, who, not <lb/>having been heard of for
+          several years, <lb/>was supposed to have been lost on a voyage to the <placeName>East
+            Indies</placeName>. His wife, an <lb/>honest, good-natured woman, had en- <lb break="no"
+          />deavoured by uncommon industry to <lb/>maintain herself and four children; but <lb/>her
+          health having declined, she lost the <pb/>
+          <lb/>means of gaining a livelihood, and de- <lb break="no"/>pended for maintenance on the
+          charity <lb/>of some distant relations with whom she <lb/>lived, about twenty miles from
+            <placeName>Hampton</placeName>, <lb/>and some small remittances she regular- <lb
+            break="no"/>ly received from <persName>Mary</persName>, which after her <lb/>engagement
+          at the factory she was able <lb/>to make. Thinking a visit might be <lb/>beneficial to her
+          health, <persName>Mary</persName> hired a <lb/>waggon, and sent for her and her chil- <lb
+            break="no"/>dren to spend a few weeks with her and <lb/>her aunt, who she hoped would be
+          <lb/>amused with the company of her daugh- <lb break="no"/>ter and grand-children. The day
+          after <lb/><persName>the younger Mrs. Holden</persName> arrived she <lb/>was taken with
+          the typhus fever, which <lb/>after a month of extreme suffering prov- <lb break="no"/>ed
+          fatal. Her children, four boys, who <lb/>had been indulged to excess by their <lb/>fond
+          mother, were rendered more pee- <lb break="no"/>vish and ungovernable by an attack of
+          <lb/>the same disorder, which confined them <lb/>successively through six months.
+            <persName>Ma- <lb break="no"/>ry</persName> attended them with the tenderness <pb/>
+          <lb/>and solicitude of a parent, and it was not <lb/>till they had recovered, and her mind
+          <lb/>was relieved from anxiety for their safe- <lb break="no"/>ty, that she found leisure
+          to pay atten- <lb break="no"/>tion to her own affairs: she was aston- <lb break="no"
+          />ished and almost terrified at the amount <lb/>of the debt she had contracted, during
+          <lb/>the long-continued sickness in her fam- <lb break="no"/>ily. The discontinuance of
+          her wages at <lb/>the factory, with the loss of a piece of <lb/>ground which her
+          grandmother had <lb/>only held for her life, made her means so <lb/>small as rendered it
+          impossible she <lb/>should keep the children longer than till <lb/>they could otherwise be
+          provided for. <lb/>After having, by her aunt’s direction, <lb/>written to their mother’s
+          relations, and <lb/>received for answer that they could do <lb/>nothing for them, she
+          consulted with <lb/><persName>Mr. Seymore</persName> how they might best be <lb/>disposed
+          of. He advised, that they <lb/>should be put to service in families, till <lb/>they were
+          old enough to enter an ap- <lb break="no"/>prenticeship to some reputable trade. <pb/>
+          <lb/><persName>Mary</persName> was pleased with this proposal, <lb/>particularly as he
+          offered to take one of <lb/>the boys himself. With perfect confi- <lb break="no"/>dence in
+          the acquiescence of <persName>Mrs. Hol- <lb break="no"/>den</persName>, she hastened to
+          communicate the <lb/>plan to her. “Is it possible,” cried her <lb/>enraged aunt, “you are
+          going to be so <lb/>cruel as to make servants of those poor, <lb/>dear, motherless
+          children—turn me out <lb/>of doors, ma’am; send me to the work- <lb break="no"/>house—I am
+          ready to go; I don’t want <lb/>to be a burden to you—I can pack up <lb/>my clothes
+          to-night, and leave you; but <lb/>I will never see my son’s children work- <lb break="no"
+          />ing in a kitchen; no, that shall never <lb/>be, while I have strength to speak.” </p>
+        <p>
+          <persName>Mary</persName> mildly represented that it was <lb/>out of her power, with the
+          greatest exer- <lb break="no"/>tions and strictest economy, to maintain <lb/>so large a
+          family; that the boys were not <lb/>old enough at present to become ap- <lb break="no"
+          />prentices, and that there was no situation <lb/>in which they could be placed, but in
+          <lb/>private families or a factory. “Well, <pb/>
+          <lb/>put them into the factory in this town,” <lb/>cried <persName>Mrs. Holden</persName>
+          ; “I have no objection <lb/>to that, though I wonder I have patience <lb/>to listen to
+          you, when I think of your <lb/>presuming to put them out to kitchen <lb/>service.” “But I
+          am afraid,” replied <lb/><persName>Mary</persName>, “in the factory they would learn
+          <lb/>much evil, and no good. They would <lb/>lose the advantage of schooling altogeth- <lb
+            break="no"/>er, and <emph style="font­-style: italic">that</emph> their mother seemed
+          par- <lb break="no"/>ticularly desirous they should have.” <lb/>“O dear, dear,” cried
+            <persName>Mrs. Holden</persName>, <lb/>bursting into tears, “what shall I do?—
+          <lb/>nobody to advise with me—nobody <lb/>that cares for me or my children!” <lb/>“Yes, my
+          dear aunt, <emph style="font­-style: italic">I</emph> care for you, and <lb/>will do every
+          thing in my power for you <lb/>and the children,” said <persName>Mary</persName>, who now
+          <lb/>thought it best to drop the subject for <lb/>that time; but <persName>Mrs.
+            Holden</persName>, who ha- <lb break="no"/>bitually gave way to the impulse of her
+          <lb/>feelings, could think and talk of nothing <lb/>else. <persName>Mary</persName>
+          perceived her aunt’s anxie- <lb break="no"/>ty for the children affected her health; <pb/>
+          <lb/>she became uneasy on her account, and <lb/>again applied to <persName>Mr.
+            Seymore</persName> for advice. <lb/>She represented to him <persName>Mrs.
+            Holden’sM</persName>
+          <lb/>repugnance to parting with the children, <lb/>and her own unwillingness to do any
+          <lb/>thing to distress her aunt. “She is old, <lb/>sir,” said <persName>Mary</persName>;
+          “and there is something <lb/>sacred in age, which I dare not <lb/>offend. If I could
+          contrive any way of <lb/>keeping the boys with me, I think I <lb/>should feel easier. The
+          thought that I <lb/>had voluntarily added affliction to the <lb/>sorrows and infirmities,
+          under which she <lb/>now labours, would make me unhappy.” </p>
+        <p> “Your tenderness and respect to the <lb/>weakness of age, my good
+            <persName>Mary</persName>,” said <lb/><persName>Mr. Seymore</persName>, “is truly
+          amiable— <lb/>I cordially approve it; but you must re- <lb break="no"/>member, when duties
+          interfere, they <choice><orig>are <lb/>to</orig><reg>must</reg></choice> be carefully
+          weighed, before the <lb/>choice is made between them. You <lb/>will excuse me when I say,
+          I am not un- <lb break="no"/>acquainted with the disposition of your <lb/>aunt; her
+          irritable temper will always <pb/>
+          <lb/>find some cause of complaint, and I <lb/>doubt whether it would be right to sac- <lb
+            break="no"/>rifice the interest of the children, and <lb/>your own comfort, to gratify
+          her unrea- <lb break="no"/>sonable wishes.” “Do not, Sir,” said
+            <lb/><persName>Mary</persName>, “take my comfort into the account. <lb/>It will be but a
+          few years before they <lb/>will be old enough to learn trades. I <lb/>am young and in good
+          health, and <lb/>ought to be able to bear a little incon- <lb break="no"/>venience for so
+          short a time. The chil- <lb break="no"/>dren, having been sick since they have <lb/>been
+          with my aunt, her mind is so <lb/>strongly impressed with the idea, that, <lb/>without her
+          attention, they will soon be <lb/>so again, that I am convinced they could <lb/>not be
+          taken from her but by force.” <lb/>“But even,” said, <persName>Mr. Seymore</persName>,
+          “putting <lb/>your embarrassment out of the question, <lb/>and allowing that your aunt may
+          be <lb/>made more comfortable by having them <lb/>with her, still I should hesitate to
+          advise <lb/>it; for is there not danger that the chil- <lb break="no"/>dren may be
+          materially injured by the <pb/>
+          <lb/>unsteady conduct of their grandmother <lb/>towards them, which, varying no doubt
+          <lb/>with her temper, will sometimes be ex- <lb/>cessively indulgent, at others hard and
+          <lb/>repulsive.” “I have felt fearful of <lb/>that, sir,” said <persName>Mary</persName>,
+          “but have thought, if <lb/>I could keep a school, that difficulty <lb/>would be partly
+          removed; they would <lb/>then (a considerable portion of the time) <lb/>be obliged to
+          submit to rules. I might <lb/>instruct them also, while I should be ena- <lb break="no"
+          />bling myself to maintain the family.” <lb/>“To a design so praiseworthy,” said
+            <lb/><persName>Mr. Seymore</persName>, “I am not disposed to <lb/>make any more
+          objections. I trust your <lb/>benevolent exertions will be blessed. <lb/>My narrow means
+          will not allow me to <lb/>give you pecuniary aid, but my utmost <lb/>endeavours shall be
+          used to obtain schol- <lb break="no"/>ars for you. Whenever my advice or <lb/>assistance
+          can serve you, call upon me <lb/>without hesitation.” </p>
+        <p>
+          <persName>Mr. Seymore</persName> was not unmindful of <lb/>his engagement;
+            <persName>Mary</persName> soon became <pb/>
+          <lb/>the instructress of a pretty large school. <lb/>But though the profits of it were
+          beyond <lb/>her expectations, they did not meet her <lb/>expences; and she was compelled
+          to <lb/>let her neat cottage, and the bit of land <lb/>attached to it, and hire two
+          chambers <lb/>in a neighbouring house. But even <lb/>this sacrifice hardly enabled her to
+          sup- <lb break="no"/>port her family, and she was often oblig- <lb break="no"/>ed to deny
+          herself the common necessa- <lb break="no"/>ries of life. “I wonder,” said <persName>Mrs.
+            <lb/>Holden</persName>, one day as they sat at table, <lb/>“what you mean,
+            <persName>Mary</persName>, by always eating <lb/>potatoes for your dinner. Do you do
+          <lb/>it to make yourself sick? I suppose <lb/>you think, while you look so pale and
+          <lb/>thin, that every body will pity you, and <lb/>praise you for starving yourself to
+          take <lb/>care of me and mine—I hate such sly <lb/>ways—but hypocrites will be found out
+          <lb/>some time or other.” The tear that <lb/>trembled in <persName>Mary’s</persName> eye
+          was dried by <lb/>resignation, before it fell upon her cheek; <lb/>and turning the subject
+          as soon as pos- <pb/>
+          <lb break="no"/>sible, the repast was closed with cheerful- <lb break="no"/>ness, promoted
+          by her example. </p>
+        <p>
+          <persName>Mary</persName>, confined by her employment <lb/>and various cares almost
+          constantly at <lb/>home, saw scarcely any one but her <lb/>faithful friend,
+            <persName>Nancy Raymond</persName>, who <lb/>could visit her but seldom; for her
+          <lb/>brother, having got greatly involved in <lb/>debt, had absconded, leaving his wife
+          <lb/>sick, with one child, to whom she devot- <lb break="no"/>ed her time with the most
+          affectionate <lb/>attention. </p>
+      </div>
+
+      <div type="section">
+        <p>
+          <head style="text-align:center"> CHAPTER VII. </head>
+        </p>
+        <floatingText>
+          <body>
+            <p>
+              <seg xml:id="a019" corresp="#n019">“The reward of virtue, though often late, is
+                sure.”</seg>
+              <note xml:id="n019" corresp="#a019">This epigraph seems original to the novel.</note>
+            </p>
+          </body>
+        </floatingText>
+
+        <p> NEARLY a year since <persName>Mary</persName> left her <lb/>own cottage had passed away,
+          when one <lb/>evening, as she was sitting at work, while <lb/>her aunt was asleep in her
+          chair, and <lb/>the boys busily engaged in trying which <lb/>could make the best bobbin
+          machine <lb/>for their cousin <persName>Mary</persName>, the door was sud- <lb break="no"
+          />denly opened by a stranger, who pres- <lb break="no"/>sed forward to <persName>Mrs.
+            Holden</persName>, exclaiming, <lb/>“Ah, mother, how do you do?” “Who <lb/>is it, what
+          is the matter, <persName>Mary</persName>?” cried <lb/>she, awakened from her nap by the
+          loud- <lb break="no"/>ness of the voice. “Why, don’t you <lb/>know me, mother?” said the
+          stranger: <lb/>“I am your son, <persName>George Holden</persName>.” “My <lb/>son, my own
+          dear son, is it you? are <lb/>you indeed alive?” cried his mother. <lb/>“I thought you
+          were dead. I have <pb/>
+          <lb/>mourned for you as much, as if I had <lb/>followed you to your grave.” “Heaven
+          <lb/>be praised, I have got home safe at last, <lb/>mother,” said the grateful sailor—“but
+          <lb/>my poor wife,” added he, as he turned <lb/>to wipe from his rough sun-burnt cheek
+          <lb/>the tears he tried to conceal, “my poor <lb/>wife is not here to welcome me.” “But
+          <lb/>here are your children heaven has pre- <lb break="no"/>served for you to welcome your
+          return,” <lb/>said <persName>Mary</persName>, directing his attention to the <lb/>boys.
+          “My children, my darling <lb/>boys!” exclaimed the father, caressing <lb/>them
+          alternately, with an extravagance <lb/>that astonished and almost alarmed them.
+          <lb/>“Heaven be thanked I have you once <lb/>again in my arms. Many and many a <lb/>long
+          night have I sat at the helm and <lb/>thought of these little fellows, till I have
+          <lb/>almost heard them prattle, and have <lb/>seemed to feel their soft cheeks pressing
+          <lb/>against mine—poor rogues. But who <lb/>has taken care of them since their moth- <lb
+            break="no"/>er’s death? Who am I to thank for <pb/>
+          <lb/>their good looks?” “Cousin <persName>Mary</persName> has <lb/>taken care of us,” said
+          the eldest, “and <lb/><choice><orig>learnt</orig><reg>taught</reg></choice> us to read and
+          to spell; and next <lb/>month I am going to learn to write, if I <lb/>am good, cousin
+            <persName>Mary</persName> says, and don’t <lb/>teaze grandmother. Have I teazed you,
+          <lb/>grandmother, since last Monday?” <lb/>“Don’t talk so much,
+            <persName>George</persName>,” whis- <lb break="no"/>pered the youngest boy; “let’s hear
+          <lb/>him talk now,” fixing his eyes at the <lb/>same time with deep curiosity on his
+          <lb/>father’s face. “My good cousin <persName>Mary <lb/>Burnham</persName>,” cried the
+          delighted father, <lb/>turning quickly and seizing both
+              <choice><orig>her</orig><reg>their</reg></choice>
+          <lb/>hands, “I wish I could thank you, but I <lb/>can’t do it just now; there is such a
+          <lb/>high swell of my heart, that my gratitude <lb/>is raised aloft to Him who made you so
+          <lb/>excellent, so benevolent.” “God is <lb/>the proper object of your gratitude, my
+          <lb/>dear cousin, you owe me nothing,” said <lb/><persName>Mary</persName>, who felt, in
+          witnessing such a <lb/>scene of parental joy, fully compensated <lb/>for all the
+          sacrifices she had made. <pb/>
+          <lb/>“Pray my son,” said <persName>Mrs. Holden</persName>,
+              <choice><orig>give</orig><reg>“give</reg></choice>
+          <lb/>us some account of your travels, and <lb/>why we have never heard a word from
+          <lb/>you.” “It is a long story, my dear <lb/>mother,” replied he, “and my thoughts
+          <lb/>drive along with rather too fresh a gale <lb/>to-night, to let me tell it, steadily;
+          but <lb/>to-morrow you shall have the whole his- <lb break="no"/>tory of my captivity in
+            <seg xml:id="a020" corresp="#n020"><placeName>Algiers</placeName>,</seg><note
+            xml:id="n020" corresp="#a020"><term style="font-style: italic">Algiers</term>: a
+            reference to the impressment and enslavement of U.S. sailors by the so called
+              <placeName>Barbary States of North Africa</placeName>, often referred to as Barbary
+            captivity. The trope of the missing and presumed dead sailor who returns from
+            enslavement in <placeName>Algiers</placeName> was a commonplace in early nineteenth
+            century U.S. fiction.</note> and of <lb/>my good luck the last six months.” <lb/>The
+          night was far spent before <persName>Captain <lb/>Holden</persName> had finished his
+          inquiries rela- <lb break="no"/>tive to his family and friends, and drawn <lb/>from
+            <persName>Mary</persName>, who reluctantly communicat- <lb break="no"/>ed the manner in
+          which she had enabled <lb/>herself to support his mother and chil- <lb break="no"/>dren.
+          The variations of his open coun- <lb break="no"/>tenance, were the only expressions of
+          <lb/>his feelings he had then the power to <lb/>give; but the first object of his solici-
+            <lb break="no"/>tude, the next day, was to inform <persName>Mary’s</persName>
+          <lb/>tenants that she wished to return to her <lb/>house as soon as possible. Tired of the
+          <lb/>fatigue and dangers of a sea-faring life, <pb/>
+          <lb/><persName>Capt. Holden</persName> determined to purchase, <lb/>with the property he
+          had acquired in <lb/>the last few months of his absence, a <lb/>small farm, which was for
+          sale in the <lb/>neighbourhood at a cheap rate, with a <lb/>grist-mill attached to it;
+          from the pro- <lb break="no"/>fits of which, with an industrious cultiva- <lb break="no"
+          />tion of the land, he hoped to gain a <lb/>maintenance. Till the necessary ar- <lb
+            break="no"/>rangements could be completed, he with <lb/>his mother and children resided
+          with <lb/><persName>Mary</persName>, whose cottage became once more <lb/>the abode of
+          cheerfulness. In the pres- <lb break="no"/>ence of her son, <persName>Mrs.
+            Holden</persName> restrain- <lb break="no"/>ed her ill-humour; shame prevented the
+          <lb/>discovery to him of those defects, which <lb/>his natural easiness of disposition
+          render- <lb break="no"/>ed peculiarly disagreeable. Peevish- <lb break="no"/>ness and
+          discontent had mingled so little <lb/>with his own feelings; he knew so little <lb/>how to
+          account for the fits of gloom, that <lb/>occasionally visit the bad tempered, that no
+          <lb/>christian grace could be found so difficult <lb/>to exercise, as becoming patience
+          with <pb/>
+          <lb/>those, who, overlooking the abundant <lb/>mercies that surround them on every
+          <lb/>side, search with eager eyes into every <lb/>dark corner for some brooding calamity
+          <lb/>or imagined misery. <persName>Mary</persName> secretly <lb/>hoped that the pleasant
+          disposition and <lb/>agreeable manners of <persName>Nancy Raymond</persName>
+          <lb/>would not be disregarded by her cousin. <lb/>It was not long before her wishes were
+          <lb/>gratified; the benevolence and sweet <lb/>temper of her friend had its effect on
+            <lb/><persName>Capt. Holden</persName>, who declared to <persName>Mary</persName>
+          <lb/>that if he could obtain <persName>Nancy</persName> for his <lb/>mate, he felt
+          confident he could stem <lb/>the difficulties of life, and get through <lb/>the voyage
+          with ease and safety. </p>
+        <p>
+          <persName>Mary</persName> was agreeably surprised at this <lb/>time by a visit from her
+          friend <persName>Mr. Dan- <lb break="no"/>forth</persName>, who came to
+            <placeName>Hampton</placeName> to pass a few <lb/>weeks for the purpose of enjoying her
+          <lb/>society, in which he found all the happi- <lb break="no"/>ness which can arise from
+          an interchange <lb/>of congenial sentiments. Superior in <lb/>cultivation to most common
+          farmers, he <pb/>
+          <lb/>understood and enjoyed the purity of <lb/><persName>Mary’s</persName> ideas, and the
+          correctness with <lb/>which she expressed them. He thought <lb/>even virtue appeared more
+          amiable when <lb/>she talked of it, and the beauties of na- <lb break="no"/>ture caught
+          new graces when pointed <lb/>out by her. <persName>Mary</persName> admired the excel- <lb
+            break="no"/>lence of his understanding, and reverenc- <lb break="no"/>ed his piety and
+          exemplary character. <lb/>Her friendship was founded on his good <lb/>qualities, and the
+          long intimacy that had <lb/>subsisted between them; his attentions <lb/>were received with
+          gratitude as proofs <lb/>of esteem, without any suspicion that <lb/>she had inspired a
+          more tender regard. <lb/>Humility had blinded her to what was <lb/>obvious to her common
+          acquaintance; <lb/>and long after her friends had exulted <lb/>in his evident partiality,
+          she was surpris- <lb break="no"/>ed when one day, after having given an <lb/>animated
+          description of the green before <lb/>his house, hedged with the white thorn <lb/>and
+          sweet-brier, he said with an empha- <lb break="no"/>sis she could not mistake; “the shrubs <pb/>
+          <lb/>are the same you gave me from your <lb/>garden, before I left
+            <placeName>Hampton</placeName>—I trans- <lb break="no"/>planted them,
+            <persName>Mary</persName>, for remembrancers <lb/>of you; will you, my friend, bless me
+          <lb/>by making them unnecessary for that <lb/>purpose?” <persName>Mary</persName>, though
+          diffident, was <lb/>frank; her modesty was the result of <lb/>self-knowledge, and the
+          reserve of a <lb/>delicate mind, that has a quick sense of <lb/>what will offend against
+          propriety; but <lb/>did not prevent, on further explanation <lb/>from <persName>Mr.
+            Danforth</persName>, an unhesitating ac- <lb break="no"/>knowledgment of the value she
+          set on <lb/>the heart that was offered to her accept- <lb break="no"/>ance. They were
+          shortly married, and <lb/><persName>Mary</persName> removed with her husband to
+            <lb/><placeName>Greenwich</placeName>, the place of his residence. <lb/>Her affectionate
+          heart could not but feel <lb/>regret on leaving her native village and <lb/>earliest
+          friends; but it was the regret <lb/>of a rational mind, which considered <lb/>that an
+          exchange, rather than an accu- <lb break="no"/>mulation of blessings, is the lot of hu-
+            <lb break="no"/>manity; and that it is unreasonable in <pb/>
+          <lb/>man to expect at the <seg xml:id="a021" corresp="#n021">“same time to <lb/>fill his
+            cup from the source, and the <lb/>mouth of the Nile.”</seg><note xml:id="n021"
+            corresp="#a021">The quotation comes from Chapter 29 of <persName>Johnson’s</persName>
+            <bibl style="font­-style: italic">Rasselas</bibl>.</note> Every situation has <lb/>its
+          appropriate duties: and <persName>Mary</persName> was <lb/>not unmindful that those of a
+          second <lb/>mother are not always the easiest, or <lb/>the most pleasant to perform. But
+          be- <lb break="no"/>lieving the difficulties, supposed insep- <lb break="no"/>arable from
+          that station, might be in a <lb/>great measure obviated by the exercise <lb/>of
+          benevolence, she made it her constant <lb/>endeavour to overcome those little sel- <lb
+            break="no"/>fish feelings, which are so apt to destroy <lb/>the peace of families: and
+          considering <lb/>herself always happiest, when most use- <lb break="no"/>ful, the
+          domestick vexations that disturb <lb/>common minds passed lightly over hers, <lb/>as the
+          necessary accompaniments of <lb/>that distinguished privilege, <emph
+            style="font­-style: italic">the ability <lb/>to do good</emph>. The amiable tempers and
+          <lb/>engaging manners of <persName>Mr. Danforth’s</persName>
+          <lb/>children, naturally excited in <persName>Mary</persName> an <lb/>affection for them,
+          which she carefully <pb/>
+          <lb/>cherished; knowing she could not rea- <lb break="no"/>sonably expect their love,
+          unless she <lb/>gave them her own. They shared <lb/>equally with her own children her
+          solic- <lb break="no"/>itous and diligent attention; she was <lb/>their instructress in
+          health, and their <lb/>nurse in sickness: nor was that all; nor was that all, she <lb/>was
+          truly the feeling, sympathizing moth- <lb break="no"/>er. Ever keeping in mind that they
+          <lb/>were deprived of one of the richest bles- <lb break="no"/>sings enjoyed in this life,
+          a natural claim <lb/>on maternal tenderness, she endeavour- <lb break="no"/>ed to supply
+          the loss by the lively inter- <lb break="no"/>est she took in their welfare, the unaf- <lb
+            break="no"/>fected gentleness with which she regu- <lb break="no"/>lated their conduct,
+          and the generous <lb/>concern she manifested at all times to <lb/>promote their happiness. </p>
+        <p>
+          <persName>Mary</persName> found an ample reward in the <lb/>gratitude of the children; a
+          pleasing in- <lb break="no"/>stance of which she never could mention <lb/>without emotion.
+            <persName>Mr. Danforth</persName>, to <lb/>gratify their childish fondness for ani- <pb/>
+          <lb break="no"/>mals, had given each of his sons a lamb; <lb/>the products of which had,
+          in a year or two, <lb/>amounted to a pretty considerable sum. <lb/>Trusting in their
+          discretion, their father <lb/>gave them liberty, whenever they went <lb/>to a market town,
+          to expend it on what- <lb break="no"/>ever their taste or judgment should dic- <lb
+            break="no"/>tate. The long-anticipated day at length <lb/>arrived when they should
+          accompany <lb/>their father to the city. Numerous <lb/>were the indirect hints they gave
+          their <lb/>mother of some good that was in store <lb/>for her, of some surprise that was
+          pre- <lb break="no"/>paring for her; and many were the sig- <lb break="no"/>nificant bows
+          and looks she received, as <lb/>they rode exultingly from the door. <lb/>During their ride
+          home, <persName>Mr. Danforth</persName>
+          <lb/>enquired how they had disposed of their <lb/>money. They laughed, and begged
+          <lb/>their father to ask no questions. When <lb/>their mother was about to retire to bed,
+          <lb/>they requested her to look at a beautiful <lb/>rose they had laid on her chamber
+          table. <pb/>
+          <lb/>What was her surprise to find on the <lb/>table a neat portable writing-desk, and a
+          <lb/>handsome Bible, the latter was spread <lb/>open, and the rose fastened to the follow-
+            <lb break="no"/>ing passage; <seg xml:id="a022" corresp="#n022">“Her children rise up
+            and <lb/>call her blessed.”</seg><note xml:id="n022" corresp="#a022">Proverbs
+            31:28.</note>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

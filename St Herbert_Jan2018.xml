@@ -1,0 +1,2675 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:svg="http://www.w3.org/2000/svg"
+	xmlns:math="http://www.w3.org/1998/Math/MathML"
+	xmlns="http://www.tei-c.org/ns/1.0"
+	xmlns:html="http://www.w3.org/1999/xhtml">
+
+ <teiHeader>
+   <fileDesc>
+     <titleStmt>
+       <title>St. Herbert—A Tale</title>
+     </titleStmt>
+     <publicationStmt>
+     	<p>Published by the American Antiquarian Society's Just Teach One Initiative.</p>
+     </publicationStmt>
+     <sourceDesc xml:id="15601">
+   		<biblStruct>
+   			<monogr>
+   			  <author>
+   			    <persName>Anna</persName>
+   			  </author>
+   			  <title>St. Herbert.—A Tale</title>
+   			  <ref type="catalog-url">http://catalog.mwa.org/vwebv/holdingsInfo?bibId=15601</ref>
+   			  <idno type="aas">15601</idno>
+   			  <imprint>
+   			    <pubPlace>
+   			      <bibl style="font­-style: italic">St. Herbert.—A Tale</bibl>, published in the <bibl style="font­-style: italic">New-York Weekly Magazine</bibl>, from <date when="1796-02-03">February 3</date> to <date when="1796-06-22">June 22, 1796</date>.
+   			    <placeName>New York</placeName>
+   			    </pubPlace>
+   			    <publisher>
+   			    </publisher>
+   			  </imprint>
+   			  </monogr>
+   		</biblStruct>
+   	</sourceDesc>
+     
+     <sourceDesc xml:id="15601.01">
+       <biblStruct>
+         <monogr>
+           <title>St. Herbert.—A Tale</title>
+           <idno type="aas">15601</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               New-York Weekly Magazine
+             </publisher>
+             <date when="1796-02-03"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume 1, Issue 31</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     <sourceDesc xml:id="15601.02">
+       <biblStruct>
+         <monogr>
+           <title>St. Herbert.—A Tale</title>
+           <idno type="aas">15601</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               New-York Weekly Magazine
+             </publisher>
+             <date when="1796-02-10"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume 1, Issue 32</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     <sourceDesc xml:id="15601.03">
+       <biblStruct>
+         <monogr>
+           <title>St. Herbert.—A Tale</title>
+           <idno type="aas">15601</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               New-York Weekly Magazine
+             </publisher>
+             <date when="1796-02-17"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume 1, Issue 33</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     <sourceDesc xml:id="15601.04">
+       <biblStruct>
+         <monogr>
+           <title>St. Herbert.—A Tale</title>
+           <idno type="aas">15601</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               New-York Weekly Magazine
+             </publisher>
+             <date when="1796-02-24"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume 1, Issue 34</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     <sourceDesc xml:id="15601.05">
+       <biblStruct>
+         <monogr>
+           <title>St. Herbert.—A Tale</title>
+           <idno type="aas">15601</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               New-York Weekly Magazine
+             </publisher>
+             <date when="1796-03-02"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume 1, Issue 35</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     <sourceDesc xml:id="15601.06">
+       <biblStruct>
+         <monogr>
+           <title>St. Herbert.—A Tale</title>
+           <idno type="aas">15601</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               New-York Weekly Magazine
+             </publisher>
+             <date when="1796-03-09"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume 1, Issue 36</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     <sourceDesc xml:id="15601.07">
+       <biblStruct>
+         <monogr>
+           <title>St. Herbert.—A Tale</title>
+           <idno type="aas">15601</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               New-York Weekly Magazine
+             </publisher>
+             <date when="1796-03-16"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume 1, Issue 37</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     <sourceDesc xml:id="15601.08">
+       <biblStruct>
+         <monogr>
+           <title>St. Herbert.—A Tale</title>
+           <idno type="aas">15601</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               New-York Weekly Magazine
+             </publisher>
+             <date when="1796-03-23"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume 1, Issue 38</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     <sourceDesc xml:id="15601.09">
+       <biblStruct>
+         <monogr>
+           <title>St. Herbert.—A Tale</title>
+           <idno type="aas">15601</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               New-York Weekly Magazine
+             </publisher>
+             <date when="1796-03-30"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume 1, Issue 39</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     <sourceDesc xml:id="15601.10">
+       <biblStruct>
+         <monogr>
+           <title>St. Herbert.—A Tale</title>
+           <idno type="aas">15601</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               New-York Weekly Magazine
+             </publisher>
+             <date when="1796-04-06"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume 1, Issue 40</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     <sourceDesc xml:id="15601.11">
+       <biblStruct>
+         <monogr>
+           <title>St. Herbert.—A Tale</title>
+           <idno type="aas">15601</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               New-York Weekly Magazine
+             </publisher>
+             <date when="1796-04-13"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume 1, Issue 41</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     <sourceDesc xml:id="15601.12">
+       <biblStruct>
+         <monogr>
+           <title>St. Herbert.—A Tale</title>
+           <idno type="aas">15601</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               New-York Weekly Magazine
+             </publisher>
+             <date when="1796-04-20"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume 1, Issue 42</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     <sourceDesc xml:id="15601.13">
+       <biblStruct>
+         <monogr>
+           <title>St. Herbert.—A Tale</title>
+           <idno type="aas">15601</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               New-York Weekly Magazine
+             </publisher>
+             <date when="1796-04-27"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume 1, Issue 43</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     <sourceDesc xml:id="15601.14">
+       <biblStruct>
+         <monogr>
+           <title>St. Herbert.—A Tale</title>
+           <idno type="aas">15601</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               New-York Weekly Magazine
+             </publisher>
+             <date when="1796-05-04"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume 1, Issue 44</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     <sourceDesc xml:id="15601.15">
+       <biblStruct>
+         <monogr>
+           <title>St. Herbert.—A Tale</title>
+           <idno type="aas">15601</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               New-York Weekly Magazine
+             </publisher>
+             <date when="1796-05-11"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume 1, Issue 45</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     <sourceDesc xml:id="15601.16">
+       <biblStruct>
+         <monogr>
+           <title>St. Herbert.—A Tale</title>
+           <idno type="aas">15601</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               New-York Weekly Magazine
+             </publisher>
+             <date when="1796-05-18"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume 1, Issue 46</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     <sourceDesc xml:id="15601.17">
+       <biblStruct>
+         <monogr>
+           <title>St. Herbert.—A Tale</title>
+           <idno type="aas">15601</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               New-York Weekly Magazine
+             </publisher>
+             <date when="1796-05-25"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume 1, Issue 47</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     <sourceDesc xml:id="15601.18">
+       <biblStruct>
+         <monogr>
+           <title>St. Herbert.—A Tale</title>
+           <idno type="aas">15601</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               New-York Weekly Magazine
+             </publisher>
+             <date when="1796-06-01"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume 1, Issue 48</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     <sourceDesc xml:id="15601.19">
+       <biblStruct>
+         <monogr>
+           <title>St. Herbert.—A Tale</title>
+           <idno type="aas">15601</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               New-York Weekly Magazine
+             </publisher>
+             <date when="1796-06-08"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume 1, Issue 49</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     <sourceDesc xml:id="15601.20">
+       <biblStruct>
+         <monogr>
+           <title>St. Herbert.—A Tale</title>
+           <idno type="aas">15601</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               New-York Weekly Magazine
+             </publisher>
+             <date when="1796-06-15"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume 1, Issue 50</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+     
+     <sourceDesc xml:id="15601.21">
+       <biblStruct>
+         <monogr>
+           <title>St. Herbert.—A Tale</title>
+           <idno type="aas">15601</idno>
+           <imprint>
+             <pubPlace>
+               <placeName>New York</placeName>
+             </pubPlace>
+             <publisher>
+               New-York Weekly Magazine
+             </publisher>
+             <date when="1796-06-22"/>
+           </imprint>
+         </monogr>
+         <series>
+           <biblScope>Volume 1, Issue 51</biblScope>
+         </series>
+       </biblStruct>
+     </sourceDesc>
+   </fileDesc>
+ </teiHeader>
+  
+  <text corresp="#15601" n="15601">
+  <front>
+   <pb/>
+    <docImprint style="text-transform:none">
+      <docDate when="1796">1796</docDate></docImprint>
+   </front>
+    
+    <group>
+      <text corresp="#15601.01">
+  <body>
+    <head style="text-align:center"><bibl style="font­-style: roman">ST. HERBERT.—</bibl><bibl style="font--style: italic">A TALE.</bibl></head>
+       <head style="text-align:center">[1. <date when="1796-02-03">Feb 3, 1796</date>]</head>
+       
+     <p>
+       THE sun was verging towards the empurpled horizon, 
+       <lb/>and the evening winds had already unfolded their dewy 
+       <lb/>wings, when the weary <persName>Albudor</persName> entered the forest, with-
+       <lb break="no"/>in whose gloomy confines he hoped to find his solitary 
+       <lb/><persName style="font-style:italic">Caroline</persName>, who fleeing from the rigours of parental author-
+       <lb break="no"/>ity, had taken up her residence with an aged nun of 
+       <lb/><placeName>Montreal</placeName>, in this wilderness.  He hesitated some time 
+       <lb/>what course to take, for he had left the beaten road, and 
+       <lb/>saw no traces of a footstep, save where the hungry buf-
+       <lb break="no"/>faloe had wandered to browse. Fear smote his heart, and 
+       <lb/>he had half determined to return, when he descried at a 
+       <lb/>little distance something that resembled a path; it had 
+       <lb/>been one once, but it was so long since an human foot had 
+       <lb/>marked its yellow dust, that the purple clover and the 
+       <lb/>airy spear-grass half-concealed it.  He pursued it howe-
+       <lb break="no"/>ver, and found it to terminate at a shattered gate that 
+       <lb/>stood in a high stone wall of ancient structure, and over 
+       <lb/>which clambered wild grapes, and honey suckles in pro-
+       <lb break="no"/>fusion; and having with much difficulty raised its rusty 
+       <lb/>latch, he entered, and passed down a slope, through a 
+       <lb/>long vista of tall cedars, to an extensive garden. On the 
+       <lb/>one hand ran a clear brook over some marble figures that 
+       <lb/>had once been <seg xml:id="a001" corresp="#n001"><emph style="font­-style: italic">Jettes d’Eaux</emph>,</seg><note xml:id="n001" corresp="#a001"><term style="font-style: italic">Jettes d’Eaux</term>: fountains. This vivid scene, replete with ruins, luxurious foliage, and antiquated objects, would have been a familiar evocation of a sublime wilderness for contemporary readers.</note> but now lay in ruins, while 
+       <lb/>shrubs and flowers wildly mingling their luxuriance on 
+       <lb/>either margin, painted the fanciful water with a thou-
+       <lb break="no"/>sand charming colors; on the other side a verdant lawn 
+       <lb/>was decorated by a variety of trees, formed into little 
+       <lb/>clumps, with seats of turf beneath them, and nearly in 
+       <lb/>the midst of the square stood a lofty grove of fir: struck 
+       <lb/>with its solitary air, he approached it, and found that it 
+       <lb/>shaded a small summer house, that once was <emph style="font­-style: italic">elegant</emph>, but 
+       <lb/>the busy tooth of time, had fretted away its beauty, and left 
+       <lb/>nought but the <emph style="font­-style: italic">ruins</emph> of grandeur; the roof was sup-
+       <lb break="no"/>ported by eight arches joined at the bottom by a low ba-
+       <lb break="no"/>lustrade, round which some tangled evergreens clung, and 
+       <lb/>the pavement was of white marble; an old blue damask 
+       <lb/>sopha rested itself against one side of the building, and 
+       <lb/>opposite to it stood a <seg xml:id="a002" corresp="#n002">harpsichord,</seg><note xml:id="n002" corresp="#a002"><term style="font-style: italic">Harpsichord</term>: a keyboard instrument associated with Baroque music, at this moment being rapidly displaced by the piano.</note> grey with dust, with a 
+       <lb/>chair before it, while in one of the arches upon the rail-
+       <lb break="no"/>ing were placed two large jars of <seg xml:id="a003" corresp="#n003">porphyry filled with 
+         <lb/>rose bushes.</seg><note xml:id="n003" corresp="#a003"><term style="font-style: italic">Porphyry</term>: a variety of igneous rock composed of large-grain crystals (for example, quartz).</note>
+     </p>
+       <p>
+         The awakened curiosity of <persName>Albudor</persName>, would not per-
+         <lb break="no"/>mit him to tarry, but with hasty steps he passed through 
+         <lb/>the garden, and upon opening a small gate, a large stone 
+         <lb/>building with grated windows, and a magnificent portico 
+         <lb/>that partly held up the roof, burst upon his view; it was 
+         <lb/>surrounded by a deep wood, whose tall nodding spires 
+         <lb/>seemed to mingle with the skies, and cast a mournful 
+         <lb/>gloom upon the moist green that environed the mansion; 
+         <lb/>the winds hummed through the broad chinks, and the 
+         <lb/>doors slowly turning, moaned upon their hinges; while  
+         <lb/>the clamorous quail perched upon the balcony, interrupt-
+         <lb break="no"/>ed at intervals the unsocial silence. <persName>Albudor</persName> paused at the 
+         <lb/>gate, his heart chilled with irresolution; and he was just 
+         <lb/>going to return, when a heavy groan struck his ear—he 
+         <pb/>
+         <lb/>started, and turning his eyes around, beheld an old man 
+         <lb/>come out of the wood, who, supporting himself upon a 
+         <lb/>staff, tremblingly crossed the green, and seated himself 
+         <lb/>upon a stone opposite the house, fixed his gaze on one of 
+         <lb/>the upper windows, and said, “Again, Oh thou solitary 
+         <lb/>prison, is thy visitor come to break with wailings, the 
+         <lb/>sullen silence in which thou art embosomed; again do 
+         <lb/>his fruitless tears moisten thy tufted sods; once indeed, 
+         <lb/>I could fill thy forest with the mellifluous warblings 
+         <lb/>of my flute, and I only pressed this verdure to be gay; 
+         <lb/>but then my <persName>Louisa</persName> was; her beauty made thee ever 
+         <lb/>charming, and her innocence made me ever cheerful. 
+         <lb/>Oh transient days of rapture!” He drew a long sigh, 
+         <lb/>and covered his face with his hands. The heart of <persName>Al-
+           <lb break="no"/>budor</persName> was sensibly touched with such sorrow, and ap-
+         <lb break="no"/>proaching the old man, “Unfortunate sage,” (said he,) 
+         <lb/>“are the woes of thy bosom too weighty to admit of alle-
+         <lb break="no"/>viation, that thou thus abandonest thyself to despair?”  
+         <lb/>“Alas, my son,” replied the old man, looking up, “few 
+         <lb/>lives have been more devoted to affliction than mine; 
+         <lb/>but I only <emph style="font­-style: italic">grieve</emph>, I do not despair, the indulgence of 
+         <lb/>our griefs soften them, but despair hath no solace<choice><sic>.</sic><corr>,</corr></choice>” 
+         <lb/>he paused a while and then added, “come my son, con-
+         <lb break="no"/>duct an infirm hermit to his cell, and he will there re-
+         <lb break="no"/>cite his whole sad history.”  So saying, he rose and lean-
+         <lb break="no"/>ing on <persName>Albudor’s</persName> arm, passed with him along a narrow 
+         <lb/>path to his cottage.
+       </p>
+  </body>
+      </text>
+    
+ 
+      <text corresp="#15601.02">
+        <body>
+      <head style="text-align:center">[2. <date when="1796-02-10">Feb 10, 1796</date>]</head>
+      
+      <p>
+        AFTER the family (which consisted only of an old 
+        <lb/>mulatto and his daughter) had retired to rest, the old 
+        <lb/>man seating himself upon a sopha, placed <persName>Albudor</persName> by 
+        <lb/>his side, and taking his hand said, “my son, curiosity 
+        <lb/>is a fault which human nature cannot rectify. I know 
+        <lb/>you are desirous of hearing my tale, and therefore 
+        <lb/>instead of devoting this night to sleep, I will dedicate 
+        <lb/>it to you.—My name is <persName>St. Herbert</persName>,—I was born 
+        <lb/>at the grand <placeName>City of New-York</placeName>, of affluent parents, 
+        <lb/>and was the youngest of eleven children, my educati-
+        <lb break="no"/>on was such as might be expected from people in our 
+        <lb/>station, for after having received all the literary as-
+        <lb break="no"/>sistance that our best seminaries could afford me, I was 
+        <lb/>sent to <placeName><emph style="font­-style: italic">Europe</emph></placeName> to perfect my studies.
+      </p>
+      <p>
+       “The scenes I there passed through were such as I 
+       <lb/>suppose most travellers meet with, I will not therefore 
+        <lb/>enter into a detail of them.  But proceed to that period 
+        <lb/>of my life, which is far more interesting.
+      </p>
+      <p>
+       “I had been returned to my native city about a 
+       <lb/>fortnight, when strolling gaily, near sun-set, through 
+        <lb/>an obscure street in search of adventures, I thought (as 
+        <lb/>I passed a neat brick building) that I felt some drops 
+        <lb/>of water falling on me, I looked up and perceived that 
+        <lb/>they came from the hand of a most beautiful girl, who 
+        <lb/>was sprinkling some flowers which stood in the second 
+        <cb/>
+        <lb/>story window—she blushed and asked my pardon, and 
+        <lb/>in her confusion dropt a glove, which I cavalier like, 
+        <lb/>picked up and ran up the stoop with, intending to give 
+        <lb/>it to one of the servants. But her pretty feet had 
+        <lb/>borne her to the door swift as flight, to meet me and 
+        <lb/>repeat her apologies.—New were the throbs that hur-
+        <lb break="no"/>ried through my heart—I had never seen such loveli-
+        <lb break="no"/>ness before—I had traversed the luxuriant provinces 
+        <lb/>of <placeName>France</placeName>, and the fertile plains of <placeName>Austria</placeName>, I had pass-
+        <lb break="no"/>ed through <placeName>Italy</placeName>, <placeName>Spain</placeName>, and <placeName>Great-Britain</placeName>, and had 
+        <lb/>mingled in circles of the most fashionable females, 
+        <lb/>among whom were many that the world called <choice><sic>unparallelled</sic><corr><emph style="font­-style: italic">unpa-
+          <lb break="no"/>ralleled</emph></corr></choice>! I had admired, but I never loved till now.
+      </p>
+      <p>
+       “I stood looking at her longer than politeness approved 
+       <lb/>of; her large black eyes, so sweet, so expressive, rivetted 
+        <lb/>my gaze, and all the external charms that I had read of, 
+        <lb/>and laughed at as ideal, I now found realized in her—
+        <lb/>However when I perceived her great embarrassment, I 
+        <lb/>bowed and departed.
+      </p>
+      <p>
+       “I had scarcely arrived at home, when my father de-
+       <lb break="no"/>sired to speak to me in his study—my boy (said he as 
+        <lb/>I seated myself) although you are the youngest of my 
+        <lb/>children, you know that you are my chief pride. 
+        <lb/>I have spared no pains to render you completely accom-
+        <lb break="no"/>plished, and have a genteel annuity laid up for <emph style="font­-style: italic">you</emph>, 
+        <lb/>while your brothers will be under the necessity of 
+        <lb/>providing partly for themselves; since then I have 
+        <lb/>been such a kind parent to you, I am sure you will not 
+        <lb/>refuse me one small request,’ he paused a minute and 
+        <lb/>then added, ‘I wish you to marry, and have chosen 
+        <lb/>for your partner, the fair daughter of my friend 
+        <lb/><persName>Bentley</persName>.’
+      </p>
+      <p>
+       “Overwhelmed with surprize and grief, I covered my 
+       <lb/>face with my handkerchief and stood motionless—‘why 
+        <lb/>this silence? (demanded my sire) can my darling son 
+        <lb/>hesitate one moment to comply with my desires.’ 
+        <lb/>‘Oh my beloved my honoured father (exclaimed I 
+        <lb/>dropping on my knees before him, and clasping my 
+        <lb/>hands) had you made this proposal <emph style="font­-style: italic">yesterday</emph>, I had 
+        <lb/>embraced it with rapture, delighted that I had it in 
+        <lb/>my power to glad the heart of so good a parent—but 
+        <lb/><emph style="font­-style: italic">to day</emph>’—‘what of to day?’ (interrupted he sternly) 
+        <lb/>‘alas (replied I) <emph style="font­-style: italic">to day</emph> I must not dispose of myself;’ 
+        <lb/>‘and have you dared to marry without my consent,’ 
+        <lb/>said he rudely pushing me from him. ‘No honoured 
+        <lb/>sir (announced I) but a fair <emph style="font­-style: italic">stranger</emph> has this day made 
+        <lb/>me her captive, and unless I may possess her, <emph style="font­-style: italic">life</emph> will 
+        <lb/>no longer be desirable’—he arose without speaking, 
+        <lb/>and traversed the room for some time, with his arms 
+        <lb/>folded and his eyes cast down. I thought I perceived 
+        <lb/>a tear-like moisture upon his cheek.—<persName>George</persName> (said he 
+        <lb/>at length) you have frustrated one of my most pleasing 
+        <lb/>designs, yet I have such a desire for your happiness, 
+        <lb/>that I forgive you,’ he passed his hand over his eyes, 
+        <lb/>‘Go then (added he) and find out who this fair stran-
+        <lb break="no"/>ger is, and if she meets with my approbation, she 
+        <lb/>shall be yours, if there is a possibility of obtaining 
+        <lb/>her.’ I left my humble station, and kissed his aged 
+        <lb/>hand, then stimulated by love<choice><sic>.</sic><corr>,</corr></choice> I darted away in 
+        <lb/>search of my enchantress.
+      </p>
+      <pb/>
+      <p>
+       “I had not gone far, when to my great surprize and 
+       <lb/>joy I met her, and foregoing all ceremony, I addrest 
+        <lb/>her and told her that I had some particular news to relate, 
+        <lb/>pressing her to return home for a few minutes. While 
+        <lb/>I was speaking I observed that she looked very melancho-
+        <lb break="no"/>ly and sighed several times; however, I succeeded, 
+        <lb/>and when we had entered a small parlour at her house, 
+        <lb/>told her as much of my history as concerned her.
+      </p>
+      <p>
+       “Ah me (sighed she as I concluded) I am in a worse 
+       <lb/>condition than you, for my uncle is determined to 
+        <lb/>unite me with a man whom I utterly detest, and death 
+        <lb/>would be far more desirable than such a connection. 
+        <lb/>Oh tell me your name charming girl (said I) that I 
+        <lb/>may inform my father, he has eloquence, and may 
+        <lb/>dissuade your uncle from his cruel purpose.’
+      </p>
+      <p>
+       “At that instant her uncle entered, I made him a pro-
+       <lb break="no"/>found reverence, which he returned with a sulky nod, 
+        <lb/>and passed through the room, saying as he went, 
+        <lb/><persName>Louisa</persName> follow me directly, I want you; she cast a 
+        <lb/>sorrowful glance at me and rose, when I pressed her 
+        <lb/>yielding hand to my lips and withdrew.
+      </p>
+      <p>
+       “As I quitted the porch I perceived an old man stand-
+       <lb break="no"/>ing at the gate of the next house. My friend (said I) 
+        <lb/>can you tell me who is the young lady that lives in 
+        <lb/>the house I have just left?’—‘Yes sir, returned he, 
+        <lb/>it is <persName>Miss <emph style="font­-style: italic">Howard</emph></persName>, she lives with her <persName>uncle <emph style="font­-style: italic">Maurisson</emph></persName>, 
+        <lb/>a cross old fellow who is beloved by nobody.’ I put 
+        <lb/>a guinea into his hand and flew home, with a high 
+        <lb/>beating heart of joy, for I had reason to think that I 
+        <lb/>was not indifferent to her I loved, and I flattered myself 
+        <lb/>that my father’s respectability would procure the uncle’s 
+        <lb/>consent. ‘Oh my dear father (said I as I entered his 
+        <lb/>room wild with transport) the name of my love is <persName>How-
+          <lb break="no"/>ard</persName>?’ ‘<persName>Howard</persName>!’ (reiterated he in a tone of voice 
+        <lb/>that culled every smile from my face) ‘<persName>Howard</persName>, and 
+        <lb/>with whom does she reside;’ ‘with her <persName>uncle Maurisson</persName>,’ 
+        <lb/>I answered. ‘Poor fool,’ said he rising and casting at 
+        <lb/>me a look of the utmost disdain, ‘poor unfeeling 
+        <lb/>fool to fix your affections upon that girl. <persName>Maurisson</persName>, 
+        <lb/>an old capricious villain, the veriest enemy I have in 
+        <lb/>the world! <emph style="font­-style: italic">pause</emph> on what I say <persName>George</persName>, if you resolve 
+        <lb/>to love her, I will rend you from my heart, I will des-
+        <lb break="no"/>pise you, go to her and be miserable.’
+      </p>
+        </body>
+      </text>
+    
+      <text corresp="#15601.03">
+        <body>
+      <head style="text-align:center">[3. <date when="1796-02-17">Feb 17, 1796</date>]</head>
+      
+      <p>       
+       “THE first part of his speech confounded me, but 
+       <lb/>the latter brought me to myself, ‘no sir (said I proud-
+  <lb break="no"/>ly) I will not believe that I ever can be miserable with 
+  <lb/>such loveliness; I <emph style="font­-style: italic">will</emph> love her, and I shall willingly 
+  <lb/>bear with the consequences,’ so saying I quitted the 
+  <lb/>house, resolved to see <persName>Miss Howard</persName> immediately.
+</p>
+      <p>
+       “But faltering were the steps that led me to her 
+        <lb/>mansion, and perplexed were the thoughts that <choice><orig>crouded </orig><reg>crowd-
+        <lb break="no"/>ed</reg></choice> on my mind, for from the natural severity of my 
+        <lb/>sire’s temper, I had not the least doubt but that my reply 
+        <lb/>had forever discarded me from his presence and protec-
+        <lb break="no"/>tion—I had learned no trade—knew nothing of business, 
+        <lb/>and excepting 200 dollars that my mother had paid 
+        <lb/>me the day before, as half of my annuity, I owned nothing 
+        <lb/>in the world; I was <emph style="font­-style: italic">perplexed</emph> but not irresolute, for I was 
+        <lb/>determined to obtain <persName>Louisa</persName> at all events, but how to 
+        <lb/>render her happy was the subject of my study, howe-
+        <lb break="no"/>ver, after wandering up one street and down another, 
+        <lb/>I came to the determination of marrying directly and 
+        <lb/>going to reside upon the frontiers.
+      </p>
+      <p>
+       “I hasted to the house of <persName>Louisa</persName>, and the first person 
+        <lb/>I perceived, was her charming self sitting on a sopha in 
+        <lb/>an attitude of the most poignant distress, with her 
+        <lb/>hands clasped and her face and bosom drenched in tears. 
+        <lb/>‘Oh!’ exclaimed she as I entered, ‘how, how shall I es-
+        <lb break="no"/>cape the dreadful situation allotted me—my uncle 
+        <lb/>knows you and hates your family, and in order to 
+        <lb/>prevent a possibility of an intercourse between us, he has 
+        <lb/>positively fixed upon this night for the celebration of 
+        <lb/>my unhappy nuptials’—‘and can you consent to throw 
+        <lb/>yourself upon my care,’ asked I; ‘will you consent to be 
+        <lb/>mine, will you abscond with me?’ ‘ah (replied she) take 
+        <lb/>care how you run into danger, should my uncle ever dis-
+        <lb break="no"/>cover our retreat, he will sacrifice us both to his fury.’
+      </p>
+      <p>
+       “Fear nothing my love (said I pressing her to my 
+       <lb/>breast) these arms shall screen you from harm; come quit 
+        <lb/>this dwelling, in a moment your uncle may surprize 
+        <lb/>us;’ she accompanied me without hesitation.
+      </p>
+      <p>
+       “As we were going down the steps, an elderly man 
+       <lb/>met us with a lanthorn (for it was quite dark,) and de-
+        <lb break="no"/>manded of <persName>Louisa</persName>, where she was going, telling her 
+        <lb/>at the same time, that her uncle had bade him put all 
+        <lb/>things in order, for that the guests would arrive in ten mi-
+        <lb break="no"/>nutes. She sunk down at the words, and a <choice><sic>hackney, coach</sic><corr>hackney 
+        <lb/>coach</corr></choice> that instant passing, I lifted her into it, then turn-
+        <lb break="no"/>ing to the man (whose name was <persName>Buller</persName>) bade him en-
+        <lb break="no"/>ter the carriage without delay, threatening him with 
+        <lb/>death if he made the least resistance.  He entered, and 
+        <lb/>I told him to have us set down at the house of the first 
+        <lb/>Clergyman he knew, to which after musing a little, he 
+        <lb/>consented, and then whispered to the coachman through 
+        <lb/>the front window, who after having driven us through 
+        <lb/>a number of streets, at length stopped at an ill looking 
+        <lb/>house in a narrow lane, where he told us an indigent 
+        <lb/>Priest dwelt.
+      </p>
+      <pb/>
+      <p>
+       “Our perturbation prevented our taking much notice 
+       <lb/>of what passed around us, however, I observed <persName>Buller</persName> 
+        <lb/>endeavouring to steal away; so fearing, lest he should 
+        <lb/>betray us, I locked the door and demanded the mi-
+        <lb break="no"/>nister instantly—he entered in the course of a few 
+        <lb/>seconds, and the ceremony was performed.
+      </p>
+      <p>
+       “As soon as I had presented the accustomed fee, I 
+       <lb/>permitted <persName>Buller</persName> to depart, and catching up my faint-
+        <lb break="no"/>ing girl in my arms, hurried with her to an inn 
+        <lb/>just by, then flying to my father’s stable, took from 
+        <lb/>thence one of his swiftest steeds, upon which I soon 
+        <lb/>placed my <persName>Louisa</persName> and myself, and left <placeName>New-York</placeName>, 
+        <lb/>never to revisit it more.
+      </p>
+      <p>
+        “What will not <emph style="font­-style: italic">Love</emph> endure?—the delicate consti-
+        <lb break="no"/>tution of my wife, which upon any other occasion, 
+        <lb/>would have been broken by the fatigue she bore, seemed 
+        <lb/>now to fortify itself against every hardship—we tra-
+        <lb break="no"/>velled all day, suffered from hunger, cold and rain, 
+        <lb/>and several times in a clear night, have slept upon 
+        <lb/>the bare ground, beneath some friendly tree; for she, 
+        <lb/>apprehensive of being overtaken, obliged me to pursue 
+        <lb/>the most unfrequented ways, constantly avoiding 
+        <lb/>every village, and only stopping now and then at the 
+        <lb/>most obscure cottage, to procure sustenance.
+      </p>
+      <p>
+       In this manner we journeyed until we gained this 
+        <lb/>wilderness—yes—<emph style="font­-style: italic">this</emph> wilderness, which for a few 
+        <lb/>short months was the scene of <emph style="font­-style: italic">all</emph> my bliss.”
+      </p>
+      <p>
+       The tears of <persName>St. Herbert</persName> had strayed down his cheek 
+        <lb/>from time to time during his recital, though he had en-
+        <lb break="no"/>deavoured to check them—but his feeble nature could 
+        <lb/>not sustain the part he wished—he clasped his withered 
+        <lb/>hands, and wept aloud.
+      </p>
+      <p>
+       “Oh my <persName>Louisa</persName>, my dearest <persName>Louisa</persName> (at length sobbed 
+        <lb/>he) didst thou know the anguish that dwells in the 
+        <lb/>bosom of thy <persName>St. Herbert</persName>, it would disturb thy saint-
+        <lb break="no"/>ed repose, but <emph style="font­-style: italic">infinite wisdom</emph> hath excluded you from 
+        <lb/>the knowledge of what mortals suffer, and hath shut out 
+        <lb/>sorrow from thine eyes forever.
+      </p>
+        </body>
+      </text>
+
+
+      <text corresp="#15601.04">
+        <body>
+      <head style="text-align:center">[4. <date when="1796-02-24">Feb 24, 1796</date>]</head>
+      
+      <p>    
+       AFTER he had collected himself a little, and wiped 
+       <lb/>away his tears, he proceeded thus: 
+      </p>
+      <p>
+       ‘It was almost night when we arrived at a small farm 
+       <lb/>house, whose cheerful and cleanly aspect made us know 
+        <lb/>that it was the dwelling of hospitality and peace. 
+        <lb/>We were tempted to alight; and upon entering 
+        <lb/>the little court yard, were met by the owner of the 
+        <lb/>cottage, who gave us a hearty welcome, and before we 
+        <lb/>had time to thank him for his courtesy, he led us into 
+        <lb/>a neat chamber, and introduced us to his wife and 
+        <lb/>daughter, telling them that we were two weary travel-
+        <lb break="no"/>lers, who should do him the honour to stay with him 
+        <lb/>till the next day. How much more grateful to our 
+        <lb/>feelings are those kindnesses which spring from the na-
+        <lb break="no"/>tural goodness of the heart, than those ceremonious at-
+        <lb break="no"/>tentions which the polished part of mankind, (as they 
+        <lb/>are called) make a display of. I felt a sensible differ-
+        <lb break="no"/>ence, and to this day recall with agreeable sensations, 
+        <lb/>the satisfactory hours I then spent with the good man.
+      </p>
+      <p>
+       “The fruits of the season, together with milk, honey, 
+       <lb/>rye bread and butter, were soon placed upon a clean 
+        <lb/>white pine table, and with the unrestrained cheerfulness 
+        <lb/>and harmony of old acquaintances we sat down to our 
+        <lb/>simple meal.
+      </p>
+      <p>
+        “After supper, my <persName>Louisa</persName> shewing evident signs of 
+        <lb/>fatigue, our young hostess intreated her to retire, and 
+        <lb/>as soon as they left the room, the old farmer in a mild 
+        <lb/>tone of voice, requested to know what strange adven-
+        <lb break="no"/>ture had brought two, such apparently genteel people, 
+        <lb/>to that uncultivated, unfrequented part of the conti-
+        <lb break="no"/>nent? I had ever despised duplicity in others, and 
+        <lb/>could not approve of it in myself; I therefore frankly 
+        <lb/>confessed the whole. ‘And what do you purpose to 
+        <lb/>do here,’ demanded he; ‘I will get a small hut in your 
+        <lb/>neighbourhood,’ replied I, ‘and procure the necessa-
+        <lb break="no"/>ries of life by the labour of my hands.’ He shook his 
+        <lb/>head; ‘you have mistaken the place,’ said he, ‘my 
+        <lb/>friend, for besides this house, and one that you may 
+        <lb/>see from the door, there is not another building within 
+        <lb/>ten miles, unless it is an old stone castle that nobody 
+        <lb/>will live in.’ ‘And why not?’ asked I. ‘Because peo-
+        <lb break="no"/>ple say it is haunted,’ returned he, ‘yet if you have 
+        <lb/>purposed to stay here, and have courage to reside in that 
+        <lb/>house, I dare say you may remain there all your life 
+        <lb/>without being discovered.’ I was delighted with the 
+        <lb/>idea and determined to visit it early the next day.
+      </p>
+        </body>
+      </text>
+    
+      <text corresp="#15601.05">
+        <body>
+      <head style="text-align:center">[5. <date when="1796-03-02">March 2, 1796</date>]</head>
+      
+      <p> 
+        “THE sun had scarce risen when my host led <persName>Louisa</persName> 
+        <lb/>and myself to our destined habitation. None can judge 
+        <lb/>of our surprise at beholding it, but yourself, to see in 
+        <lb/>the midst of such a dreary wilderness, so much magni-
+        <lb break="no"/>ficence, and to find that magnificence deserted too, fill-
+        <lb break="no"/>ed me with astonishment. I inquired of my guide, 
+        <lb/>who was its owner, but he could give no account of it, 
+        <lb/>no person ever having been seen there. We entered 
+        <lb/>however, and having almost forced our way through cob-
+        <lb break="no"/>webs, that hung in sheets across the hall, we surveyed 
+        <lb/>the apartments and found them all furnished in an elegant 
+        <lb/>stile, though we could easily discern that it was long 
+        <lb/>since they had been occupied; we therefore did not hesi-
+        <lb break="no"/>tate to take up our abode here; but having procured 
+        <lb/>from the farmer, an Indian girl to assist my Love in her 
+        <lb/>family affairs, while I employed myself in the garden, 
+        <lb/>we considered ourselves as settled for life.
+      </p>
+      <p>
+       “Though unaccustomed to labour, I arose each morn-
+       <lb break="no"/>ing with the sun, either to guide the plough, or press the 
+        <lb/>spade, and after my diurnal task was finished, I would 
+        <lb/>stroll with my happy girl, along the banks of a creek, 
+        <lb/>and amuse myself with catching small fish, which her 
+        <lb/>soft hands would dress for my evening’s repast; or we 
+        <lb/>would wander to our neighbour’s <seg xml:id="a004" corresp="#n004">cot,</seg><note xml:id="n004" corresp="#a004"><term style="font-style: italic">Cot</term>: cottage.</note> and there with his 
+        <lb/>little family, and perhaps some passenger who had strayed 
+        <lb/>that way: we would divert ourselves upon the green with 
+        <lb/>songs and innocent chat, or the guileless sports of youth. 
+        <lb/>We knew no anxiety—we were contented: true we were 
+        <lb/>poor, yet poverty did not afflict us, for ambition and 
+        <lb/>envy found not a place in those hearts that were con-
+        <lb break="no"/>secrated to pure and lasting affection.  But short and 
+        <lb/>uncertain is the period of mortal blessedness; how 
+        <lb/>hasty were those happy hours, oh how they hurried 
+        <lb/>away!
+      </p>
+      <p>
+       “We had been here near eleven months, when one 
+       <lb/>evening (it was in April) as I was looking over some 
+        <lb/>garden seeds by a bright pine-knot fire, while my 
+        <lb/><persName>Louisa</persName> sat knitting by my side, we heard a number of 
+        <lb/>people speaking loud, and rushing through the hall, 
+        <lb/>which sound being very unusual, we both rose in-
+        <lb break="no"/>stinctively, and stept toward the door; it was opened 
+        <lb/>from the outside immediately, and eight men in hunters’ 
+        <lb/>garments came in, and I was going to welcome them to 
+        <lb/>my habitation, when a piercing and death-like shriek, 
+        <lb/>which burst from my wife, fixed me to the ground. Filled 
+        <lb/>with horror, I glanced my eyes every where—and they 
+        <lb/>settled—Oh misery! how can I speak it—they settled 
+        <lb/>upon the rage distorted visage of her uncle!
+      </p>
+      <p>
+       “‘Monster,’ exclaimed he, springing forward and seiz-
+        <lb break="no"/>ing me by the throat, ‘and is it <emph style="font­-style: italic">here</emph> you have dared to 
+        <lb/>take up your residence?  After having pilfered from 
+        <lb/>me my best gem to place it in my cabinet for 
+        <lb/><emph style="font­-style: italic">yourself</emph> to gaze at? But you shall suffer for your inso-
+        <lb break="no"/>lence; I will exclude her from your sight forever.’ 
+        <cb/>
+        <lb/>‘You dare not do it,’ vociferated I, ‘laws human or 
+        <lb/>divine will not admit of such violence, for <persName>Louisa</persName> is 
+        <lb/>my wife, and nought but death, shall wrest her from my 
+        <lb/>bosom.’ ‘Wife,’ repeated he, ‘Wife—No, <persName>St. Her-
+          <lb break="no"/>bert</persName>, do not believe it; you never were legally married. 
+        <lb/>Yonder man, habited in green, the present keeper of 
+        <lb/>my hounds, was the person who united you; all a farce 
+        <lb/>I assure you.’ A boisterous laughter filled the room, 
+        <lb/>which shook me to the soul. I recognized the infa-
+        <lb break="no"/>mous being instantly, and had I been a mountain, I 
+        <lb/>would have fallen upon the wretch, and crushed him to 
+        <lb/>atoms. But I had no time for reflection or revenge, 
+        <lb/>for the deep groans of my Love, who had fallen into 
+        <lb/>an hysteric fit, told my heart, that she stood in need of 
+        <lb/>my assistance; I flew to her and locked her in my arms, 
+        <lb/>when the barbarians tore her from my embrace, and 
+        <lb/>having bound my hands and feet, they conveyed me into 
+        <lb/>a large dark room, then securing the door and win-
+        <lb break="no"/>dows, they left me to myself.
+      </p>
+      <p>
+       “Slow and dismal were the leaden-footed hours that 
+        <lb/>passed, ’ere <seg xml:id="a005" corresp="#n005"><persName>Aurora</persName></seg><note xml:id="n005" corresp="#a005"><term style="font-style: italic">Aurora</term>: sunrise, from the Roman goddess of the dawn.</note> shot her purple beams through the 
+        <lb/>crevices of my lonely prison; I was almost in a state of 
+        <lb/>stupefaction—the transition from bliss to woe, was so 
+        <lb/>great—so sudden, that it scarce left me the faculty 
+        <lb/>of thinking. I had believed <persName>Louisa</persName> <emph style="font­-style: italic">mine</emph>, and that 
+        <lb/>assurance was the extent of my wishes, the completion 
+        <lb/>of my happiness; but this horrible discovery, had 
+        <lb/>blasted every hope, and forbade even memory to smile. 
+        <lb/>The unbarring of my chamber door, at length roused 
+        <lb/>me from my stupor.  Some person entered, and upon 
+        <lb/>pushing open one of the windows, discovered himself 
+        <lb/>to be <persName>Maurisson</persName>; every pulse around my heart beat 
+        <lb/>with indignation. ‘Where is my <persName>Louisa</persName>?’ demanded I; 
+        <lb/>‘where you will never see her,’ returned he, ‘this house 
+        <lb/>is mine, and she is my prisoner within it; you are 
+        <lb/>free; if you stay near this place and conduct yourself 
+        <lb/>with propriety, you may hear from her sometimes; but 
+        <lb/>if you quit it only for a day, I will convey her where 
+        <lb/>you shall have no tidings of her;’ so saying, he un-
+        <lb break="no"/>bound me, and I arose without reply, for hopeless 
+        <lb/>grief had closed the avenues of utterance; and he, taking 
+        <lb/>me by the arm, led me out of the mansion, and bolted 
+        <lb/>the door after me.
+      </p>
+        </body>
+      </text>
+       
+      <text corresp="#15601.06">
+        <body>
+      <head style="text-align:center">[6. <date when="1796-03-09">March 9, 1796</date>]</head>
+      
+      <p> 
+       “FOR three days successively did I wander around the 
+       <lb/>building, looking in vain for my partner.  I endea-
+        <lb break="no"/>voured to force the windows, but to no purpose; they 
+        <lb/>were too well secured. I listened at the porch. ‘Per-
+        <lb break="no"/>haps,’ thought I, ‘I may hear <persName>Louisa’s</persName> footsteps—I may 
+        <lb/>hear her <choice><sic>pronnouce </sic><corr>pronounce</corr></choice> my name.’ It was a frail hope—
+        <lb/>there was no voice—no sound to realize it. Oh, how 
+        <lb/>did incertitude and apprehension torture my breast!
+      </p>
+      <p>
+       “At the close of the third day, Nature proclaimed 
+        <lb/>herself exhausted, (for since I had been deprived of the 
+        <lb/>sight of <persName>Louisa</persName>, I had neither slept nor eat,) a drowsi-
+        <lb break="no"/>ness—a stupidity oppressed me, and casting myself upon 
+        <lb/>a grass seat that I had placed near the door, I rested 
+        <lb/>myself against the wall and fell into a slumber. As the 
+        <lb/>wand of <seg xml:id="a006" corresp="#n006"><persName>Morpheus</persName></seg><note xml:id="n006" corresp="#a006"><term style="font-style: italic"><persName>Morpheus</persName></term>: a Roman god of dreams, prominent in <persName>Ovid’s</persName> <bibl style="font­-style: italic">Metamorphoses</bibl>.</note> closed my swoln eye-lids, <emph style="font­-style: italic">Fancy</emph> 
+        <lb/>brought to my view, her, whose image was so deeply 
+        <lb/>imprinted on my heart: Methought she was arrayed 
+        <lb/>in a long white robe, that scattered a lustre from it, and 
+        <lb/>was sitting on the bank of a placid river, with a beauti-
+        <lb break="no"/>ful dove in her hand. I approached her with my 
+        <lb/>wonted eagerness of affection; but, with an angelic 
+        <lb/>smile, she rose, and placing the bird upon the sod, re-
+        <lb break="no"/>treated along the shore. ‘Stay where you are, my too 
+        <lb/>much adored <persName>St. Herbert</persName>,’ said she, ‘I must be going, 
+        <lb/>but I will leave you a dove—see, the river is smooth—we 
+        <lb/>will meet on the other side, for PEACE dwells there.' 
+        <lb/>So saying, she dropt upon the flood, and was out of 
+        <lb/>sight in an instant. Distracted at the circumstance, my 
+        <lb/>busy spirit was going to pursue the lovely phantom, 
+        <lb/>when some person calling me loudly by my name, awak-
+        <lb break="no"/>ened me. I started up, and to my great astonishment, 
+        <lb/>beheld <emph style="font­-style: italic">Buller</emph> standing before me. ‘Dear Mr. <persName>St. 
+          <lb/>Herbert</persName>,’ said he, ‘follow me directly, for I believe my 
+        <lb/>dear Miss <persName>Louisa</persName> is dying.’ My breath stopt as he spoke. 
+        <lb/>I made him no answer, but seizing his hand, hurried 
+        <lb/>with him to the chamber where she was—as he opened 
+        <lb/>the door, <persName>Maurisson</persName> met me and would have taken my 
+        <lb/>hand, but I repulsed him with fury, and flew to the 
+        <lb/>couch where <persName>Louisa</persName> reclined. Upon hearing my hasty 
+        <lb/>steps she raised her head, opened upon me her charm-
+        <lb break="no"/>ing eyes; but Oh, how languid, how changed; fierce 
+        <lb/>distress had tarnished their lustre, and had frighted the 
+        <lb/>roses from her cheeks; a deadly paleness sat on every 
+        <lb/>feature, and a bluish purple stained those lips that 
+        <lb/>could once compare with the ruby! I kneeled at her 
+        <lb/>feet and gazed upon her face without uttering a word, 
+        <lb/>for the distress of my heart was too great. She per-
+        <lb break="no"/>ceived it, and encircling my neck with her arms, feebly 
+        <lb/>strained me to her breast, and attempting to smile, said, 
+        <lb/>‘Why all this sorrow, my Love, do I not embrace 
+        <lb/>you again? You grieve upon my account, but cheer 
+        <lb/>up—possest of you once more, I shall soon recover.’ 
+        <lb/><persName>Maurisson</persName> drew near. ‘Forgive, my son,’ said he, ‘for-
+        <cb/>
+        <lb/>give the mistaken zeal of a disappointed old man, I did 
+        <lb/>not know your worth—your father and I have borne 
+        <lb/>a long hatred to each other, and I was foolish enough 
+        <lb/>to suffer an ill-grounded dislike, to rest upon his son; 
+        <lb/>but forgive me—forgive me;’ and the tears ran plenti-
+        <lb break="no"/>fully down his withered face. I was going to reply, 
+        <lb/>when <persName>Louisa</persName>, loosing her hold, begged me to retire 
+        <lb/>with her uncle. At that moment the farmer’s wife 
+        <lb/>came in. We retired, and I traversed the next room in 
+        <lb/>sullen silence for near an hour, the old man was walk-
+        <lb break="no"/>ing by my side and wringing his hands, when the 
+        <lb/>Indian girl called us. I obeyed the summons instantly, 
+        <lb/>and on entering the apartment, found my wife (for I 
+        <lb/>must still call her so) in bed. ‘Here, my <persName>St. Herbert</persName>,’ 
+        <lb/>said she, as I approached her, ‘see what a present your 
+        <lb/>expiring spouse makes you;’ she placed a beautiful in-
+        <lb break="no"/>fant in my hands, ‘take her,’ added she, ‘as the only 
+        <lb/>recompence I can <emph style="font­-style: italic">now</emph> offer you for all your affection 
+        <lb/>and tenderness; Yes, I feel that I am dying, and the 
+        <lb/>last favour that I ask of you, is to be reconciled to my un-
+        <lb break="no"/>cle.’ I grasped his hand immediately and brought it to 
+        <lb/>my lips; when the old <persName>Maurisson</persName> embraced me affection-
+        <lb break="no"/>ately. My angel looked up and smiled—yes, in the ago-
+        <lb break="no"/>nies of death she smiled to see our mutual forgiveness. 
+        <lb/>She made me a signal to bend over her pillow, which 
+        <lb/>as I did, she enclosed me and the child in her arms and 
+        <lb/>alternately caressed us—a glow of satisfaction over-
+        <lb break="no"/>spread her cheeks, and her eyes resumed their former 
+        <lb/>brilliancy; but it was momentary, for the cheek 
+        <lb/>faded again—the eyes grew dim—they closed—and 
+        <lb/>her tranquil spirit took its everlasting flight.
+      </p>
+        </body>
+      </text>
+    
+      <text corresp="#15601.07">
+        <body>
+      <head style="text-align:center">[7. <date when="1796-03-16">March 16, 1796</date>]</head>
+      
+      <p> 
+       “AT first we flattered ourselves that she was only in a 
+       <lb/>swoon, but when it appeared that she was really dead, 
+        <lb/>then I gave myself up to the most unmanly woe, and 
+        <lb/>determined upon following her by refusing to take any 
+        <lb/>sustenance whatever; for two days did I adhere to this 
+        <lb/>cowardly intention, without taking notice of any thing 
+        <lb/>save the dear <seg xml:id="a007" corresp="#n007">corse</seg><note xml:id="n007" corresp="#a007"><term style="font-style: italic">Corse</term>: corpse.</note>; the family spoke to me, intreated 
+        <lb/>and even wept over me, but to no purpose, I sat by the 
+        <lb/>dead with dry eyes, mute as herself.
+      </p>
+      <p>
+       “On the third day, the day of her interment, her uncle 
+       <lb/>came into the room with my infant in his trembling arms. 
+        <lb/>‘Come, dear babe,’ said he holding it towards the bed, 
+        <lb/>and bursting into tears, ‘come, take a last look of thine 
+        <lb/>unfortunate mother, for to-day she will be placed in 
+        <lb/>the cold bosom of the earth, and would to heaven thou 
+        <lb/>couldst go with her, for thy Uncle is too old to protect 
+        <lb/>thy rising youth, thou hast no father to foster thee; 
+        <lb/>no father who will shew his affection for the mother, 
+        <lb/>by living for and taking care of her precious child.’ 
+        <lb/>These words fell with force upon my heart, in an in-
+        <lb break="no"/>stant I perceived the cruelty of my conduct, and was 
+        <lb/>overwhelmed with shame, ‘yes,’ exclaimed I, stretching 
+        <lb/>out my hands to receive my little one, ‘yes, she <emph style="font­-style: italic">has</emph> a 
+        <lb/>father who will live for her, and will cherish her as 
+        <lb/>long as memory shall impress upon his soul the idea 
+        <lb/>of her incomparable mother, but ah! he must be indulg-
+        <lb break="no"/>ed—he must be permitted to give vent to his feelings, 
+        <lb/>when he reflects upon his irretrievable loss.’ He an-
+        <lb break="no"/>swered me in the most soothing voice of affection, 
+        <lb/>gently remonstrating with me for my neglect of myself, 
+        <lb/>and endeavouring to yield me all the consolation that 
+        <lb/>reason could afford; ‘it is not your <persName>Louisa</persName> (said he) 
+        <lb/>who there lies insensible, it is only the prison that she 
+        <lb/>once inhabited—the day of her enlargement has come, 
+        <lb/>and long before this she has reached her appointed abode 
+        <lb/>in Paradise; whether departed spirits are permitted 
+        <lb/>to know what passes upon earth after they have quitted 
+        <lb/>it, we may not presume to say; but upon the supposition, 
+        <lb/>that they are, can it add to their bliss to see the tears 
+        <lb/>and hear the big groans of those whom they most did love 
+        <lb/>when here?—and if they are not, why should we waste 
+        <lb/>in useless griefs those days which might be appropriat-
+        <lb break="no"/>ed to the benefit of those who remain? be composed 
+        <lb/>my son; I do not require of you to be gay—Oh no—
+        <lb/>you have indeed lost a treasure, and must feel it sensi-
+        <lb break="no"/>bly, but at the same time I would not have you forget 
+        <lb/>that you have a new charge which demands your kindest 
+        <lb/>cares.’
+      </p>
+      <p>
+       “His eloquence was not unsuccessful, at his request 
+       <lb/>I quitted the apartment, and after having taken as 
+        <lb/>much nourishment as my delicate situation would 
+        <lb/>admit of, I endeavoured to repose for a little while 
+        <lb/>upon a bed, when the sound of people walking slowly 
+        <lb/>roused me. I immediately knew it to be the funeral 
+        <cb/>
+        <lb/>procession, and summing up all my fortitude I arose, and 
+        <lb/>with a tottering step accompanied it, leaning on the arm 
+        <lb/>of <persName>Louisa’s</persName> Uncle. When we arrived at the <choice><sic>Cemetary</sic><corr>Cemetery</corr></choice> 
+        <lb/>the coffin was uncovered that I might take a last em-
+        <lb break="no"/>brace of my love—it was a most melancholy one in-
+        <lb break="no"/>deed—all who were with me, were deeply affected—
+        <lb/>none spake a syllable—but the silent tears of sympathy 
+        <lb/>glided profusely down many a cheek, and some who 
+        <lb/>had not power to suppress their sensations sobbed aloud. 
+        <lb/>The signal, after a short pause, was given to deposit 
+        <lb/>the body in the earth. I saw them shut the coffin, 
+        <lb/>and begin to lower it—I thought myself composed—
+        <lb/>I thought I was resigned when I saw it descend to 
+        <lb/>the bottom of the tomb—but with the first clod that 
+        <lb/>sounded hollow on the lid, the delusion was broken, 
+        <lb/>my brain seemed all on fire—my heart beat with 
+        <lb/>violence, and I was springing into the grave, when 
+        <lb/>some of the attendants caught me in their arms, and 
+        <lb/>bore me home, totally devoid of sense.
+      </p>
+      <p>
+       “For several weeks I had no knowledge of what was 
+       <lb/>transacted about me, then every thing appeared to me 
+        <lb/>like those fancies which only exist in a morning dream; 
+        <lb/>but recollection, by degrees, resuming her functions, 
+        <lb/>I remembered something of great distress—of a burial, 
+        <lb/>of an infant, but could not connect their idea; and as 
+        <lb/>the eye of reason opened more clearly, these images 
+        <lb/>passed more frequently through my mind, and per-
+        <lb break="no"/>plexed me exceedingly.
+      </p>
+        </body>
+      </text>
+       
+      <text corresp="#15601.08">
+        <body>
+      <head style="text-align:center">[8. <date when="1796-03-23">March 23, 1796</date>]</head>
+      
+      <p> 
+       “AS I was permitted to walk out, as soon as I had 
+       <lb/>sufficient strength, I frequently strolled to the woods 
+        <lb/>through  which in my happier days I had been accus-
+        <lb break="no"/>tomed to ramble—and chance led me one afternoon to 
+        <lb/>the burial place—the heavy dews dropt from the bend-
+        <lb break="no"/>ing branches of the dark hemlock, which, uniting its 
+        <lb/>foliage with the gloomy verdure of the thick woven 
+        <lb/>cedar, cast a deep damp shade over the solemn spot, 
+        <lb/>while a solitary <emph style="font­-style: italic">Robin</emph>, that sat upon the withered bough 
+        <lb/>of a neighbouring pine, threw a note of such plaintive-
+        <lb break="no"/>ness to the lingering breeze, as bade my bosom feel—
+        <lb/>yes, I found a congenial dreariness, and clambered 
+        <lb/>over the fence, to take a nearer view of the few scatter-
+        <lb break="no"/>ed graves, that were there inclosed.  Passing from one 
+        <lb/>to another, a novel object arrested my attention; it 
+        <lb/>was a grey marble monument, covered with a white 
+        <lb/>slab. I approached it, and read the following in-
+        <lb break="no"/>scription.
+      </p>
+      <p><floatingText>
+        <body>
+          <head style="text-align:center">“Sacred to the memory of
+            <lb/><persName>LOUISA St. HERBERT,</persName>
+            <lb/>
+            A victim
+            <lb/>To the misguided affections of an Uncle,
+            <lb/>Who has raised this marble
+            <lb/>Over the dust
+            <lb/>As a testimony of his sincere and lasting contrition.”
+          </head>
+        </body>
+      </floatingText>
+      </p>
+      <p>
+        “At that moment, each woful scene through which 
+        <lb/>I had passed, recurred to me—memory seemed to re-
+        <lb break="no"/>sume her throne at once; I clasped the cold tomb, and 
+        <lb/>washed it with my tears; then having vowed to the 
+        <lb/>spirit that watched it, to visit it daily, I turned my 
+        <lb/>steps, and slowly proceeded homeward in search of my 
+        <lb/>child.
+      </p>
+      <p>
+       “The joy visible in the countenance of all the family, 
+       <lb/>at my sudden and unexpected recollection, made a sen-
+        <lb break="no"/>sible impression upon me; they were all assiduous in 
+        <lb/>attending on me, and none approached me, but with a 
+        <lb/>chearful aspect; even my little girl, who was now be-
+        <lb break="no"/>tween three and four months old, smiled in my face, 
+        <lb/>and by her artless playfulness seemed to lure me from 
+        <lb/>my griefs. In fine, in the course of a few days, I was 
+        <lb/>quite a rational being, and finding that the whole study 
+        <lb/>of <persName>Mr. Maurisson</persName>, was to render me contented in my 
+        <lb/>situation; I was resolved to make him not less so, if 
+        <lb/>possible; accordingly, I evaded every conversation 
+        <lb/>that would tend to a renewal of our regret; however, 
+        <cb/>
+        <lb/>as my health increased, I perceived with infinite con-
+        <lb break="no"/>cern, that his was fast declining, and that though he 
+        <lb/>appeared pleasant in my presence, yet a heavy melan-
+        <lb break="no"/>choly had instamped itself upon every feature; he 
+        <lb/>courted solitude, and often when I was busy in the 
+        <lb/>garden, would leave me under pretence of taking rest; 
+        <lb/>observing that his malady took deeper root daily, I be-
+        <lb break="no"/>gan to suspect, that the woe he would not speak, preyed 
+        <lb/>upon his heart, and that he cherished it in some other 
+        <lb/>place. I therefore followed him at a distance, the next 
+        <lb/>time he left me, and saw his aged feet enter the place 
+        <lb/>where my love slept in silence. He bent over the mar-
+        <lb break="no"/>ble, like a fond mother, over the couch of an expiring 
+        <lb/>only child; with united hands, and looks of unutterable 
+        <lb/>anguish, ‘dear inmate (at length sobbed he) how didst 
+        <lb/>thou fade before thy prime; how early was thy little 
+        <lb/>cup of joy dashed with bitterness; but <emph style="font­-style: italic">thou</emph> tastest it 
+        <lb/>no more; no, it is <emph style="font­-style: italic">I</emph> who am left to drain the dregs, 
+        <lb/>and bewail mine own imprudence.’
+      </p>
+      <p>
+       “I stifled my tears, and knelt down by his side, grasp-
+       <lb break="no"/>ing his hand, ‘and is it thus (said I) that you endea-
+        <lb break="no"/>vour to shorten the period that Providence has allotted 
+        <lb/>you? Is it thus, you endeavour to deprive me, and 
+        <lb/>my little <persName>Louisa</persName>, of our best, our only friend? You 
+        <lb/>have sympathized with, and have comforted me; alas, you 
+        <lb/>want that comfort yourself. Let me I pray undertake 
+        <lb/>the gentle office, of attempting to bestow it.’ So say-
+        <lb/>ing, I placed his arm under mine, and led him to our 
+        <lb/>habitation.
+      </p>
+      <p>
+        “‘My <persName>George</persName>,’ said he as he seated himself, ‘I feel 
+        <lb/>that my end is fast approaching; yet you will have 
+        <lb/>no occasion to lament; I have brought you sorrow my 
+        <lb/>son, and can make you no compensation. True, I leave 
+        <lb/>you my estate—a vast one—but what are riches to a 
+        <lb/>man who is deprived of the woman of his affections; 
+        <lb/>the idol of his heart!’—As he said this an unusual 
+        <lb/>tenderness softened his voice; he fixt his eyes fondly on 
+        <lb/>my face, and the tear that stood upon his cheek assumed 
+        <lb/>a new brilliance, from the glow suffused beneath it—
+        <lb/>he continued: ‘As but the barrier of perhaps a few 
+        <lb/>fleeting days divides me from the invisible regions, I 
+        <lb/>will unfold to you a secret, which none but myself 
+        <lb/>knows, and which I had determined should be concealed 
+        <lb/>with me in the grave; but fate decrees otherwise.—
+        <lb/>Barbarous and hard hearted, though <emph style="font­-style: italic">you</emph> have found me, 
+        <lb/>yet I was not always so; no, I was once gentle and 
+        <lb/>kind as yourself; but ill-requited of love, and abused 
+        <lb/>friendship, changed my nature, and instead of being 
+        <lb/>the humane mortal my Creator had made me, I became 
+        <lb/>ferocious as a beast of the wilderness—yes, in my youth 
+        <lb/>I loved your mother, even to idolatry, and your father 
+        <lb/>was my confidant, for I thought him my friend—but 
+        <lb/>he deceived me cruelly, for in the hour that I expected 
+        <lb/>to call her mine, to be blest with her forever, the mask 
+        <lb/>was dropt—and I saw with horror, that the superior 
+        <lb/>fortune of your father, had gained the consent of her 
+        <lb/>avaricious parents to render him happy, and make me 
+        <lb/>spend my days in misery.’
+      </p>
+        </body>
+      </text>
+       
+      <text corresp="#15601.09">
+        <body>
+      <head style="text-align:center">[9. <date when="1796-03-30">March 30, 1796</date>]</head>
+      
+      <p> 
+       “THE jests of the unfeeling or imprudent, and the 
+       <lb/>humiliating pity of the malicious, added fresh stings 
+        <lb/>to my grief; and in a phrenzied mood, I fled from society 
+        <lb/>to this place, which was then only inhabited by Indians, 
+        <lb/>persuading myself that thus removed from the cause of 
+        <lb/>my chagrin, I should soon regain my wonted tranquillity. 
+        <lb/>But solitude did not effect it—I had too much time for 
+        <lb/>reflection; <emph style="font­-style: italic">night</emph> brought with it no rest—sleep abandon-
+        <lb break="no"/>ed me, and while even the beasts closed their eyes, 
+        <lb/><emph style="font­-style: italic">mine</emph> were open, straining to catch the first faint gleam 
+        <lb/>of the tardy day—and when that day appeared—I 
+        <lb/>brooded in silence over the machinations to which the 
+        <lb/>hours of darkness had given birth in my festered breast. 
+        <lb/>Plans of cruel revenge became so familiar to my 
+        <lb/>thoughts, that I at length resolved upon the execution 
+        <lb/>of a most barbarous one—namely, to build this prison, 
+        <lb/>then to return to <placeName>New-York</placeName>, assassinate your father—
+        <lb/>by stratagem to seize your mother, and tearing her 
+        <lb/>from her family, bring her here with me and confine 
+        <lb/>her for life—this method of vengeance afforded me all 
+        <lb/>the satisfaction, that so bitter a heart as mine can be 
+        <lb/>supposed capable of feeling; and having procured 
+        <lb/>workmen and materials, in less than a year the house 
+        <lb/>was compleated and furnished in the present style.
+      </p>
+      <p>
+       “I now set out for my native city, with all the ne-
+       <lb break="no"/>cessary preparations for prosecuting my design; but 
+        <lb/>Providence saw fit to defeat them—for at the first inn 
+        <lb/>where I alighted in the city—I was informed that 
+        <lb/>your mother had taken a voyage to the <placeName>West-Indies</placeName>, 
+        <lb/>accompanied by your father, and that my dear mother 
+        <lb/>was lying dangerously ill. Shocked with the intelli-
+        <lb break="no"/>gence, I hurried to her house, and was admitted to her 
+        <lb/>chamber, by a weeping domestic—there I beheld my 
+        <lb/>amiable parent, surrounded by her children and friends, 
+        <lb/>who were come to take an everlasting farewell of her; 
+        <lb/>the spirit seemed just ready to forsake its frail tene-
+        <lb break="no"/>ment, but on my name being pronounced, she opened 
+        <lb/>her eyes again, and as I stooped down to embrace her, 
+        <lb/>she twined her emaciated arm around my neck: ‘Now 
+        <lb/>(said she) my prayer is granted—my son is returned 
+        <lb/>to take care of my three helpless girls—yes, my boy, 
+        <lb/>I leave them to your charge, be to them kind and 
+        <lb/>tender as I have been to you; and you my daughters, 
+        <lb/>be dutiful and affectionate to him, as he has been to 
+        <lb/>me—I leave you all my blessing.’—In a few moments 
+        <lb/>after she expired.
+      </p>
+      <pb/>
+      <p>
+       “As I had now a heavy charge upon my hands, I 
+       <lb/>endeavoured to reconcile myself to my situation as 
+        <lb/>much as possible. I again went into business, gave the 
+        <lb/>girls good educations, and so greatly increased my 
+        <lb/>property, as to be enabled to give them genteel fortunes 
+        <lb/>had they ever lived to marry; but <persName>Louisa’s</persName> mother 
+        <lb/>was the only one <seg xml:id="a008" corresp="#n008">who changed her name,</seg><note xml:id="n008" corresp="#a008"><term style="font-style: italic">who changed her name</term>: i.e., the only one who married and therefore and took her husband’s name.</note> the other 
+        <lb/>two dying young—and her partner dying suddenly a 
+        <lb/>few days after your <persName>Louisa</persName> was born, it so wrought 
+        <lb/>upon her sensate mind and delicate frame, that in the 
+        <lb/>course of a fortnight she was laid in the grave of 
+        <lb/>her excellent <persName><emph style="font­-style: italic">Howard</emph></persName>, leaving me to cherish the in-
+        <lb break="no"/>fant.
+      </p>
+      <p>
+       “From the time that I first quitted this place, till 
+        <lb/>you took away my <persName>Louisa</persName>, I never had an expectation 
+        <lb/>of returning, neither had I ever mingled among men 
+        <lb/>any more <choice><orig>that</orig><reg>than</reg></choice> what was absolutely necessary for carrying 
+        <lb/>on my business. I, however, frequently saw your father, 
+        <lb/>and did him all the ill offices in my power, incessantly 
+        <lb/>nourished hatred against him in my bosom, and every 
+        <lb/>time that I heard of his prosperity, I cursed my fate 
+        <lb/>that it had not been in my power to prevent it—
+        <lb/>this was the situation of my mind when I first saw you 
+        <lb/>at my house.
+      </p>
+      <p>
+        “I had frequently pressed <persName>Louisa</persName> to bestow her hand 
+        <lb/>upon a particular favourite of mine, and she as fre-
+        <lb break="no"/>quently refused, telling me she did not like him—
+        <lb/>but as he was rich, handsome, sensible, and worthy, I 
+        <lb/>rather suspected that she had formed some attachment 
+        <lb/>unknown to me, and accordingly questioned her 
+        <lb/>strictly, when she ingenuously confessed that she had 
+        <lb/>lately seen a young gentleman pass through our street 
+        <lb/>very often, whose air and countenance had so far pre-
+        <lb break="no"/>possest her in his favour, that she never could be happy 
+        <lb/>if united with another—she did not know his name, 
+        <lb/>but promised to point him out to me the first time she 
+        <lb/>saw him. My surprize at seeing you at my house, 
+        <lb/>was only equalled by her telling me that <emph style="font­-style: italic">you</emph> were the 
+        <lb/>person—and in the heat of my fury, I <seg xml:id="a009" corresp="#n009">determined upon 
+          <lb/>forcing</seg><note xml:id="n009" corresp="#a009"><term style="font-style: italic">determined upon forcing</term>: i.e., determined upon forcing her to that compliance.</note> to that compliance from which your affection 
+        <lb/>rescued her.’
+      </p>
+        </body>
+      </text>
+       
+      <text corresp="#15601.10">
+        <body>
+      <head style="text-align:center">[10. <date when="1796-04-06">April 6, 1796</date>]</head>
+      
+      <p> 
+       “WHEN that event took place, I was determined to 
+       <lb/>abandon myself to every thing the world denominates 
+        <lb/>pleasure. I have accumulated vast heaps of treasure, 
+        <lb/>(said I) and there is no one to inherit it, I will there-
+        <lb break="no"/>fore enjoy it myself! I gambled, made feasts, attended 
+        <lb/>all places of public diversion, and frequently went out 
+        <lb/>with a party of hunters; it was in one of those excur-
+        <lb break="no"/>sions that I formed the design of revisiting this forlorn 
+        <lb/>abode, and taking up my residence here for some 
+        <lb/>weeks, with my companions and attendants.
+      </p>
+      <p>
+       “And now what recompence shall I make you for the 
+       <lb/>sad consequences of our rencountre. A trifling one in-
+        <lb break="no"/>deed. Though but the bare satisfaction of seeing me 
+        <lb/>penitent.’ He made a pause, and then delivering me 
+        <lb/>some papers that he drew from his bosom, ‘here, <persName>St. 
+          <lb/>Herbert</persName> (added he) is my will, and enclosed you will 
+        <lb/>discover directions for finding where my property is, 
+        <lb/>alas, it will be mine but a little longer.’
+      </p>
+      <p>
+       “It was in vain that I endeavoured to cheer the dis-
+       <lb break="no"/>heartened old man, he decayed beneath the pressure of 
+        <lb/>his grief, as the flowers of Autumn wither before the 
+        <lb/>stormy harbingers of winter, and after languishing ten 
+        <lb/>days, I saw him deposited by the side of the tomb over 
+        <lb/>which he had so often wept.
+      </p>
+      <p>
+       “Upon opening the will, I perceived that he had be-
+       <lb break="no"/>queathed me the whole of his estate, and not having 
+        <lb/>occasion for many servants, I dismissed those slaves that 
+        <lb/>he had brought with him, giving them papers of manu-
+        <lb break="no"/>mission; one, however, preferred my service to liberty, 
+        <lb/>he is the same whom you saw this evening. I likewise 
+        <lb/>retained the Indian girl and the child’s nurse, and with 
+        <lb/>this little family I endeavoured to render myself as 
+        <lb/>comfortable as my situation would permit.
+      </p>
+      <p>
+       “As my daughter grew, I found the pleasing task of 
+       <lb/>cultivating her mind, to wear away my depression by 
+        <lb/>insensible degrees. I thought I perceived all her mo-
+        <lb break="no"/>ther in her again, her features, form, disposition and even 
+        <lb/>manners bore so strong a resemblance to my <persName>Louisa</persName>, that 
+        <lb/>I loved the parent in the child, and half forgot my loss.
+      </p>
+      <p>
+       “Wishing now only to live to make her happy, I 
+       <lb/>made large improvements in the garden and the house, 
+        <lb/>and being quite a proficient in music, I had that little 
+        <lb/>temple erected in the grove of fir, for a place to teach 
+        <lb/>my daughter in, and she decorated it with shrubs and 
+        <lb/>flowers as her fancy led her. The happiness of each 
+        <lb/>other was our mutual study; when I was melancholy 
+        <lb/>I would repeat to her the mournful occurrences of my 
+        <lb/>life, and she would weep with me over the evils inci-
+        <lb break="no"/>dent to humanity, and when in my gayer moments I 
+        <lb/>sought to make her chearful she would draw me to her 
+        <lb/>harpsichord, and there regale my feelings with the most 
+        <lb/>enlivening sounds; let it suffice for me to say that in 
+        <cb/>
+        <lb/>the possession of such a child I considered myself as the 
+        <lb/>happiest of <emph style="font­-style: italic">widowed</emph> fathers.
+      </p>
+      <p>
+        “<persName>Louisa</persName> had attained her fifteenth year, when one 
+        <lb/>summer’s evening as we were strolling along the road 
+        <lb/>to our next neighbour’s, we were alarmed by the voice 
+        <lb/>of one calling for assistance; she ran to the cottage while 
+        <lb/>I hasted toward the thicket from whence the sound 
+        <lb/>came, and there beheld a <seg xml:id="a010" corresp="#n010">Phæton</seg><note xml:id="n010" corresp="#a010"><term style="font-style: italic">Phæton</term>: a small open carriage pulled either by a single horse or a pair, typically designed for speed. Its name is derived from the mythical <persName>Phaëton</persName>, son of <persName>Helios</persName>, who almost destroyed the earth by attempting to drive his father’s chariot which pulled the sun across the sky.</note> overset, and a young 
+        <lb/>man lying near it senseless, while the driver who was 
+        <lb/>calling out, sat upon a log: on seeing me he attempted 
+        <lb/>to arise, but immediately sunk down into a swoon; 
+        <lb/>some of the farmer’s family just then coming up, we 
+        <lb/>placed the two insensibles in the carriage and gently 
+        <lb/>drove them to my habitation.
+      </p>
+      <p>
+       “After placing them upon beds, and applying such 
+       <lb/>things as were necessary to relieve them, we had the 
+        <lb/>happiness to see them revive; they told us they were 
+        <lb/>come from the metropolis with some surveyors, and 
+        <lb/>were going to purchase some land near us; that they 
+        <lb/>had been separated from them by the darkness of the 
+        <lb/>preceding night, and not having been able to regain the 
+        <lb/>broad road, they had pursued another, where they were 
+        <lb/>unfortunately overturned; upon examination we found 
+        <lb/>that the young man was exceedingly bruised, and the 
+        <lb/>knee and shoulder of the driver were dislocated.
+      </p>
+      <p>
+        “We had but just <seg xml:id="a011" corresp="#n011">replaced</seg><note xml:id="n011" corresp="#a011"><term style="font-style: italic">Replaced</term>: set, as in fixed and bandaged.</note> the bones and anointed the 
+       <lb/>bruises of our guests, when my daughter came in; as 
+        <lb/>soon as the young man saw her, painful as the effort 
+        <lb/>was, he raised himself upon his elbow and bowed; and 
+        <lb/>my timid girl who never had seen so charming a youth 
+        <lb/>before, returned the salute with a gentle inclination of 
+        <lb/>the head, while her blushes half suffocated her.
+      </p>
+      <p>
+        “<persName>Julius Cuthbert</persName> was about twenty-two, rather above 
+        <lb/>the common size and elegantly formed, his lively eyes 
+        <lb/>were of a beautiful blue, and his hair light; his mouth,
+        <lb/>--but why need I descend to particulars, he <emph style="font­-style: italic">was not</emph> a 
+        <lb/>regular beauty, but he had that fine expression of counte-
+        <lb/>nance that defied the heart to be insensible of its attrac-
+        <lb break="no"/>tion. <persName>Louisa</persName>, as I said before, was just fifteen, her eyes 
+        <lb/>large, full and black, her complexion such as a <seg xml:id="a012" corresp="#n012">limner</seg><note xml:id="n012" corresp="#a012"><term style="font-style: italic">Limner</term>: an artist who produced expensive illuminated manuscripts.</note>
+        <lb/>might wish to pattern from, she was not tall, but most 
+        <lb/>enchantingly proportioned, and a redundance of long 
+        <lb/>dark brown hair, more soft and glossy than the finest 
+        <lb/>product of the <seg xml:id="a013" corresp="#n013">labouring worm,</seg><note xml:id="n013" corresp="#a013"><term style="font-style: italic">laboring worm</term>: a reference to silk worms and the silk they produced.</note> compleated the outline 
+        <lb/>of her figure. 
+      </p>
+        </body>
+      </text>
+    
+      <text corresp="#15601.11">
+        <body>
+      <head style="text-align:center">[11. <date when="1796-04-13">Arpil 13, 1796</date>]</head>
+      
+      <p> 
+        SUCH was <persName>Julius</persName>, and such <persName>Louisa</persName>—a pair whose 
+        <lb/>virtues as far exceeded their external appearance, as 
+        <lb/>the lustre of the polished diamond does that of the 
+        <lb/>rough pebble of the valley—a pair whom had it pleased 
+        <lb/>heaven to have crowned my desires, would have soft-
+        <lb break="no"/>ened by their tender assiduities, the last anguish of a 
+        <lb/>disappointed mortal—and have gently closed his eyes 
+        <lb/>when they should be no longer capable of contemplat-
+        <lb break="no"/>ing two such rare copies of goodness—but long ere that 
+        <lb/>wish glowed in my bosom, the edict of FATE had gone 
+        <lb/>forth:—<emph style="font­-style: italic">they</emph> were destined to have their days abridg-
+        <lb break="no"/>ed, and the forlorn <persName>St. Herbert</persName> to finish his dull 
+        <lb/>career alone!
+      </p>
+      <p>
+       “After several days of careful attention, we perceived 
+       <lb/>with pleasure that our guests recovered apace, espe-
+        <lb break="no"/>cially the driver, who in less than a fortnight request-
+        <lb break="no"/>ed leave to depart in quest of the party from which 
+        <lb/>they had been separated—<persName>Julius</persName> came to me: ‘I will 
+        <lb/>intrude upon your goodness no longer (said he) but I 
+        <lb/>think I am not sufficiently recovered yet to under-
+        <lb break="no"/>take a journey—recommend me therefore to one 
+        <lb/>of your neighbors as a boarder, and permit me 
+        <lb/>sometimes to spend a social hour with you and <persName>Miss St. 
+          <lb/>Herbert</persName>.’ ‘I prize you <persName>Julius</persName>, (returned I) and if 
+        <lb/>our society will add to your felicity, you may enjoy 
+        <lb/>it as long as your health and business require your 
+        <lb/>stay; this house shall be your home, you cannot be an 
+        <lb/>intruder.’ The Summer sped away as on the wings 
+        <lb/>of the wind, we were all as happy as friendship 
+        <lb/>and simplicity could make us—now and then in-
+        <lb break="no"/>deed our tranquillity was a little interrupted by letters 
+        <lb/>from <persName>Julius’s</persName> father desiring him to return, but his 
+        <lb/>constant replies that his health was so delicate that 
+        <lb/>it would suffer from a removal, satisfied the parent 
+        <lb/>in part, and again restored peace to our habitation. 
+        <lb/>When the weather permitted, <persName>Cuthbert</persName> and myself 
+        <lb/>laboured in the garden, or felled some of those trees 
+        <lb/>which intercepted our view of the vast range of 
+        <lb/>mountains in front of us—or else we drew from 
+        <lb/>out <emph style="font­-style: italic">some</emph> places of the creek such bulky roots and 
+        <lb/>matted weeds as impeded its course, while in others 
+        <lb/>we humbled huge rocks, against which as the sullen 
+        <lb/>waters crouded, they complained in low murmurs of 
+        <lb/>the obstruction—some perennial shrubs and simple 
+        <lb/>wild flowers that bloomed upon the bank were the 
+        <lb/>care of <persName>Louisa</persName>—and they seemed to wear a brighter hue, 
+        <lb/>and exhale redoubled perfume when propped up or 
+        <lb/>sprinkled by her hand—you may judge how agreeably 
+        <lb/>our time passed, by the idea of its dwelling so long upon 
+        <lb/>the broken heart of an old man—but our quiet had 
+        <lb/>its period, for the father of <persName>Julius</persName> impatient of his 
+        <lb/>delay, wrote to him, and with the authority of a parent 
+        <lb/>commanded him to return immediately or expect to 
+        <pb/>
+        <lb/>meet with his severest displeasure.  He hesitated not 
+        <lb/>to obey—yet he obeyed with reluctance; that very 
+        <lb/>day he set out for his home. When he was departing, 
+        <lb/><persName>Louisa</persName> and myself walked with him to the outer edge 
+        <lb/>of the wood, and there took our leave. ‘Farewell,’ 
+        <lb/>said the amiable youth, in a scarce audible voice, 
+        <lb/>‘may you both be blest, and ah! in your blissful hours 
+        <lb/>do not forget me, but whenever you wish to remem-
+        <lb break="no"/>ber those who most sincerely love you, think of <persName>Julius 
+          <lb/>Cuthbert</persName>.’
+      </p>
+        </body>
+      </text>
+       
+      <text corresp="#15601.12">
+        <body>
+      <head style="text-align:center">[12. <date when="1796-04-20">Arpil 20, 1796</date>]</head>
+      
+      <p> 
+       “SO saying, he threw himself into the carriage, 
+        <lb/>and drove away, while <persName>Louisa</persName> placed her arm under 
+        <lb/>mine, and we proceeded slow and thoughtful toward 
+        <lb/>home. ‘He is quite out of sight,’ said she at length, 
+        <lb/>turning her head with a sigh, ‘He will never tread 
+        <lb/>this path again.’ ‘Perhaps not, my child,’ replied I, 
+        <lb/>‘but he has promised to write to us often, and though 
+        <lb/>the conversation of such a friend is much to be de-
+        <lb break="no"/>sired, yet since it cannot be obtained, we must not 
+        <lb/>only be contented with such of his sentiments as he 
+        <lb/>may favor us with, but must consider them as his 
+        <lb/>valuable substitutes.’ ‘They would certainly be a 
+        <lb/>precious acquisition to our little library,’ said she 
+        <lb/>smiling, ‘but I fear in that great city where he has 
+        <lb/>so many friends, he will forget us.’ ‘It cannot be’ (re-
+        <lb break="no"/>turned I) ‘for though the generality of men are prone 
+        <lb/>to ingratitude, yet I believe <persName>Julius</persName> to be one of the 
+        <lb/>few who treasure in their mind, the remembrance 
+        <lb/>of past kindness; but <emph style="font­-style: italic">should</emph> I be mistaken—<emph style="font­-style: italic">should</emph> 
+        <lb/><persName>Julius</persName> indeed forget us; we will solace ourselves 
+        <lb/>with the reflection that we have done our duty, and 
+        <lb/>we will consider him as dead!’
+      </p>
+      <p>
+       “At our return to the house, we found some of 
+       <lb/>our neighbors sitting at the door, who had come to 
+        <lb/>spend the evening with us; and had brought with 
+        <lb/>them a young lady, who with her mother had come 
+        <lb/>from the village of.......,and was going to <placeName>New-
+          <lb/>York</placeName> for her education. We passed the hours as usual, 
+        <lb/>in chearfulness and innocence;—<persName>Louisa</persName> alone did not 
+        <lb/>seem to relish our rustic chat as formerly—she con-
+        <lb break="no"/>versed but little, and now and then turned her bright 
+        <lb/>eyes with a thoughtful air towards the gate, as though 
+        <lb/>there was some one still expected whose presence was ne-
+        <lb break="no"/>cessary to render our festivity complete. The girls per-
+        <lb break="no"/>ceived it, and upon enquiring for <persName>Julius</persName>, and being in-
+        <lb break="no"/>formed of his departure, they failed not to rally her up-
+        <lb break="no"/>on what they termed the loss of her lover; piqued at the 
+        <lb/>insinuation of her gravity proceeding from the grief oc-
+        <lb break="no"/>casioned by his absence, she exerted herself, and soon 
+        <lb/>assumed a gaiety equal to ours, and when the com-
+        <lb break="no"/>pany retired, intreated my permission to pass the 
+        <lb/>night with my neighbour’s daughter <persName>Elinor</persName> and the 
+        <lb/>young stranger, whose name was <persName>Julia Raymond</persName>—
+        <lb/>to which, as it was a common request, I consented.
+      </p>
+      <pb/>
+      <p>
+        “<persName>Mrs. Raymond</persName> and her daughter staid in the <choice><sic>neighhood</sic><corr>neighbor-
+        <lb break="no"/>hood</corr></choice> near a fortnight, during which time <persName>Louisa</persName> con-
+        <lb break="no"/>tracted a close intimacy with them, especially the for-
+        <lb break="no"/>mer, who being a well educated woman, and exceed-
+        <lb break="no"/>ingly intelligent, could not fail of rendering herself 
+        <lb/>agreeable; however, notwithstanding the satisfaction 
+        <lb/>which <persName>Louisa</persName> seemed to take in her company, I could 
+        <lb/>not but mark with agony the melancholy change in 
+        <lb/>my child’s appearance. She grew thin, her colour 
+        <lb/>and strength forsook her, nor did her eyes beam 
+        <lb/>with their wonted lustre—and though she still re-
+        <lb break="no"/>tained a great flow of spirits, I feared lest some secret 
+        <lb/>care lay rankling in her bosom. ‘Alas!’ sighed I to my-
+        <lb break="no"/>self, ‘the sorrows of my heart are about to be enlarged.’
+      </p>
+      <p>
+        “I disclosed myself to <persName>Mrs. Raymond</persName>. ‘Is it to be 
+        <lb/>wondered at? (asked she) have you not given her an 
+        <lb/>education that qualifies her for society, and do you 
+        <lb/>not exclude her from it?—You procure her books 
+        <lb/>that give her an idea of the world and its pleasures, 
+        <lb/>and you here immure her in this doleful mansion in 
+        <lb/>the middle of this frightful forest, where, except a 
+        <lb/>few Indians, and a half score of rustics little less 
+        <lb/>barbarous, she sees not the face of a human being. 
+        <lb/>You perceive her to fade daily—surely she sighs 
+        <lb/>for society, and her affection for you, alone prevents 
+        <lb/>her from complaining. Come, make the experiment; I 
+        <lb/>go to <placeName>New-York</placeName> in a few days, and will return again in 
+        <lb/>less than a month, let her go with me.’ I drew a deep 
+        <lb/>sigh. ‘You are apprehensive sir, but I will watch 
+        <lb/>over her, as over a precious deposit, upon whose safe 
+        <lb/>delivery depends the peace and perhaps life of a wor-
+        <lb break="no"/>thy but superstitious Hermit.’—I consented. ‘Come 
+        <lb/><persName>Louisa</persName>,’ said she, when the girls came in, ‘you are 
+        <lb/>going to the city with us for a little while, you are 
+        <lb/>melancholy child, and it is only because you are de-
+        <lb break="no"/>prived of those blessings to which you have an indu-
+        <lb break="no"/>bitable right. It was in vain for her to expostulate; 
+        <lb/>we were all convinced that it was necessary for her 
+        <lb/>health, and she was obliged to comply—yes—a few 
+        <lb/>days after, I pressed my weeping darling to my bo-
+        <lb break="no"/>som, and bade her a reluctant—a sorrowful adieu!
+      </p>
+        </body>
+      </text>
+       
+      <text corresp="#15601.13">
+        <body>
+      <head style="text-align:center">[13. <date when="1796-04-27">Arpil 27, 1796</date>]</head>
+      
+      <p>
+        “SHE wrote to me by every opportunity, as did 
+        <lb/><persName>Mrs. Raymond</persName>, who complained exceedingly that 
+        <lb/><persName>Louisa</persName> did not enjoy the pleasures of the city, as she 
+        <lb/>ought—but rather seemed to encourage a thoughtful-
+        <lb break="no"/>ness which appeared extremely injurious to her; and 
+        <lb/>upon my arguing with her in the most gentle 
+        <lb/>terms, on the impropriety of such conduct, she an-
+        <lb break="no"/>swered me thus:
+      </p>
+      <p>
+       “‘*****The novelty of the city is past, though its 
+       <lb/>hurry and bustle still remain—these excited surprize 
+        <lb/>at first, but not pleasure—and since that surprize is 
+        <lb/>entirely gone, what sensations must they produce in 
+        <lb/>a mind so habituated to silence, regularity, and solitude 
+        <lb/>as mine?—Join not with those, my dear papa, who 
+        <lb/>stigmatize me as a stoic—say not that my heart is not 
+        <lb/>formed for happiness;—It surely is, but then it is 
+        <lb/>happiness of a more refined nature, than what is 
+        <lb/>met with in the giddy brilliant circles of fashion.
+        <lb/>—<persName>Mrs. Raymond</persName> is constantly with me; she has 
+        <lb/>introduced me into the most crouded companies, where 
+        <lb/>the laws of consequential dress among the ladies, and 
+        <lb/>the success of the last play among the gentlemen, 
+        <lb/>afforded ample and only matter for conversation—
+        <lb/>I have been at the Theatre, where vice was displayed 
+        <lb/>for execration, and met with approbation—and I have 
+        <lb/>spent several hours of fatigue at the ball room, and then 
+        <lb/>returned home, chagrined to the soul at the number-
+        <lb break="no"/>less impertinencies, which I had been obliged to hear. 
+        <lb/>And these are the places—the objects from which 
+        <lb/>I am to receive satisfaction!—No; I must confess 
+        <lb/>that the pleasures I have known since I came here, 
+        <lb/>are derived from another source—only the pious con-
+        <lb break="no"/>versation of our hostess, who is a Roman Catholic, 
+        <lb/>and practices all the virtues she teaches.’ *****
+        <lb/>“A few days after the receipt of this letter, <persName>Mrs. Ray-
+          <lb break="no"/>mond</persName> restored my amiable girl to my bosom.
+      </p>
+      <p>
+       After the first effusions of encountering affections 
+       <lb/>had subsided, and the heart had relieved itself by 
+        <lb/>overflowing, she gave me a detail of almost all that had 
+        <lb/>past since she left me, and was particularly delight-
+        <lb break="no"/>ed in delineating the character of the good Papist.—
+        <lb/>As I had been educated with the strongest prejudices 
+        <lb/>against that sect, I heard the description with an 
+        <lb/>indifference which I thought would have silenc-
+        <lb break="no"/>ed her on that head; but she was an enthusiast, and 
+        <pb/>
+        <lb/>spoke of the beauty of piety in the most exalt-
+        <lb break="no"/>ed strain. Apprehending the commencement of a re-
+        <lb break="no"/>ligious melancholy—I begged her to suspend her 
+        <lb/>narrative, until her wasted strength should be some-
+        <lb break="no"/>what renewed, and endeavoured to point out the 
+        <lb/>dangerous consequences of dwelling too ardently upon 
+        <lb/>so serious a subject as her last. She acquiesced with so 
+        <lb/>much meekness, that in a little time I persuaded myself 
+        <lb/>she had entirely laid aside her superstitious opinions.
+      </p>
+      <p>
+       “One night, not being able to sleep, and perceiving 
+       <lb/>through my window, that the moon shone bright
+        <lb/>—I arose with an intention to traverse the snow-paved 
+        <lb/>paths of my garden, and amuse myself at the harpsi-
+        <lb break="no"/>chord. ‘I will play some solemn airs (said I) and 
+        <lb break="no"/>at this dull season they will soften the slumbers of 
+        <lb/>my <persName>Louisa</persName>.’ As I passed along the gallery, I thought 
+        <lb/>I heard some person speaking in a low voice;—mak-
+        <lb break="no"/>ing a pause, I found it to proceed from my daughter’s 
+        <lb/>apartment, and being curious to know with whom 
+        <lb/>she could be conversing at that late hour, for it was 
+        <lb/>past twelve, I approached the door with silent steps—it 
+        <lb/>stood half open, and disclosed to my view only <choice><sic>hershlf</sic><corr>herself</corr></choice>.
+      </p>
+      <p>
+       “She was kneeling before a small table, covered 
+       <lb/>with white velvet, and upon which stood an ivory 
+        <lb/>crucifix about four inches high—on one side lay a 
+        <lb/>book open, and from the other a slender wax taper 
+        <lb/>streamed its dim light upon a face, pale as languor 
+        <lb/>itself: yet the figure, the attitude, was interesting: 
+        <lb/>it was the semblance of humility: of holy resignation. 
+        <lb/>Her hands were crossed upon her breast, and her 
+        <lb/>eyes elevated. She was concluding a pious pe-
+        <lb break="no"/>tition: ‘Fountain of mercy (said she), shed thy 
+        <lb/>benign influence in the bosom of my beloved parent, 
+        <lb/>let the sun of righteousness arise upon him, let its 
+        <lb/>genial rays illumine his path, till he enters the por-
+        <lb break="no"/>tals of eternity: and aid me, thy frail creature, to 
+        <lb/>conquer a PASSION, which, tho’ pure, is <emph style="font­-style: italic">hopeless</emph>, and 
+        <lb/>detains my affections from thee.’ Something more 
+        <lb/>she added, but not sufficiently distinct for my hearing, 
+        <lb/>and bowed low before the crucifix: then rising from 
+        <lb/>her knees, stept to her bed, while oppressed with a 
+        <lb/>variety of conjectures I returned to my room.
+      </p>
+        </body>
+      </text>
+    
+      <text corresp="#15601.14">
+        <body>
+      <head style="text-align:center">[14. <date when="1796-05-04">May 4, 1796</date>]</head>
+      
+      <p>
+       “BUT the latter part of her petition most sensibly af-
+       <lb break="no"/>fected me; it was too evident that she did love, but 
+        <lb/>why she had concealed the state of her heart from me was 
+        <lb/>a mystery, and I knew not to what cause I should attri-
+        <lb break="no"/>bute her silence. I felt grieved for her situation and 
+        <lb/>want of confidence in me, and though I determined 
+        <lb/>if possible to have the secret unravelled, the sun had 
+        <lb/>risen upon the mountains before I could resolve upon 
+        <lb/>the most proper method.
+      </p>
+      <p>
+       “A female neighbour coming very early to pass the 
+       <lb/>day with us, prevented me from saying any thing parti-
+        <lb break="no"/>cular to <persName>Louisa</persName> during her stay; but in the evening, 
+        <lb/>as I was sitting pensive before the fire, musing upon my 
+        <lb/>past sorrows, a deep sigh escaped me, which being in-
+        <lb break="no"/>stantly observed by my attentive girl, she asked whence 
+        <lb/>it arose, and whether she might not be intrusted with 
+        <lb/>its cause, ‘and does <persName>Louisa</persName> never draw a sigh (said I) 
+        <lb/>whose occasion she wishes to conceal from her father?’ 
+        <lb/>She answered firmly, ‘No.’ ‘How is it then (demanded 
+        <lb/>I) that you have become the victim of misplaced affec-
+        <lb break="no"/>tion, and have hidden from me the passion and its ob-
+        <lb break="no"/>ject?’ ‘It was too delicate a subject (replied she) for 
+        <lb/><emph style="font­-style: italic">me</emph> to enter upon—but had <emph style="font­-style: italic">my papa</emph> ever deemed it a 
+        <lb/>necessary topic of conversation, I should have been 
+        <lb/>happy in discovering my feelings, nor have labored so 
+        <lb/>long under a disagreeable and unusual secrecy.’ She 
+        <lb/>paused a minute for an answer, when finding I had none 
+        <lb/>to make, she proceeded thus: ‘doubtless you wish to 
+        <lb/>know the object of my attachment—it is <persName>Julius Cuth-
+          <lb break="no"/>bert</persName>—at our first interview I was strongly biassed in his 
+        <lb/>favour, and during his residence with us, his uncom-
+        <lb break="no"/>mon attractions compleated a conquest to which <choice><sic>he he</sic><corr>he</corr></choice>
+        <lb/>had no right,’ ‘and why not,’ said I, ‘because (an-
+        <lb break="no"/>swered she) it can yield him no happiness, and it is a 
+        <lb/>source of deep distress and infinite regret—yet in nothing 
+        <lb/>do I blame him—he made use of no artifice—no persuasion; 
+        <lb/>it was as natural for him to charm as for me to admire.’ 
+        <lb/>‘But why my child (said I) do you call your passion 
+        <lb/>hopeless, did <persName>Julius</persName> never say he loved you?’ ‘never, 
+        <lb/>(replied she) never, directly or indirectly, and yet from 
+        <lb/>his gentle, his fond attentions, my folly drew the con-
+        <lb break="no"/>clusion that he regarded me with <emph style="font­-style: italic">affection</emph>, and that 
+        <lb/>some important cause, which he would one day disclose, 
+        <lb/>alone prevented his telling me so—but <seg xml:id="a014" corresp="#n014">“hope deferred 
+          <lb/>maketh the heart sick”</seg><note xml:id="n014" corresp="#a014"><term style="font-style: italic">Hope deferred maketh the heart sick</term>: Proverbs 13:12.</note>—I have cherished the dear ex-
+        <lb break="no"/>pectation of hearing that avowal, until it has too firmly 
+        <lb/>entwined itself around my heart, and I fear that the 
+        <lb/>grasp of death only, will loose its hold.’ ‘Say not so, 
+        <lb/>my <persName>Louisa</persName> (exclaimed I) you have given way to dejec-
+        <lb break="no"/>tion too soon—his attentions to you were not the mere 
+        <lb/>offspring of politeness or gratitude—surely—surely 
+        <lb/>they arose from another source—I have been strictly 
+        <lb/>observant—I am certain that you are beloved by <persName>Julius</persName> 
+        <lb/>more ardently than he is by you.’  ‘Ah! (sighed she) it is 
+        <lb/>but too certain that he loves another.—The idea of see-
+        <pb/>
+        <lb break="no"/>ing him at <placeName>New-York</placeName>, was the only inducement for 
+        <lb/>me to go thither, and when there I listened attentively 
+        <lb/>to every conversation, hoping that I might hear of him, 
+        <lb/>but I was disappointed for a long time—I neither saw 
+        <lb/>nor heard of him—however, being one night at an as-
+        <lb break="no"/>sembly, a gentleman who sat near me said to his partner, 
+        <lb/>‘<persName>Julius Cuthbert</persName> is gone to the southward,’ ‘probably 
+        <lb/>for his health,’ replied the lady, ‘no (answered he) 
+        <lb/>I rather suppose he is gone to marry the rich heiress, 
+        <lb/>for whom he had his picture drawn last week.’—More 
+        <lb/>I did not hear, a new distress palsied my limbs, my eyes 
+        <lb/>grew dim, and I sunk senseless upon the bosom of <persName>Julia 
+          <lb/>Raymond</persName>, they conveyed me home immediately, and 
+        <lb/>for three days I did not leave the house—upon the 
+        <lb/>fourth, the afternoon being fine, I went with <persName>Mrs. 
+          <lb/>Raymond</persName> to purchase some little necessaries; and as 
+        <lb/>we were entering into a store, a young lady very richly 
+        <lb/>dressed, brushed by us in great haste with several small 
+        <lb/>parcels in her hand, and stepping into a chariot that was 
+        <lb/>waiting for her, drove off instantly; upon my turning 
+        <lb/>round, I perceived she had dropped a packet—I picked 
+        <lb/>it up, and finding the carriage was out of sight, put <choice><sic>it 
+          <lb/>it</sic><corr>it</corr></choice>in my pocket till I returned home, where, upon 
+        <lb/>opening it, I found it to contain the likeness of <persName><emph style="font­-style: italic">Cuth-
+          <lb break="no"/>bert</emph></persName>!—Convulsions was the consequence, but happily 
+        <lb/>my companions did not suspect the cause, they supposed 
+        <lb/>it to be occasioned by the city air, and <persName>Mrs. Raymond</persName> 
+        <lb/>proposed leaving town the next day.—But my heart 
+        <lb/>has now discharged itself, it feels relieved, and though 
+        <lb/>I am certain of a speedy return to the dust, yet RELI-
+        <lb break="no"/>GION brightens the way, and will smooth even the bed 
+        <lb/>of agony.’
+      </p>
+        </body>
+      </text>
+       
+      <text corresp="#15601.15">
+        <body>
+      <head style="text-align:center">[15. <date when="1796-05-11">May 11, 1796</date>]</head>
+      
+      <p>
+        “A SAD presentiment filled my heart, and I burst 
+        <lb/>into tears. ‘Ah! my child (said I,) did you know 
+        <lb/>the feelings of a parent, you would not thus crush 
+        <lb/>them by anticipating such an event as your death.
+        <lb/>—Providence forbid that it should take place 
+        <lb/>prior to mine<choice><sic>?</sic><corr>!</corr></choice>’ ‘And wherefore (demanded she 
+        <lb/>calmly) would you wish me to survive you—would 
+        <lb/>not the uncertainty of my future mode of life embitter 
+        <lb/>your last moments?  would you not be apt to say, 
+        <lb/>as the torpors of death stole upon your limbs, ‘what 
+        <lb/>will become of thee, my child—thine inexperienced and 
+        <lb/>unsuspecting youth, but illy calculate thee for the 
+        <lb/>new scenes through which thou art to pass—and alas! 
+        <lb/>thou hast no parent,—no guide’—‘No, my pappa, 
+        <lb/>when you perform for me the last sad office that weep-
+        <lb break="no"/>ing affection can offer—shed not a single tear of regret 
+        <lb/>upon my clay—but rather console yourself with 
+        <lb/>the reflection, that you have seen your only child de-
+        <lb break="no"/>scend blameless to the tomb.’
+      </p>
+      <p>
+        “An hour previous to the departure of <persName>Julius</persName>, he led 
+        <lb/>me to the garden, and there, with the most profound 
+        <lb/>seriousness and diffidence, declared to me that <persName>Louisa</persName> 
+        <lb/>possest his warmest affection, and intreated me to 
+        <lb/>favour his passion, and if possible keep my girl disen-
+        <lb break="no"/>gaged. ‘I must quit you immediately (said he), and 
+        <lb/>it is probable many months may elapse before I return 
+        <lb/>to this delightful forest—yet every hour of absence 
+        <lb/>shall be crowned with the idea of my enchanting 
+        <lb/><persName>Louisa</persName>, and the sweet hope of again seeing her shall alone 
+        <lb/>cherish life—yet, conceal these my sentiments from her
+        <lb/>—if you value my happiness or her’s you will do it; 
+        <lb/>tell her I am her friend, but say not that I love—
+        <lb/>time will divulge my motive for this singular secrecy.’ 
+        <lb/>These were the expressions of <persName>Cuthbert</persName>; and with these 
+        <lb/>expressions would I have soothed the sinking spirits 
+        <lb/>of my daughter, regardless of his injunctions, had 
+        <lb/>not her narrative of the miniature prevented me; 
+        <lb/>but that confounded me, and at once closed every 
+        <lb/>avenue to consolation—
+      </p>
+      <p>
+        “The steps of time, brightning in the sun of <emph style="font­-style: italic">May</emph>, again 
+        <lb/>brought on the hours of glee, that called the expectant 
+        <lb/>rustic from his humble hamlet to renew his unambi-
+        <lb break="no"/>tious cares—to lead his fleecy dependants to fields 
+        <lb/>gay with young verdure, and to streams that burst 
+        <lb/>rejoicing from the cold fetters of winter; that bade 
+        <lb/>the sod teem with blooming fragrance, and the winged 
+        <lb/>tenants of the wilderness cheer solitude with their 
+        <lb/>melody. But <emph style="font­-style: italic">I</emph> only amid the exulting offspring of 
+        <lb/>nature, heard not the call—I was enwrapt in my griefs, 
+        <lb/>for the fairest work of creation, my precious bud was 
+        <lb/>fading, ere it had attained half its excellence.
+      </p>
+      <p>
+        “Early one morning, as I was preparing to visit <persName>Louisa</persName>, 
+        <lb/>who was confined to her bed, the young man who had 
+        <lb/>attended <persName>Julius</persName>, hastily entered my chamber; ‘I bring 
+        <cb/>
+        <lb/>you a letter (said he) from <persName>Mr. Cuthbert</persName>, he will be here 
+        <lb/>in a couple of days.’ The letter was directed to <persName>Louisa</persName>, 
+        <lb/>and fearing that it might contain something that would 
+        <lb/>distress her, I opened it, and to my great joy found it 
+        <lb/>replete with the most ardent expressions of love.—
+        <lb/>‘I shall not see him (said she after perusing it) my lamp 
+        <lb/>will not hold out till then—<emph style="font­-style: italic">could</emph> I but have had one last 
+        <lb/>look—yet let me be content—I <emph style="font­-style: italic">am</emph> beloved by <persName>Julius</persName>, 
+        <lb/>and let that be sufficient—tell him so Papa, and (drawing 
+        <lb/>his picture from her bosom) give him this, and say that it 
+        <lb/>has been the loved companion of all my solitary hours ever 
+        <lb/>since I first possest it;—yes, tell <persName>Julius</persName> how I love him!’ 
+        <lb/>A visible change instantly took place, she was sensible of 
+        <lb/>it, and after bidding the family a tender adieu, called for 
+        <lb/>her crucifix, and spent some little time in devout petitions, 
+        <lb/>then reclining her face upon my bosom, she expired with 
+        <lb/>a gentle sigh.
+      </p>
+        </body>
+      </text>
+       
+      <text corresp="#15601.16">
+        <body>
+      <head style="text-align:center">[16. <date when="1796-05-18">May 18, 1796</date>]</head>
+      
+      <p>
+        “IN the midst of mine own distress, I forgot not <persName>Julius</persName>; 
+        <lb/>I remembered what my feelings were when my love left 
+        <lb/>me, and what a relief it was to my gloomy spirit to 
+        <lb/>embrace her dear remains, ‘and it shall solace <persName>Julius</persName> 
+        <lb/>too,’ said I. We therefore, in expectation of his ar-
+        <lb break="no"/>rival, deferred the interment till the fourth day, 
+        <lb/>when, perceiving that he delayed coming, the sorrow-
+        <lb break="no"/>ful procession, toward sun-set, moved slowly to the 
+        <lb/><choice><orig>cemetary</orig><reg>cemetery</reg></choice>—we had scarce entered that dreary abode of 
+        <lb/>death, when a person on horseback came in sight—he 
+        <lb/>rode up—it was <persName>Cuthbert</persName>.—Our silent woe seemed to 
+        <lb/>oppress him—he drew nearer, and with a faltering 
+        <lb/>voice accosted me—but I could not reply—I only 
+        <lb/>waved my hand; the white haired grave digger gave a 
+        <lb/>sign, and the supporters of the bier set it down, and 
+        <lb/>uncovered the corse; the eyes of <persName>Julius</persName> glanced upon 
+        <lb/>it; he started; again his sight turned to the coffin, 
+        <lb/>and giving a loud shriek he dropt upon the earth. 
+        <lb/>He was instantly raised, and every one making use 
+        <lb/>of the remedies in his power, we soon saw him re-
+        <lb break="no"/>vive, and attempted to lead him away; but he burst 
+        <lb/>from those that held him, and throwing himself down 
+        <lb/>by the corse: ‘powers of pity (exclaimed he,) it is, it 
+        <lb/>is my <persName>Louisa</persName>—but after so long an absence, we will 
+        <lb/>not be so soon separated; no, my love, even in spite of 
+        <lb/>the everlasting stupor that hath locked up thy senses<choice><sic>,</sic><corr>—</corr></choice>
+        <lb/>we will be united—I will meet thee in the territory 
+        <lb/>of death—we will be enclosed in the same tomb.’ 
+        <lb/>Then placing his lips to her livid cheek, he encircled 
+        <lb/>her with his left arm. Our own grief was renewed, 
+        <lb/>and we attempted not to interrupt his, but stood weeping 
+        <lb/>around him as partners in affliction, when the report of 
+        <lb/>a pistol awoke us to terror; we rushed toward him 
+        <lb/>together, but the blood that streamed from his bosom, and 
+        <lb/>his convulsive gasps, convinced us that his desperate 
+        <lb/>spirit had forever quit its beauteous abode; yes, the 
+        <lb/>amiable, the youthful Julius, unable to sustain so keen 
+        <lb/>a disappointment, had, in that moment of anguish, 
+        <lb/>deprived himself of life, and as an union with her dust 
+        <lb/>seemed to be his latest wish, we placed him the next 
+        <lb/>day in her grave.
+      </p>
+      <p>
+        “When the excess of my grief had abated, <persName>Cuth-
+          <lb break="no"/>bert’s</persName> young man (who had never left me for an hour 
+        <lb/>since the death of my daughter) made some distant en-
+        <lb break="no"/>quiries respecting <persName>Louisa</persName>. I frankly related her little 
+        <lb/>story; and made various observations upon the myste-
+        <lb break="no"/>rious conduct of <persName>Julius</persName>. ‘His motives are known to 
+        <lb/>me (said the youth,) and till lately he believed that 
+        <lb/>you had been made acquainted with them long since—
+        <lb/>for he had written to you frequently during his jour-
+        <lb break="no"/>ney to the South, and in every epistle he had depicted 
+        <lb/>the emotions of his mind. His reason for wishing 
+        <lb/>your daughter to be ignorant of his sentiments respecting 
+        <lb/>her, was, that as he was not in any line of business at 
+        <lb/>that time, his father, who was avarice itself, had de-
+        <lb break="no"/>termined to send him to <placeName>Europe</placeName>, and from thence to 
+        <lb/>the <placeName>East-Indies</placeName> in quest of a fortune. ‘It is always 
+        <lb/>a long voyage, said he to me one day, and should it 
+        <lb/>be protracted beyond the common time, then, if 
+        <lb/>I had told <persName>Louisa</persName> how I loved; had I obtained 
+        <lb/>her approbation; would she not accuse me of incon-
+        <lb break="no"/>stancy, would she not upbraid me as ungenerous, and 
+        <lb/>say, that I had engaged her in vows which I did not 
+        <lb/>regard, and thus prevented her accepting some one 
+        <lb/>more worthy. No, I will not offer to her inexperi-
+        <lb break="no"/>enced youth those protestations, which her maturer 
+        <lb/>years may reject; but, I will await with patience that 
+        <lb/>period when I can tender her my hand and fortune 
+        <lb/>together. Upon his arrival from this place, his fa-
+        <lb break="no"/><supplied>ther</supplied> had changed his mind, and was now anxious for his 
+        <lb/>going to the southward, as his agent—but a better 
+        <lb/>reason was, that a rich young Carolinian heiress who 
+        <lb/>had become enamoured of <persName>Julius</persName>, had written to his 
+        <lb/>father and sister, intreating them to make use of every 
+        <lb/>art and argument to induce him to marry her, and in 
+        <lb/>case of their succeeding, she offered to settle three 
+        <lb/>thousand dollars per annum upon the daughter; it 
+        <lb/>was for this that the mercenary girl intercepted and 
+        <lb/>detained his letters; letters which contained all that 
+        <lb/>your young unfortunate child wished to know; the 
+        <lb/>fatal picture was inclosed in one of them.
+      </p>
+      <p>
+       “No sooner had the young man left me, than I gave 
+       <lb/>myself up to the most obstinate melancholy, and for-
+        <lb break="no"/>getting the injunctions of my departed treasure, re-
+        <lb break="no"/>solved to cherish sorrow, till my spirit shrinking from 
+        <lb/>the burden should seek another residence. I therefore 
+        <lb/>shut myself in my apartment, and never quitted it, 
+        <lb/>excepting when I went to the burial place, where in-
+        <lb break="no"/>deed my visits were frequent.
+      </p>
+      <p>
+       “In my way thither, I had often met with an Indian, 
+       <lb/>habited as a traveller; his brow was furrowed and his 
+        <lb/>head bald, yet such a benign serenity overspread his 
+        <lb/>countenance, that it seemed as though <emph style="font­-style: italic">age</emph> had made 
+        <lb/>his approaches upon the tufted path of unbroken qui-
+        <lb break="no"/>et; he always eyed me with complacency, but never 
+        <lb/>accosted me; doubtless the severity of my aspect for-
+        <lb break="no"/>bad him.
+      </p>
+        </body>
+      </text>
+       
+      <text corresp="#15601.17">
+        <body>
+      <head style="text-align:center">[17. <date when="1796-05-25">May 25, 1796</date>]</head>
+      
+      <p>
+       “AT length, however, as I was returning once ra-
+       <lb break="no"/>ther late from my usual walk, he overtook me, and 
+        <lb/>saluted me in the <seg xml:id="a015" corresp="#n015">Cayuga language:</seg><note xml:id="n015" corresp="#a015"><term style="font-style: italic">Cayuga</term>: the Cayugas were one of the Five Nations of Iroquois indigenous to what is now known as the <placeName>Finger Lake region</placeName> of <placeName>upstate New York</placeName>.</note> ‘Brother,’ said 
+        <lb/>he, ‘can thy herd afford a draught of milk, or thy 
+        <lb/>field an ear of maize to a hungry traveller?’ ‘Yes,’ I 
+        <lb/>replied, ‘and my habitation shall shelter thee from the 
+        <lb/>damp winds, and the dews of the evening.’ ‘Thou 
+        <lb/>art kind,’ returned he, ‘yet I would not intrude upon 
+        <lb/>thy hospitality, were I not in want; but early this morn-
+        <lb break="no"/>ing, as I was crossing the creek that runs at the foot of 
+        <lb/>yonder green mountain, the angry stream, in its 
+        <lb/>strength, tore from my belt the <seg xml:id="a016" corresp="#n016">calabash</seg><note xml:id="n016" corresp="#a016"><term style="font-style: italic">Calabash</term>: a container made out of a hollowed out gourd.</note> that held my 
+        <lb/>little portion of <seg xml:id="a017" corresp="#n017">hommony,</seg><note xml:id="n017" corresp="#a017"><term style="font-style: italic">Hommony</term>: a food staple made from dried corn kernels.</note> and carried it away.’ ‘Thou 
+        <lb/>goest often to that mountain,’ said I, ‘doubtless, thou 
+        <lb/>goest thither to pay homage to the new moon.’ ‘Not 
+        <lb/>so,’ answered he, ‘but I go thither to pay homage to 
+        <lb/>the Great Spirit, who, when he blots one moon from 
+        <lb/>the face of Heaven, illumines another to chear the nar-
+        <lb break="no"/>row path of him, who journeys solitary by night.’
+      </p>
+      <p>
+       “When we arrived at the house, supper was ready, 
+       <lb/>and, according to the Indian custom, we ate our meal 
+        <cb/>
+        <lb/>in silence. When we had finished, he commenced the 
+        <lb/>conversation: ‘In my journeys along this way,’ said 
+        <lb/>he, ‘I have frequently seen thee near an inclosure; I 
+        <lb/>have sometimes seen thee in it weeping upon the flat 
+        <lb/>stones, and speaking to some one in the voice of dis-
+        <lb break="no"/>tress. Tell me, I pray thee, with whom thou con-
+        <lb break="no"/>versest, and why thou art so sad.’  With a shower of 
+        <lb/>tears, I gave him a brief account of my sorrows. ‘It 
+        <lb/>is thy wife and child who lie there,’ said he, pausing a 
+        <lb/>little, ‘it is to them thou bewailest thyself; they hear 
+        <lb/>thee; they are pleased with thy lamentations; they an-
+        <lb break="no"/>swer thee.’ ‘Ah, no!’ sobbed I, ‘they that are shut 
+        <lb/>up in the grave, are deaf and insensible.’ ‘Why then,’ 
+        <lb/>asked he, in a firm tone, ‘dost thou waste thy days in 
+        <lb/>complaints that avail thee not? Behold thou hast seen 
+        <lb/>but few winters, and the locks of thy head are white 
+        <lb/>as the snows that drift upon the top of the <placeName>Alleghanies</placeName>, 
+        <lb/>and thy life is fleeing from anguish, as the pale leaves 
+        <lb/>of the wild rose from the northeastern storm.’ ‘Alas!’ 
+        <lb/>demanded I, ‘how can I cease to weep;  I have none 
+        <lb/>to comfort me; I am quite alone.’ ‘So am I,’ said he, 
+        <lb/>‘yet thou seest me comforted; but listen, and learn in-
+        <lb break="no"/>struction from a red man of the wild. Like thee, I 
+        <lb/>have known prosperous days, but the hand of <emph style="font­-style: italic">misfor-
+          <lb break="no"/>tune</emph>, which none may arrest, hath borne hard upon me, 
+        <lb/>and thou now beholdest me old and desolate. I have a 
+        <lb/>good and wise wife, and strong and beautiful children. 
+        <lb/>My fields of maize and my plats of beans, reached 
+        <lb/>farther than my sight could stretch. My woods abound-
+        <lb break="no"/>ed with the yellow plumb, the crimson raspberry, the 
+        <lb/>blood-red strawberry, and the purple grape; while 
+        <lb/>the fat bear, and the nimble deer rolled among the 
+        <lb/>scented mandrakes; my brooks were full of fish, and 
+        <lb/>on their banks wild fowl brooded in flocks—my neigh-
+        <lb break="no"/>bors envied my plenty, and in the pride of my 
+        <lb/>heart I said, ‘my glory is great, I am exalted above 
+        <lb/>my tribe;’ but I forgot to be grateful to the hand 
+        <lb/>that had raised me, and my glory was of short dura-
+        <lb break="no"/>tion: the fountains of the sky ceased to flow, and 
+        <lb/>my fields were parched up: the grain dried upon 
+        <lb/>the stalk, and the leaves became as dust: the angel 
+        <lb/>of disease arose from a pool, whose <emph style="font­-style: italic">sweet</emph> waters had 
+        <lb/>been stolen by the fierce rays of the thirsty sun: he 
+        <lb/>passed by my wigwam, and two of my children died.
+        <lb/>—Accompanied by my oldest boy <persName>Tolala</persName>, I put my 
+        <lb/>canoe upon the lake to get some fish for my afflicted 
+        <lb/>family, and with a bitter tongue I bemoaned myself: 
+        <lb/>the spirit of the flood heard my murmurs—he called 
+        <lb/>together his strongest winds: the boat was overset far 
+        <lb/>from the shore, and <persName>Tolala</persName> perished—while the noisy 
+        <lb/>waves threw me against a high barren rock; I climbed 
+        <lb/>its steep side, and from the top heard the war whoop 
+        <lb/>of a triumphant enemy, and saw my wigwam in a blaze
+        <lb/>.—Mad with grief and rage I plunged again into the 
+        <lb/>water and swam to the land: I rushed to the ruins of 
+        <lb/>my dwelling, and there of all my boasted treasures, 
+        <lb/>only beheld the scalped and tomahawked carcases of my 
+        <lb/>wife and two last little ones.
+      </p>
+        </body>
+      </text>
+       
+      <text corresp="#15601.18">
+        <body>
+      <head style="text-align:center">[18. <date when="1796-06-01">June 1, 1796</date>]</head>
+      
+      <p>
+       ‘AS the wounded wolf, who cannot fly, snaps his 
+       <lb/>teeth, and bites his own flesh—so did I—I tore the 
+        <lb/>hair from my scalp, and knawed the nails from my 
+        <lb/>hands, and yelled till I had no voice left. I looked 
+        <lb/>toward the forest, and wished myself a thunder storm, 
+        <lb/>that I might wrench its strong trees from the earth 
+        <lb/>and blast its beauty. The sky blackened, the crooked 
+        <lb/>lightning shone among the bursting clouds—and the 
+        <lb/>winds howled over the lake.—I clambered to the top 
+        <lb/>of the highest rocks, and called to the heavy rains to 
+        <lb/>beat me off.—The tempest passed—and the last voice of 
+        <lb/>the thunder groaned among the mountains.—I ran into 
+        <lb/>the woods, ‘I will let the wild beasts devour me,’ said 
+        <lb/>I; but I terrified them with my fierceness, and even 
+        <lb/>the <emph style="font­-style: italic">hungry</emph> bear and the blood drinking <emph style="font­-style: italic">panther</emph> fled 
+        <lb/>affrighted from my presence; I rushed like a whirl-
+        <lb break="no"/>wind from place to place, and before one moon had 
+        <lb/>faded away, I had drank of the waters of the <placeName><emph style="font­-style: italic">Niagara</emph></placeName>, 
+        <lb/>and been drenched in the mists that hover over the 
+        <lb/><placeName><emph style="font­-style: italic">Cohoes</emph></placeName>.—I had eaten herbs upon the blue mountains of 
+        <lb/><placeName><emph style="font­-style: italic">Tokanoe</emph></placeName>, and had slept upon the <placeName><emph style="font­-style: italic">Alleghanian</emph></placeName> ridges;—
+        <lb/>yet no peace came to my heart:—When I waked I 
+        <lb/>was full of wrath, and when I slept I was overwhelmed 
+        <lb/>with terror.—At length one evening, weary with wan-
+        <lb break="no"/>dering, I reached the borders of <placeName>lake <emph style="font­-style: italic">Ontario</emph></placeName>—the 
+        <lb/>moon rose broad and clear upon the water, and the 
+        <lb/>winds that were going to their caves of rest, blew 
+        <lb/>gently upon the little waves.—I looked around me—
+        <lb/>there was no sound among the trees, nor any cloud in 
+        <lb/>the sky; a few bright stars were sprinkled on <seg xml:id="a018" corresp="#n018">it.</seg><note xml:id="n018" corresp="#a018"><persName>Ludono</persName> here describes sites around <placeName>New York State</placeName>, from <placeName>Cohoes Falls</placeName> in what is now <placeName>Albany County</placeName>, <placeName>Lake Ontario</placeName> on the state’s northern border, and <placeName>Niagara Falls</placeName> at its western border. Late 18C maps often showed the <placeName>Alleghenies</placeName> ending near <placeName>New York’s</placeName> southern border. <placeName><term style="font-style: italic">Tokanoe</term></placeName> may refer to <placeName>the Poconos</placeName>.</note> ‘All 
+        <lb/>is composed,’ said I, ‘all is tranquil that surrounds me, 
+        <lb/>I alone am disquieted and distressed;’ and for the first 
+        <lb/>time since the beginning of my troubles, the fountain 
+        <lb/>of my tears was opened, and I wept freely.—I sat down 
+        <lb/>upon the soft green bank, a sweet sleep came upon me, 
+        <lb/>and the Spirit of the Lake stood before me, ‘<persName>Ludono</persName>,’ 
+        <lb/>said he, ‘make an end of complaining—thou hast no 
+        <lb/>cause to murmur at what hath befallen thee.—Thou 
+        <lb/>wast <seg xml:id="a019" corresp="#n019">froward,</seg><note xml:id="n019" corresp="#a019"><term style="font-style: italic">Froward</term>: contrary.</note> and thou hast been corrected; let reproof 
+        <lb/>make thee wise. When thou wishedst for opulence, 
+        <lb/>it floated around thee like the spray round the grey 
+        <lb/>rocks of my lake, but thou wert ungrateful—Thou 
+        <lb/>didst good to none but thyself—and lo! adversity is be-
+        <lb break="no"/>come thy companion.—When thou returnedst from 
+        <lb/>hunting, thou calledst to thy meal him whose fat salmon 
+        <lb/>and tender venison corrupted for the want of being 
+        <lb/>used, and thou didst forget the poor who had no food, 
+        <lb/>and the hungry stranger who had none to comfort 
+        <lb/>him.—Thou gavest to him who had no need of thy 
+        <lb/>gifts, and boughtest of him to whom thou shouldst have 
+        <lb/>given.—Thou wert healthy, and didst not remember the 
+        <lb/>sick: But when, in thine activity thou didst chace the 
+        <lb/>swift buffaloe, thy heedless foot crushed the good herb 
+        <lb/>that should have healed thy neighbour.
+      </p>
+      <p>
+       “It was for this that thou wast bereaved of the pro-
+       <lb break="no"/>duce of thy land,—It was to teach thee to feel for 
+        <lb/>others:—but thou hardenedst thyself, beneath the 
+        <lb/>stroke—more followed, and thy proud breast rose 
+        <lb/>against them. Hadst thou been humbled by the 
+        <lb/>first, a second had not succeeded.—
+      </p>
+      <p>
+       “But arise even now and endeavor to answer the 
+       <lb/>purpose for which thou wast born. Go, build thee a 
+        <lb/>wigwam, and again cultivate thy fields.—When thou 
+        <lb/>seest the fainting traveller pass by, call him in, and let 
+        <lb/>him partake of thy bounty; and when thou hearest the 
+        <lb/>groans of the afflicted, haste to his dwelling, and anoint 
+        <lb/>his wounds;—thus shall thy tribe bless thee, and Com-
+        <lb break="no"/>fort take up her residence with thee.”
+      </p>
+      <p>
+       “When the red morning arose, I remembered the 
+       <lb/>vision; and, hasting to my former possessions, obeyed 
+        <lb/>the commands I had received.—Many seasons have 
+        <lb/>passed since then, and I have learned from my own ex-
+        <lb break="no"/>perience, that the man of gratitude, fortitude, and 
+        <lb/>usefulness, is the only happy man.”
+      </p>
+      <p>
+       “The good Indian closed his little tale, and the next 
+       <lb/>day departed early, after promising to stay a night 
+        <lb/>with me whenever he went to or returned from the 
+        <lb/>mountain.—At every visit he related to me some new 
+        <lb/>observations which he had made on piety and the life 
+        <lb/>of man.—When I was gloomy, he would divert me 
+        <lb/>from the subject on which I mused; and when my 
+        <lb/>spirits were ruffled, he would soothe them with calm 
+        <lb/>reasoning.—A strict and tender friendship subsisted 
+        <lb/>between us for many years, during which I felt all the 
+        <lb/>composure that a situation like mine could admit of.—
+        <lb/>One morning as he was departing, he said, taking me 
+        <lb/>affectionately by the hands, ‘Brother, I believe I shall 
+        <lb/>return to thee no more.—My spirits waste, and my 
+        <lb/>steps are slow and uncertain.—I <emph style="font­-style: italic">may possibly</emph> return at 
+        <lb/>the shining of the next moon; but if I do not, thou 
+        <lb/>mayest believe that I am <seg xml:id="a020" corresp="#n020">sitting in the dust.’</seg><note xml:id="n020" corresp="#a020">Almost all the Indians bury their dead in that posture. [Note in the original text.]</note>—He 
+        <lb/>came not again, and in him I have lost all that I consi-
+        <lb break="no"/>dered as valuable upon earth—I miss his counsels greatly, 
+        <lb/>and having none to converse with, I again relapse into 
+        <lb/>my former sorrows:—and did I know where his ashes 
+        <lb/>rest, old and feeble as I am, I would seek the peaceful 
+        <lb/>spot—not to disturb his quiet repose with moanings, 
+        <lb/>but to heap a few stones upon his grave, and do 
+        <lb/>homage to his memory.”
+      </p>
+      <p>
+        The regret which had swelled in the bosom of <persName>St. 
+          <lb/>Herbert</persName>, as he finished his narrative, found a passage from 
+        <lb/>his eyes, and he again wept audibly—Albudor accompa-
+        <lb break="no"/>nied him with his tears, which the old man at length per-
+        <lb break="no"/>ceiving, “It is enough, my son,” said he, “I respect 
+        <lb/>your sensibility, but I fear I have already oppressed it 
+        <lb/>too much.—By the time-piece I perceive the night 
+        <lb/>wears away fast, embrace then the few hours of rest 
+        <lb/>that remain;” and with these words he conducted 
+        <lb/>him to his chamber.
+      </p>
+        </body>
+      </text>
+       
+      <text corresp="#15601.19">
+        <body>
+      <head style="text-align:center">[19. <date when="1796-06-08">June 8, 1796</date>]</head>
+      
+      <p>
+        BRIGHT rose the dawn on the cottage of <persName>St. Herbert</persName>, 
+        <lb/>and loud were the mattin chaunts of the robin that was 
+        <lb/>perched upon the roof, when <persName>Albudor</persName> roused from his 
+        <lb/>slumbers by the early songster, arose, and being informed 
+        <lb/>that his host would not quit his chamber for some hours 
+        <lb/>to come, he left the hamlet and strolled along the forest. 
+        <lb/>“Oh too precipitate <persName>Caroline</persName>,” sighed he, “after so painful, 
+        <lb/>so long a separation; when my hopes were all glowing, 
+        <lb/>when I expected each moment to press thee to my heart, 
+        <lb/>then to find thee flown, how did it rack my bosom, and 
+        <lb/>how tasteless are the pleasures of life without thee;”—As 
+        <lb/>thus he wandered disconsolate, his eye glanced along a 
+        <lb/>broad path high overshadowed with pines. The dews 
+        <lb/>yet rested upon their branches, and the pale wild flowers 
+        <lb/>that were scattered among the under wood, nodded up-
+        <lb break="no"/>on their slender stems, diffusing around delicate sweets—
+        <lb/>a tender impulse bade him enter upon the path, and fol-
+        <lb break="no"/>lowing it for some little distance, it led him to a circular 
+        <lb/>lawn, at whose far edge stood a small building of rude 
+        <lb/>structure, and half concealed by the thick foliage of two 
+        <lb/>ancient oaks;—a pale fence inclosed the little green be-
+        <lb break="no"/>fore the door, at one end of which a narrow rill prattled 
+        <lb/>along, and on its glassy breast two white ducks were 
+        <lb/>sporting, while a third cropt the purple blossoms from 
+        <lb/>the margin.—He approached the mansion in silence, 
+        <lb/>fearing to disturb its peaceful tenants, but as he crossed 
+        <lb/>the runnel, the door was opened, and an aged female ap-
+        <lb break="no"/>peared. <persName>Albudor</persName>, immediately was going to apologize 
+        <lb/>for his early intrusion, but she prevented him: “you are 
+        <lb/>a stranger,” said she smiling, “and as such have a claim 
+        <lb/>upon me, come in then and permit me to discharge it.” 
+        <lb/>He did not hesitate to accept the invitation, and she, lead-
+        <lb break="no"/>ing him into a back room, desired him to amuse himself 
+        <lb/>with some books which were lying on a table, for a few 
+        <lb/>moments; “my daughter,” said she “is gone to gather flow-
+        <lb break="no"/>ers to adorn the hearth, her stay will not be long, and 
+        <lb/>as the conversation of an old lady can at any time be 
+        <lb/>dispensed with by a young gentleman, I will make no 
+        <lb/>apology for attending to my family affairs for a little 
+        <lb/>while.”—<persName>Albudor</persName>, however, could not read, the neat-
+        <lb break="no"/>ness and simplicity with which the apartment was fur-
+        <lb break="no"/>nished, and the chearfulness and engaging address of his 
+        <lb/>venerable hostess, perplexed him. “What means this,” said 
+        <lb/>he, “have I found another recluse? no, that cannot be, <persName>St. 
+          <lb/>Herbert</persName> is wrapt up in woe, and every thing around 
+        <lb/>him bespeaks the anguish of his soul; but chearfulness 
+        <lb/>seems to have taken up her residence here, and all I see, 
+        <lb/>answers to her voice; why then should <emph style="font­-style: italic">she</emph>, evidently 
+        <lb/>born in a higher sphere, thus immure herself in a 
+        <lb/>desert.’ With these words he seated himself by a 
+        <lb/>window, and looking out, perceived a girl bearing flow-
+        <lb break="no"/>ers, lightly stepping across the meadow <choice><orig>in rear</orig><reg>in the rear</reg></choice> of the 
+        <lb/>house. She was dressed in a loose blue silk robe, which 
+        <cb/>
+        <lb/>was gathered about the waist in a white sash; her hair fell 
+        <lb/>careless upon her shoulders, and a small straw bonnet shad-
+        <lb break="no"/>ed her face from the sun, which just then shone above 
+        <lb/>the east horizon. At this new sight, the perplexed con-
+        <lb break="no"/>jectures of <emph style="font­-style: italic">Albudor</emph> redoubled, and he was falling into a 
+        <lb/>profound muse, when he heard her voice in the entry; it 
+        <lb/>struck upon his heart like lightning—he trembled, his 
+        <lb/>breath stopped, an idea flashed through his mind, and he 
+        <lb/>sprang up to assure himself of its reality; when she entered
+        <lb/>—he looked—but stopped not to gaze—for wild with extacy, 
+        <lb/>he clasped her in his arms, and feebly articulated “it is
+        <lb/>—it is my own <persName>Caroline</persName>.”
+      </p>
+        </body>
+      </text>
+       
+      <text corresp="#15601.20">
+        <body>
+      <head style="text-align:center">[20. <date when="1796-06-15">June 15, 1796</date>]</head>
+      
+      <p>
+       SHE knew him instantly, and dropping her face upon 
+       <lb/>his shoulder, gave way to the emotions of her heart in a 
+        <lb/>copious gush of tears, without being capable of uttering 
+        <lb/>a single syllable. He kissed away the drops as they fell, 
+        <lb/>and for some minutes stood silent; then leading her to a 
+        <lb/>seat, placed himself at her side. “Ah <persName>Albudor</persName>,”sobbed 
+        <lb/>she at length, “did you know what I have suffered during 
+        <lb/>your absence, your bosom would bleed for me; for it is 
+        <lb/>only upon your account that I have suffered—yes, 
+        <lb/>rather than break the vows I had made you, I preferred 
+        <lb/>leaving my home, my parents, and all that I held pre-
+        <lb break="no"/>cious.” “And wherefore did you flee my angel <persName>Caro-
+          <lb break="no"/>line</persName>?” asked he,“because,” returned she “my father 
+        <lb/>pressed me to marry one whom he called a man of his 
+        <lb/>choice, and upon my refusing to see or speak to him, 
+        <lb/>my parent said he would be obeyed, and that whe-
+        <lb break="no"/>ther I consented or not, my nuptials should be celebrat-
+        <lb break="no"/>ed that night; so saying, he quitted my chamber, and 
+        <lb/>locked the door after him, when I, taking advantage of 
+        <lb/>the gloominess of the evening, escaped by a ladder that 
+        <lb/>was placed against a lamp-post near my window.” 
+        <lb/>“And did you enquire the name of him who was offered 
+        <lb/>you, my love?” said he. “No” answered <persName>Caroline</persName>, 
+        <lb/>“I shut my ears when my father would have mentioned 
+        <lb/>it.” “Cruel girl” said he, “how have you disturbed 
+        <lb/>your own tranquility and mine; how have you retarded 
+        <lb/>our felicity;—I was the man he meant.” “<emph style="font­-style: italic">You</emph>, my 
+        <lb/><persName>Albudor</persName>?—<emph style="font­-style: italic">you</emph>?” “yes, my love; our parents in our 
+        <lb/>infant years had destined us for each other, but as youth 
+        <lb/>is apt to be froward, they were apprehensive that if 
+        <lb/>their intentions were made known, we might consider 
+        <lb/>ourselves as under constraint, and that instead of lov-
+        <lb break="no"/>ing, we should hate one another;—they therefore 
+        <lb/>kept their wishes secret, and with transport beheld our 
+        <lb/>growing affection, only waiting, like us, till I should 
+        <lb/>be established in business, for the completion of their 
+        <lb/>and our mutual desires.—The moment that the vessel 
+        <lb/>in which I returned from <placeName>Holland</placeName> came within <seg xml:id="a021" corresp="#n021"><placeName>the 
+        <lb/>Hook</placeName>,</seg><note xml:id="n021" corresp="#a021"><term style="font-style: italic">The Hook</term>: This is likely <placeName>Sandy Hook (New Jersey)</placeName>, which was commonly imagined as the southernmost land marker of <placeName>New York</placeName> harbor. This would have been an area where ships took on harbor pilots to guide them into port; it may have also served as a place where sailors and ship officers transferred messages to be carried into the city by smaller boats as they awaited clearance in the harbor’s quarantine ground (which, in this period, was near <placeName>Staten Island</placeName>).</note> I wrote to my father, acquainting him with my 
+        <lb/>arrival, and inclosed a note for you; he went instantly 
+        <lb/>to your father’s, who being willing to indulge a merry 
+        <lb/>humour, spoke to you in the manner that alarmed 
+        <lb/>you so much:—but come, my <persName>Caroline</persName>, he has already 
+        <lb/>wept enough, hasten with me to dry up his tears, and to 
+        <lb/>bind the broken heart of your afflicted mother.” “And 
+        <lb/>can it be possible,” exclaimed she, “does our love in-
+        <lb break="no"/>deed meet with their approbation?—Yes, I will hasten 
+        <lb/>with you immediately, and on my knees ask them for-
+        <lb break="no"/>giveness for the anguish I have caused them to feel;—
+        <lb/>yet satisfy me in one particular—who informed you of 
+        <lb/>the place of my retirement?” “An Indian,” answered 
+        <lb/><persName>Albudor</persName>, “who saw your picture in my bosom, told 
+        <lb/>me where resided the fair original.” At this moment 
+        <lb/>the mistress of the house entered with the tea-board—she 
+        <cb/>
+        <lb/>knew <persName>Caroline’s</persName> story, and needed only see the pair, to 
+        <lb/>know that the lover was present.
+      </p>
+        </body>
+      </text>
+       
+      <text corresp="#15601.21">
+        <body>
+      <head style="text-align:center">[21. <date when="1796-06-22">June 22, 1796</date>]</head>
+      
+      <p>
+       HAVING received her congratulations upon their 
+       <lb/>happy rencontre, he rose to take leave, “And why will 
+        <lb/>you leave us so soon,” demanded the elder lady.—“My 
+        <lb/>host will expect me,” answered he, “the good old <persName>St. 
+          <lb/>Herbert</persName>.”—“<persName>St. Herbert</persName>!” reiterated she, in a tone 
+        <lb/>of surprise, “<persName>St. Herbert</persName>, where does he live?—who is 
+        <lb/>he; “He is your neighbour, madam;” “An old 
+        <lb/>man, did you say?” “I did.”  “How long has he 
+        <lb/>resided here?” “For very many years.” Oh!” 
+        <lb/>exclaimed she, bursting into tears, “lead me to him, for 
+        <lb/>it must be my brother.”
+      </p>
+      <p>
+        However, at the instance of <persName>Albudor</persName>, who apprehended 
+        <lb/>that her sudden and unexpected appearance might operate 
+        <lb/>too powerfully upon the sorrow-worn hermit, she dis-
+        <lb/>patched a note to him by one of her servants, and before 
+        <lb/>the man had well delivered it, her impatience had led her 
+        <lb/>to the door of <persName>St. Herbert’s</persName> cot:—its owner stood ready 
+        <lb/>to receive her—and with many drops of renewed affec-
+        <lb/>tion did they bedew each other’s faded check.
+      </p>
+      <p>
+        When they had obtained a degree of composure, <persName>Albu
+          <lb break="no"/>dor</persName>, who with his <persName>Caroline</persName> had followed <persName>St. Herbert’s</persName> 
+        <lb/>sister, enquired how long she had dwelt in the vicinity of 
+        <lb/>her brother: “For three years,” replied she, “and yet 
+        <lb/>until this morning have never had an idea of his being 
+        <lb/>here; however that is not to be wondered at, for as it 
+        <lb/>was my intention to withdraw from the world entirely, 
+        <lb/>I made no enquiries concerning it; and my two aged 
+        <lb/>domestics, possessing even more taciturnity than myself, 
+        <lb/>it cannot be expected that they were either inquisitive 
+        <lb/>or communicative.”—<persName>St. Herbert</persName> being willing to 
+        <lb/>know by what means she had been induced to seclude 
+        <lb/>herself from society, she satisfied his curiosity thus: 
+        <lb/>“Shortly after your unexpected flight from the city, a 
+        <lb/>young French merchant from <placeName>Montreal</placeName> became acquaint-
+        <lb break="no"/>ed with me, and perceiving my attachment to him, 
+        <lb/>asked permission of my father to marry me, who think-
+        <lb break="no"/>ing that it was an advantageous offer, consented with-
+        <lb break="no"/>out hesitation, but the rest of the family opposed it so 
+        <lb/>violently, that my father with tears in his eyes, intreated 
+        <lb/>us to be united privately, and then to set out for <placeName>Canada</placeName> 
+        <lb/>without delay; as my brothers had vowed to assassi-
+        <lb break="no"/>nate <persName>Dugazon</persName> if I persisted in my attachment,—he 
+        <lb/>being in point of politics and religion their declared 
+        <lb/>enemy.—We obeyed, and in the silence of midnight I 
+        <lb/>uttered my vows to <persName>Dugazon</persName> before heaven, then 
+        <lb/>having received upon my knees the whispered blessing 
+        <lb/>of my weeping parent, I bade him an everlasting 
+        <lb/>adieu.—We arrived at <placeName>Montreal</placeName> after a tedious jour-
+        <lb break="no"/>ney, and for several years I scarce knew what anxiety 
+        <lb/>was, save in the absence of my adored partner; but 
+        <lb/>death, the great leveller of man’s proudest schemes of 
+        <lb/>felicity, laid my idol in the dust, and withered by one 
+        <lb/>stroke my every blooming joy;—there was now nothing 
+        <lb/>upon earth that was worth my wishes, and desirous of 
+        <cb/>
+        <lb/>being excluded from cares which were no longer pleas-
+        <lb break="no"/>ing, I retired to the monastery where my husband was 
+        <lb/>interred.—I here indulged myself in weeping over his 
+        <lb/>relics and mingling my petitions with my tears; my 
+        <lb/>mind by insensible degrees, became calmer, and I mourned 
+        <lb/>as one of those who did not mourn without hope. For 
+        <lb/>eight years I resided there, when the building taking 
+        <lb/>fire, it was burnt down to the ground, and as the re-
+        <lb break="no"/>building of it was protracted for some time, I grew 
+        <lb/>tired of living among strangers; so, collecting what mo-
+        <lb break="no"/>ney I had left, I put the major part out at a moderate 
+        <lb/>interest, and with the residue purchased the spot I now oc-
+        <lb break="no"/>cupy from a young man, who was as much disgusted 
+        <lb/>with solitude as I was charmed with it. Once have I 
+        <lb/>quit my mansion since then in order to transact some 
+        <lb/>urgent business at <placeName>New-York</placeName>, and upon my return 
+        <lb/>homeward I met with my eloping <persName>Caroline</persName>, who being 
+        <lb/>young and a stranger, I invited her to accompany me, 
+        <lb/>intending to have kept her with me, till we could have 
+        <lb/>gained some intelligence respecting this young gentle-
+        <lb break="no"/>man; but surely, my brother, since we have so happily 
+        <lb/>met, we will not stay here to renew our past sorrows, 
+        <lb/>let us return to our native city, and close our lives in 
+        <lb/>peace, where they so prosperously began.” “No, 
+        <lb/><persName>Julia</persName>,” sighed <persName>St. Herbert</persName>, “since I last saw you, I 
+        <lb/>have had a wife, a daughter, and a friend, but they 
+        <lb/>were mortal, and the cold fetters of the grave now en-
+        <lb break="no"/>circle them; when I was deprived of the last, I for-
+        <lb break="no"/>sook the tenement where I had seen and had been 
+        <lb/>blessed with them all; I wedded myself to this, and vowed 
+        <lb/>never to forsake it; I will not cancel my vow. Here 
+        <lb/>have I had daily converse with my griefs, and till the 
+        <lb/>wand of an eternal sleep shall press heavy on my lids, I 
+        <lb/>will not admit of a thought of felicity—no, not on this 
+        <lb/>side of the grave.”  Finding that all endeavours to per-
+        <lb break="no"/>suade him to a removal were useless, <persName>Albudor</persName> and <persName>Caro-
+          <lb break="no"/>line</persName> agreed upon setting out for the city the next day. 
+        <lb/><persName>Julia</persName> determined upon staying with <persName>St. Herbert</persName>, promis-
+        <lb break="no"/>ing them, however, that should she survive him, she would 
+        <lb/>come and take up her residence with them for the rest of 
+        <lb/>her life.
+      </p>
+      <p>
+       The remaining part of the day was spent in sober 
+        <lb/>chearfulness, but toward its close, <persName>St. Herbert</persName> called <persName>Al-
+          <lb break="no"/>budor</persName> to him, “My son,” said he, “I believe I am 
+        <lb/>drawing near to the valley of death, my exertions last 
+        <lb/>night to collect the incidents of my life, were too great 
+        <lb/>for a debilitated frame like mine to support; do you 
+        <lb/>however profit by them; remember the instructions 
+        <lb/>that have been given me; and when you find that my 
+        <lb/>spirit is gone, lay my corse by the side of my <persName>Louisa</persName>; 
+        <lb/>my domestics will shew you where my papers are, go 
+        <lb/>now and call my family.”—They came, he saluted them 
+        <lb/>with affection, and committing his spirit to the all suffi-
+        <lb break="no"/>cient Power who framed it, expired in the united arms of 
+        <lb/><persName>Julia</persName> and <persName>Albudor</persName>.
+      </p>
+      <p>
+       After the usual time, they placed him by the side of his 
+       <lb/>consort, and upon perusing his papers, found that he had 
+        <lb/>bequeathed his property there to the old mulatto and his 
+        <lb/>daughter, beside a considerable sum of money; and the 
+        <lb/>residue to be distributed among the  necessitious of any 
+        <pb/>
+        <lb/>place whatever. <persName>Julia</persName> presented her little farm to her 
+        <lb/>domestics, and proceeded to the metropolis with <persName>Albudor</persName> 
+        <lb/>and <persName>Caroline</persName>, who were united in presence of their 
+        <lb/>rejoicing friends and relatives, and for a length of time 
+        <lb/>enjoyed the blessings resulting from prosperity and sincere 
+        <lb/>affection; and when they sunk in the vale of years, a 
+        <lb/>numerous offspring arose before them, to cherish their 
+        <lb/>declining days and imitate their <seg xml:id="a022" corresp="#n022">virtues.</seg><note xml:id="n022" corresp="#a022">The final installment concludes with the signature “<persName>ANNA</persName>” and the dateline “<placeName>NEW-YORK</placeName>, <date when="1796-06-17">June 17, 1796</date>.”</note></p>
+        </body>
+      </text>
+    </group>
+  </text>
+</TEI>

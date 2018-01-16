@@ -1,0 +1,1199 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:svg="http://www.w3.org/2000/svg"
+	xmlns:math="http://www.w3.org/1998/Math/MathML"
+	xmlns="http://www.tei-c.org/ns/1.0"
+	xmlns:html="http://www.w3.org/1999/xhtml">
+ <teiHeader>
+   <fileDesc>
+     <titleStmt>
+      <title>Amelia: Or the Faithless Briton</title>
+     </titleStmt>
+     <publicationStmt>
+     	<p>Published by the American Antiquarian Society's Just Teach One Initiative.</p>
+     </publicationStmt>
+   	<sourceDesc xml:id="aas332218">
+   		<biblStruct>
+   			<monogr>
+   				<author>
+   					<persName>Anonymous</persName>
+   				</author>
+   			  <title>Amelia: Or the Faithless Briton</title>
+   			  <ref type="catalog-url">http://pacscl.exlibrisgroup.com:48992/F?func=direct&amp;doc_number=000258776</ref>
+   			  <ref type="resource-url">https://archive.org/details/columbianmagazin17861787phil</ref>
+   			  <idno type="aas">332218</idno>
+   			  <imprint>
+   			    <pubPlace>
+   			      <bibl style="font­-style: italic">Amelia</bibl>, published in <date when="1787-10">Oct 1787</date> issue (finished in a supplementary issue) of <bibl style="font­-style: italic">Columbian Magazine</bibl>
+   			    </pubPlace>
+   			    <publisher>
+   			    </publisher>
+   			  </imprint>
+   			</monogr>
+   		</biblStruct>
+   	</sourceDesc>
+   </fileDesc>
+ </teiHeader>
+  <text corresp="#aas332218">
+  <front>
+   <pb/>
+   <titlePage style="text-transform:uppercase">
+    <titlePart type="desc">Amelia: 
+      <lb/>Or the 
+      <lb/>Faithless Briton.</titlePart>
+     <head style="text-transform:uppercase;text-align:center; font-style:italic">An ORIGINAL NOVEL, founded upon recent facts.</head>
+    <docImprint style="text-transform:none">
+      <docDate when="10-1787">October 1787</docDate></docImprint>
+   </titlePage>
+    
+     <pb/>
+     
+   
+  </front>
+   
+  <pb/>
+  
+  <body>
+   <head style="text-transform:uppercase">Amelia: Or the Faithless Briton</head>
+   <div type="section">
+     <p>THE revolutions of government, and 
+      <lb/>the subversions of empire, which have 
+      <lb/>swelled the theme of national historians,
+      <lb/>have, likewise, in every age, furnished anec-
+      <lb break="no"/>dote to the biographer, and incident to the 
+      <lb/>novellist. The objects of policy ambi-
+      <lb break="no"/>tion are generally, indeed, accomplished at 
+      <lb/>the expence of private ease and prosperity; 
+      <lb/>while the triumph of arms, like the funeral 
+      <lb/>festivity of a savage tribe, serves to announce 
+      <lb/>some recent calamity—the waste of proper-
+      <lb break="no"/>ty, or the fall of families.</p>
+     <p>Thus, the great events of the late <seg xml:id="a001" corresp="#n001">war,</seg>
+        <note xml:id="n001" corresp="#a001">The “late war” refers to the American Revolution which concluded
+        just four years prior to the first publication of <bibl style="font­-style: italic">Amelia</bibl>.</note>, 
+      <lb/>which produced the separation of the Bri-
+      <lb break="no"/>tish empire, and established the sovereignty 
+        <lb/>of <placename>America</placename>, were chequered with scenes of 
+      <lb/>private sorrow, and the success of the con-
+      <lb break="no"/>tending forces was alternately fatal to the 
+      <lb/>peace and order of domestic life. The lamen-
+      <lb break="no"/>tations of the widow and the orphan, min-
+      <lb break="no"/>gled with the song of victory; and the sable 
+      <lb/>mantle with which the hand of friendship 
+      <lb/>cloathed the bier of the gallant <persName>MONTGOMERY</persName>,
+      <lb/>cast a momentary gloom upon the trophies 
+      <lb/>his valour had <seg xml:id="a002" corresp="#n002">atchieved.</seg></p><note xml:id="n002" corresp="#a002"><persName>Richard Montgomery</persName> was a former British army officer who accepted a commission as a Brigadier General in the American army at the
+        outbreak of the Revolution. He was killed in <date when="1775">1775</date> during the Battle of <placename>Quebec</placename>, 
+        but was notably treated with great respect by the British forces who discovered his body. <persName>Montgomery's</persName> death was the subject of one of the first historical paintings commemorating the Revolution, <persName>John Trumbull's</persName> The Death of <persName>General Montgomery</persName> in the Attack on <placeName>Quebec</placeName> <date when="1775-12-31">December 31 1775</date> (<date when="1786">1786</date>) which appeared the year before the first
+        publication of <bibl style="font­-style: italic">Amelia</bibl></note>
+    <p>Though the following tale then, does not 
+      <lb/>exhibit the terrible magnificence of warlike 
+      <lb/>operations, or scrutinize the principles of na-
+      <lb break="no"/>tional politics, it recites an episode that too 
+      <lb/>frequently occurs in the military drama, and 
+      <lb/>contains a history of female affliction, that 
+      <lb/>claims, from its authenticity, at least, an in-
+      <lb break="no"/>terest in the feeling <seg xml:id="a003" corresp="#n003">heart.</seg><note xml:id="n003" corresp="#a003">The remainder of this paragraph did not appear in later versions, and
+       we have not found other novels or novellas in the <bibl>Columbian Magazine</bibl>
+       that indicate shared authorship.</note> It is the first of a 
+      <lb/>series of novels, drawn from the same source, 
+      <lb/>and intended for public communication, 
+      <lb/>through the medium of the <bibl>Columbian Magazine</bibl>: but as the author's object is merely 
+      <cb/>
+      <lb/>to glean those circumstances in the progress 
+      <lb/>of the revolution, which the historian has 
+      <lb/>neither leisure nor disposition to comme-
+      <lb break="no"/>morate, and to produce, from the annals of 
+    <lb/>private life, something to entertain, and 
+      <lb/>something to improve his readers, the occa-
+      <lb break="no"/>sion will yield little to hope from the ap-
+      <lb break="no"/>plause of the public, and nothing to dread 
+      <lb/>from its candor.</p>
+    
+    <p>
+     <persName>HORATIO BLYFIELD</persName> was a respectable 
+     <lb/>inhabitant of the state of <placeName>New-York</placeName>. Suc-
+     <lb break="no"/>cess had rewarded his industry in trade with 
+     <lb/>an ample fortune; and his mind, unconta-
+     <lb break="no"/>minated by envy and ambition, freely in-
+     <lb break="no"/>dulged itself in the delicious enjoyments 
+     <lb/>of the father and the friend. In the former 
+     <lb/>character he superintended the education of 
+     <lb/>a son and a daughter, left to his sole care 
+     <lb/>by the death of their excellent mother; and 
+     <lb/>in the latter, his benevolence and council 
+     <lb/>were uniformly exercised for the relief of 
+     <lb/>the distressed, and the information of the 
+     <lb/>illiterate.</p>
+     <p>
+    His mercantile intercourse with <placeName>Great 
+      <lb/>Britain</placeName> afforded an early opportunity of ob-
+      <lb break="no"/>serving the disposition of that kingdom with 
+      <lb/>respect to her colonies; and his knowledge 
+      <lb/>of the habits, tempers, and opinions of the 
+      <lb/>American citizens, furnished him with a 
+      <lb/>painful anticipation of anarchy and war. 
+      <lb/>The texture of his mind, indeed, was natu-
+      <lb break="no"/>rally calm and passive, and the ordinary ef-
+      <lb break="no"/>fects of a life of sixty years duration, had to-
+      <lb break="no"/>tally eradicated all those passions which 
+      <lb/>rouse men to opposition, and qualify them 
+      <lb/>for enterprize. When, therefore, the gaunt-
+      <pb/>
+      <lb break="no"/>let was thrown upon the theatre of the new 
+      <lb/>world, and the spirit of discord began to 
+       <lb/>rage, <persName>Horatio</persName>, like the <seg xml:id="a004" corresp="#n004">Roman <persName>Atticus</persName>,</seg><note xml:id="n004" corresp="#a004"><persName>Titus Pomponius Atticus</persName> (~<date when="112">112</date>/<date when="109">109</date> BCE–~<date when="35">35</date>/<date when="32">32</date> BCE) was born to a noble Roman family, but left <placeName>Rome</placeName> during a period of marked civil unrest. After relocating to the safety of <placeName>Athens</placeName>, <persName>Atticus</persName> devoted himself to his intellectual interests.</note>
+      <lb/>withdrew from public clamour, to a seques-
+      <lb break="no"/>tered cottage, in the interior district of 
+      <lb/><placeName>Long-Island</placeName>; and, consecrating the youth-
+      <lb break="no"/>ful ardour of his son, <persName>Honorius</persName>, to the 
+      <lb/>service of his country, the fair <persName>Amelia</persName> was 
+      <lb/>the only companion of his retreat.</p>
+     <p>
+      <persName>Amelia</persName> had then attained her seventeenth 
+    <lb/>year. The delicacy of her form was in uni-
+      <lb break="no"/>son with the mildness of her aspect, and the 
+      <lb/>exquisite harmony of her soul, was respon-
+      <lb break="no"/>sive to the symmetry of her person. The pride 
+      <lb/>of parental attachment had graced her with 
+      <lb/>every accomplishment that depends upon 
+      <lb/><seg xml:id="a005" corresp="#n005">tuition;</seg><note xml:id="n005" corresp="#a005"><term style="font-style:italic">Tuition</term>: safe-keeping, protection, care, or tutelage.</note> and it was the singular fortune of 
+      <lb/><persName>Amelia</persName>, to be at once the admiration of our 
+      <lb/>sex, and the favourite of her own. From 
+      <lb/>such a daughter, <persName>Horatio</persName> could not but re-
+      <lb break="no"/>ceive every solace of which his generous feel-
+      <lb break="no"/>ings were susceptible in a season of national 
+      <lb/>calamity; but the din of arms that fre-
+      <lb break="no"/>quently interrupted the silence of the neigh-
+      <lb break="no"/>bouring forests, and the disastrous intelli-
+      <lb break="no"/>gence which his son occasionally transmit-
+      <lb break="no"/>ted from the standard <seg xml:id="a006" corresp="#n006">of the union,</seg><note xml:id="n006" corresp="#a006"><term style="font-style: italic">Of the union</term>: literally from the flag of the Continental Army, but more colloquially from the American encampment where his son is stationed.</note> super-
+      <lb break="no"/>ceded the cheerful avocations of the day, 
+      <lb/>and dispelled the peaceful slumbers of the 
+      <lb/>night.</p>
+     <p>
+    After a retirement of many months, on a 
+      <lb/>morning fatal to the happiness of <persName>Horatio's</persName> 
+      <lb/>family, the sound of artillery announced a 
+      <lb/>battle, and the horsemen who were observed 
+      <lb/>gallopping across the grounds, proved that 
+      <lb/>the scene of action could not be remote. As 
+      <lb/>soon, therefore, as the tumult of hostility 
+      <lb/>had subsided, <persName>Horatio</persName> advanced with his 
+      <lb/>domestics, to administer comfort and assis-
+      <lb break="no"/>tance to the wounded, and to provide a de-
+      <lb break="no"/>cent interment for the mangled victims of 
+      <lb/>the conflict. In traversing the deadly field, 
+      <lb/>he perceived an officer, whose exhausted 
+      <lb/>strength just served for the articulation of a 
+      <lb/>groan, and his attention was immediately 
+      <lb/>directed to the preservation of this interes-
+      <lb break="no"/>ting object, who alone, of the number that 
+      <lb/>had fallen, yielded a hope that his com-
+      <lb break="no"/>passionate exertions might be crowned with 
+      <lb/>success. Having bathed, and bound up his 
+      <lb/>wounds, the youthful soldier was borne to 
+      <lb/>the cottage; where, in a short time, a stron-
+      <lb break="no"/>ger pulse, and a freer respiration, afforded 
+      <lb/>a flattering presage of returning life.</p>
+     <p>
+      <persName>Amelia</persName>, who had anxiously waited the 
+    <lb/>arrival of her father, beheld, with a mixed 
+      <lb/>sensation of horror and pity, the spectacle 
+      <lb/>which now accompanied him. She had ne-
+      <lb break="no"/>ver before seen the semblance of death, 
+      <lb/>which therefore afflicted her with all the 
+      <lb/>terrors of imagination; and, notwithstanding 
+      <lb/>the pallid countenance of the wounded 
+      <lb/>guest, he possessed an elegance of person,
+      <cb/>
+      <lb/>which, according to the natural operations 
+      <lb/>of female sensibility, added something, per-
+      <lb break="no"/>haps, to her commiseration for his misfor-
+      <lb break="no"/>tunes. When, however, these first impres-
+      <lb break="no"/>sions had passed away, the tenderness of 
+      <lb/>her nature expressed itself in the most assidu-
+      <lb break="no"/>ous actions for his ease and accommodation, 
+      <lb/>and the encreasing symptoms of his recove-
+      <lb break="no"/>ry, filled her mind with joy and exultation.</p>
+     <p>
+    The day succeeding that on which he was 
+      <lb/>introduced to the family of <persName>Horatio</persName>, his ser-
+      <lb break="no"/>vant, who had made an ineffectual search 
+      <lb/>for his body among the slain, arrived at the 
+      <lb/>cottage, and <seg xml:id="a007" corresp="#n007">discovered</seg><note xml:id="n007" corresp="#a007"><term style="font-style: italic">Discovered</term>: recognized as; announced to be.</note> him to be <seg xml:id="a008" corresp="#n008"><persName>Doliscus</persName></seg><note xml:id="n008" corresp="#a008"><term style="font-style: italic"><persName>Doliscus</persName></term>: the name may reference the Latin <term style="font-style: italic">dolor</term>, pain, or <term style="font-style: italic">dolum</term>, grief, but most likely extends <term style="font-style: italic">dolus</term>, meaning deceit or trickery.</note>,
+        <lb/>the only son and heir of a noble family in 
+      <lb/><placeName>England</placeName>.</p>
+     <p>When <persName>Doliscus</persName> had recovered from the 
+      <lb/>senseless state to which he had been reduced 
+      <lb/>(chiefly, indeed, by the great effusion of 
+      <lb/>blood) the first exercise of his faculties was 
+      <lb/>the acknowledgement of obligation, and the 
+      <lb/>profession of gratitude. To <persName>Horatio</persName> he 
+      <lb/>spoke in terms of reverence and respect; and
+      <lb/>to <persName>Amelia</persName> in the more animated language 
+      <lb/>of admiration, which melted at length, in-
+      <lb break="no"/>to the gentle tone of flattery and love. But 
+      <lb/><persName>Doliscus</persName> had been reared in the school of 
+      <lb/>dissipation! and, with all the qualifications 
+      <lb/>which allure and captivate the female heart, 
+      <lb/>he had learned to consider virtue only as 
+      <lb/>an obstacle to pleasure, and beauty mere-
+      <lb break="no"/>ly as an incentive to the gratification of 
+      <lb/>passion. His experience soon enabled him 
+      <lb/>to discover something in the solicitude of 
+      <lb/>the <seg xml:id="a009" corresp="#n009">artless</seg><note xml:id="n009" corresp="#a009"><term style="font-style: italic">Artless</term>: without artifice.</note> <persName>Amelia</persName> beyond the dictates of 
+      <lb/>compassion and hospitality; and, even be-
+      <lb break="no"/>fore his wounds were closed, he conceived 
+      <lb/>the infamous project of violating the purity 
+      <lb/>and tranquility of a family, to which he was 
+      <lb/>indebted for the prolongation of his exis-
+      <lb break="no"/>tence, and the restoration of his health. 
+      <lb/>From that very innocence, however, which 
+      <lb/>betrayed her feelings, while she was herself 
+      <lb/>ignorant of their source, he anticipated the 
+      <lb/>extremest difficulty and danger. To im-
+      <lb break="no"/>prove the evident predilection of her mind 
+      <lb/>into a fixed and ardent attachment, required 
+      <lb/>not, indeed, a very strenuous display of his 
+      <lb/>talents and address; but the sacrifice of her 
+      <lb/>honour (which an insurmountable antipa-
+      <lb break="no"/>thy to the matrimonial engagements made 
+      <lb/>necessary to the accomplishment of his pur-
+      <lb break="no"/>pose) was a task that he justly foresaw, 
+      <lb/>could be only executed by the detestable 
+      <lb/>agency of perfidy and fraud. With these 
+      <lb/>views then he readily accepted the solicita-
+      <lb break="no"/>tions of the unsuspecting host, and even 
+      <lb/>contrived to protract his cure, in order to 
+      <lb/>furnish a plea for his continuance at the cot-
+      <lb break="no"/>tage.</p>
+    <p>
+      <persName>Amelia</persName>, when, at length, the apprehen-
+      <lb break="no"/>sions for his safety were removed, employed 
+      <lb/>all the charms of music and conversation to 
+      
+      <pb/>
+      <lb/>dissipate the languor, which his indisposi-
+      <lb break="no"/>tion had produced, and to prevent the me-
+      <lb break="no"/>lancholy, with which retirement is apt to 
+      <lb/>affect a disposition accustomed to the gay
+      <lb/>and busy transactions of the world. She ex-
+      <lb break="no"/>perienced an unusual pleasure, indeed, in 
+      <lb/>the discharge of these benevolent offices; 
+      <lb/>for, in the company of <persName>Doliscus</persName> she insen-
+      <lb break="no"/>sibly forgot the anxiety she was wont to feel 
+      <lb/>for the fate of her absent brother; and the 
+      <lb/>sympathy which she had hitherto extended 
+      <lb/>to all the sufferers of the war, was now mo-
+      <lb break="no"/>nopolized by a single object. Horatio's at-
+      <lb break="no"/>tachment to the solitude of his library, af-
+      <lb break="no"/>forded frequent opportunities for this infa-
+      <lb break="no"/>tuating intercourse, which the designing 
+      <lb/>Doliscus gradually diverted from general to 
+      <lb/>particular topics—from observations upon 
+      <lb/>public manners and events, to insinuations 
+      <lb/>of personal esteem and partiality. Amelia 
+      <lb/>was incapable of deceit, and unacquainted 
+      <lb/>with suspicion. The energy, but, at the 
+      <lb/>same time, the respect, with which <persName>Dolis-
+      <lb break="no"/>cus</persName> addressed her, was grateful to her feel-
+      <lb break="no"/>ings; his rank and fortune entitled him to 
+      <lb/>consideration, and the inestimable favors 
+      <lb/>that had been conferred upon him, offered a 
+      <lb/>specious security for his truth and fidelity.
+      <lb/>The acknowledgement of reciprocal regard 
+      <lb/>was, therefore, an easy acquisition, and <persName>Do-
+      <lb break="no"/>liscus</persName> triumphed in the modest, but expli-
+      <lb break="no"/>cit avowal, before <persName>Amelia</persName> was apprized of 
+      <lb/>its importance and extent. From that mo-
+      <lb break="no"/>ment, however, he assumed a pensive and 
+      <lb/>dejected carriage. He occasionally affected 
+      <lb/>to start from the terrors of a deep reverie; 
+      <lb/>and the vivacity of his temper, which had 
+      <lb/>never yielded to the anguish of his wounds, 
+      <lb/>seemed suddenly to have expired under the 
+      <lb/>weight of secret and intolerable affliction. 
+      <lb/>Amelia, distressed and astonished, implored 
+      <lb/>an explanation of so mysterious a change in 
+      <lb/>his deportment; but his reiterated sighs, 
+      <lb/>which were for a while, the only answers 
+      <lb/>she received, tended equally to encrease her 
+      <lb/>curiosity and her sorrow.</p>
+     <p>
+    At length he undertook to disclose the 
+    <lb/>source of his pretended wretchedness; and, 
+      <lb/>having prefaced the hypocritical tale with 
+      <lb/>the most solemn protestations of his love and 
+      <lb/>constancy, he told the trembling <persName>Amelia</persName> 
+      <lb/>that, were it even possible to disengage him-
+      <lb break="no"/>self from an alliance which had been early 
+      <lb/>contracted for him with a noble heiress of 
+      <lb/><placeName>London</placeName>, still the pride of family, and the 
+      <lb/>spirit of loyalty, which governed his father's 
+      <lb/>actions, would oppose a union unaccompa-
+      <lb break="no"/>nied by the accumulation of dignity, and 
+      <lb/>formed with one whose connections were 
+      <lb/>zealous in the arduous resistance to the au-
+        <lb break="no"/>thority of <placeName>Britain</placeName>. “While he lives,” ad-
+        <lb break="no"/>ded <persName>Doliscus</persName>, “it is not in my power to 
+      <lb/>chuse the means of happiness—and yet, as 
+      <cb/>
+      <lb/>the time approaches when it will be incon-
+      <lb break="no"/>sistent with the duty and honor of a soldier 
+      <lb/>to enjoy any longer the society of <persName>Amelia</persName>, 
+      <lb/>how can I reflect upon my situation with-
+        <lb break="no"/>out anguish and despair!” The delicate 
+        <lb/>frame of <persName>Amelia</persName> was agitated with the sen-
+      <lb break="no"/>sations which this picture had excited; and, 
+      <lb/>for the first time, she became acquainted 
+      <lb/>with the force of love, and the dread of se-
+        <lb break="no"/>paration from its object. <persName>Doliscus</persName> traced 
+      <lb/>the sentiments of her heart in the silent, but 
+      <lb/>certain indications of her countenance, and 
+      <lb/>when tears had melted the violence of her 
+      <lb/>first emotion into a soft and sympathetic 
+      <lb/>grief, the treacherous suitor thus prosecuted 
+      <lb/>his scheme against her peace and innocence. 
+        <lb/>“But it is impossible to resolve upon per-
+      <lb break="no"/>petual misery! One thing may yet be done 
+      <lb/>to change the scene without incurring a fa-
+      <lb break="no"/>ther's resentment and reproach:— can my 
+        <lb/><persName>Amelia</persName> consent to sacrifice a sentiment of 
+        <lb/>delicacy, to ensure a life of happiness?” 
+      <lb/>Her complexion brightened, and her eye in-
+        <lb break="no"/>quisitively turned towards him. “The pa-
+        <lb break="no"/>rade of public marriage” he continued, 
+        <lb/>“neither adds strength or energy to the 
+      <lb/>obligation; for, form is the superfluous off-
+      <lb break="no"/>spring of fashion, not the result of reason. 
+      <lb/>The poor peasant whose nuptial contract is 
+      <lb/>only witnessed by the hallowed minister 
+      <lb/>that pronounces it, is as blest as the prince 
+      <lb/>who weds in all the ostentation of a court, 
+      <lb/>and furnishes an additional festival to a gid-
+        <lb break="no"/>dy nation. My <persName>Amelia</persName> has surely no vani-
+      <lb break="no"/>ty to gratify with idle pageantry; and as the 
+      <lb/>privacy of the marriage does not take from 
+      <lb/>its sanctity, I will venture to propose—nay, 
+      <lb/>look not with severity—at the neighbouring 
+      <lb/>farm we may be met by the chaplain of my 
+      <lb/>regiment, and love and honour shall record a 
+      <lb/>union, which prudence fetters with a tem-
+        <lb break="no"/>porary secrecy.”</p>
+     <p>
+    Hope, fear, the sense of decorum, and the 
+    <lb/>incitements of a passion pure, but fervent, 
+        <lb/>completed the painful perturbation of <persName>Ame-
+      <lb break="no"/>lia's</persName> heart, and, in this critical moment of 
+      <lb/>her fate, deprived her of speech and recol-
+      <lb break="no"/>lection.</p>
+     <p>
+    An anxious interval of silence took place; 
+    <lb/>but when, at length, the power of expression 
+        <lb/>returned, <persName>Amelia</persName> urged the duty which she 
+      <lb/>owed to a parent, the scandal which the 
+      <lb/>world imputed to clandestine marriages, and 
+      <lb/>the fatal consequences that might arise from 
+        <lb/>the obscurity of the transaction. But <persName>Dolis-
+      <lb break="no"/>cus</persName>, steady to his purpose, again deprecated 
+      <lb/>the folly of pursuing the shadow in prefe-
+      <lb break="no"/>rence to the substance, of preserving fame at 
+      <lb/>the expence of happiness, and of relinquish-
+      <lb break="no"/>ing the blessings of connubial life, for the 
+        <lb/>sake of its formalities. He spoke of <persName>Hora-
+      <lb break="no"/>tio's</persName> inflexible integrity, which could not 
+      <lb/>brook even the appearance of deception, 
+      <pb/>
+      <lb/>and of his punctilious honor, which could not 
+      <lb/>submit even to the appearance of intrusion 
+      <lb/>upon the domestic arrangements of another, 
+      <lb/>as insurmountable arguments for denying 
+      <lb/>him the knowledge of their union. Finally, 
+      <lb/>he described, in the warmest colouring of 
+        <lb/>passion and fancy, the effects of <persName>Amelia's</persName> re-
+      <lb break="no"/>fusal upon the future tenor of his life, and 
+      <lb/>bathing her hand with his obedient tears, 
+      <lb/>practised all the arts of flattery and frenzy. 
+      <lb/>The influence of love supercedes every other 
+        <lb/>obligation: <persName>Amelia</persName> acknowledged its do-
+      <lb break="no"/>minion, and yielded to the persuasion of the 
+      <lb/>exulting Doliscus. The marriage ceremony 
+      <lb/>was privately repeated:—but how will it 
+      <lb/>excite the indignation of the virtuous rea-
+      <lb break="no"/>der when he understands, that the sacred 
+      <lb/>character of the priest was personated by a 
+        <lb/>soldier whom <persName>Doliscus</persName> had suborned for 
+      <lb/>this iniquitous occasion! Ye spirits of seduc-
+      <lb break="no"/>tion! whose means are the prostitution of 
+      <lb/>faith, and whose end is the destruction of 
+      <lb/>innocence,—tremble at impending judg-
+        <lb break="no"/>ment, for “there is no mercy in heaven for 
+        <lb/>such unheard of crimes as these!”</p>
+     <p>
+    But a short time had elapsed after this fa-
+    <lb break="no"/>tal step, when the mandate of the comman-
+        <lb break="no"/>ding officer obliged <persName>Doliscus</persName> to prepare for 
+      <lb/>joining his corps. A silent, but pungent 
+      <lb/>sense of indiscretion, added to the anguish 
+        <lb/>which <persName>Amelia</persName> felt in the hour of separa-
+      <lb break="no"/>tion; and not all his strong assurances of in-
+      <lb break="no"/>violable truth and attachment, with the 
+      <lb/>soothing prospect of an honorable avowal of 
+      <lb/>their union could efface the melancholy im-
+      <lb break="no"/>pressions of her mind. The farmer, at 
+      <lb/>whose house the fictitious marriage had been 
+      <lb/>rehearsed, was employed to manage their 
+        <lb/>future correspondence; and <persName>Doliscus</persName>, final-
+      <lb break="no"/>ly, left the cottage with vows of love and 
+      <lb/>gratitude at his lips; but schemes of fraud 
+      <lb/>and perjury in his heart. The small dis-
+      <lb break="no"/>tance from <placeName>New-York</placeName>, where he was quar-
+      <lb break="no"/>tered, rendered it easy to maintain an epis-
+      <lb break="no"/>tolary intercourse; which became, during 
+      <lb/>its continuance, the only employment, and 
+        <lb/>the only gratification of <persName>Amelia's</persName> existence. 
+      <lb/>Its continuance, however, exceeded not a 
+        <lb/>few weeks. <persName>Doliscus</persName> soon assumed a for-
+      <lb break="no"/>mal and dispassionate style, the number of 
+      <lb/>his letters gradually diminished, and every 
+      <lb/>allusion to that marriage, which was the last 
+        <lb/>hope and consolation of <persName>Amelia</persName>, he cautious-
+      <lb break="no"/>ly avoided.</p>
+     <p>
+    But an event, that demanded the exercise 
+    <lb/>of all her fortitude, now forced itself upon 
+        <lb/><persName>Amelia's</persName> thoughts. She was pregnant; yet 
+      <lb/>could neither resort for council and com-
+      <lb break="no"/>fort to the father whom she had deceived, 
+      <lb/>or obtain it from the lover by whom she had 
+      <lb/>been seduced. In the tenderest and most 
+      <lb/>delicate terms she communicated her situa-
+      <cb/>
+        <lb break="no"/>tion to <persName>Doliscus</persName>, emphatically called upon 
+      <lb/>him to rescue her reputation from <seg xml:id="a010" corresp="#n010">obloquy,</seg><note xml:id="n010" corresp="#a010"><term style="font-style: italic">Obloquy</term>: slander.</note>
+      <lb/>and solicitously courted his return to the cot-
+      <lb break="no"/>tage, or, at least, that he would disclose to 
+      <lb/>Horatio the secret of their union. To pre-
+      <lb break="no"/>vent any accident, the farmer was prevailed 
+      <lb/>upon to be the bearer of the paper which 
+      <lb/>contained these sentiments, and, on his re-
+      <lb break="no"/>turn produced the following epistle.</p>
+     <floatingText>
+      <body>
+         <opener>“<salute>MADAM,</salute></opener>
+         <p>“THE sudden death of my father will oc-
+         <lb break="no"/>casion my embarking for England to-mor-
+         <lb break="no"/>row. It is not therefore possible to visit the 
+         <lb/>cottage before my departure; but you may 
+         <lb/>be assured, that I still entertain the warmest 
+         <lb/>gratitude for the favours which were there 
+           <lb/>conferred upon me by the virtuous <persName>Horatio</persName>, 
+         <lb/>and his amiable daughter.</p>
+        <p>
+           “Although I do not perfectly comprehend 
+         <lb/>the meaning of some expressions you have 
+         <lb/>employed, I perceive that you stand in need 
+         <lb/>of a confidential person, to whom you may 
+         <lb/>reveal the consequence of an indiscreet at-
+         <lb break="no"/>tachment; and from my knowledge of his 
+         <lb/>probity (of which you are likewise a judge) 
+         <lb/>no man seems more conveniently situated, 
+         <lb/>or better calculated for that office than the 
+         <lb/>worthy farmer who has delivered your let-
+         <lb break="no"/>ter. To him, therefore, I have recommen-
+         <lb break="no"/>ded you; and, lest any <seg xml:id="a011" corresp="#n011">pecuniary</seg><note xml:id="n011" corresp="#a011"><term style="font-style: italic">Pecuniary</term>: financial or monetary.</note> assistance 
+         <lb break="no"/>should be necessary on this occasion, I have 
+         <lb/>entrusted him with a temporary supply, di-
+         <lb break="no"/>recting him in what manner he may, from 
+         <lb/>time to time, obtain a sum adequate to your 
+         <lb/>exigencies.</p>
+        <p>
+           “The hurry of <seg xml:id="a012" corresp="#n012">package</seg><note xml:id="n012" corresp="#a012"><term style="font-style: italic">Package</term>: packing in preparation for departure.</note> and adieus com-
+         <lb break="no"/>pels me abruptly to subscribe myself,</p>
+         <closer>“Your most devoted, humble servant,
+            <lb/><signed>“<persName>DOLISCUS</persName>.”</signed>”</closer>
+      </body>
+     </floatingText>
+    <p>
+       “Gracious God!” exclaimed <persName>Amelia</persName>, and 
+    <lb/>fell senseless to the ground. For a while, a 
+      <lb/>convulsive motion shook her frame, but 
+      <lb/>gradually subsiding, the flame of life seemed 
+      <lb/>to be extinct, and all her terrors at an end. 
+      <lb/>The poor farmer, petrified with horror and 
+      <lb/>amazement, stood gazing on the scene: 
+       <lb/>but the exertions of his <seg xml:id="a013" corresp="#n013">homely</seg><note xml:id="n013" corresp="#a013"><term style="font-style: italic">Homely</term>: unpretentious, from a humble background.</note> spouse, at length,
+       <lb/>restored <persName>AmeliaM</persName> to existence and despair.</p>
+     <p>
+    It has often been observed that despon-
+    <lb break="no"/>dency begets boldness and enterprize; and 
+      <lb/>the female heart, which is susceptible of the 
+      <lb/>gentlest sentiment, is, likewise, capable of 
+        <lb/>the noblest fortitude. <persName>Amelia</persName> perceived all 
+      <lb/>the baseness of the desertion meditated by 
+        <lb/><persName>Doliscus</persName>, she foresaw all its ruinous conse-
+        <lb break="no"/>quences upon <persName>Horatio's</persName> peace, her own 
+      <lb/>character, and the fate of the innocent 
+      <lb/>being which she bore, and, wiping the 
+      <lb/>useless tears from her cheek, she resolved 
+      <lb/>publicly to vindicate her honor, and assert 
+      <lb/>her rights. Animated then, with the im-
+      <pb/>
+      <lb break="no"/>portant purpose, supported by the presump-
+      <lb break="no"/>tion of her marriage, and hoping yet to find 
+        <lb/><persName>Doliscus</persName> in <placeName>New-York</placeName>, she immediately re-
+      <lb break="no"/>paired to that city—but, alas! he was gone!
+      <lb/>This disappointment, however, did not de-
+      <lb break="no"/>feat, nor could any obstacle retard the pro-
+      <lb break="no"/>secution of her design: a ship that sailed the 
+      <lb/>succeeding day wafted her to <placeName>Britain</placeName>, friend-
+      <lb break="no"/>less and forlorn.</p>
+     <p>
+    Innumerable difficulties and inconvenien-
+    <lb break="no"/>ces were encountered by the inexperienced 
+      <lb/>traveller, but they vanished before the object 
+      <lb/>of her pursuit; and even her entrance into 
+      <lb/><placeName>London</placeName>, that chaos of clamour and dissipa-
+      <lb break="no"/>tion, produced no other sensations than 
+      <lb/>those which naturally arose from her ap-
+        <lb break="no"/>proach to the dwelling of <persName>Doliscus</persName>.</p>
+     <p>
+        <persName>Amelia</persName> recollected that <persName>Doliscus</persName> had often 
+    <lb break="no"/>described the family residence to be situated 
+      <lb/>to Grosvenor-place, and the stage, in which 
+      <lb/>she journeyed, stopping in the evening, at a 
+        <lb/>public house in <seg xml:id="a014" corresp="#n014">Picadilly</seg><note xml:id="n014" corresp="#a014"><term style="font-style: italic">Grosvenor-place</term> is a street in <placeName>London</placeName> that runs adjacent to the grounds of <placeName>Buckingham Place</placeName> (the <placeName>London</placeName> home of the British Royal family); <persName>Doliscus's</persName> family residence there signals his great wealth. <term style="font-style: italic">Piccadilly</term> was a fashionable residential district northwest of <placeName>Buckingham Palace</placeName> and its grounds, and also likely the nearest commercial district to the palace.</note>, she determined, 
+      <lb/>without delay, to pay him her unexpected 
+      <lb/>and unwelcome visit. The embarrassed and 
+      <lb/>anxious manner with which she enquired for 
+      <lb/>his house, exposed her to unjust surmise and 
+      <lb/>senseless ribaldry; but her grief rendered 
+      <lb/>her incapable of observation, and her purity 
+      <lb/>was superior to insult.</p>
+     <p>
+        <persName>Doliscus</persName> had arrived about a fortnight ear-
+        <lb break="no"/>lier than <persName>Amelia</persName>. The title, influence, and 
+      <lb/>fortune which devolved upon him in conse-
+      <lb break="no"/>quence of his father's death, had swelled his 
+      <lb/>youthful vanity to excess, and supplied him 
+      <lb/>with a numerous retinue of flatterers and de-
+      <lb break="no"/>pendants. At the moment that he was lis-
+      <lb break="no"/>tening in extasy to that servile crew, the vic-
+      <lb break="no"/>tim of his arts, the deluded daughter of the
+      <lb/>man to whom he was indebted for the pre-
+      <lb break="no"/>servation of his life, stood trembling at his
+      <lb/>door. A gentle rap, after an awful pause of 
+      <lb/>some minutes, procured her admission. Her 
+      <lb/>memory recognized the features of the ser-
+      <lb break="no"/>vant that opened the door; but it was not 
+      <lb/>the valet who had attended Doliscus at the 
+      <lb/>cottage—she remembered not where or 
+      <lb/>when she had seen him.</p>
+     <p>
+    After considerable solicitation the porter 
+        <lb/>consented to call <persName>Doliscus</persName> from his compa-
+        <lb break="no"/>ny, and conducted <persName>Amelia</persName> into an anti-
+      <lb break="no"/>chamber to wait his arrival. A roar of 
+      <lb/>laughter succeeded the delivery of her mes-
+      <lb break="no"/>sage, and the word <emph style="font-style: italic">assignation</emph>, which was 
+      <lb/>repeated on all sides, seemed to renovate 
+      <lb/>the wit and hilarity of the table. The gay 
+      <lb/>and gallant host, inflamed with Champagne, 
+      <lb/>was not displeased at the imputation, but 
+      <lb/>observed that as a lady was in the case, it 
+      <lb/>was unnecessary to apologize for a short de-
+      <lb break="no"/>sertion of his friends and wine.</p>
+     <p>
+        At the sight of that lady, however, <persName>Dolis-
+           <lb break="no"/>cus</persName> started. <persName>Amelia's</persName> countenance was pale 
+      <cb/>
+      <lb/>and haggard with fatigue and sorrow, her 
+      <lb/>person was oppressed with the burthen 
+      <lb/>which she now bore in its last stage, and her 
+      <lb/>eye, fixed steadfastly upon him, as he en-
+      <lb break="no"/>tered the room, bespoke the complicated 
+      <lb/>anguish and indignation of her feelings. 
+      <lb/>Her aspect so changed, and her appearance 
+      <lb/>so unexpected, added to the terrors of a 
+      <lb/>guilty conscience, and, for a moment, Do-
+      <lb break="no"/>liscus thought the visitation supernatural. But 
+        <lb/><persName>Amelia's</persName> wrongs having inspired her with 
+      <lb/>courage, she boldly reproached him with 
+      <lb/>his baseness and perfidy, and demanded a 
+      <lb/>public and unequivocal acknowledgement 
+      <lb/>of their marriage. In vain he endeavoured 
+      <lb/>to sooth and divert her from her purpose, 
+      <lb/>in vain to persuade her to silence and delay,
+      <lb/>—his arts had lost their wonted influence, 
+      <lb/>while the restoration of her injured fame and 
+      <lb/>honor absorbed every faculty of her mind.</p>
+     <p>
+      At length he assumed a different tone, a 
+        <lb/>more authoritative manner. “Madam,” 
+        <lb/>exclaimed he, “I am not to be thus duped 
+      <lb/>or controuled. I have a sense of pity, in-
+      <lb break="no"/>deed, for your indiscretion, but none for 
+      <lb/>your passion: I would alleviate your afflic-
+        <lb break="no"/>tions, but I will not submit to your frenzy.” 
+        <lb/>“Wretch!” retorted <persName>Amelia</persName>, “but that I 
+      <lb/>owe something to a father's peace, I should 
+        <lb/>despise to call thee husband.”— “<emph style="font-style: italic">Husband</emph>” 
+        <lb/>cried <persName>Doliscus</persName>, with a sneer, “Husband! 
+      <lb/>why truly, I remember a rural masquerade, 
+      <lb/>at which an honest soldier, now my humble 
+      <lb/>porter, played the parson, and you the 
+      <lb/>blushing bride—but, pr'ythee, do not talk 
+        <lb/>of husband.”—</p>
+     <p>
+    This discovery only	was wanting	for the
+    <lb/>consummation of Amelia's misery. It was 
+      <lb/>sudden and fatal as the lightning's blast—she 
+      <lb/>sunk beneath the stroke. A deadly stupor 
+      <lb/>seized upon her senses, which was some-
+      <lb break="no"/>times interrupted with a boisterous laugh, 
+      <lb/>and sometimes with a nervous ejaculation.</p>
+     <p>
+        <persName>Doliscus</persName>, unaffected by compassion or re-
+    <lb break="no"/>morse, was solicitous only to employ this 
+        <lb/>opportunity for <persName>Amelia's</persName> removal, and hav-
+      <lb break="no"/>ing conveyed her into a coach, a servant 
+      <lb/>was directed to procure lodgings for her, in 
+      <lb/>some obscure quarter of the city. She spoke 
+      <lb/>not a word during the transaction, but gaz-
+      <lb break="no"/>ing with apparent indifference upon the ob-
+      <lb break="no"/>jects that surrounded her, she submitted to 
+      <lb/>be transported whither soever they pleased 
+      <lb/>to conduct her. After winding through a 
+      <lb/>drear and dirty passage in the neigh-
+        <lb break="no"/>bourhood of <seg xml:id="a015" corresp="#n015"><placeName>St. Giles's</placeName>,</seg><note xml:id="n015" corresp="#a015"><term style="font-style: italic"><placeName>St. Giles</placeName></term> is a <placeName>London</placeName> neighborhood which in the late eighteenth century was one of the city's worst slums. Home to poor immigrants and the city's under-classes, the area was known for its overcrowding and squalid living conditions.</note> the carriage stopped 
+      <lb/>at a hovel which belonged to a relation of
+      <lb/>the servant that accompanied her, and, he 
+      <lb/>having communicated in a short whisper the 
+      <lb/>object of his visit, an old and decrepid <seg xml:id="a016" corresp="#n016">bel-
+         <lb break="no"/>dame</seg><note xml:id="n016" corresp="#a016"><term style="font-style: italic">Beldame</term>: an aged woman, a matron of advanced years.</note> led <persName>Amelia</persName> into a damp and narrow 
+      <lb/>room, whose scant and tattered furniture 
+      <pb/>
+      <lb/>proved the wretchedness of its inhabi-
+      <lb break="no"/>tants.</p>
+     <p>
+    A premature birth was the natural conse-
+    <lb break="no"/>quence of the conflict which had raged in 
+        <lb/><persName>Amelia's</persName> mind. She had entered the apart-
+      <lb break="no"/>ment but a few moments, when the ap-
+      <lb break="no"/>proach of that event gave a turn to her pas-
+      <lb break="no"/>sions, and called her drooping faculties once 
+      <lb/>more into action. Without comfort, with-
+      <lb break="no"/>out assistance, in the hour of extreme dis-
+      <lb break="no"/>tress (save the officious services of her anti-
+      <lb break="no"/>quated host) she was delivered of a son; but 
+      <lb/>the fond sensibility of the mother obtained 
+      <lb/>an instantaneous superiority over every other 
+      <lb/>consideration. Though, alas! this solitary gra-
+      <lb break="no"/>tification too, continued not long;—her in-
+      <lb break="no"/>fant expired after a languid existence of three 
+      <lb/>days, serving only to encrease the bitterness 
+        <lb/>of <persName>Amelia's</persName> portion.</p>
+     <p>
+        <persName>Amelia</persName> cast her eye towards heaven as the 
+    <lb/>breath deserted the body of her babe:—it 
+      <lb/>was not a look of supplication, for what had 
+      <lb/>she to hope, or what to dread?— neither 
+      <lb/>did it indicate dissatisfaction or reproach, 
+      <lb/>for she had early learned the duty of reve-
+      <lb break="no"/>rence and resignation—but it was an awful 
+      <lb/>appeal to the throne of grace, for the vindi-
+      <lb break="no"/>cation of the act by which she had resolved 
+      <lb/>to terminate her woes. A phial of lauda-
+      <lb break="no"/>num, left by a charitable apothecary, who 
+      <lb/>had visited her in her sickness, presented the 
+      <lb/>means, and she wanted not the fortitude to 
+      <lb/>employ them. Deliberately, then, pouring 
+      <lb/>the baneful draught into a glass, she looked 
+      <cb/>
+      <lb/>wistfully for a while upon the infant corpse 
+      <lb/>that lay extended on its bed, then bending 
+      <lb/>on her knee, uttered, in a firm and solemn 
+      <lb/>voice the melancholy effusions of her soul.
+        <lb/>—“Gracious Father! when thy justice 
+      <lb/>shall pronounce upon the deed which ex-
+      <lb break="no"/>tricates me from the calamities of the world, 
+      <lb/>let thy mercy contemplate the cause that 
+      <lb/>urged me to the perpetration. I have been 
+      <lb/>deluded into error; but am free from guilt: 
+      <lb/>I have been solicitous to preserve my inno-
+      <lb break="no"/>cence and honour; but am exposed to infa-
+      <lb break="no"/>my and shame. The treachery of him to 
+      <lb/>whom I entrusted my fate, has reduced 
+      <lb/>me to despair—the declining day of 
+      <lb/>him from whom I received my being, has 
+      <lb/>been clouded with my indiscretions, and 
+      <lb/>there is no cure left for the sorrows that con-
+      <lb break="no"/>sume me, but the dark and silent grave. Vi-
+      <lb break="no"/>sit me not then, in thy wrath, oh! Father, 
+      <lb/>but let the excess of my sufferings in this 
+      <lb/>world, expiate the crime which wafts me 
+      <lb/>into the world to come—may thy mercy 
+      <lb/>yield comfort to Horatio's heart, and teach 
+        <lb/>Doliscus the virtue of repentance!”</p>
+     <p>
+    She rose and lifted the glass. At that in-
+    <lb break="no"/>stant, a noise on the stairs attracted her at-
+      <lb break="no"/>tention, and a voice anxiously pronouncing
+        <lb/>—“It must be so!—nay, I will see her--” 
+      <lb/>arrested the dreadful potion in its passage to 
+        <lb/>her lips. “It is my <persName>Amelia</persName>!” exclaimed 
+        <lb/><persName>Horatio</persName>, as he hastily entered the <seg xml:id="a017" corresp="#n017">room.</seg><note xml:id="n017" corresp="#a017">This is the point at which the first installment of <bibl style="font­-style: italic">Amelia</bibl> in the <bibl style="font­-style: italic">Columbia Magazine</bibl> breaks off, before resuming two months later in <date when="1787-12">December of 1787</date>.</note></p>
+     <pb/>
+     <p>
+        <persName>Amelia</persName> started, and looked for some 
+      <lb/>moments intently on her father, then 
+      <lb/>rushed into his arms, and anxiously con-
+      <lb break="no"/>cealed the shame and agony of her coun-
+      <lb break="no"/>tenance, in that bosom, from which alone 
+      <lb/>she now dreaded a reproach, or hoped for 
+      <lb/>consolation. He, too, beheld with hor-
+      <lb break="no"/>ror the scene that was presented to his view: 
+      <lb/>he pressed his deluded, miserable daughter, 
+      <lb/>to his heart, while a stream of tears ran
+      <lb/>freely down his cheeks; till, at length, his 
+      <lb/>imagination, infected with the objects that 
+      <lb/>surrounded him, conceived the dreadful 
+      <lb/>purpose of the draught, which had fallen 
+      <lb/>from Amelia's hand, and anticipated a sor-
+      <lb break="no"/>row, even beyond the extremity of his pre-
+      <lb break="no"/>sent feelings. When, however, he collected 
+      <lb/>sufficient courage to resolve his fears, and it 
+      <cb/>
+      <lb/>was ascertained, that the meditated act 
+      <lb/>had not been perpetrated, a momentary sensa-
+      <lb break="no"/>tion of joy illuminated his mind, like the 
+      <lb/>transient appearance of the moon, amidst 
+      <lb/>the gloomy horrors of a midnight storm.</p>
+     <p>
+    When the first impressions of this mourn-
+        <lb break="no"/>ful interview had passed away, <persName>Horatio</persName>
+        <lb/>spoke comfort to his daughter. “Come, 
+      <lb/>my child, the hand of Heaven, that afflicted 
+      <lb/>us with worldly cares, has been stretched 
+      <lb/>out to guard you from everlasting wretch-
+      <lb break="no"/>edness:—that Providence which proves how 
+      <lb/>vain are the pursuits of this life, has be-
+      <lb break="no"/>stowed upon us the means of seeking the 
+      <lb/>permanent happiness of that which is to 
+        <lb/>come. Chear up, my <persName>Amelia</persName>! The errors 
+      <lb/>of our conduct may expose us to the scan-
+      <lb break="no"/>dal of the world, but it is guilt alone which 
+      <pb/>
+      <lb/>can violate the inward tranquility of the 
+        <lb/>mind.” He then took her hand, and at-
+        <lb break="no"/>tempted to lead her to the door. “Let us 
+      <lb/>withdraw from this melancholy scene, my 
+        <lb/>love!”—“Look there!” said <persName>Amelia</persName>, point-
+        <lb break="no"/>ing to the corpse,-- “look there!” “Ah!” 
+        <lb/>said <persName>Horatio</persName>, in a faultering accent, “but it 
+        <lb/>is the will of Heaven!” “Then it is right,” 
+        <lb/>cried Amelia—“give the poor victim a lit-
+      <lb break="no"/>tle earth—sir! is it not sad to think of?
+        <lb/>—and I am satisfied.” She now consented 
+      <lb/>to quit the room, and was conveyed in a 
+        <lb/>carriage to the inn, at which <persName>Horatio</persName> (who 
+      <lb/>immediately returned to superintend the in-
+      <lb break="no"/>terment of the child) had stopped on his 
+      <lb/>arrival.</p>
+     <p>
+    It is now proper to inform the reader, 
+        <lb/>that after <persName>Amelia</persName> had left the Cottage, and 
+      <lb/>the alarm of her elopement had spread 
+      <lb/>around the neighbourhood, the Farmer 
+        <lb/>hastened to communicate to <persName>Horatio</persName> the 
+      <lb/>transactions which he had witnessed, and 
+      <lb/>the suspicions which his wife had conceived 
+        <lb/>of <persName>Amelia's</persName> situation. The wretched father 
+      <lb/>sickened at the tale. But it was the senti-
+      <lb break="no"/>ment of compassion, and not of resentment, 
+      <lb/>that oppressed his soul. There are men, in-
+      <lb break="no"/>deed, so abject in their subjection to the 
+      <lb/>opinion of the world, that they can sacri-
+      <lb break="no"/>fice natural affection to artificial pride, and 
+      <lb/>doom to perpetual infamy and wretched-
+      <lb break="no"/>ness, a child, who might be reclaimed from 
+      <lb/>error by parental admonition, or raised from 
+      <lb/>despair by the fostering hand of friendship. 
+        <lb/><persName>Horatio</persName>, however, entertained a different 
+      <lb/>sense: he regarded not the weakness of hu-
+      <lb break="no"/>man virtue as an object of accusation, but 
+      <lb/>liberally distinguished between the crimes 
+      <lb/>and the errors of mankind; and, when he 
+      <lb/>could not alleviate the afflicted, or correct 
+      <lb/>the vicious, he continued to lament, but he 
+        <lb/>forebore to reprobate. “My poor <persName>Amelia</persName>! 
+      <lb/>How basely has her innocence been be-
+      <lb break="no"/>trayed!—But I must follow her:—may be, 
+      <lb/>her injuries have distracted her, and she has 
+      <lb/>fled, she knows not whither! Come! Not 
+      <lb/>a moment shall be lost: I will overtake my 
+      <lb/>child, wherever her sorrows may lead her; 
+      <lb/>for, if I cannot procure redress for her 
+      <lb/>wrongs, I will, at least, administer comfort 
+        <lb/>to her miseries.” Such was the language of 
+      <lb/>Horatio, as soon as he could exercise the 
+      <lb/>power of utterance. A few days enabled 
+      <lb/>him to arrange his affairs, and having learn-
+        <lb break="no"/>ed the route which <persName>Amelia</persName> had taken, he 
+      <lb/>embarked in the first vessel for <placeName>England</placeName>.
+      <lb/>The peculiar object of his voyage, and the 
+      <lb/>nature of his misfortunes, determined him 
+      <lb/>to conceal himself from the knowledge of
+      <lb/>his friends and correspondents; and a lucky
+      <lb/>chance discovered the wretched abode of 
+        <lb/>his <persName>Amelia</persName>, the very instant of his arrival 
+      <lb/>in <placeName>London</placeName>.</p>
+     <cb/>
+     <p>
+        “Can you tell me, my good host, where 
+        <lb/><persName>Doliscus</persName>, the lord —, resides?” said <persName>Ho-
+           <lb break="no"/>ratio</persName> as he entered the inn. “Marry, that I 
+        <lb/>can,” replied the landlord: “his porter 
+      <lb/>is just now talking with my wife; and if 
+      <lb/>you will step into the next room, perhaps he 
+        <lb/>will shew you the way to the house.” Ho-
+      <lb break="no"/>ratio advanced towards the room door, and, 
+      <lb/>upon looking through a glass pannel in the 
+      <lb/>door, he beheld the identical servant that 
+        <lb/>had attended <persName>Doliscus</persName> at the Cottage, in 
+      <lb/>eager conversation with the hostess. He 
+        <lb/>paused. “She is delivered; but the child 
+        <lb/>is dead:” —said the servant. <persName>Horatio</persName> 
+      <lb/>started; his imagination eagerly interpreted 
+        <lb/>these words to have been spoken of <persName>Amelia</persName>, 
+      <lb/>and he could scarcely restrain the anguish of 
+      <lb/>his feelings from loud exclamation and com-
+        <lb break="no"/>plaint.—“My lord's conscience grows un-
+        <lb break="no"/>usually troublesome” continued the servant; 
+        <lb/>“he has ordered me again to enquire after 
+      <lb/>her health, and to provide for the funeral 
+      <lb/>of the child--Would she were safe in <placeName>Ame-
+        <lb break="no"/>rica</placeName>! for, to be sure, her father is the best 
+        <lb/>old man that ever lived!” “It is well!” 
+        <lb/>cried <persName>Horatio</persName>. “Did you call sir?” said 
+      <lb/>the hostess, opening the door. The ser-
+      <lb break="no"/>vant took this opportunity of withdrawing, 
+        <lb/>and <persName>Horatio</persName> silently followed him, at a dis-
+      <lb break="no"/>tance, till he arrived at the habitation of 
+        <lb/><persName>Amelia</persName>, in the critical moment which en-
+      <lb break="no"/>abled him to save the life he had given, and to 
+      <lb/>rescue his deluded daughter from the des-
+      <lb break="no"/>perate sin of suicide.</p>
+     <p>
+        When <persName>Horatio</persName> returned to the inn, after 
+    <lb/>discharging the last solemn duties to the de-
+      <lb break="no"/>parted infant, the landlord presented a let-
+      <lb break="no"/>ter to him, which a servant had just left at 
+      <lb/>the bar, and asked if he was the person to 
+      <lb/>whom it was addressed. As soon as Ho-
+      <lb break="no"/>ratio had cast eye upon the superscription, 
+        <lb/>he exclaimed, “What mistery is this?—
+        <lb/>A letter left for my son <persName>Honorius</persName> at an inn 
+        <lb/>in <placeName>London</placeName>.” He eagerly seized the paper, 
+      <lb/>and retiring into an adjoining chamber, he 
+      <lb/>perused its contents with increased amaze-
+      <lb break="no"/>ment and agitation.</p>
+    
+     <floatingText>
+      <body>
+         <opener>“<salute>SIR,</salute></opener>
+         <p>“I AM sensible that the injuries of 
+         <lb/>which you complain, will neither admit of 
+         <lb/>denial or expiation. Your note was de-
+         <lb break="no"/>livered; a few minutes after, some circum-
+         <lb break="no"/>stances had been communicated to me re-
+         <lb break="no"/>specting the unhappy Amelia, that awakened 
+         <lb/>a sentiment of remorse, and prepared me 
+         <lb/>for a ready compliance with your summons. 
+         <lb/>To-morrow morning, at five o'clock, I 
+         <lb/>shall attend at the place which you have 
+         <lb/>appointed.</p>
+         <closer><signed><persName>DOLISCUS</persName></signed>.”</closer>
+      </body>
+     </floatingText>
+     
+     <p>
+        The voice of <persName>Honorius</persName>, enquiring for the 
+        <lb/>letter, roused <persName>Horatio</persName> from the reverie into 
+      <pb/>
+      <lb/>which its contents had plunged him. The 
+      <lb/>honor, of his son, the villainy of his anta-
+        <lb break="no"/>gonist and <persName>Amelia's</persName> sufferings, contending 
+      <lb break="no"/>with the feelings of the father, and the fo-
+      <lb break="no"/>rbearance of the christian, at last prevailed 
+      <lb/>with him to suffer the hostile interview to 
+        <lb/>which <persName>Doliscus</persName> had thus consented. When 
+        <lb/>therefore, <persName>Honorius</persName> entered the room, and 
+      <lb/>the natural expressions of tenderness and 
+      <lb/>surprize were mutually exchanged, they 
+      <lb/>freely discoursed of the lamentable history 
+        <lb/>of <persName>Amelia</persName>, and warmly execrated that treach-
+      <lb break="no"/>ery which had accomplished the ruin of her 
+        <lb/>peace and fame. Nor had <persName>Doliscus</persName> con-
+      <lb break="no"/>fined his baseness to this object. The chance 
+        <lb/>of war had thrown <persName>Honorius</persName> into his power 
+      <lb/>shortly after his departure from the cottage, 
+        <lb/>and discovering his affinity to <persName>Amelia</persName>, the 
+      <lb/>persevering hypocrite artfully insinuated to 
+        <lb/>the commander in chief, that <persName>Honorious</persName> me-
+      <lb break="no"/>ditated an escape, and obtained an order 
+      <lb/>for his imprisonment on board a frigate, 
+      <lb/>which sailing suddenly for <placeName>England</placeName>, he was 
+      <lb/>lodged upon his arrival, in the common 
+      <lb/>gaol, appropriated for the confinement of 
+      <lb/>American prisoners. Here it was, howe-
+      <lb break="no"/>ver, that he acquired the information of 
+        <lb/><persName>Amelia's</persName> elopement, and heard the cause to 
+      <lb/>which it was imputed from the captured 
+      <lb/>master of an American vessel, who had for-
+        <lb break="no"/>merly been employed in the service of <persName>Ho-
+      <lb break="no"/>ratio</persName>, and had received the communication 
+      <lb/>from the lips of his ancient patron, in the 
+      <lb/>first moments of his grief. The fate which 
+      <lb/>had unexpectedly led him to <placeName>Britain</placeName>, Ho-
+        <lb break="no"/>norious now regarded <seg xml:id="a018" corresp="#n018">as the minister</seg><note xml:id="n018" corresp="#a018"><term style="font-style: italic">as the minister</term>: as the agent.</note> of his 
+      <lb/>revenge. He frowned away the tear which 
+      <lb/>started at the recital of his sister's wrongs, 
+      <lb/>as if ashamed to pity 'till he had redressed
+      <lb/>them; and feeling, upon this occasion, an 
+      <lb/>additional motive for soliciting his freedom, 
+        <lb/>he employed the interest of <persName>Horatio's</persName> name, 
+      <lb/>which notwithstanding the political feuds 
+      <lb/>that prevailed, was sufficient, at length, to 
+      <lb/>procure his discharge upon parol. Having 
+        <lb/>easily learned the abode of <persName>Doliscus</persName>, he 
+      <lb/>immediately addressed that note to him 
+      <lb/>which produced the answer delivered to
+        <lb/><persName>Horatio</persName>.</p>
+     <p>
+        When <persName>Honorius</persName> was informed that <persName>Ame-
+    <lb break="no"/>lia</persName> was, at that time, beneath the fame roof, 
+      <lb/>he expressed an eager desire immediately to 
+      <lb/>embrace his afflicted sister; but Horatio 
+      <lb/>strongly represented the impropriety of an 
+      <lb/>interview 'till the event of the assignation 
+        <lb/>with <persName>Doliscus</persName> was ascertained, and it was, 
+      <lb/>therefore, agreed for the present, to con-
+      <lb break="no"/>ceal his arrival from her knowledge.</p>
+     <p>
+      Absorbed in the melancholy of her 
+        <lb/>thoughts, <persName>Amelia</persName> had not uttered a syllable 
+      <lb/>since the removal from her dreary habita-
+      <lb/>tion, but suffered the busy attentions of the
+      <cb/>
+      <lb/>servants of the inn, with a listless indiffer-
+      <lb break="no"/>ence. The agitation of her mind, indeed, 
+      <lb/>had hitherto rendered her insensible to the 
+      <lb/>weakness of her frame; but exhausted nature, 
+      <lb/>at length produced the symptoms of an ap-
+      <lb break="no"/>proaching fever, and compelled her, re-
+        <lb break="no"/>luctantly, to retire to her bed. When <persName>Ho-
+      <lb break="no"/>ratio</persName> entered the room, the fever had con-
+      <lb break="no"/>siderably increased, he therefore requested 
+      <lb/>the assistance of a neighbouring physician, 
+      <lb/>who pronounced her situation to be criti-
+      <lb break="no"/>cally dangerous. In the evening, the un-
+      <lb break="no"/>usual vivacity of her eyes, the incoherence 
+      <lb/>of her speech, and repeated peals of loud 
+      <lb/>and vacant laughter, proved the disordered 
+      <lb/>state of her understanding, and increased 
+        <lb/>the apprehensions of her attendants. “A 
+        <lb/>few hours will decide her fate,” said the 
+        <lb/>Doctor, as he left the room. “My poor 
+        <lb/><persName>Amelia</persName>!” cried <persName>Horatio</persName>, raising her hand 
+      <lb/>to his lips—she looked sternly at him for 
+      <lb/>a moment, then relaxing the severity of her 
+      <lb/>features, she again burst into a boisterous 
+      <lb/>laugh, which terminated in a long and heavy 
+      <lb/>sigh, as if her spirits were exhausted with 
+      <lb/>the violence of her exertions.</p>
+     <p>
+        The task which <persName>Horatio</persName> had now to per-
+    <lb break="no"/>form was difficult indeed! The virtue and 
+      <lb/>fortitude of his soul could hardly sustain a 
+      <lb/>conflict against the grief and passion that 
+      <lb/>consumed him, while on the one hand, 
+      <lb/>he beheld the distraction of his daughter, 
+      <lb/>and, on the other, anticipated the danger 
+      <lb/>of his son. He resolved, however, to keep 
+        <lb/><persName>Amelia's</persName> indisposition a secret from <persName>Hono-
+      <lb break="no"/>rius</persName>, with whom he arranged the dreadful 
+      <lb/>business of the morning, and, having fer-
+      <lb break="no"/>vently bestowed his blessing there, he re-
+      <lb break="no"/>turned to pass the night in prayer and watch-
+        <lb break="no"/>ing by <persName>Amelia's</persName> side.</p>
+     <p>
+        <persName>Honorius</persName> retired to his chamber, but not 
+    <kb/>to rest. It was not, however, the danger 
+      <lb/>of the approaching combat, which occasi-
+      <lb break="no"/>oned a moment's anxiety or reflection; for 
+      <lb/>his courage was superior to every considera-
+      <lb break="no"/>tion of personal safety. But that courage 
+      <lb/>had hitherto been regulated by a sense of 
+      <lb/>obligation consistent with the precepts of 
+      <lb/>religion—he had often exerted it to deserve 
+        <lb/>the glorious <seg xml:id="a019" corresp="#n019">meed</seg><note xml:id="n019" corresp="#a019"><term style="font-style: italic">Meed</term>: rewards or recompense.</note> of a soldier, but he 
+      <lb/>scorned to employ it for the contemptible re-
+      <lb break="no"/>putation of a duellist; it had taught him 
+      <lb/>to serve his country, but not to offend his 
+        <lb/>God. “If there is a cause which can justify 
+      <lb/>the act, is it not mine? 'Tis not a punctili-
+      <lb break="no"/>ous honour, a visionary insult, or a petulant 
+        <lb/>disposition that influences my conduct:” 
+      <lb/>said Honorius, as he mused upon the sub-
+        <lb break="no"/>ject. “A sister basely tricked of her inno-
+      <lb break="no"/>cence and fame, a father ungratefully plun-
+      <lb break="no"/>dered of his peace and hopes, in the last 
+      <lb/>stage of an honorable life, and myself (but 
+      <pb/>
+      <lb/>that is little) treacherously transported to a 
+      <lb/>remote and inhospitable land—these are my 
+        <lb/>motives; and Heaven, <persName>Doliscus</persName>, be the 
+        <lb/>judge between us!”</p>
+     <p>
+        As soon as the dawn appeared, <persName>Honorius</persName> 
+    <lb/>repaired to the place of appointment, where 
+      <lb/>a few minutes before the hour, Doliscus, 
+      <lb/>likewise arrived. He was attended by a 
+      <lb/>friend, but perceiving his antagonist alone, 
+      <lb/>he requested his companion to withdraw to 
+      <lb/>a distant spot, from which be might observe 
+      <lb/>the event, and afford assistance to the van-
+      <lb break="no"/>quished party.</p>
+     <p>
+        “Once more we meet, Sir,” said Do-
+        <lb break="no"/>liscus, “upon the business of death; but 
+      <lb/>that fortune which failed you in your coun-
+      <lb break="no"/>try's cause, may be more propitious in your 
+        <lb/>own.”-- “What pity it is,” exclaimed <persName>Ho-
+           <lb break="no"/>norius</persName>, “that thou should'st be a villain, for 
+        <lb/>thou art brave!” “Nay, I come to offer a 
+      <lb/>more substantial revenge for the wrongs I 
+      <lb/>have committed, than merely the imputation 
+      <lb/>of so gross an epithet—take it, Sir,—it is 
+        <lb/>my life.” They instantly engaged. Do-
+      <lb break="no"/>liscus for awhile defended himself with su-
+      <lb break="no"/>perior address, but laying himself suddenly 
+      <lb/>open to the pass of his antagonist, he re-
+      <lb break="no"/>ceived his sword in the left breast, a little 
+      <lb/>below the seat of the heart!</p>
+     <p>
+        “Nobly done,” cried <persName>Doliscus</persName> as he fell, 
+        <lb/>“it is the vengeance of <persName>Amelia</persName>; and oh! 
+        <lb/>may it serve to <seg xml:id="a020" corresp="#n020">expiate</seg><note xml:id="n020" corresp="#a020"><term style="font-style: italic">Expiate</term>: to cleanse or purify of sin; a term with religious connotations.</note> the crime of her be-
+        <lb break="no"/>trayer.” His friend who had attentively 
+      <lb/>viewed the scene, advanced, when he saw 
+      <lb/>him on the ground; and, assisted by Hono-
+      <lb break="no"/>rius, bore him to a carriage which had been 
+      <lb/>directed to attend within call. He was then 
+      <lb/>conveyed to the house of an eminent surge-
+      <lb break="no"/>on, who having ordered the necessary ac-
+      <lb break="no"/>commodations, examined the wound, and 
+        <lb/>pronounced it to be mortal. “Fly, sir,” 
+      <lb/>said Doliscus turning to Honorius at this 
+        <lb/>intelligence—“your country will afford 
+      <lb/>you an asylum, and protect you from the 
+      <lb/>consequences of my fate. I beseech you 
+      <lb/>embitter not my last moments with the re-
+      <lb break="no"/>flection of your danger—but bear with 
+      <lb/>you to the injured Amelia, the story of my 
+      <lb/>repentance, and, if you dare, ask her to for-
+        <lb break="no"/>give me.” The resentments of Honorius 
+      <lb/>were subdued, he presented his hand to the 
+      <lb/>dying Doliscus, in whose eye a gleam of joy 
+      <lb/>was kindled at the thought, but it was 
+      <lb/>quickly superceded by a cold and sudden 
+      <lb/>tremour; he attempted, but in vain, to 
+      <lb/>speak; he seized the offered hand; he 
+      <lb/>pressed it eagerly to hi lips, and in the mo-
+      <lb break="no"/>ment of that expressive action, he expired.</p>
+     <p>
+        <persName>Honorius</persName> now hastened to inform <persName>Horatio</persName> 
+       <lb/>of this fatal event, and to contrive the 
+      <lb/>means of escape. But when he returned to 
+      <lb/>the inn, confusion and distress were pictured 
+      <lb/>on every face; a wild, but harmonious 
+      <cb/>
+      <lb/>voice, occasionally broke forth into melan-
+        <lb break="no"/>choly strains, and the name of <persName>Amelia</persName> was 
+      <lb/>repeatedly pronounced	in	accents of tender-
+        <lb break="no"/>ness and compassion.—“How is it my 
+        <lb/>son?” cried <persName>Horatio</persName> eagerly. “<persName>Doliscus</persName> 
+        <lb/>is no more!” replied Honorius. “Would 
+      <lb/>he had lived another day! I wished not
+        <lb/>the ruin of his soul.” “But he repented sir.” 
+        <lb/>“Then heaven be merciful!” exclaimed 
+        <lb/><persName>Horatio</persName>. </p>
+     <p>
+      Here their conversation was interrupted, 
+        <lb/>by the melodious chauntings of <persName>Amelia</persName>.</p>
+     <p><lg>
+      <l>I'll have none of your flowr's, tho' so blooming and sweet;</l>
+      <l>Their scent, it may poison, and false is their hue;</l>
+      <l>I tell you be gone! for I ne'er shall forget,</l>
+        <l>That <persName>Doliscus</persName> was lovely and treacherous too.</l>
+     </lg>
+     </p>
+    <p>
+       <persName>Honorius</persName> listened attentively to the song; 
+    <lb/>it vibrated in his ear, and swelled the aching 
+       <lb/>artery of his heart. “Come on!” said <persName>Ho-
+          <lb break="no"/>ratio</persName> leading him to <persName>Amelia's</persName> chamber. 
+      <lb/>They found her sitting on the bed, with a 
+      <lb/>pillow before her, over which she moved 
+      <lb/>her fingers, as if playing on a harpsichord. 
+      <lb/>Their entrance disturbed her for a moment, 
+      <lb/>but she soon resumed her employment.</p>
+     
+     <p><lg>
+      <l>He said and swore he lov'd me true:—was it a lover's part,</l>
+        <l>To ruin good <persName>Horatio's</persName> peace, and break <persName>Amelia's</persName> heart?</l>
+     </lg>
+     </p>
+     <p>
+    A heavy sigh followed these lines, which 
+    <lb/>were articulated in a wistful and sym-
+      <lb break="no"/>pathetic tone, and she sunk exhausted on her 
+      <lb/>bed.—In a few minutes, however, she 
+      <lb/>started from this still and silent state, and 
+      <lb/>having gazed with a wild and aching eye 
+      <lb/>around the room, she uttered a loud and 
+      <lb/>piercing cry—it was the awful signal of her 
+      <lb/>dissolution—and her injured spirit took 
+      <lb/>its everlasting flight.</p>
+     <p>
+    The reader will excuse a minute descrip-
+    <lb break="no"/>tion of the succeeding scenes. The alarm 
+        <lb/>raised by the death of <persName>Doliscus</persName> compelled 
+        <lb/><persName>Honorius</persName> to quicken his departure, and he 
+      <lb/>joined the standard of <placeName>America</placeName> a few hours 
+        <lb/>before the battle of <seg xml:id="a021" corresp="#n021"><placeName>Monmouth</placeName>,</seg><note xml:id="n021" corresp="#a021"><term style="font-style: italic"><placeName>Monmouth</placeName></term> was an important (albeit largely symbolic) victory for the Continental army after its winter encampment at <placeName>Valley Forge</placeName>. While the battle resulted in a virtual draw, the Continental Army demonstrated a greater effectiveness in its tactics and execution, making the battle an important one for Revolutionary morale and support.</note> in which, 
+      <lb/>for the service of his country, he sacrificed 
+      <lb/>a life that misfortune had then taught him to 
+      <lb/>consider of no other use or estimation.</p>
+     <p>
+        As for the venerable <persName>Horatio</persName>--having 
+    <lb/>carried with him to the cottage the remains 
+      <lb/>of his darling child, in a melancholy soli-
+      <lb break="no"/>tude he consumes the time; his only busi-
+      <lb break="no"/>ness, meditation and prayer; his only re-
+      <lb break="no"/>creation a daily visit to the monument, which 
+        <lb/>he has raised in commemoration of <persName>Amelia's</persName> 
+      <lb/>fate, and all his consolation resting in this as-
+      <lb break="no"/>surance, that whatever may be the sufferings 
+      <lb/>of virtue HERE, its portion must be happi-
+      <lb break="no"/>ness HEREAFTER.</p>
+   	
+   	
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,3150 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:svg="http://www.w3.org/2000/svg"
+	xmlns:math="http://www.w3.org/1998/Math/MathML"
+	xmlns="http://www.tei-c.org/ns/1.0"
+	xmlns:html="http://www.w3.org/1999/xhtml">
+ <teiHeader>
+   <fileDesc>
+     <titleStmt>
+       <title>Humanity in Algiers: or, the Story of Azem</title>
+     </titleStmt>
+     <publicationStmt>
+     	<p>Published by the American Antiquarian Society's Just Teach One Initiative.</p>
+     </publicationStmt>
+     <sourceDesc xml:id="272829">
+   		<biblStruct>
+   			<monogr>
+   			  <author>
+   			    <persName>An American, late a slave in Algiers</persName>
+   			  </author>
+   			  <title>Humanity in Algiers: Or, The Story of Azem</title>
+   			  <ref type="catalog-url">http://catalog.mwa.org/vwebv/holdingsInfo?bibId=272829</ref>
+   			  <idno type="aas">272829</idno>
+   			  <imprint>
+   			    <pubPlace>
+   			      Troy, NY
+   			    </pubPlace>
+   			    <publisher>
+   			      <persName>R. Moffit</persName> &amp; Co.
+   			    </publisher>
+   			  </imprint>
+   			  </monogr>
+   		</biblStruct>
+   	</sourceDesc>
+   </fileDesc>
+ </teiHeader>
+  <text corresp="#272829">
+  <front>
+   <pb/>
+    <docImprint style="text-transform:none">
+      <docDate when="1801">1801</docDate></docImprint>
+   </front>
+    
+  
+  <body>
+    <head style="text-align:center"><bibl>HUMANITY
+      <lb/>IN
+      <lb/>ALGIERS:
+      <lb/>OR, THE
+      <lb/>STORY OF AZEM.
+      BY AN AMERICAN, LATE A SLAVE IN ALGIERS</bibl></head>
+  </body>
+    <floatingText>
+      <body>
+        <hi rend="italic">“<quote>I found them free, and free they must remain,
+          <lb/>“Till they inthral themselves: I else must change
+          <lb/>“Their nature, and revoke the high decree
+          <lb/>“Unchangeable, eternal, which ordain’d
+          <lb/>“Their freedom</quote>”—(says JEHOVAH.)</hi>
+        <head style="text-align:right"><seg xml:id="a001" corresp="#n001"><persname>MILTON</persname>.</seg><note xml:id="n001" corresp="#a001">The lines are from <persName>John Milton’s</persName> <bibl style="font­-style: italic">Paradise Lost, iii.124-48</bibl>, though in the original this passage, spoken by God, begins "<quote>I formd them free, and free they must remain . . .</quote>” It is unclear if this is a printer’s error or a deliberate change to depict the European incursions in <placeName>Africa</placeName> (i.e., finding Africans free, leaving them free).</note></head>
+      </body>
+    </floatingText>
+    
+      <body>
+     <div type="section">
+       <head style="text-align:center"><supplied><date when="1801">1801</date>.</supplied>
+       <lb/>PREFACE.</head>
+       
+       <emph style="font­-style: italic">
+     <p>
+       UNCONSCIOUS of our own crimes, 
+         <lb/>or unwilling the world should know them, we 
+         <lb/>frequently condemn in others the very practi-
+         <lb break="no"/>ces we applaud in ourselves; and, wishing to 
+         <lb/>pass for patterns of uprightness, or blinded 
+         <lb/>by interest, pass sentence upon the conduct of 
+         <lb/>others less culpable than ourselves. ‘Let her 
+         <lb/>be burnt,’ was the judgment given by the Pa-
+         <lb break="no"/>triarch against his daughter-in-law, for a 
+       <lb/>crime which himself had <seg xml:id="a002" corresp="#n002">caused her to commit.</seg><note xml:id="n002" corresp="#a002">See <bibl>Genesis 38:24</bibl></note>
+         <lb/>With the same impropriety on our part do 
+         <lb/>we reprobate the Algerines. ‘A vile, pirati-
+         <lb break="no"/>cal set of unprincipled robbers,’ is the softest 
+       <lb/>name we can give <seg xml:id="a003" corresp="#n003">them;</seg><note xml:id="n003" corresp="#a003">The anonymous author appears to be quoting a much circulated <bibl>“Essay on Negro Slavery,”</bibl> which appeared in the magazine <bibl style="font­-style: italic">The American Museum</bibl> in <date when="1788">1788</date>, signed by “<persName>Othello</persName>” from “<placeName>Maryland</placeName>.” In that essay, the author spoke of the “<quote>lawless, piratical set of unprincipled robbers.</quote>”</note> forgetful of our for-
+         <lb break="no"/>mer depredations on the coasts of <placename>Africa</placename>, and 
+         <lb/>the cruel manner in which we at present treat 
+         <lb/>the offspring of those whom we brought from 
+         <lb/>thence.  When the Algerines yoke our citizens 
+         <pb/>
+         <lb/>to the plough, or compel them to labour at 
+         <lb/>the oar, they only retaliate on us for similar 
+         <lb/>barbarities.
+     </p>
+         <p>
+       Taught and accustomed from infancy to 
+         <lb/>think our own religious creed the only mark 
+         <lb/>of civilization, we can scarcely think it possi-
+           <lb break="no"/>ble that a Mahometan should possess a feeling 
+           <lb/>heart, or perform a virtuous deed. The fol-
+           <lb break="no"/>lowing history (the authenticity of which may 
+           <lb/>be relied on) will, however, demonstrate to 
+           <lb/>every reader, that there is <emph style="font­-style: roman">Humanity</emph> in <emph style="font­-style: romamn"><placeName>Al-
+             <lb break="no"/>giers</placeName></emph>.
+         </p>
+         <p>
+       If any excuse for want of elegance of style 
+       <lb/>should be thought necessary, the long and tire-
+           <lb break="no"/>some servitude from which the Author is just 
+           <lb/>relieved, must be his apology.
+         </p></emph>
+    
+       <head style="text-align:right">The AUTHOR.</head>
+     </div>
+    
+    <div type="section">
+       <head style="text-transform:uppercase;text-align:center; font-style:italic">INTRODUCTION.</head>
+       
+       <p>TWELVE years ago, employed 
+       <lb/>by a gentleman to transact some bu-
+       <lb break="no"/>siness in one of the <placeName>East India is-
+         <lb break="no"/>lands</placeName>, I embarked with <persName>Capt. O’Bri-
+           <lb break="no"/>an</persName> on the <seg xml:id="a003" corresp="#n003"><date when="1785-05-10">10th of May, 1785</date>.</seg><note xml:id="n003" corresp="#a003">The author here refers to <persName>Richard O’Brien</persName>, captain of the <emph style="font­-style: italic">Dauphin</emph>, a ship captured by Algerine pirates in <date when="1785-07">July, 1785</date>. <persName>O’Brien</persName> was a prisoner for ten years, and eventually became the US consul to <placeName>Algiers</placeName>. The names of the <emph style="font­-style: italic">Dauphin</emph> survivors are known, but we have not found any connections with this narrative.</note> The 
+       <lb/>wind and weather being fair, all hands 
+       <lb/>on board were extremely happy—
+       <lb/>when, on the evening of the <date when="1785-06-20">20th of 
+         <lb/>June</date>, we heard several cannon fired, 
+       <lb/>as we supposed, three leagues from 
+       <lb/>us. We paid no attention to this.—
+       <lb/>But, Heavens! what was our surprise 
+       <lb/>when the morning light appeared, and 
+       <lb/>we found ourselves within cannon-
+       <lb/>shot of a corsair of <placeName>Algiers</placeName>!—All re-
+       <lb break="no"/>sistance on our part proved vain. We 
+       <lb/>were taken, carried to <placeName>Algiers</placeName>, and 
+       <pb/>
+       <lb/>sold for slaves in the market. It was 
+       <lb/>my lot to be purchased by a rich 
+       <lb/>planter, who carried me to his house, 
+       <lb/>sixteen miles from the city.
+       </p>
+       <p>
+       Finding Heaven had ordained my 
+       <lb/>future life to be spent in slavery, I 
+         <lb/>endeavoured to reconcile myself to 
+         <lb/>my condition. I considered my state 
+         <lb/>no worse, if so bad, as that of thou-
+         <lb break="no"/>sands in my own country. My father, 
+         <lb/>I knew, had a man and woman slave; 
+         <lb/>and I had often heard him say they 
+         <lb/>were happier than he was: and he 
+         <lb/>would always be angry if any person 
+         <lb/>appeared but to think he held 
+         <lb/>them unjustly in bondage. ‘Have 
+         <lb/>I not paid my money for them? and 
+         <lb/>consequently they are of right my 
+         <pb/>
+         <lb/>own,’ says my father. This same kind 
+         <lb/>of right, I knew, my Algerine master 
+         <lb/>had to me. I was determined, there-
+         <lb break="no"/>fore, to serve him with the utmost 
+         <lb/>fidelity. By these means I gained 
+         <lb/>his affection, and he often spoke in 
+         <lb/>my praise to others.
+       </p>
+       <p>
+       I had served him nine long years, 
+       <lb/>when a gentleman from the city hap-
+         <lb break="no"/>pening to pass our plantation, his 
+         <lb/>horse, frightened by the sudden ap-
+         <lb break="no"/>pearance of a goat that leaped across 
+         <lb/>the way, threw him from the sad-
+         <lb break="no"/>dle. I was at work near by; and, 
+         <lb/>seeing the accident, ran to his relief. 
+         <lb/>Lifting him in my arms, I carried 
+         <lb/>him to my master’s house. He had 
+         <lb/>fainted; but, soon recovering, enqui-
+         <pb/>
+         <lb break="no"/>red who it was that had brought him 
+         <lb/>in. My master told him it was his 
+         <lb/>American slave—and added many 
+         <lb/>things of my fidelity and good con-
+         <lb break="no"/>duct.
+       </p>
+       <p>
+       The gentleman then, turning to 
+       <lb/>me, said, ‘Man, would you wish to 
+         <lb/>be free?’ I answered, that I loved, 
+         <lb/>and longed to see my native country. 
+         <lb/>He then told me it was in his power 
+         <lb/>to grant my wishes; for he had the 
+         <lb/>disposal of a legacy, which, once in 
+         <lb/>every year, was to purchase the free-
+         <lb break="no"/>dom of some honest slave. I replied, 
+         <lb/>that, although I respected my master, 
+         <lb/>I had left a wife and child in <placeName>Ameri-
+           <lb break="no"/>ca</placeName>; and that, of all blessings, to me 
+         <lb/>a sight of them would be the greatest. 
+         <pb/>
+         <lb/>That evening he bargained with my 
+         <lb/>master, and paid him his price for 
+         <lb/>me; and the next day we set out for 
+         <lb/><placeName>Algiers.</placeName>
+       </p>
+       <p>
+       On our way, he told me the whole 
+       <lb/>story of <persName>Azem</persName>, whose legacy had 
+         <lb/>purchased my freedom: that he had 
+         <lb/>been dead for several years, and, ha-
+         <lb break="no"/>ving no heirs, had directed in his 
+         <lb/>will, that the interest of his estate 
+         <lb/>should yearly purchase the freedom 
+         <lb/>of some honest slave.
+       </p>
+       <p>
+         After I arrived at the city, and <seg xml:id="a004" corresp="#n004">the 
+           <lb/>Dey</seg><note xml:id="n004" corresp="#a004"><term style="font-style: italic">the Dey</term>: the executive ruler of the Algiers regency.</note> had signed a certificate of my 
+         <lb/>freedom, I was anxious to learn the 
+         <lb/>history of my dearest benefactor. I 
+         <lb/>found that <persName>Azem</persName> had been well known 
+         <lb/>by many persons of note in town; 
+         <pb/>
+         <lb/>and, while I waited for a passage, I 
+         <lb/>collected the following account—
+         <lb/>which the reader may rely upon as 
+         <lb/>facts; as I have been very careful to 
+         <lb/>narrate nothing but what I had from 
+         <lb/>the best authority.
+       </p>
+       <head style="text-align:right">AN AMERICAN.</head>
+    </div>
+    
+    <div type="section">
+       <head style="text-align:center">STORY OF <persName>AZEM</persName>.
+<lb/>       
+       CHAP. I.</head>
+       <p>
+       UPON the plains of <placename>Natola</placename>, near the beau-
+         <lb break="no"/>tiful <seg xml:id="a005" corresp="#n005"><placeName>river Tenun</placeName>,</seg><note xml:id="n005" corresp="#a005"><term style="font-style: italic"><placeName>Tenun</placeName>, <placeName>Natola</placeName></term>: these appear to be fictional locations.</note> <persName>Selictor</persName>, a wealthy hus-
+         <lb break="no"/>bandman, lived, and in quietude enjoyed 
+         <lb/>all the pleasures of that delightful country. 
+         <lb/>From a small beginning in the world, he 
+         <lb/>had collected a considerable fortune. He 
+         <lb/>had been brought up in the habits of indus-
+         <lb break="no"/>try, and early taught the method of busi-
+         <lb break="no"/>ness. His amiable wife, <persName>Sequida</persName>, was 
+         <lb/>born and educated in <seg xml:id="a006" corresp="#n006"><placeName>Constantinople</placeName>.</seg><note xml:id="n006" corresp="#a006"><term style="font-style: italic"><placeName>Constantinople</placeName></term>: present-day <placeName>Istanbul</placeName>, and in the early 19C the center of the Ottoman Empire.</note> In 
+         <lb/>her youth she was handsome beyond com-
+         <lb break="no"/>pare; and, when advanced in years, her 
+         <lb/>good sense and enlivening turn in conver-
+         <pb/>
+         <lb break="no"/>sation, rendered her presence welcome in 
+         <lb/>every company.
+       </p>
+       <p>
+       Not many years after they were married, 
+       <lb/>the treachery of a confidant had almost 
+         <lb/>proved their ruin. They had but just began 
+         <lb/>to <seg xml:id="a007" corresp="#n007">collect an interest</seg><note xml:id="n007" corresp="#a007"><term style="font-style: italic">Collect an interest</term>: to receive the interest from a loan or investment.</note> when this unfortunate 
+         <lb/>affair took place.
+       </p>
+       <p>
+       In order to extricate themselves from the 
+       <lb/>difficulty into which this had involved them, 
+         <lb/>they were obliged to sell their patrimony.
+         <lb/>This change in their situation <persName>Selictor</persName> bore 
+         <lb/>with uncommon fortitude: While <persName>Sequida</persName>, 
+         <lb/>a pattern of patience, never once upbraid-
+         <lb break="no"/>ed her husband, or found fault in his hear-
+         <lb break="no"/>ing. When their creditors forcibly took 
+         <lb/>away their household furniture, she mur-
+         <lb break="no"/>mured not a word: a tear would sometimes 
+         <lb/>steal a passage from her eyes, which with 
+         <lb/>care she concealed from <persName>Selictor</persName>.—But 
+         <pb/>
+         <lb/>when their all was sold, and found insuffici-
+         <lb break="no"/>ent to discharge the demands against them, 
+         <lb/>and when it was told her that <persName>Selictor</persName> was 
+         <lb/>confined in prison, her grief was no longer 
+         <lb/>restrained within bounds. Almost distract-
+         <lb break="no"/>ed, she walked the room, while a chrystal 
+         <lb/>torrent flowed down her cheeks. A long 
+         <lb/>time she was silent; but at last, getting the 
+         <lb/>better of her grief, she thus complained. 
+         <lb/>‘My ever lovely <persName>Selictor</persName>! must we thus 
+         <lb/>be parted? Must others give law to our 
+         <lb/>meetings? Must yon iron walls be the li-
+         <lb break="no"/>mit of thy walks, while the cruel master 
+         <lb/>within, as his pleasure or interest may suit, 
+         <lb/>suffers thee to see thy wife and child? 
+         <lb/>What has my <persName>Selictor</persName> done, that he is 
+         <lb/>deprived of liberty, God’s greatest bles-
+         <lb break="no"/>sing? Not one can accuse him of false-
+         <lb break="no"/>hood or crime; yet, as if guilty of all, he 
+         <lb/>is forbid the enjoyment of that, without 
+         <lb/>which there is nothing that will bear the 
+         <pb/>
+         <lb/>name of happiness.  O Liberty! without 
+         <lb/>thee none can taste of joy; the honey-
+         <lb break="no"/>comb, to the wretch deprived of thee, is 
+         <lb/>nauseous as the bitterest gall, and the light 
+         <lb/>of morning hateful as the mantle of mid-
+         <lb break="no"/>night.’
+       </p>
+       <p>
+       While she was thus indulging her sor-
+         <lb break="no"/>rows, <persName>Selictor</persName> arrived—The generosity of 
+         <lb/>a friend had set him free. No language 
+         <lb/>can paint the transports at this happy meet-
+         <lb break="no"/>ing. Tears of joy rolled down <persName>Sequida’s</persName> 
+         <lb/>face. <persName>Selictor</persName> clasped her in his arms, and 
+         <lb/>said, ‘I grieve, my dear, that fortune has 
+         <lb/>ordained such fate for thee: But if thou 
+         <lb/>canst still love thy <persName>Selictor</persName>, we will re-
+         <lb break="no"/>tire to the country, far from the treache-
+         <lb break="no"/>ry and avarice of the town, and spend the 
+         <lb/>remainder of our days in rural love and 
+         <lb/>felicity.’
+       </p>
+       <pb/>
+       <p>
+         This proposal <persName>Sequida</persName> accepted with 
+         <lb/>great satisfaction; and, as soon as they 
+         <lb/>could collect what little was still within 
+         <lb/>their power, they set off for, and arrived 
+         <lb/>safe at <placeName>Natola</placeName>.
+       </p>
+       <p>
+       As they brought no money with them, 
+         <lb/><persName>Selictor</persName> was obliged to labour daily for 
+         <lb/>their support, while <persName>Sequida</persName> taught a little 
+         <lb/>school in the village; which, with the as-
+         <lb break="no"/>sistance of her needle, which she had ear-
+         <lb break="no"/>ly been taught to use, but only as an amuse-
+         <lb break="no"/>ment, now contributed to procure for them 
+         <lb/>the necessaries of life.
+       </p>
+       <p>
+       In this situation they lived for several 
+       <lb/>years: But their income not increasing 
+         <lb/>with their family, made them think of chan-
+         <lb break="no"/>ging their manner of life. They had al-
+         <lb break="no"/>ready two sons and two daughters. To 
+         <lb/>procure employ and sustenance for these, 
+         <pb/>
+         <lb/>they hired a farm upon the borders of the 
+         <lb/><placeName>river Tenun</placeName>; and, turning all their atten-
+         <lb break="no"/>tion to husbandry, soon made great profi-
+         <lb break="no"/>ciency in the business. <persName>Selictor</persName>, with his 
+         <lb/>sons, attended the business of the farm, 
+         <lb/>while <persName>Sequida</persName> and her daughters perform-
+         <lb break="no"/>ed whatever was necessary to be done with-
+         <lb break="no"/>in.  Thus serenity crowned their days—the 
+         <lb/>blessings of industry and frugality their re-
+         <lb break="no"/>ward.
+       </p>
+       <p>
+       One evening, when all the family were 
+       <lb/>sitting, well pleased, around the cheerful 
+         <lb/>board, some person knocked at the cottage 
+         <lb/>door. It was opened—and, lo! <persName>Selin</persName>, the 
+         <lb/>brother of <persName>Sequida</persName>, entered. He was a 
+         <lb/>captain in the army, and, hearing of his sis-
+         <lb break="no"/>ter’s retirement, had come to visit her.—
+         <lb/>Joy sparkled in every countenance. He 
+         <lb/>partook of their rural feast, and tarried all 
+         <lb/>night; but early next morning, preparing 
+         <pb/>
+         <lb/>to depart, he thus addressed himself to <persName>Se-
+           <lb break="no"/>lictor</persName> and <persName>Sequida</persName>: ‘My friends, I had 
+         <lb/>heard of your retreat in the country; and, 
+         <lb/>in order to lessen your labour, and make 
+         <lb/>your lives as happy as was within my 
+         <lb/>power, I have brought you this young ser-
+         <lb break="no"/>vant, who is mine by the most incontest-
+         <lb break="no"/>ible right, and, according to the custom 
+         <lb/>of our country, bound to serve me during 
+         <lb/>life: For, in a late battle, I took him 
+         <lb/>with my own hand; and may his future 
+         <lb/>usefulness recompence you for the dan-
+         <lb break="no"/>ger I then ran! I now give him to you, 
+         <lb/>desiring, that if he should outlive you, he 
+         <lb/>may go to your eldest son, as a token of 
+         <lb/>my love to you and him. He is young, 
+         <lb/>and can be of no great service immedi-
+         <lb break="no"/>ately: however, he may live the longer, 
+         <lb/>and finally be of great use to you.’—
+         <pb/>
+         <lb/>With hearts of gratitude they acknowledg-
+         <lb break="no"/>ed the favour. He then departed to join 
+         <lb/>the army.
+       </p>
+    </div>
+    
+    <div type="section">
+       <head style="text-align:center">CHAP. II.</head>
+       <p>
+         GREAT pleasure did both <persName>Selictor</persName> and 
+         <lb/><persName>Sequida</persName> take in their young servant, whose 
+         <lb/>name was <persName>AZEM</persName>. Before he was able to 
+         <lb/>labour, his mistress taught him the know-
+         <lb break="no"/>ledge of letters, so that he could read any 
+         <lb/>part of the <bibl>Alcoran</bibl>: And careful she was 
+         <lb/>to teach him the faith of <seg xml:id="a008" corresp="#n008">Mehometanism,</seg><note xml:id="n008" corresp="#a008"><term style="font-style: italic"><bibl>Alcoran</bibl></term>: (<bibl>Quran</bibl>, <bibl>Koran</bibl>) is the central religious text of Islam. <term style="font-style: italic">Mehomatanism</term> was a common, generally antagonistic term for Islam in the west, using a variant of <persName>Mohammed’s</persName> name to stress the religion’s inauthenticity.</note>
+         <lb/>and to instruct him in all the ceremonies of 
+         <lb/>her religion.
+       </p>
+       <p>
+         <persName>Azem</persName>, by nature, was ingenious; and, 
+         <lb/>by the indulgence of his master, soon made 
+         <lb/>considerable progress in learning. He 
+         <pb/>
+         <lb/>was brought up in their family, not as a 
+         <lb/>servant, but as a child: He was intimate 
+         <lb/>and familiar with their children, and was 
+         <lb/>suffered to treat them more like brothers 
+         <lb/>and sisters than as his superiors. They 
+         <lb/>sometimes attempted to command him; 
+         <lb/>but, unlearned to respect their authority, 
+         <lb/>he seldom obeyed. This conduct of <persName>Azem</persName> 
+         <lb/>towards the children of <persName>Selictor</persName>, gave them 
+         <lb/>much uneasiness; and as he grew up it be-
+         <lb break="no"/>came habitual, and impossible to remove.
+       </p>
+       <p>
+         <persName>Azem</persName> was now grown to years of man-
+         <lb break="no"/>hood; and, having never been taught to 
+         <lb/>obey any other but <persName>Selictor</persName>, his habits, 
+         <lb/>ideas, and love for liberty, were the same 
+         <lb/>as those of his young masters. <persName>Pestoli</persName>, 
+         <lb/><persName>Selictor’s</persName> eldest son, would sometimes in-
+         <lb break="no"/>timate, that, upon the death of his parents, 
+         <lb/><persName>Azem</persName> was to be his servant. This <persName>Azem</persName> 
+         <lb/>as often declared he would not consent to.
+       </p>
+       <pb/>
+       <p>
+         Thus were matters situated, when <persName>Selic-
+           <lb break="no"/>tor</persName> was taken sick; and, being informed 
+         <lb/>by his physician that his disease was incu-
+         <lb/>rable, he was anxious so to settle his world-
+         <lb break="no"/>ly affairs, as not to entail difficulties upon 
+         <lb/>his family. How to dispose of <persName>Azem</persName> gave 
+         <lb/>him much trouble and reflection. He had 
+         <lb/>been informed of his refusal to serve his 
+         <lb/>eldest son, and had often observed that he 
+         <lb/>would not obey any other of his children. 
+         <lb/>This brought him to a conclusion that he 
+         <lb/>would sell him the first opportunity, and 
+         <lb/>have the money to be divided between 
+         <lb/>them.
+       </p>
+       <p>
+         <persName>Testador</persName>, a neighbouring farmer, no 
+         <lb/>sooner heard that <persName>Selictor</persName> would sell his 
+         <lb/>servant, than he came and bought him for 
+         <lb/>one hundred and fifty <seg xml:id="a009" corresp="#n009">sequins.</seg><note xml:id="n009" corresp="#a009">A sequin is one dollar and sixty-six cents. [Note in original. The <term style="font-style: italic">sequin</term> was a Mediterranean currency with origins in the Italian city-states, above all <placeName>Venice</placeName>.]</note>—All 
+         <lb/>this was done, and the contract finished, 
+         <pb/>
+         <lb/>without the knowledge of <persName>Azem</persName>. Upon 
+         <lb/>his being informed of it, sorrow more keen 
+         <lb/>than ever touched his heart. He believed 
+         <lb/>his master near his end, and had fancied 
+         <lb/>to himself, that <persName>Selictor</persName> would give him 
+         <lb/>his freedom at his death. But now find-
+         <lb break="no"/>ing all happiness, with the hopes of regain-
+         <lb break="no"/>ing his freedom, vanished, he was most 
+         <lb/>wretched indeed. What to think, or how 
+         <lb/>to act, he knew not. It was a new and un-
+         <lb break="no"/>expected scene to him. Without uttering 
+         <lb/>one word of reply, he straight repaired, a-
+         <lb break="no"/>lone, to the fields, meditating with himself 
+         <lb/>what was best to be done. Sometimes he 
+         <lb/>was almost determined to put an end to his 
+         <lb/>own existence, which had now become 
+         <lb/>insupportably painful. Why, says he to 
+         <lb/>himself, should I prolong a life which is 
+         <lb/>doomed to perpetual servitude, and misery 
+         <lb/>its attendant! Why not rather seek death, 
+         <pb/>
+         <lb/>since that will be the morning of freedom 
+         <lb/>and the beginning of happiness! Why 
+         <lb/>should I wish to lengthen this life of des-
+         <lb break="no"/>pair; and, by the daily sweat of my brow, 
+         <lb/>add to the riches of him who has alrea-
+         <lb break="no"/>dy more than enough! Why not ra-
+         <lb break="no"/>ther choose to die, and gain for myself the 
+         <lb/>riches of Paradise! There no cruel or im-
+         <lb break="no"/>perious master ever comes;—there no bloo-
+         <lb break="no"/>dy scourges, to wound the innocent, are e-
+         <lb break="no"/>ver seen; but there, in common, reign 
+         <lb/>the sweets of liberty.
+       </p>
+       <p>
+       If the dull ox, whose daily labours for 
+       <lb/>his master’s ease, should boldly plunge in-
+         <lb break="no"/>to some fatal ditch, and by one single effort 
+         <lb/>end a life of painful toil, who is there but 
+         <lb/>would name his conduct wise!
+       </p>
+       <p>
+       But, ah! through the dark gloom that 
+       <lb/>hangs around my mind, a ray of hope 
+         <lb/>
+         <pb/>
+         <lb/>breaks in, and prompts me still to live.—
+         <lb/>Others, though bound like me, have gain-
+         <lb break="no"/>ed their freedom; and who can tell but 
+         <lb/>joy like this is yet in store for me. Trans-
+         <lb break="no"/>ported with this pleasing hope, he broke 
+         <lb/>forth in the following ejaculation: O gra-
+         <lb break="no"/>cious God! O Universal Father of all 
+         <lb/>men, who hath formed from the dust all 
+         <lb/>the nations of the earth! Hear now thy 
+         <lb/>creature; for thou disdainest not the works 
+         <lb/>of thy hands. Thou art a God that loveth 
+         <lb/>and rewardeth virtue, although found in the 
+         <lb/>meanest slave; and must eternally hate 
+         <lb/>and punish vice, though covered by the ti-
+         <lb break="no"/>tle of master, or the pomp of gold. Thou 
+         <lb/>art a God that searcheth the heart, and res-
+         <lb break="no"/>pecteth not the person or colour of man; 
+         <lb/>and, as a common blessing, hath bestowed 
+         <lb/>on all thy children life and liberty, which 
+         <lb/>no one can deprive another of, without 
+         <pb/>
+         <lb/>breaking the laws of nature and his God. 
+         <lb/>O Father of all! does not thy anger and 
+         <lb/>indignation burn against that child, who, 
+         <lb/>by force or fraud, deprives his brother of 
+         <lb/>his birthright, his father’s legacy, his pater-
+         <lb break="no"/>nal blessing!—Hasten the time, O God, 
+         <lb/>when crimes like these shall no longer be 
+         <lb/>found in thy family; when all the 
+         <lb/>members thereof shall know and ac-
+         <lb break="no"/>knowledge the relation they bear to each 
+         <lb/>other; when each shall do by others as he 
+         <lb/>would wish that they should do by him.—
+         <lb/>O God! am I certain that freedom will 
+         <lb/>be my portion, as it is now my due? Gra-
+         <lb break="no"/>titude and praise to my God and Benefac-
+         <lb break="no"/>tor shall for ever employ my heart and 
+         <lb/>tongue.
+       </p>
+       <p>
+       He was then silent; and, resting all his 
+       <lb/>hopes on the goodness of Providence, de-
+         <pb/>
+         <lb break="no"/>termined to go and serve his new master. 
+         <lb/>Returning from the field, he found <persName>Testa-
+           <lb break="no"/>dor</persName> waiting to convey him away. While 
+         <lb/>tears flowed down his cheeks, he sighed a 
+         <lb/>faint farewell to <persName>Selictor</persName> and <persName>Sequida</persName>, who 
+         <lb/>could scarce refrain from shedding tears. 
+         <lb/>On this occasion, deep sighs alone interrup-
+         <lb break="no"/>ted a long silence that ensued, which seem-
+         <lb break="no"/>ed to say, ‘I fear we have not done right 
+         <lb/>in thus disposing of this member of our 
+         <lb/>family.’ But a review of the money just 
+         <lb/>received soon dissipated the gloom.
+       </p>
+     </div>
+     
+    <div type="section">
+    <head style="text-align:center">CHAP. III.</head>
+    <p>
+      <persName>SELICTOR</persName>, finding his strength daily wast-
+      <lb break="no"/>ing, and wishing to have nothing undone 
+      <lb/>which might ensure the tranquility of the 
+      <pb/>
+      <lb/>family, sent for <persName>Omri</persName>, a neighbouring 
+      <lb/>friend, who was likewise his physician.—
+      <lb/><persName>Omri</persName> being come, he delivered him the 
+      <lb/>bag containing the money which he had re-
+      <lb break="no"/>ceived for <persName>Azem</persName>, together with all his o-
+      <lb break="no"/>ther interest; enjoining and requiring of 
+      <lb/>him, that, after his death, he should see 
+      <lb/>the whole equally divided between his wife 
+      <lb/>and children. This <persName>Omri</persName> promised, deep-
+      <lb break="no"/>ly impressed with the importance of the 
+      <lb/>trust reposed in him; and grieved to think 
+      <lb/>the situation of his friend demanded such 
+      <lb/>assistance.
+    </p>
+      <p>
+        Soon after this <persName>Selictor</persName> died, lamented 
+        <lb/>by all his acquaintance. Meanwhile, <persName>A-
+          <lb break="no"/>zem</persName> was employed in the service of his 
+        <lb/>new master: But that love of liberty which 
+        <lb/>grows natural in the breast of every man, 
+        <lb/>had already taken too deep root for his qui-
+        <lb break="no"/>et. His situation became hourly more 
+        <pb/>
+        <lb/>painful. To extricate himself from this 
+        <lb/>load of misery, he was determined to make 
+        <lb/>one effort, and leave the event to fate.
+      </p>
+      <p>
+       With this view, he arose at midnight, 
+        <lb/>and deserted from <persName>Testador’s</persName> house. All 
+        <lb/>that night, and the next day, he fled; to 
+        <lb/>his speed hope and fear lent wings: But 
+        <lb/>when another night was come, his weary 
+        <lb/>limbs demanded repose. Near the foot of 
+        <lb/>a hill, covered only by the canopy of hea-
+        <lb break="no"/>ven and the branches of an oak, upon the 
+        <lb/>green turf he laid himself down, and fell 
+        <lb/>into a sound sleep. He had not rested long, 
+        <lb/>when a voice like thunder seemed to sound 
+        <lb/>in his ear. It cryed, ‘Return, O <persName>Azem</persName>, 
+        <lb/>to thy master. Have patience, and thou 
+        <lb/>shalt be free.’ Startled at the sound, he 
+        <lb/>sprang upon his feet, and, musing a mo-
+        <lb break="no"/>ment upon what he had heard, soon deter-
+        <lb break="no"/>mined to obey the voice, and trust his free-
+        <pb/>
+        <lb break="no"/>dom to the care of Providence. Immedi-
+        <lb break="no"/>ately he began his return, and before the 
+        <lb/>next day’s sun was set he arrived at his mas-
+        <lb break="no"/>ter’s house.
+      </p>
+      <p>
+        <persName>Testador</persName>, transported to find that he had 
+        <lb/>not lost his money, so lately paid for <persName>A-
+          <lb break="no"/>zem</persName>, received him again with open arms, 
+        <lb/>and put him to his usual employ, without 
+        <lb/>the least correction.
+      </p>
+      <p>
+       After this, for several tedious moons, 
+        <lb/><persName>Azem</persName> followed his business with diligence; 
+        <lb/>but, finding no relief arise, again grew dis-
+        <lb break="no"/>consolate. One evening, after the labour 
+        <lb/>of the day was finished, he went to the 
+        <lb/>house of <persName>Omri</persName>, in whose hands was depo-
+        <lb break="no"/>sited his late master’s interest. <persName>Omri</persName> was 
+        <lb/>a man who possessed but a small property 
+        <lb/>in the world; yet his feelings were tender, 
+        <lb/>and his compassion as universal as the suf-
+        <pb/>
+        <lb break="no"/>ferings of his fellow-creatures. He had, 
+        <lb/>very early in life, contracted a strong be-
+        <lb break="no"/>lief that all men were his brothers and his 
+        <lb/>equals by nature, and that it was as great a 
+        <lb/>crime to rob or refuse justice to one set or 
+        <lb/>order of men as another. But, as the <choice><orig>situation</orig><reg>situ-
+        <lb break="no"/>ations</reg></choice> of some are irreparably wretched, he 
+        <lb/>always thought it his duty to make such as 
+        <lb/>happy as he could, by persuading them to 
+        <lb/>contentment under their fate.
+      </p>
+      <p>
+        It was with this view that, when <persName>Azem</persName>, 
+        <lb/>with tears in his eyes, requested <persName>Omri</persName> to 
+        <lb/>pity, and, if possible, to relieve him from 
+        <lb/>servitude, he made him no other reply than, 
+        <lb/>‘Be faithful, be honest, and the life to 
+        <lb/>come shall reward you for all your suffer-
+        <lb break="no"/>ings here.’ This answer was far from sa-
+        <lb break="no"/>tisfying <persName>Azem</persName>; but, unable to procure any 
+        <lb/>other, he was obliged to retire without any 
+        <pb/>
+        <lb/>encouragement to his wishes. In his dai-
+        <lb break="no"/>ly labour he again employed himself, de-
+        <lb break="no"/>termining to wait yet longer for the fulfill-
+        <lb break="no"/>ment of that voice which had promised him 
+        <lb/>freedom.
+      </p>
+      <p>
+        Although <persName>Omri</persName> had concealed his feel-
+        <lb break="no"/>ings from <persName>Azem</persName>, yet his bosom glowed 
+        <lb/>with anxiety for his relief; and, if his own 
+        <lb/>circumstances in life would have permit-
+        <lb break="no"/>ted, he would instantly have purchased 
+        <lb/>his freedom. But now how to give him 
+        <lb/>relief he knew not. For a long time after 
+        <lb/><persName>Azem</persName> was gone out he sat mute; at last he 
+        <lb/>broke out in the following exclamation—
+        <lb/>“O God! what has this thy creature done, 
+        <lb/>that thou hast ordained for him eternal 
+        <lb/>chains? Surely thy goodness will not 
+        <lb/>punish without a cause, nor thy mercy 
+        <lb/>inflict without a reason. But thy ways 
+        <pb/>
+        <lb/>are mysterious, thy wisdom unsearcha-
+        <lb break="no"/>ble, and the secrets of thy providence 
+        <lb/>past finding out. I submit.”
+      </p>
+    </div>
+       
+    <div type="section">
+      <head style="text-align:center">CHAP. IV.</head>
+      <p>
+        THE next morning <persName>Pestoli</persName>, <persName>Sequida’s</persName> eld-
+        <lb break="no"/>est son, called upon <persName>Omri</persName> for a part of his 
+        <lb/>father’s legacy, which was deposited in his 
+        <lb/>hands. <persName>Omri</persName> took this opportunity to 
+        <lb/>sound his feelings, and to discover his own 
+        <lb/>mind to him. ‘You see here,’ says he to 
+        <lb/><persName>Pestoli</persName>, ‘this bag, containing the money 
+        <lb/>your father received for <persName>Azem</persName>: It was 
+        <lb/>his request that it should be equally divi-
+        <lb break="no"/>ded between his wife and children. Now 
+        <lb/>tell me, would you not rather have one’s 
+        <lb/>year’s service from <persName>Azem</persName>, than your share 
+        <pb/>
+        <lb/>of the money?’ <persName>Pestoli</persName> answered that he 
+        <lb/>would. ‘Then,’ says <persName>Omri</persName>, ‘I have this 
+        <lb/>proposal to make to you: Let us return 
+        <lb/>this money to <persName>Testador</persName>, and bring <persName>Azem</persName> 
+        <lb/>back to your family; and, after he shall 
+        <lb/>have served each of you faithfully one 
+        <lb/>year, bless him, and let him go out free.’ 
+        <lb/><persName>Pestoli</persName> replied, that, with all his heart, he 
+        <lb/>would comply with the proposition; and, 
+        <lb/>if his mother, his brother and sisters were 
+        <lb/>of the same mind, they would put it in 
+        <lb/>practice immediately: Adding, that he 
+        <lb/>would use his utmost endeavour to per-
+        <lb break="no"/>suade them, if they should not appear in-
+        <lb break="no"/>clined.
+      </p>
+      <p>
+        <persName>Omri</persName> then went with <persName>Pestoli</persName>, to consult 
+        <lb/>his mother first on the subject, as her con-
+        <lb break="no"/>sent obtained would make it easy to gain 
+        <lb/>the approbation of the others concerned. 
+        <lb/><persName>Omri</persName> informed her of what he had been 
+        <pb/>
+        <lb/>talking with her son, and requested to know 
+        <lb/>her opinion in the matter. <persName>Sequida</persName>, with-
+        <lb break="no"/>out taking time to reflect, directly answered 
+        <lb/>that she had sold him, and that he would 
+        <lb/>remain a servant for ever, for ought she 
+        <lb/>should do to prevent it: that he was impu-
+        <lb break="no"/>dent and ungrateful, and would very proba-
+        <lb/>bly be idle, if not commit some great crime, 
+        <lb/>if he was free, and left to himself.
+      </p>
+      <p>
+        <persName>Omri</persName>, finding her stedfast in her mind, 
+        <lb/>made no reply, but immediately retired, 
+        <lb/>and gave up his plan as totally lost.
+      </p>
+      <p>
+        The next morning, <persName>Leandi</persName>, <persName>Sequida’s</persName> 
+        <lb/>youngest son, came and requested of <persName>Omri</persName> 
+        <lb/>that he would visit his mother; for that she 
+        <lb/>was impatient to see him, and desired him 
+        <lb/>to attend her immediately. <persName>Omri</persName>, without 
+        <lb/>delay, obeyed the summons; and, coming 
+        <lb/>into the room where <persName>Sequida</persName> was, found her 
+        <pb/>
+        <lb/>seated on a sofa, perusing a chapter in the 
+        <lb/><bibl>Alcoran</bibl>. When she beheld <persName>Omri</persName>, she 
+        <lb/>desired him to draw near, and sit down 
+        <lb/>with her upon the sofa; and, when she had 
+        <lb/>commanded all her children to be present, 
+        <lb/>she said, ‘This night have I been troubled 
+        <lb/>in my sleep, and a dream most strange 
+        <lb/>hath disturbed my repose. I have as yet 
+        <lb/>told it to no person; but have sent for 
+        <lb/>thee, in order, if possible, to gain some 
+        <lb/>assistance in finding out the meaning 
+        <lb/>thereof. In my dream, I thought myself 
+        <lb/>seated upon the bank of a most beautiful 
+        <lb/>river, the waters of which were pure; and 
+        <lb/>the winds, which gently blew, brought to 
+        <lb/>my sense a most pleasant odour from a 
+        <lb/>neighbouring grove of spices; and all 
+        <lb/>nature seemed combined to render the 
+        <lb/>scene beyond imagination agreeable. I 
+        <lb/>was deeply engaged in viewing the many 
+        <pb/>
+        <lb/>beauties in the midst of which I was pla-
+        <lb break="no"/>ced; when, casting my eyes towards 
+        <lb/>the fountain from whence the river flow-
+        <lb break="no"/>ed, I beheld a man walking apace tow-
+        <lb break="no"/>ards me. In his countenance a ray of 
+        <lb/>divinity seemed to shine; his aspect was 
+        <lb/>serene, and his walk majestic. In his 
+        <lb/>right hand he held what to me appeared a 
+        <lb/>large branch of wormwood, and in his 
+        <lb/>left an earthen vessel. As he drew near, 
+        <lb/>I saw him bruise the wormwood, and fill 
+        <lb/>the vessel with the juice. He came for-
+        <lb break="no"/>ward; it thundered—and he spake: ‘<persName>Se-
+          <lb break="no"/>quida</persName>, attend! I am <persName>Mahomet</persName>, the seal 
+        <lb/>of all the prophets, the last messenger of 
+        <lb/>God; and, by command from the Great 
+        <lb/>Eternal, have come to bring thee this cup 
+        <lb/>of nectar, this most delicious draught, this 
+        <lb/>wine of heaven. Thus saying, he offer-
+        <lb break="no"/>ed me the cup; but, as I thought I knew 
+        <pb/>
+        <lb/>the bitterness it contained, I refused to 
+        <lb/>take thereof. He then assured me that I 
+        <lb/>was ignorant of what pleasure the cup 
+        <lb/>contained; adding, that if it was in real-
+        <lb break="no"/>ity as disagreeable as I supposed, I ought 
+        <lb/>to take it, in compliance with his com-
+        <lb break="no"/>mand, especially since he had showered 
+        <lb/>so many blessings and sweets around me. 
+        <lb/>I still refused to take the cup. Reflect-
+        <lb break="no"/>ing with myself what was best to be done, 
+        <lb/>and casting my eyes across the river, I be-
+        <lb break="no"/>held <persName>Selictor</persName>, my late husband. He stood 
+        <lb/>on the opposite bank, and, beckoning to 
+        <lb/>me, cried aloud, as if he was anxious to 
+        <lb/>have me understand him: But so great 
+        <lb/>was the distance between us, that I could 
+        <lb/>hear nothing that he said, except these 
+        <lb/>words: ‘I wish I had.’ And, while I 
+        <lb/>was yet attending to the voice of <persName>Selictor</persName>, 
+        <lb/>I beheld, and lo! the stream that passed 
+        <pb/>
+        <lb/>between us grew filthy; at the same time 
+        <lb/>a furious east wind began to rise, which 
+        <lb/>immediately blasted all the flowers around 
+        <lb/>me. <persName>Mahomet</persName>, (who was yet standing 
+        <lb/>silently by) with a commanding austerity 
+        <lb/>in his looks, again offered me the cup, 
+        <lb/>saying, ‘Refuse not to drink this heaven-
+        <lb break="no"/>ly draught, and all the pleasures that so 
+        <lb/>lately surrounded you shall be restored 
+        <lb/>tenfold.’ I then, though with reluctance, 
+        <lb/>took the cup, and instantly drank of the 
+        <lb/>contents; when, to my great surprise, I 
+        <lb/>discerned the cup to be made of the finest 
+        <lb/>gold; and, instead of the bitterness which 
+        <lb/>I thought it contained, never did I taste 
+        <lb/>such a pleasing cordial. Immediately the 
+        <lb/>river resumed its wonted pureness, the ro-
+        <lb break="no"/>ses upon the banks blossomed afresh, and 
+        <lb/>all nature smiled like the garden of Para-
+        <lb break="no"/>dise. In the midst of this happy scene, 
+        <pb/>
+        <lb/>my sleep departed from me; I awoke, and 
+        <lb/>behold it was a dream.”
+      </p>
+      <p>
+        After <persName>Sequida</persName> had thus told her dream, 
+        <lb/>her children expressed their surprize; and 
+        <lb/>all desired to know the interpretation: 
+        <lb/>When <persName>Omri</persName>, arising from his seat, thus ad-
+        <lb break="no"/>dressed himself to them:—‘My friends, God 
+        <lb/>is surely to be praised, who taketh such 
+        <lb/>various means to instruct us in his law, 
+        <lb/>and keep our wandering steps in the path 
+        <lb/>of duty. Although I have never pretend-
+        <lb break="no"/>ed to understand dreams, or thought my-
+        <lb break="no"/>self able to explain the truths of God re-
+        <lb break="no"/>vealed in visions; yet methinks, at this 
+        <lb/>time, I feel myself inspired, and fully e-
+        <lb break="no"/>qual to the task: And if I should be assu-
+        <lb break="no"/>red that you would listen with obedience 
+        <lb/>to what may be enjoined with pleasure, I 
+        <lb/>would attempt to unfold the sacred mys-
+        <lb break="no"/>tery.’
+      </p>
+      <p>
+        <persName>Sequida</persName> then replied, that she hoped <persName>Om-
+          <lb break="no"/>ri</persName> did not think her so far inclined to vice, 
+          <lb/>as to refuse compliance with whatever might 
+          <lb/>appear to be the will or law of Heaven: 
+          <lb/>that if he would make known the interpre-
+          <lb break="no"/>tation of her dream, he should not be un-
+          <lb break="no"/>rewarded; and that she should think it not 
+          <lb/>only her duty, but a pleasure to obey what-
+          <lb break="no"/>ever it might command. <persName>Omri</persName> replied, 
+          <lb/>that he should accept of no other reward 
+          <lb/>than the joy her obedience would give him; 
+          <lb/>and, being now convinced of that, if they 
+          <lb/>would hear him without interruption, he 
+          <lb/>would attempt to explain the whole. All 
+          <lb/>were silent, and <persName>Omri</persName> thus began, address-
+          <lb break="no"/>ing himself to <persName>Sequida</persName>.
+      </p>
+      <p>
+       ‘The bank of roses upon which you was 
+       <lb/>seated, is the plenty that now surrounds 
+        <lb/>you. The river is life, which is daily 
+        <lb/>passing and fleeting away. The man you 
+        <pb/>
+        <lb/>saw walking towards you was indeed <persName>Ma-
+          <lb break="no"/>homet</persName>, our holy law-giver. He cried, 
+        <lb/>‘attend,’ and offered you a cup to drink, 
+        <lb/>which you ignorantly thought was filled 
+        <lb/>with bitterness. By this cup is intended 
+        <lb/>the liberty of <persName>Azem</persName>, which he declares 
+        <lb/>you ought not only to give in compliance 
+        <lb/>with his command, but because he has 
+        <lb/>showered so many blessings around you, 
+        <lb/>whereby you are enabled to live in plenty 
+        <lb/>without the price of his freedom. But, 
+        <lb/>as these motives were not alone suffici-
+        <lb break="no"/>ent to persuade you, he suffered you to see 
+        <lb/><persName>Selictor</persName> on the opposite shore of life, anx-
+        <lb break="no"/>iously beckoning to you not to let this op-
+        <lb break="no"/>portunity pass, without doing what you 
+        <lb/>heard him say, ‘I wish I had.’  And, as 
+        <lb/>you did not comply with the request, the 
+        <lb/>river grew filthy, and the flowers faded 
+        <lb/>around you. By this you are threatened, 
+        <pb/>
+        <lb/>that, if you refuse freedom to <persName>Azem</persName>, your 
+        <lb/>course of life shall become troubled, and 
+        <lb/>the plenty that you now enjoy shall fade 
+        <lb/>and waste away. But, as all those joys 
+        <lb/>were returned when you drank of the con-
+        <lb break="no"/>tents of the cup, and found, to your sur-
+        <lb break="no"/>prise, that it contained a most pleasant 
+        <lb/>cordial; so you are here taught, that, how-
+        <lb break="no"/>ever disagreeable the thought of giving 
+        <lb/>him freedom doth now appear, yet that if 
+        <lb/>once done, you would be sensible of far 
+        <lb/>greater heart-felt satisfaction than you e-
+        <lb break="no"/>ver experienced before. This is the true 
+        <lb/>interpretation of your dream; be you, 
+        <lb/>therefore, not unwilling to obey the voice 
+        <lb/>of God, whose tender mercies continue 
+        <lb/>over all his works, who heareth the young 
+        <lb/>ravens when they cry to him for food, and 
+        <lb/>who hath kindly taken this method to in-
+        <lb break="no"/>form you of your duty, and to deliver one 
+        <pb/>
+        <lb/>of his children from the bonds of servi-
+        <lb break="no"/>tude and distress.’
+      </p>
+      <p>
+        When <persName>Omri</persName> had thus explained the vi-
+        <lb break="no"/>sion, <persName>Pestoli</persName> and his two sisters, immedi-
+        <lb break="no"/>ately and at once, declare that they will 
+        <lb/>never defile their hands with the money 
+        <lb/>bought with <persName>Azem’s</persName> liberty; but that if he 
+        <lb/>would consent to serve them for a time, 
+        <lb/>they should esteem it a privilege, but not 
+        <lb/>their due. <persName>Sequida</persName> then replied, that she 
+        <lb/>knew not how soon she might want her share 
+        <lb/>of the money: that if he was free he might 
+        <lb/>commit some crime, which he would not 
+        <lb/>be liable to if kept in servitude. To this 
+        <lb/><persName>Omni</persName> returned: ‘Madam, you are already 
+        <lb/>far advanced in years, and the interest that 
+        <lb/>you are already possessed of will, in all 
+        <lb/>human probability, be more than suffici-
+        <lb break="no"/>ent to carry you through the world; and 
+        <lb/>why will you not give that which you 
+        <pb/>
+        <lb/>cannot use here, to some charitable pur-
+        <lb break="no"/>pose, in order to insure to yourself an en-
+        <lb break="no"/>trance into the joys of Paradise? The 
+        <lb/>freedom of <persName>Azem</persName> is a very important ob-
+        <lb break="no"/>ject, and has been pointed out by a vision 
+        <lb/>from heaven; and your fear that he will 
+        <lb/>commit some crime, if you bestow on him 
+        <lb/>the blessings of freedom, is not well found-
+        <lb break="no"/>ed. Have you not brought him up as one 
+        <lb/>of your own children? Have you not 
+        <lb/>taught him to read the <bibl>Alcoran</bibl>, and in-
+        <lb break="no"/>structed him in the moral law? And from 
+        <lb/>what cause can you suppose that he would, 
+        <lb/>if free, be inclined to vice?  Have not 
+        <lb/>freemen more motives to honestly than ser-
+        <lb break="no"/>vants? Surely yes; they have a character 
+        <lb/>to support, which a servant has not; and 
+        <lb/>they have as much punishment to fear 
+        <lb/>as the meanest slave. Let us, therefore, 
+        <lb/>no longer dispute the will of Heaven: 
+        <pb/>
+        <lb/>For, although the cup appeared to be made 
+        <lb/>of earth, and to contain nothing but the 
+        <lb/>juice of wormwood, yet are we assured by 
+        <lb/>our holy prophet that it is formed of the 
+        <lb/>purest gold, and contains the most plea-
+        <lb break="no"/>sant cordial. Hesitate no longer on the 
+        <lb/>subject, lest you are suddenly called to 
+        <lb/>the court of heaven, to answer for this 
+        <lb/>refusal or neglect. When too late, you 
+        <lb/>will cry, ‘I wish I had;’ and, through a 
+        <lb/>long series of eternity, lament that you 
+        <lb/>now omitted to do that which might have 
+        <lb/>insured to yourself peace of conscience, 
+        <lb/>joy in reflection, and happiness for ever-
+        <lb break="no"/>more.’ Here <persName>Omri</persName> ended, and tears, like 
+        <lb/>torrents, rolled down <persName>Sequida’s</persName> face. For 
+        <lb/>a while she sat silent, not knowing what to 
+        <lb/>answer: At length she clasped <persName>Omri</persName> by 
+        <lb/>the hand, and said, ‘My friend, my war-
+        <lb break="no"/>mest thanks are due to you, for the pains 
+        <pb/>
+        <lb/>you have taken in explaining to me my 
+        <lb/>duty. May my God forgive my late un-
+        <lb break="no"/>willingness to obey his commands.—
+        <lb/>With pleasure I now consent to the free-
+        <lb break="no"/>dom of <persName>Azem</persName>, and with joy will forego 
+        <lb/>my share of the money to deliver him 
+        <lb/>from servitude.’
+      </p>
+      <p>
+        <persName>Leandi</persName>, who had not yet spoke upon the 
+        <lb/>subject, then said that he had no objection 
+        <lb/>to <persName>Azem’s</persName> freedom; but that he thought it 
+        <lb/>reasonable that he should make them some 
+        <lb/>amends for the money they must return to 
+        <lb/>purchase his liberty. <persName>Omri</persName> replied, that, 
+        <lb/>without a doubt, <persName>Azem</persName> would repay them 
+        <lb/>in the manner he had proposed to <persName>Sequida</persName> 
+        <lb/>yesterday, which was, that he would serve 
+        <lb/>each of them for the term of one year—
+        <lb/>which, if faithfully done, would be more 
+        <pb/>
+        <lb/>valuable than a share in the money which 
+        <lb/>their father had received for him.
+      </p>
+      <p>
+       This proposal was immediately agreed to 
+        <lb/>by all; and <persName>Omri</persName> was desired to call upon 
+        <lb/><persName>Testador</persName>, and negociate the business for 
+        <lb/>them.
+      </p>
+      <p>
+        Early the next morning <persName>Omri</persName> went to 
+        <lb/><persName>Testador</persName>; and, having agreed to return the 
+        <lb/>money that had been paid for <persName>Azem</persName>, he 
+        <lb/>sent for him into the room, and told him 
+        <lb/>what was done relating to him, and that his 
+        <lb/>late mistress and her children had agreed, 
+        <lb/>if he would serve each of them faithfully 
+        <lb/>for one year, to let him go out free. This 
+        <lb/>news was so agreeable and so unexpected to 
+        <lb/><persName>Azem</persName>, that he burst forth into tears, and 
+        <lb/>for a time was unable to make any answer: 
+        <lb/>At length, almost overcome with joy, he 
+        <lb/>said, ‘What language shall I use to express 
+        <pb/>
+        <lb/>my gratitude upon this happy occasion? 
+        <lb/>To you, dear Sir, I shall never be able to 
+        <lb/>make such acknowledgments as your kind-
+        <lb break="no"/>ness to me demands, or as my heart would 
+        <lb/>wish. As for my late mistress and her 
+        <lb/>children, if my life should continue, they 
+        <lb/>shall never have occasion to lament this 
+        <lb/>act of generosity to me.’
+      </p>
+      <p>
+        <persName>Azem</persName> then went with <persName>Omri</persName>; and, be-
+        <lb break="no"/>ing come to the house of his late master, 
+        <lb/>his mistress met him at the door, and with 
+        <lb/>looks and words declared that she was 
+        <lb/>pleased with his return.
+      </p>
+      <p>
+        <persName>Azem</persName> then, with a satisfaction which he 
+        <lb/>had never known before, began the service 
+        <lb/>which was to purchase his freedom. So 
+        <lb/>great was the reward promised for his la-
+        <lb break="no"/>bour, that he scarcely deemed it a burden. 
+        <lb/>The five years seemed to him but a <seg xml:id="a010" corresp="#n010">day.</seg><note xml:id="n010" corresp="#a010"> Many US abolitionist groups advocated “gradualist” approaches to slavery, meaning the slow gradual abolition over years rather than immediate emancipation. This was the legal approach in <placeName>New York</placeName> and <placeName>Pennsylvania</placeName>, for instance.</note>
+        <lb/>How he should serve most faithfully, and 
+        <pb/>render the most essential service to his mis-
+        <lb break="no"/>tress and family, was now his only study. 
+        <lb/>He now viewed them as his friends and 
+        <lb/>benefactors, and would have sacrificed his 
+        <lb/>life, if necessary, to have purchased their 
+        <lb/>happiness.
+      </p>
+      <p>
+       Two years he had thus served them, in 
+       <lb/>this profitable and respectful manner, when 
+        <lb/>a circumstance took place which ended in 
+        <lb/>the satisfaction of all.
+      </p>
+    </div>
+       
+    <div type="section">
+      <head style="text-align:center">CHAP. V.</head>
+      <p>
+        <persName>AZEM</persName> was now in the family of <persName>Narina</persName>, 
+        <lb/><persName>Sequida’s</persName> eldest daughter, who was lately 
+        <lb/>married, and had removed with her husband 
+        <lb/>into the country of <placeName>Arabia</placeName>, where <persName>Sequida</persName> 
+        <lb/>had just come on a visit. <persName>Narina</persName> was very 
+        <lb/>beautiful, and had drawn the attention of 
+        <pb/>
+        <lb/>a young Arab, who, becoming violently 
+        <lb/>enamoured, was determined to take an op-
+        <lb break="no"/>portunity, and by some means, if possible, 
+        <lb/>possess the lovely <persName>Narina</persName>. He had con-
+        <lb break="no"/>certed many plans for this purpose; but 
+        <lb/>all to no effect. At length, being informed 
+        <lb/>that her husband was gone to a neighbour-
+        <lb break="no"/>ing town, he was determined to put in prac-
+        <lb break="no"/>tice his violent design. In the afternoon, 
+        <lb/><persName>Narina</persName> and her mother walked out into the 
+        <lb/>field to view the beauties of nature. The 
+        <lb/>young Arab, who had carefully watched 
+        <lb/>them all day, in order to find some oppor-
+        <lb break="no"/>tunity to put his lustful intention into prac-
+        <lb break="no"/>tice, soon followed them; and coming up 
+        <lb/>with <persName>Narina</persName>, fell down on his knees be-
+        <lb break="no"/>fore her, and declared his passion and love 
+        <lb/>for her. <persName>Narina</persName>, surprised, expressed her 
+        <lb/>indignation, and bid him begone. Her mo-
+        <lb break="no"/>ther declared her astonishment, and ex-
+        <pb/>
+        <lb/>claimed against his rudeness. But the lust-
+        <lb break="no"/>ful Arab, not moved nor altered in his in-
+        <lb break="no"/>tent by all they could say, taking violent 
+        <lb/>hold of <persName>Narina</persName>, was going to execute his 
+        <lb/>infernal intention, when <persName>Azem</persName>, who was 
+        <lb/>at work in an adjoining field, heard the 
+        <lb/>shrieks of his young mistress, and, just in 
+        <lb/>time to save her virtue, came to her relief. 
+        <lb/>The Arab, intoxicated with lust, did not ob-
+        <lb break="no"/>serve his coming; and <persName>Narina</persName>, who had 
+        <lb/>struggled till her strength was gone, was 
+        <lb/>just yielding to her ravisher. At this in-
+        <lb break="no"/>stant <persName>Azem</persName> arrived, and, with one stroke 
+        <lb/>of a club, broke the villain’s head. He 
+        <lb/>then took Narina by the hand, and lifted 
+        <lb/>her up. <persName>Sequida</persName>, at the violence offered 
+        <lb/>her daughter, had fainted, and was just now 
+        <lb/>come to herself; when <persName>Azem</persName>, going to 
+        <lb/>her, lifted her also from the ground; and, 
+        <pb/>
+        <lb/>supporting <persName>Sequida</persName> with one hand, and <persName>Na-
+          <lb break="no"/>rina</persName> with the other, led them to the house.
+      </p>
+      <p>
+        They had but just arrived when <persName>Narina’s</persName> 
+        <lb/>husband. Being informed of <persName>A-
+          <lb break="no"/>zem’s</persName> fidelity, he blest him a thousand 
+        <lb/>times; and, to reward him for the service 
+        <lb/>he had done, gave him free from any oth-
+        <lb break="no"/>er servitude that was due to him—and be-
+        <lb break="no"/>stowed on him two hundred sequins, that 
+        <lb/>he might buy his freedom from those he 
+        <lb/>had yet to serve. But, as <persName>Azem</persName> had thus 
+        <lb/>endeared himself to all the family; by this 
+        <lb/>virtuous act, they refused to take the mo-
+        <lb break="no"/>ney; but bade him go free, and deserve 
+        <lb/>their blessing and friendship for ever.
+      </p>
+    </div>
+       
+    <div type="section">
+      <head style="text-align:center">CHAP. VI.</head>
+      <p>
+       WITH how little foresight is man endow-
+       <lb break="no"/>ed! Engaged in the pursuit of any favour-
+        <lb break="no"/>ite object, he views with indifference all 
+        <lb/>other considerations, and fancies to himself 
+        <lb/>that he shall possess complete felicity, if he 
+        <lb/>should once obtain this darling of his soul. 
+        <lb/>With this conviction he overleaps moun-
+        <lb break="no"/>tains of difficulty and danger. The deep-
+        <lb/>gaping wave, the scorching sand, or fro-
+        <lb break="no"/>zen wild, he traverses with patient forti-
+        <lb break="no"/>tude. Opposition but increases his desire, 
+        <lb/>and confirms him in perseverance. Should 
+        <lb/>a friend attempt to dissuade him from his 
+        <lb/>career, by pointing out an object equally 
+        <lb/>valuable, and attainable with ease, he stops 
+        <lb/>his ears with inattention, or opens his mouth 
+        <lb/>with ridicule, nor rests nor turns aside from 
+        <lb/>his pursuit. His midnight pillow is distur-
+        <pb/>
+        <lb break="no"/>bed with future plans, and every day is as-
+        <lb break="no"/>siduously employed, until Heaven, to shew 
+        <lb/>the folly of his anxiety, grants him full pos-
+        <lb break="no"/>session of that which he has so long and ar-
+        <lb break="no"/>dently sought for. Now ask him if his ex-
+        <lb break="no"/>pectations of happiness are realized—ask 
+        <lb/>him if his slumbers are more quiet, or his 
+        <lb/>days more pleasingly employed than be-
+        <lb break="no"/>fore? He tells you no. Some unexpected 
+        <lb/>circumstance has blasted half his joys; 
+        <lb/>some latent thorn, sharp-pointed, has prick-
+        <lb break="no"/>ed his finger while he plucked the rose, 
+        <lb/>the anguish of which disturbs the felicity 
+        <lb/>of possession.
+      </p>
+      <p>
+       The truth of these observations were ne-
+       <lb break="no"/>ver more evident than in the sequel of this 
+        <lb/>history.
+      </p>
+    </div>
+       
+    <div type="section">
+      <head style="text-align:center">CHAP. VII.</head>
+      <p>
+        <persName>AZEM</persName> had no sooner gained his freedom, 
+        <lb/>and, in this respect, had all his wishes gra-
+        <lb break="no"/>tified, than <emph style="font­-style: italic">Love</emph>, that haughty sovereign of 
+        <lb/>the youthful breast, began to issue his com-
+        <lb break="no"/>mands, and re-kindle in the bosom a spark 
+        <lb/>which before had scarcely been perceived. 
+        <lb/>While his mind was engaged in plans to 
+        <lb/>gain his native liberty, the soft dictates of 
+        <lb/>this passion were but faintly known, even 
+        <lb/>to himself. But now his recollection a-
+        <lb break="no"/>wakes, and nature beasts in every pulse.—
+        <lb/>So the gay goldfinch, once encaged, for-
+        <lb break="no"/>gets his mate, and all those dear sensations 
+        <lb/>that inspired his youthful breast, while he, 
+        <lb/>unbounded, roved from spray to <seg xml:id="a011" corresp="#n011">spray</seg><note xml:id="n011" corresp="#a011"><term style="font-style: italic">Spray</term>: small or tender twigs or shrubs.</note>: 
+        <lb/>But if some lucky chance should break his 
+        <pb/>
+        <lb/>wirey prison, how quick he springs, slides 
+        <lb/>through the aperture, and gains at once his 
+        <lb/>liberty and love.
+      </p>
+    </div>
+       
+    <div type="section">
+      <head style="text-align:center">CHAP. VIII.</head>
+      <p>
+        WHILE Azem was in the service of <persName>Tes-
+          <lb break="no"/>tador</persName>, he accidentally became acquainted 
+        <lb/>with <persName>Alzina></persName>, who had also been taken from 
+        <lb/>her native country, and was then a servant 
+        <lb/>in a neighbouring family.
+      </p>
+      <p>
+        <persName>Testador’s</persName> house was <choice><orig>situate</orig><reg>situated</reg></choice> upon the 
+        <lb/>bank of a small stream, which, after leav-
+        <lb break="no"/>ing his <seg xml:id="a012" corresp="#n012">plantation,</seg><note xml:id="n012" corresp="#a012"><term style="font-style: italic">Plantation</term>: in <date when="1801">1801</date>, the term designated large farming estates, sometimes but not always implying slave labor.</note> unites itself with <placeName>the ri-
+          <lb break="no"/>ver Tenun</placeName>. The country westward upon 
+        <lb/>the banks of this river, for one hundred 
+        <lb/>furlongs, is pleasant beyond compare.  Na-
+        <lb break="no"/>ture and art have here united their utmost 
+        <pb/>
+        <lb/>skill, in forming a landscape suited to cap-
+        <lb break="no"/>tivate the imagination of every beholder. 
+        <lb/>Usefulness and beauty, in this place, have 
+        <lb/>kissed each other. From the alcove of <persName>Tes-
+          <lb break="no"/>tador’s</persName> house, to the west, an extensive 
+        <lb/>plain salutes the eye: This is divided into 
+        <lb/>numerous square and well-cultivated fields, 
+        <lb/>in some of which the ripening grain bends 
+        <lb/>with the wind; in some, the loaded fruit-
+        <lb/>trees, the lemon and the golden orange, ri-
+        <lb break="no"/>pen; and in others grazing herds of horses, 
+        <lb/>goats and oxen, move along the pastures, 
+        <lb/>or rest reclined upon their grassy bed. The 
+        <lb/>small, but neat and convenient buildings 
+        <lb/>erected in each plantation, adorn the view, 
+        <lb/>and tempt the beholder to give to this de-
+        <lb break="no"/>lightful spot the name of <seg xml:id="a013" corresp="#n013"><placeName>Elysium</placeName>.</seg><note xml:id="n013" corresp="#a013"><term style="font-style: italic">Elysium</term>: in Greek mythology, <placeName>Elysium</placeName> was the final paradisiacal resting place of gods and select human heroes.</note>
+      </p>
+      <p>
+       But, if these plains are beautiful and fer-
+       <lb break="no"/>tile, the country beyond is no less desert 
+        <lb/>and barren. Where these improvements 
+        <pb/>
+      <lb/>terminate, a craggy rock, just cleft in two, 
+        <lb/>admits the passage of the stream. On this 
+        <lb/>shore is a rough foot-path, where goats, and 
+        <lb/>sometimes the inquisitive traveller passes, 
+        <lb/>until the rocks recede, and form a crescent 
+        <lb/>vale, overspread with lofty trees of pine 
+        <lb/>and sycamore.—To this unfrequented place 
+        <lb/><persName>Azem</persName> would often repair, and there lament 
+        <lb/>aloud his wretched fate, and tell the rocks 
+        <lb/>his wishes.
+      </p>
+      <p>
+       One evening, in the autumn of the year, 
+       <lb/>the moon had risen, and, unobscured by 
+      <lb/>clouds, invited him to this his favourite re-
+      <lb break="no"/>treat. He had but just past the rocky foot-
+      <lb break="no"/>way, and was beginning to enter the vale, 
+      <lb/>when, to his great surprise, not far distant 
+      <lb/>he hears a human voice: He stops, and, 
+      <lb/>listening with attention, distinctly hears the 
+      <lb/>following pathetic exclamations.
+      </p>
+      <pb/>
+      <p>
+       ‘O God of nature—author of my exist-
+       <lb break="no"/>ence! hast thou, then, unalterably fixed 
+        <lb/>my fate? are all my future days to be 
+        <lb/>thus worn out in slavery? Which of thy 
+        <lb/>great commands, O my Maker! has my 
+        <lb/>thoughtless infancy violated, that thou hast 
+        <lb/><choice><sic>ordainnd</sic><corr>ordained</corr></choice> this life of wretchedness for me? 
+        <lb/>Snatched in my childhood from the fond 
+        <lb/>bosom of a tender mother, now left child-
+        <lb break="no"/>less, sick and widowed to lament my loss; 
+        <lb/>for my unfortunate father too was doomed 
+        <lb/>to bear me company: But he, alas! deter-
+        <lb break="no"/>mined not to survive the loss of liberty 
+        <lb/>and his native country, plunged, the first 
+        <lb/>opportunity, headlong from the ship, and 
+        <lb/>put a period to all his <seg xml:id="a014" corresp="#n014">sufferings with life.</seg><note xml:id="n014" corresp="#a014">The practice of suicide by jumping overboard was apparently common, and was frequently referenced in abolitionist literature. See <persName>Terri L. Snyder</persName>, <bibl>“Suicide, Slavery, and Memory in North America,”</bibl> <bibl style="font­-style: italic">The Journal of American History</bibl> 97.1 (<date when="2010">2010</date>), 39-62.</note>
+        <lb/>Oh! had his wretched daughter but fol-
+        <lb break="no"/>lowed his example, then should I never 
+        <lb/>have known the severity of a master’s 
+        <lb/>lash, urging me to tasks which my strength 
+        <pb/>
+        <lb/>is unable to perform, or threatening me 
+        <lb/>with violence unless I gratify his lustful 
+        <lb/>passion. Oh! is it not enough that he has 
+        <lb/>embittered all my days with servitude, but 
+        <lb/>would he rob me of chastity, in which 
+        <lb/>consists all my remains of happiness? O 
+        <lb/>God! what can a feeble maid attempt? 
+        <lb/>to whom can she apply for counsel or re-
+        <lb break="no"/>dress? Should I presume to fly this land 
+        <lb/>of oppression, the laws, which ought to 
+        <lb/>protect the injured, are my greatest ene-
+        <lb break="no"/>mies; and certain apprehension and se-
+        <lb break="no"/>vere punishment would most inevitably 
+        <lb break="no"/>be my doom. O God! thou knowest my 
+        <lb/>heart, and seest the anxiety of thy crea-
+        <lb break="no"/>ture. O Thou, who alone givest aid and 
+        <lb/>consolation to the captive! in thee I trust, 
+        <lb/>in thy love and mercy.’—Here she ceas-
+        <lb break="no"/>ed, and, rising up, was just going to re-
+        <lb break="no"/>turn, when she beheld <persName>Azem</persName>, who had now 
+        <pb/>
+        <lb/>approached within a few yards of the fall-
+        <lb break="no"/>en tree on which she had been seated. The 
+        <lb/>sight of a man so near, and in such a lone-
+        <lb break="no"/>ly place, filled her with amazement, and 
+        <lb/>she was about to fly from his presence; 
+        <lb/>which <persName>Azem</persName> perceiving, requested her to 
+        <lb/>compose herself, and consider him as her 
+        <lb/>friend. She stood still, while he drew near, 
+        <lb/>and, taking her by the hand, said, ‘Young 
+        <lb/>lady, you may banish all fear and appre-
+        <lb break="no"/>hension of danger, and consider me as one 
+        <lb/>whom Heaven hath sent to afford sympa-
+        <lb break="no"/>thy, if nothing more, in your present mis-
+        <lb break="no"/>fortunes.’
+      </p>
+      <p>
+       Struck with the familiarity of his coun-
+       <lb break="no"/>tenance, and seeming to recognize his voice, 
+        <lb/>she exclaimed, ‘O my!’ and instantly 
+        <lb/>fainted at his feet. Perceiving her situati-
+        <lb break="no"/>on, he ran instantly to the stream, and, with 
+        <lb/>hands united, dipped the water and besprin-
+        <pb/>
+        <lb break="no"/>kled her face. She soon recovered, and, 
+        <lb/>setting upright, wept aloud. <persName>Azem</persName>, sur-
+        <lb break="no"/>prised, and unable to conjecture what had 
+        <lb/>caused her alarm, or excited her fears, 
+        <lb/>without presuming to approach, thus addres-
+        <lb break="no"/>sed himself to her. ‘Pardon me, madam, 
+        <lb/>if I have undesignedly given you one mo-
+        <lb break="no"/>ment of painful fear or uneasiness. I al-
+        <lb break="no"/>so am a servant, and, like you, deplore 
+        <lb/>the loss of kindred and native country.—
+        <lb/>If our situations are familiar, let our con-
+        <lb break="no"/>fidence and sympathy be mutual.’
+      </p>
+      <p>
+       When she had heard this, hastily wiping 
+       <lb/>off her tears, she arose; and, going toward 
+        <lb/>him, said—‘Pray, Sir, forget my weakness: 
+        <lb/>For the long grief-worn state of my heart 
+        <lb/>has rendered me unable to bear any sur-
+        <lb break="no"/>prise with fortitude.’ He then, taking her 
+        <lb/>again by the hand, requested her, as they 
+        <lb/>walked homeward, to relate to him her past 
+        <pb/>
+        <lb/>life and present situation. A deep sigh 
+        <lb/>burst from her bosom; and she began her 
+        <lb/>history, as in the following chapter.
+      </p>
+    </div>
+       
+    <div type="section">
+      <head style="text-align:center">CHAP. IX.</head>
+      <p>
+       ‘YOUNG as I am, (for I have not reached 
+       <lb/>my sixteenth year) yet have I known mis-
+        <lb break="no"/>fortunes more in number than were 
+        <lb/>scarcely ever experienced by the oldest 
+        <lb/>sufferer. My father, who dwelt upon 
+        <lb/>the northerly bank of <seg xml:id="a015" corresp="#n015"><placeName>the river Senegal</placeName>,</seg><note xml:id="n015" corresp="#a015"><term style="font-style: italic">Senegal</term>: a long river in <placeName>West Africa</placeName>; it was a primary artery for the slave trade dating back to 15C Portuguese expeditions.</note>
+        <lb/>was king over a numerous people, who 
+        <lb/>enjoyed in peace all the blessings of that 
+        <lb/>luxurious country; until the frequent de-
+        <lb break="no"/>predations of the nation who lived upon 
+        <lb/>the opposite shore, leagued with a dis-
+        <lb break="no"/>tant and cruel tribe of barbarians, oblig-
+        <pb/>
+        <lb break="no"/>ed my father, after the loss of <choice><sic>many his</sic><corr>many of his</corr></choice> 
+        <lb/>people, to abandon his native fields.
+      </p>
+      <p>
+       ‘In one of these last struggles to save 
+       <lb/>his country and the freedom of his peo-
+        <lb break="no"/>ple, my only brother, then but eight 
+        <lb/>years old, who followed my father to the 
+        <lb/>place of action to carry arrows, in the 
+        <lb/>tumult of the battle, was accidentally se-
+        <lb break="no"/>parated from him, and lost for ever.—
+        <lb/>How often have I heard my father re-
+        <lb break="no"/>count the horrors of that day, and as of-
+        <lb break="no"/>ten has the bosom of my mother bled 
+        <lb/>with anguish at the tale!—‘Oh! could 
+        <lb/>we (they would say) be certain that he 
+        <lb/>was no more—that some well-aimed 
+        <lb/>spear had pierced his heart—how plea-
+        <lb break="no"/>sant would be the thought. But, alas! 
+        <lb/>we have no such consolation. Perhaps, 
+        <lb/>at this moment, he groans under the bur-
+        <pb/>
+        <lb break="no"/>den of some cruel master, in a strange 
+        <lb/>land, among the barbarians, having no 
+        <lb/>parent to assist, nor friend to comfort.’ 
+        <lb/>Then, clasping their arms around me, 
+        <lb/>they would thank Heaven that I was spa-
+        <lb break="no"/>red to alleviate their misfortunes.
+      </p>
+      <p>
+       ‘Unable to contend with the superior 
+       <lb/>skill of his enemies, my father was com-
+        <lb break="no"/>pelled to fly; and, accompanied by a 
+        <lb/>few of his faithful people, took up his 
+        <lb/>habitation upon the extremes of <seg xml:id="a016" corresp="#n016"><placeName>Zara</placeName>.</seg><note xml:id="n016" corresp="#a016"><term style="font-style: italic">Zara</term>: a river in present day <placeName>Nigeria</placeName>, at a considerable distance inland from the mouth of the <placeName>Senegal River</placeName> in <placeName>West Africa</placeName>.</note>
+      </p>
+      <p>
+       ‘Here, although the means of subsist-
+       <lb break="no"/>ence was scanty, our days were crowned 
+        <lb/>with peace, and our nights with repose.
+      </p>
+      <p>
+       ‘Six years thus passed away; when, 
+       <lb/>one fatal morning, as the day began to 
+        <lb/>dawn, a horde of barbarians broke in up-
+        <lb break="no"/>on our defenceless hut; and, having 
+        <lb/>bound my father’s hands and mine toge-
+        <pb/>
+        <lb break="no"/>ther, compelled us to go before them. 
+        <lb/>At this time my mother was sick, and 
+        <lb/>scarcely able to lift her head from the 
+        <lb/>pillow: But despair and horror increased 
+        <lb/>her strength; and she followed us, ex-
+        <lb break="no"/>claiming, with all her might, ‘Take me, 
+        <lb/>take me also!’ But, without paying the 
+        <lb/>least attention to her cries, they drove us 
+        <lb/>to the shore, and hurried us on board their 
+        <lb/>ship.
+      </p>
+      <p>
+       ‘The horrors of that day no tongue can 
+       <lb/>tell nor heart conceive, whose bitter for-
+        <lb break="no"/>tune has not exposed them to similar suf-
+        <lb break="no"/>ferings. When my father first found our 
+        <lb/>dwelling surrounded, and beheld the en-
+        <lb break="no"/>emy, despair and rage seized his mind; 
+        <lb/>and, with the fury of a lion, he flung aside 
+        <lb/>the door, and rushed upon them, deter-
+        <lb break="no"/>mining to sell his liberty at the highest 
+        <lb/>price. But he had scarce begun the con-
+        <pb/>
+        <lb break="no"/>test, when, from behind, one of the stout-
+        <lb break="no"/>est aimed a blow and felled him to the 
+        <lb/>ground: Then, like a herd of wolves up-
+        <lb break="no"/>on a helpless lamb, they sprung and bound 
+        <lb/>his limbs with cords.
+      </p>
+      <p>
+       ‘While this was doing, another party 
+       <lb/>seized fast on me, and dragged me shriek-
+        <lb break="no"/>ing to my father, whose face, besmeared 
+        <lb/>and clotted over with blood, I scarcely 
+        <lb/>knew. His spirits broken, and sullen in 
+        <lb/>his fate, I never heard him speak until the 
+        <lb/>moment he plunged into the sea; when, 
+        <lb/>with a look of affection, he said, ‘I go to 
+        <lb/>see thy mother: Follow me.’  This I was 
+        <lb/>just about to perform, when one of the 
+        <lb/>sailors drew me back, and thrust me into 
+        <lb/>the hold. There, with a large number 
+        <lb/>of my countrymen, of all ages and con-
+        <lb break="no"/>ditions, I suffered a tiresome and distress-
+        <pb/>
+        <lb break="no"/>ing passage, till we arrived at <seg xml:id="a017" corresp="#n017"><placeName>Tunis</placeName>.</seg><note xml:id="n017" corresp="#a017"><term style="font-style: italic">Tunis</term>: the capital of modern day <placeName>Tunisia</placeName>, and in the early 19C an important port on the <placeName>Barbary coast</placeName> for the traffic of slaves.</note>—
+          <lb/>When taken from my dungeon, I was 
+        <lb/>exposed to sale, and bought by <persName>Valachus</persName>, 
+        <lb/>my present master; in whose service I 
+        <lb/>have, till lately, enjoyed as much satisfac-
+        <lb break="no"/>tion as a remembrance of my past suffer-
+        <lb break="no"/>ings and present servitude would admit. 
+        <lb/>Rich, and unused to any restraint, his pas-
+        <lb break="no"/>sions have surmounted his judgment; and 
+        <lb/>he now solicits me to partake of his un-
+        <lb break="no"/>lawful bed, and to resign in his arms all 
+        <lb/>the consolations of an unspotted mind.—
+        <lb/>To avoid his pursuit, I had wandered in-
+        <lb break="no"/>to this unfrequented valley; and, think-
+        <lb break="no"/>ing myself far from the observation or 
+        <lb/>hearing of any human being, was breath-
+        <lb break="no"/>ing out my soul to Heaven when discov-
+        <lb break="no"/>ered by you.’
+      </p>
+      <p>
+       Here she ended her melancholy tale; 
+       <pb/>
+        <lb/>and, after interchanging mutual sentiments 
+        <lb/>of regard, they parted, their bosoms swollen 
+        <lb/>with grief, each to their respective homes.
+      </p>
+    </div>
+       
+    <div type="section">
+      <head style="text-align:center">CHAP. X.</head>
+      <p>
+       WITH such slow and deliberate steps did 
+        <lb/><persName>Azem</persName> approach his master’s house, that the 
+        <lb/>sun was risen before he entered the yard. 
+        <lb/>Then, seating himself upon the threshold, 
+        <lb/>waiting for the orders of the day, a sum-
+        <lb break="no"/>mons from <persName>Testador</persName> calls him into the 
+        <lb/>house. Here he sees <persName>Omri</persName>, and is inform-
+        <lb break="no"/>ed of the happy resolution that his late mas-
+        <lb break="no"/>ter’s family have taken with respect to him. 
+        <lb/>Transported with these unexpected joyful 
+        <lb/>tidings, his mind overflows with gratitude, 
+        <pb/>
+        <lb/>and all his thoughts become absorbed with 
+        <lb/>the sweet hope of liberty.
+      </p>
+      <p>
+        Here he quits <persName>Testador’s</persName> house, and, with 
+        <lb/>a new-felt satisfaction, begins his service in 
+        <lb/><persName>Sequida’s</persName> family. Here he might have en-
+        <lb break="no"/>joyed a comfortable share of happiness, had 
+        <lb/>he not been witness to <persName>Alzina’s</persName> sufferings. 
+        <lb/>His anxiety for her situation often led him 
+        <lb/>to her master’s house; who, observing his 
+        Klb/frequent visits, soon learned their mutual 
+        <lb/>attachment, and peremptorily forbid him 
+        <lb/>his house. But this injunction was less se-
+        <lb break="no"/>vere, as <persName>Azem</persName> was now obliged to follow 
+        <lb/>his young mistress into <placeName>Arabia</placeName>. Here his 
+        <lb/>distant situation, his assiduous attention to 
+        <lb/>labour, and, above all, liberty, the prize 
+        <lb/>to which his hopes aspired, absorbed his 
+        <lb/>mind, and blunted all his other passions.
+      </p>
+      <p>
+       Unable to meliorate her situation in any 
+       <lb/>respect, he endeavoured to banish all re-
+        <lb break="no"/>membrance of her from his mind, and to 
+        <lb/>erase, as much as possible, her image from 
+        <lb/>his breast. But no sooner had he saved 
+        <lb/><persName>Narina</persName> from her ravisher, and received his 
+        <lb/>freedom, joined with the thanks and bene-
+        <lb break="no"/>volence of his late mistress and her family, 
+        <lb/>as a recompence for his fidelity, than <persName>Al-
+          <lb break="no"/>zina’s</persName> sorrows invade, and rend his bosom 
+        <lb/>with redoubled poignancy. Without delay 
+        <lb/>he hastens to the house of <persName>Valachus</persName>, hap-
+        <lb break="no"/>py in the pleasing expectation of being a-
+        <lb break="no"/>ble to purchase her freedom with the mo-
+        <lb break="no"/>ney bestowed on him by <persName>Narina’s</persName> husband. 
+        <lb/>Short seemed the distance, and smooth the 
+        <lb/>way, so occupied were all his thoughts 
+        <lb/>with scenes of future felicity. But how 
+        <lb/>great was his disappointment, when in-
+        <lb break="no"/>formed by <persName>Valachus</persName> that he would not, on 
+        <lb/>any terms, liberate <persName>Alzina</persName>!
+      </p>
+      <pb/>
+      <p>
+       Thus disconcerted in the plan from which 
+       <lb/>he had anticipated so much happiness, and 
+        <lb/>being also forbid any personal interview or 
+        <lb/>conversation with <persName>Valachus</persName> or <persName>Alzina</persName>, he 
+        <lb/>retired to the house of <persName>Omri</persName>, in order to 
+        <lb/>obtain the counsel and assistance of that be-
+        <lb break="no"/>nevolent man. <persName>Omri</persName> received him with 
+        <lb/>joy, well pleased that he had so speedily 
+        <lb/>gained his freedom, and rendered such em-
+        <lb break="no"/>inent service to <persName>Selictor’s</persName> family. But 
+        <lb/>when he had heard <persName>Azem’s</persName> present perplex-
+        <lb break="no"/>ity, he declared himself unable to afford 
+        <lb/>any relief: ‘For,’ says he, ‘I know <persName>Val-
+          <lb break="no"/>achus</persName>: His youth and independence of 
+        <lb/>fortune render him callous to the feelings 
+        <lb/>of pity, and deaf to the voice of reason. 
+        <lb/>He has but just entered upon his large pa-
+        <lb break="no"/>ternal inheritance; and, flushed with that 
+        <lb/>self-importance which generally attends 
+        <lb/>wealth newly acquired, will, I know, be 
+        <pb/>
+        <lb/>obstinate against any argument that may 
+        <lb/>be employed to alter him from what his 
+        <lb/>passions may seem to dictate, or his will 
+        <lb/>determine. But, however, tarry with me 
+        <lb/>to day, and to-morrow, if I can be in-
+        <lb break="no"/>strumental in preparing her freedom, as 
+        <lb/>I have yours, I shall think my time well 
+        <lb/>employed.’ <persName>Omri</persName> then retired, without 
+        <lb/>giving time for reply, leaving him to ru-
+         <lb break="no"/>minate alone upon his present difficulties.
+      </p>
+    </div>
+       
+    <div type="section">
+      <head style="text-align:center">CHAP. XI.</head>
+      <p>
+        THE present state of <persName>Azem’s</persName> mind would 
+        <lb/>be difficult to describe: Gratitude to his 
+        <lb/>benefactor, disappointment, and fear, each 
+        <lb/>claim an undivided share of all his thoughts, 
+        <lb/>and, with a resistless load, press his swel-
+        <pb/>
+        <lb break="no"/>ling bosom. Agitated with the contrary im-
+        <lb break="no"/>pulse of these opposite passions, half dis-
+        <lb break="no"/>tracted, he roves about the apartment.—
+        <lb/>Sometimes he reclines himself upon a so-
+        <lb break="no"/>fa; then, suddenly springing up, walks to 
+        <lb/>and fro across the room, venting his feel-
+        <lb break="no"/>ings in the following soliloquy.
+      </p>
+      <p>
+       ‘What are the pleasures of life to me! 
+       <lb/>In what state am I to expect enjoyment? 
+        <lb/>I, who have been from early youth con-
+        <lb break="no"/>stantly nursed in the school of misery, 
+        <lb/>am, it seems, never to know a change of 
+        <lb/>fortune! With what keen anxiety did I 
+        <lb/>lately sigh for freedom! How many labo-
+        <lb break="no"/>rious days, how many wakeful nights, 
+        <lb/>have I spent in revolving plans to acquire 
+        <lb/>that (then thought) joy-giving boon; which, 
+        <lb/>now obtained, proves but the source of 
+        <lb/>new distress—a thorn which never would 
+        <lb/>have wounded my repose in servitude! 
+        <pb/>
+        <lb/>But Heaven, which was has interposed in my 
+        <lb/>behalf, will not surely abandon the more 
+        <lb/>deserving <persName>Alzina</persName>, but, in due time, pro-
+        <lb break="no"/>vide <choice><orig>mean</orig><reg>means</reg></choice> for her relief: Then will we 
+        <lb/>drink together at the fountain of felicity, 
+        <lb/>and drown all our former sufferings in a 
+        <lb/>constant tide of transport.’
+      </p>
+      <p>
+       Hope and love, life’s cordials, now gain-
+       <lb break="no"/>ing the ascendency over his desponding 
+        <lb/>soul, he determines to make another effort 
+        <lb/>to move <persName>Valachus</persName>—another attempt to gain 
+        <lb/>her freedom, in whose happiness his whole 
+        <lb/>life centered, and without whose liberty 
+        <lb/>his own heart is chained to eternal bondage. 
+        <lb/>Thus animated, he wrote the following ad-
+        <lb break="no"/>dress to <persName>Valachus</persName>.
+        <floatingText>
+          <body>
+       ‘Forbidden a personal interview, I have 
+       <lb/>presumed to obtrude myself in this man-
+        <lb break="no"/>ner into your presence, with hopes of cau-
+        <pb/>
+        <lb break="no"/>sing your heart to compassionate the suf-
+        <lb break="no"/>ferings of two wretched beings, who have 
+        <lb/>nothing to fear but your rigour, and no-
+        <lb break="no"/>thing to hope for beyond your ability to 
+        <lb/>give. Unbred in schools of literature, I 
+        <lb/>can speak but the undisguised dictates of 
+        <lb/>my own heart, in the simple language of 
+        <lb/>nature, relying upon your goodness to 
+        <lb/>pardon whatever may appear too warm or 
+        <lb/>free in this address. For <persName>Alzina’s</persName> free-
+        <lb break="no"/>dom I humbly sue: That you would ac-
+        <lb break="no"/>cept the price of her liberty from me, is 
+        <lb/>our united prayer—the summit of both 
+        <lb/>our wishes. Formed by nature with hearts 
+        <lb/>congenial, we long to spend our days to-
+        <lb break="no"/>gether, and together bless you as our mu-
+        <lb break="no"/>tual benefactor. Sensible that the laws 
+        <lb/>and customs of this country are unfriend-
+        <lb break="no"/>ly to our suit, (I had almost said our 
+        <lb/>right) we place not the least expectation 
+        <pb/>
+        <lb/>of relief on them; but confide wholly in 
+        <lb/>your humanity. Upon your generosity 
+        <lb/>our future destiny depends: And, as you 
+        <lb/>may determine upon this our request, we 
+        <lb/>shall be the happiest of beings, or the most 
+        <lb/>wretched of mortals. Although born in 
+        <lb/>a country far from this, yet do we claim 
+        <lb/>the honour of being formed by the same 
+        <lb/>God of mercy, and by him endowed with 
+        <lb/>the same passions, and the same sensibili-
+        <lb break="no"/>ty to pleasure or pain, whatever early 
+        <lb/>prejudices or education may have taught 
+        <lb/>to the contrary. You will not, then, be 
+        <lb/>surprised, if we cannot forego those en-
+        <lb break="no"/>joyments to which our natures are suited, 
+        <lb/>without a sigh, or quietly give up all 
+        <lb/>ground, all hope of felicity, without a 
+        <lb/>struggle. Was some cruel reverse of for-
+        <lb break="no"/>tune to place you in a situation like mine, 
+        <lb/>would you do less to obtain the liberation 
+        <pb/>
+        <lb/>of her you loved? Your feelings anima-
+        <lb break="no"/>ted, and yourself in possession of liberty, 
+        <lb/>could you behold an amiable female, a 
+        <lb/>native of your own country, in servitude, 
+        <lb/>and not exert every faculty, and employ 
+        <lb/>every means for her relief?—And, Oh, 
+        <lb/>if it be possible, surrounded as you are 
+        <lb/>with every earthly blessing, to fancy your-
+        <lb break="no"/>self thus circumstanced, denied access to 
+        <lb/>the object of your wishes, and your mo-
+        <lb break="no"/>ney proffered for her liberation refused, 
+        <lb/>then may you conceive how wretched is 
+        <lb/>my situation, and guess at the dire hor-
+        <lb break="no"/>rors that must haunt my future days, if 
+        <lb/>unsuccessful in this petition. But when 
+        <lb/>I reflect upon the benevolence of your 
+        <lb/>late father, who constantly practised and 
+        <lb/>taught that sacred precept of our holy Pro-
+        <lb break="no"/>phet, which so expressly enjoins, that we 
+        <lb/>do unto all men as we would wish them 
+        <pb/>
+        <lb/>to return unto us, my spirits revive, and 
+        <lb/>I feel a transport which no other earth-
+        <lb break="no"/>ly consideration can give. Under these 
+        <lb/>impressions I must unceasingly pray for 
+        <lb/>your prosperity; and, under every vicissi-
+        <lb break="no"/>tude of life, remain your obliged and ve-
+        <lb break="no"/>ry humble servant.
+      <closer><signed><persName>AZEM</persName>.’</signed></closer>
+          </body>
+        </floatingText>
+      </p>
+    </div>
+    
+    <div type="section">
+      <head style="text-align:center">CHAP. XII.</head>
+      <p>
+       THE next morning he handed his letter 
+        <lb/>to <persName>Omri</persName>, and requested him to plead his 
+        <lb/>cause with <persName>Valachus</persName>. This kind philan-
+        <lb break="no"/>thropist instantly undertakes the office, 
+        <lb/>though impressed with many doubts of the 
+        <lb/>success of his attempt.
+      </p>
+      <pb/>
+      <p>
+        Having found <persName>Valachus</persName> alone, <persName>Omri</persName>, as 
+        <lb/>an introduction to his business, delivered 
+        <lb/>him the letter, and carefully noted his coun-
+        <lb break="no"/>tenance as he read the contents. He had 
+        <lb/>scarcely finished, when, assuming a haugh-
+        <lb break="no"/>ty, imperious air, he threw aside the pa-
+        <lb break="no"/>per, and demanded if he was come to in-
+        <lb break="no"/>terfere in his family concerns? <persName>Omri</persName> an-
+        <lb break="no"/>swered, ‘I have not come to give offence; 
+        <lb/>but hope I shall be able to convince you, 
+        <lb/>that both your duty and interest are on 
+        <lb/>the side of granting this petition.’ <persName>Vala-
+          <lb break="no"/>chus</persName> replied, ‘My desires and my duty 
+        <lb/>are one; and I shall not thank you for 
+        <lb/>any trouble you may take about my in-
+        <lb break="no"/>terest.’ <persName>Omri</persName> returned—‘Consider the 
+        <lb/>happiness which, without any expence, 
+        <lb/>you can now bestow: Think what would 
+        <lb/>have been the determination of my friend, 
+        <lb/>your father, had a like application been 
+        <pb/>
+        <lb/>made to him.’ <persName>Valachus</persName> answered, ‘My 
+        <lb/>determination is fixed;’ and, frowning, 
+        <lb/>left the room.
+      </p>
+      <p>
+        When <persName>Omri</persName> returned, <persName>Azem</persName> flew to 
+        <lb/>meet him; and, with impatience, exclaim-
+        <lb break="no"/>ed, ‘Am I doomed to life or death?’—
+        <lb/>From the eyes of <persName>Omri</persName> a silent tear that 
+        <lb/>moment stole a passage. ‘From your coun-
+        <lb break="no"/>tenance, my generous benefactor,’ con-
+        <lb break="no"/>tinued <persName>Azem</persName>, ‘I learn my destiny: I 
+        <lb/>read my fate in your eyes. I am a 
+        <lb/>wretched being, outcast by Heaven, and 
+        <lb/>am unworthy of your attention. From 
+        <lb/>this hateful place I will depart this mo-
+        <lb break="no"/>ment; this inhospitable shore shall no 
+        <lb/>longer separate me from the place of my 
+        <lb/>nativity. My parents may still survive, 
+        <lb/>and have not yet forgot to mourn the loss 
+        <lb/>of their only son. Some fortunate star 
+        <lb/>may direct me to their dwelling, and en-
+        <pb/>
+        <lb break="no"/>able me to render them that support and 
+        <lb/>defence which the feebleness of their age 
+        <lb/>must now require.’
+      </p>
+      <p>
+        <persName>Omri</persName> would fain have offered him 
+        <lb/>some consolation; but his feelings were 
+        <lb/>too big for utterance: He took him by the 
+        <lb/>hand, and, with grief and sincere affection 
+        <lb/>in his looks, bid him adieu.
+      </p>
+    </div>
+       
+    <div type="section">
+      <head style="text-align:center">CHAP. XIII.</head>
+      <p>
+        QUITE disconsolate, <persName>Azem</persName> repairs to <placeName>Al-
+          <lb break="no"/>giers</placeName>, in order to find means for putting 
+        <lb/>his new resolution into practice.
+      </p>
+      <p>
+       He was so young at the time, and so ma-
+       <lb break="no"/>ny years having elapsed since his captivity, 
+        <lb/>that all remembrance of the name and situ-
+        <pb/>
+        <lb break="no"/>ation of his native country was entirely ef-
+        <lb break="no"/>faced from his memory. But, being invi-
+        <lb break="no"/>ted by a company of merchants, just pre-
+        <lb break="no"/>paring to visit the <placeName>Southern Continent</placeName>, to 
+        <lb/>accompany them in a traffic with the na-
+        <lb break="no"/>tives for ivory and gold-dust, he engages; 
+        <lb/>and, having yet the money bestowed on 
+        <lb/>him at his manumission, he resolves to ven-
+        <lb break="no"/>ture his whole stock with them. But, pre-
+        <lb break="no"/>vious to his departure, he wrote the follow-
+        <lb break="no"/>ing lines, and directed them, inclosed, 
+        <lb/>to <persName>Omri</persName>.
+        <floatingText>
+          <body>
+       FAREWELL the joys that sweet <placeName>Elysium</placeName> moves,
+       <lb/>The flow’ry plains and lofty moving groves:
+       <lb/>Farewell each friend that claims a parting sigh;
+       <lb/>Tho’ absent from my view, you still are nigh		
+       <lb/>My breast, where friendship’s charms can never die.
+       <lb/>Farewell to all; for I must quickly prove
+            <lb/><persName>Alzina’s</persName> absence, and the pangs of love.
+       <lb/>Sighs rise, tears start, slow trembling moves my quill,
+            <lb/>When I would write <persName>Alzina</persName> too farewell:
+            <pb/>
+       <lb/>Yet come it must, though death come at the sound,
+       <lb/>And all my frame sink, trembling, to the ground.
+       <lb/>Heart-moanful, ever-poignant is the woe
+       <lb/>That absent friends must suffer here below:—
+       <lb/>But could I hope that Heav’n had yet design’d
+       <lb/>The joys of freedom for her spotless mind,
+       <lb/>’Twould sooth my mind to peace each absent hour,
+       <lb/>And lock my soul to love’s all-sacred pow’r.
+       <lb/>The sun shall cease, the moon and stars shall fail,
+       <lb/>When I forget her sorrows to bewail;
+       <lb/>The firm-set hills shall, rising, soar on high,
+            <lb/>Before her <persName>Azem’s</persName> friendship e’er shall die.
+       <lb/>Adieu! adieu! for I am doom’d to prove
+       <lb/>The pains of friendship and the pangs of love.
+          </body>
+        </floatingText>
+      </p>
+       <p>
+         NOTE. <emph style="font­-style: italic">The difficulty of translating an Arabic ode 
+           <lb/>into English verse, every person the least acquainted 
+           <lb/>with the former language must be sensible of; and 
+           <lb/>the editor hopes the reader will not be unwilling to 
+           <lb/>grant him this apology for his failure of elegance in 
+           <lb/>this attempt.</emph>
+       </p>
+    </div>
+       
+    <div type="section">
+      <head style="text-align:center">CHAP. XIV.</head>
+      <p>
+       FREIGHTED with such merchandize as 
+       <lb/>they knew would be acceptable to the in-
+        <lb break="no"/>habitants whither they were going, they 
+        <lb/>embarked; and, after a short and prosper-
+        <lb break="no"/>ous passage, anchored in the bay of <placeName>Sene-
+          <lb break="no"/>gal</placeName>.
+      </p>
+      <p>
+       In order to barter more advantageously, 
+       <lb/>it was thought best to sail up the river, 
+        <lb/>where they would be more likely to obtain 
+        <lb/>in abundance the articles they wanted. 
+        <lb/>This they began; and, with the next tide, 
+        <lb/>ascended the river six leagues. Here they 
+        <lb/>came to an anchor. Being in want of fresh 
+        <lb/>supplies, they began to traffic with the in-
+        <lb break="no"/>habitants; and, finding here a great plen-
+        <lb break="no"/>ty of the necessaries of life, it was agreed 
+        <lb/>to leave their ship at this place, while a 
+        <pb/>
+        <lb/>part should penetrate farther into the coun-
+        <lb break="no"/>try, and inform the natives of their arrival, 
+        <lb/>and the commodities they had for sale.
+      </p>
+      <p>
+        <persName>Azem</persName> was one appointed for this expe-
+        <lb break="no"/>dition, as he could (though in a broken 
+        <lb/>manner) converse with the inhabitants. He 
+        <lb/>found the country, for a great distance from 
+        <lb/>the river, extremely fertile, and almost 
+        <lb/>spontaneously bringing forth the luxuries 
+        <lb/>of life.
+      </p>
+      <p>
+       They had finished their business, and 
+       <lb/>were returning; when, entering a village, 
+        <lb/>they met a company of men, driving a 
+        <lb/>woman before them, who appeared to be 
+        <lb/>advanced in years, and was bending beneath 
+        <lb/>as great a load of their baggage as she 
+        <lb/>could bear. There was something in her 
+        <lb/>countenance that drew <persName>Azem’s</persName> attention; 
+        <lb/>and, filled with horror at their inhumanity, 
+        <pb/>
+        <lb/>he approached the leader of the company, 
+        <lb/>and desired to be informed why they treat-
+        <lb break="no"/>ed that woman with so much severity? He 
+        <lb/>was answered that she was their prisoner; 
+        <lb/>that they were just returning from <seg xml:id="a018" corresp="#n018"><placeName>Cape 
+          <lb/>Verd</placeName>,</seg><note xml:id="n018" corresp="#a018"><term style="font-style: italic">Cape Verd</term>: an island off the coast of <placeName>Senegal</placeName> discovered—uninhabited—by Italian and Portuguese navigators in the 15C. The <placeName>Cape Verde</placeName> archipelago became a central link in the transatlantic slave trade, and continued to serve as a major port for circum-Atlantic trade more generally through the end of the nineteenth century.</note> where they had offered her for sale 
+        <lb/>to the inhabitants of those islands, who re-
+        <lb break="no"/>fused to purchase her, on account of her 
+        <lb/>age; and they intended to make her carry 
+        <lb/>those things till she failed, and then leave 
+        <lb/>her by the way.
+      </p>
+      <p>
+       Struck with compassion at her cruel 
+       <lb/>treatment, he immediately inquired the 
+        <lb/>price of her ransom; which having paid, 
+        <lb/>he bid them unload her, and give her to 
+        <lb/>his charge. He then drew near to her, and 
+        <lb/>informed her that she was no longer under 
+        <lb/>the controul of those men, but was at li-
+        <lb break="no"/>berty to go wherever she pleased.
+      </p>
+        <pb/>
+      <p>
+        There was something in the sound of <persName>A-
+          <lb break="no"/>zem’s</persName> voice which startled her with sur-
+        <lb break="no"/>prize; and the unexpected favour which 
+        <lb/>he had bestowed, produced the following 
+        <lb/>reply:—‘Worn out with age and misfor-
+        <lb break="no"/>tunes, whether shall I go? My family, 
+        <lb/>alas! is no more. I am a wretched, 
+        <lb/>childless widow: My husband, my son, 
+        <lb/>my daughter, all are gone!—Oh! let me 
+        <lb/>follow you, and strive to recompence 
+        <lb/>your kindness.’ Then, casting her eyes 
+        <lb/>full upon him, for a moment she remain-
+        <lb break="no"/>ed silent; when, springing forward, she 
+        <lb/>fell upon his neck, and exclaimed, ‘Gra-
+        <lb break="no"/>cious God! is it a dream—or have I 
+        <lb/>found my son?’ The very counter-part of 
+        <lb/>that engaging form which won her virgin 
+        <lb/>heart, and shared her only love, was in her 
+        <lb/>eye. ’Twas himself, restored to youth, or 
+        <lb/>risen from the grave: The same noble sta-
+        <pb/>
+        <lb break="no"/>ture, the same rich glow of manly beauty, 
+        <lb/>that once so charmed her in the father, was 
+        <lb/>here transformed into the son: And so for-
+        <lb break="no"/>cible were these impressions, that, in her 
+        <lb/>mind, not a shadow of doubt remained but 
+        <lb/>that she had found, in her deliverer, her 
+        <lb/>much-lamented and long lost child. <persName>A-
+          <lb break="no"/>zem</persName>, whose bosom glowed with filial affec-
+        <lb break="no"/>tion, held her in his arms, and exclaimed, 
+        <lb/>‘My mother! Oh, my mother!’
+      </p>
+      <p>
+       When the tumult occasioned by this hap-
+       <lb break="no"/>py discovery had subsided, he requested to 
+      <lb/>hear concerning his father, and sister, whom 
+      <lb/>he but just remembered to have seen at the 
+      <lb/>breast. Of these she informed him of eve-
+      <lb break="no"/>ry particular that had come to her know-
+      <lb break="no"/>ledge; and added, that, although sick and 
+      <lb/>feeble when deprived of their assistance, 
+      <lb/>she soon recovered; and, by the kindness 
+      <lb/>of a friend, had been ever since supported, 
+      <pb/>
+      <lb/>until a few days since, that company, from 
+      <lb/>which he had just redeemed her, entrapped 
+      <lb/>her by the way, and would have sold her 
+      <lb/>but for the reasons given by themselves.
+      </p>
+    </div>
+       
+    <div type="section">
+      <head style="text-align:center">CHAP. XV.</head>
+      <p>
+       CHARGED with the pleasing task of filial 
+        <lb/>duty, <persName>Azem</persName> now conducted his mother to 
+        <lb/>the banks of <placeName>the Senegal</placeName>; and, as soon as 
+        <lb/>the commercial business of his companions 
+        <lb/>would permit, he carried her on board, and 
+        <lb/>hoisted sail for <placeName>Algiers</placeName>. No storm or mis-
+        <lb break="no"/>fortune happening, they were soon safe at 
+        <lb/>home, with the most valuable cargo. As 
+        <lb/>quick as a division could be made, and he 
+        <lb/>had obtained his share, he lost no time in 
+        <pb/>
+        <lb/>setting out to visit his old benefactor, and 
+        <lb/>learn <persName>Alzina’s</persName> fate.
+      </p>
+      <p>
+       Leaving his mother provided for in the 
+        <lb/>city, he hastens to <persName>Omri’s</persName> house: But what 
+        <lb/>was his surprise, when, on entering the 
+        <lb/>room, he sees the object of all his wishes! 
+        <lb/>A sight so unexpected fixed him to the 
+        <lb/>spot; but <persName>Alzina</persName>, who beheld his amaze-
+        <lb break="no"/>ment, approached, and, taking him by the 
+        <lb/>hand, bid him a most sincere and welcome 
+        <lb/>return.
+      </p>
+      <p>
+        <persName>Omri</persName> then entering the room, and being 
+        <lb/>informed of the success of his voyage, and 
+        <lb/>that he had found and brought his mother 
+        <lb/>with him, was not far behind the others in 
+        <lb/>happiness: And, in answer to <persName>Azem’s</persName> en-
+        <lb break="no"/>quiry by what means <persName>Alzina</persName> came to his 
+        <lb/>house, he related as follows.
+      </p>
+      <p>
+       ‘About six weeks after your departure, 
+        <lb/><persName>Valachus</persName> was dangerously wounded by a 
+        <lb/>scorpion; and, beginning to feel the fa-
+        <lb break="no"/>tal effects of the poison, sent a request for 
+        <lb/>me to visit him. Without delay I obey-
+        <lb break="no"/>ed; and, entering the room, found him 
+        <lb/>much agitated with pain, and swelled in 
+        <lb/>every part. Yet rational and perfect in 
+        <lb/>his senses, he desired me to come near, 
+        <lb/>and sit down by his bed. Having com-
+        <lb break="no"/>manded his attendants to withdraw, he 
+        <lb/>thus expressed himself:—‘The abrupt 
+        <lb/>manner in which I took my leave at our 
+        <lb/>last interview, has occasioned me to give 
+        <lb/>you the trouble of calling on me at this 
+        <lb/>time; hoping, by a sincere confession of 
+        <lb/>my many faults, to obtain your forgive-
+        <lb break="no"/>ness, and the pardon of Heaven.’ Here 
+        <lb/>he stopped; and, writhing himself about, 
+        <lb/>appeared to be doubly agonized. I then 
+        <pb/>
+        <lb/>assured him that he had my most cordial 
+        <lb/>forgiveness. His distress seeming to a-
+        <lb break="no"/>bate, he continued—‘Such goodness I do 
+        <lb/>not merit: But, if you will hear a dying 
+        <lb/>penitent, I will unfold to you the means 
+        <lb/>that have drawn down this judgment up-
+        <lb break="no"/>on me.
+      </p>
+      <p>
+       ‘Educated by a too fond parent, indul-
+       <lb break="no"/>gent to all my caprices and youthful fol-
+        <lb break="no"/>lies, I was never learned to bridle my de-
+        <lb break="no"/>sires, or restrain the impetuosity of my 
+        <lb/>passions: And, having lately purchased 
+        <lb/>that young maid, whose liberty you 
+        <lb/>would have persuaded me to sell to her lo-
+        <lb break="no"/>ver, my heart was touched by her unaf-
+        <lb break="no"/>fected charms; and, expecting no oppo-
+        <lb break="no"/>sition to my desires, boldly invited her to 
+        <lb/>my bed. This, with surprise and evident 
+        <lb/>scorn, she refused. I then commanded 
+        <lb/>her to be treated with the utmost kindness, 
+        <pb/>
+        <lb/>and employed several agents to seduce 
+        <lb/>her into compliance: But all my arts 
+        <lb/>were in vain; she still remained unmov-
+        <lb break="no"/>ed, heedless of all my promises or threats. 
+        <lb/>My passion being inflamed by this unex-
+        <lb break="no"/>pected opposition, and despairing of ever 
+        <lb/>obtaining her consent to my wishes, I was 
+        <lb/>determined to make use of my authority 
+        <lb/>over her person, and by force to compel 
+        <lb/>her to submit. With this intent, I order-
+        <lb break="no"/>ed her to be confined in my summer-
+        <lb/>house; and, with all the eager impatience 
+        <lb/>of lustful desire, was hastening thither 
+        <lb/>myself; when, crossing an intervening 
+        <lb/>field, I trod upon a scorpion, who turned 
+        <lb/>and wounded me in the leg. I instantly 
+        <lb/>perceived the effect of the misfortune, 
+        <lb/>and returned to my house.
+      </p>
+      <p>
+       With increasing pain I have since con-
+       <lb break="no"/>tinued; and, being fully sensible of my 
+        <pb/>
+        <lb/>approaching end, and wishing to make 
+        <lb/>some recompense for the fearful anxiety 
+        <lb/>which I may have excited in her innocent 
+        <lb/>bosom, I have this day, agreeable to the 
+        <lb/>rules of our country, declared her free; 
+        <lb/>and, as a dower for her virtue, do bestow 
+        <lb/>on her these pieces of gold, which I wish 
+        <lb/>you to take in charge; and, as you may 
+        <lb/>see that she needs, administer to her relief.’
+      </p>
+      <p>
+       ‘He then delivered me a purse, contain-
+        <lb break="no"/>ing a thousand <seg xml:id="a019" corresp="#n019">drachms;</seg><note xml:id="n019" corresp="#a019"><term style="font-style: italic">Drachms</term>: the currency of <placeName>Greece</placeName>.</note> and concluded 
+        <lb/>by saying, ‘I feel myself relieved: That 
+        <lb/>gnawing viper in my breast is quiet; and 
+        <lb/>I dare hope that <persName>Mahomet</persName>, the favourite 
+        <lb/>of God, is interceding for me, and will 
+        <lb/>shortly open the gates of <choice><sic>Paridise</sic><corr>Paradise</corr></choice> to re-
+        <lb break="no"/>ceive my ascending soul.’ Here he ceas-
+        <lb break="no"/>ed, and soon fell into a profound sleep.
+      </p>
+      <pb/>
+      <p>
+       I then called his attendants, and with-
+        <lb break="no"/>drew; and meeting <persName>Alzina</persName> in the yard, 
+        <lb/>informed her what <persName>Valachus</persName> had done, 
+        <lb/>and invited her to come and reside at my 
+        <lb/>house. She gratefully accepted the offer, 
+        <lb/>and, with satisfaction to my family, has 
+        <lb/>continued with us until this day.’
+      </p>
+      <p>
+        In the morning it was agreed that <persName>Azem</persName> 
+        <lb/>should return to the city, and bring out his 
+        <lb/>mother, that she might be present at the 
+        <lb/>completion of his felicity, in the marriage 
+        <lb/>of <persName>Alzina</persName>. Upon the wings of joy he flew 
+        <lb/>to <placeName>Algiers</placeName>; and, having found his mother, 
+        <lb/>related to her the joy-felt news. Well 
+        <lb/>pleased, she consented to accompany him, 
+        <lb/>and witness his happiness.
+      </p>
+    </div>
+       
+    <div type="section">
+      <head style="text-align:center">CHAP. XVI.</head>
+      <p>
+        THE day appointed for <persName>Azem’s</persName> return was 
+        <lb/>almost spent; the sun had sunk behind the 
+        <lb/>distant mountains, and with a golden fringe 
+        <lb/>arrayed the western clouds; when <persName>Alzi-
+          <lb break="no"/>na’s</persName> impatience prompted her to walk.—
+        <lb/>Some pleasing presage seemed to animate 
+        <lb/>her bosom, as she moved slowly on towards 
+        <lb/>the town: When, ascending a small emi-
+        <lb break="no"/>nence, she beheld her lover and intended 
+        <lb/>husband not far distant, conducting his a-
+        <lb break="no"/>ged mother.
+      </p>
+      <p>
+       Enraptured at the sight, she seemed 
+       <lb/>to mount on wings, and to fly to meet 
+        <lb/>them. He perceived her coming; and, 
+        <lb/>leaving the carriage, ran forward, and 
+        <lb/>snatching her hand, pressed it with ecstacy 
+        <lb/>in his, and said, ‘I am now the happiest 
+        <pb/>
+        <lb/>of men. For all the sorrows of my past 
+        <lb/>life, I have now more than ample recom-
+        <lb break="no"/>pence in this joyful meeting.’
+      </p>
+      <p>
+       His mother now arrived; and, staring 
+        <lb/>wildly at <persName>Alzina</persName>, for a moment seemed to 
+        <lb/>doubt her senses: Then, with the speed of 
+        <lb/>youth, she sprang forward and hung upon 
+        <lb/>her neck. For a short space her tongue 
+        <lb/>refused its office; but soon she cried, ‘Oh! 
+        <lb/>my daughter! my child! my <persName>Alzina</persName>! 
+        <lb/>am I awake? and do I fold thee in my 
+        <lb/>arms? or is it some phantom that has as-
+        <lb break="no"/>sumed thy shape? Oh, ecstacy unuttera-
+        <lb break="no"/>ble! ’Tis true; Heaven has restored my 
+        <lb/>much-lamented babe.’ <persName>Alzina</persName>, no less 
+        <lb/>transported, wept aloud, and kissed her a-
+        <lb break="no"/>ged parent.
+      </p>
+      <p>
+       The surprise which all parties had felt 
+       <lb/>being somewhat abated, they went on to the 
+        <pb/>
+        <lb/>house; and <persName>Omri</persName>, being informed of the 
+        <lb/>happy discovery, thus expressed himself: 
+        <lb/>‘Let our voices resound for ever with gra-
+        <lb break="no"/>titude and praise to the Arbiter of all na-
+        <lb break="no"/>tions, who, as our holy Prophet declares, 
+        <lb/>seeth in secret, but rewardeth openly.—
+        <lb/>And may every servant to whom the story 
+        <lb/>of your lives shall be told, remember the 
+        <lb/>reward that attended your fidelity! And 
+        <lb/>upon all who shall imitate your bright ex-
+        <lb break="no"/>ample, may Heaven shower down a like 
+        <lb/>measure of happiness!—And may every 
+        <lb/>master, in whatever part of the inhabited 
+        <lb/>globe he may reside, with cheerfulness 
+        <lb/>practice that important precept of the <bibl>Al-
+        <lb break="no"/>coran</bibl>—‘Masters, treat your servants with 
+        <lb/>kindness.’ So may the light of Islamism 
+        <lb/>shine forth, in its full splendor, to the 
+        <lb/>utmost ends of the universe! For thus 
+        <lb/>saith the God of all men: ‘Of one blood 
+        <pb/>
+        <lb/>have I created all nations of men that 
+        <lb/>dwell upon the face of the earth.’
+      </p>
+    </div>
+       
+    <div type="section">
+      <head style="text-align:center">CHAP. XVII.</head>
+      <p>
+       THE surprise, joy and disappointment ex-
+       <lb break="no"/>perienced by all parties on the late disco-
+        <lb break="no"/>very, was unspeakable. But <persName>Azem’s</persName> anx-
+        <lb break="no"/>iety, which had been wound up to the 
+        <lb/>highest pitch with the anticipation of spend-
+        <lb break="no"/>ing the remainder of his days with the on-
+        <lb break="no"/>ly object of his love and wishes, in some 
+        <lb/>peaceful retreat, now entirely vanished, 
+        <lb/>and produced in his mind a contrary im-
+        <lb break="no"/>pulse. <seg xml:id="a020" corresp="#n020"><persName>Hymen</persName>,</seg><note xml:id="n020" corresp="#a020"><term style="font-style: italic">Hymen</term>: in Greek mythology the God of Marriage.</note> whom he thought ready 
+        <lb/>to unite their hands, and aid the completi-
+        <lb break="no"/>on of his happiness, now disappears and 
+        <lb/>hides his head. The veil being removed, 
+        <pb/>
+        <lb/>and discovering his only sister in the love-
+        <lb break="no"/>ly <persName>Alzina</persName>, for whom he had spent so ma-
+        <lb break="no"/>ny tedious hours, in fruitless attempts to re-
+        <lb break="no"/>lieve her from bondage, he exclaimed, 
+        <lb/>‘May our holy Prophet, who presides over 
+        <lb/>and governs the affairs of his people, 
+        <lb/>make known his will, and reveal to them, 
+        <lb/>in due time, their duty; lest, by follow-
+        <lb break="no"/>ing their inclinations, they commit crimes 
+        <lb/>which bring an everlasting stain on their 
+        <lb/>character here, and his eternal vengeance 
+        <lb/>hereafter.’
+      </p>
+      <p>
+        <persName>Omri</persName> invited his guests to take up their 
+        <lb/>abode with him, and offered them all the 
+        <lb/>conveniences his house would afford. <persName>A-
+          <lb break="no"/>zem</persName>, considering <persName>Omri</persName> his only benefactor, 
+        <lb/>who had rendered him such eminent servi-
+        <lb break="no"/>ces, for which he had never been repaid, 
+        <lb/>could not think of accepting his proposal 
+        <lb/>without making him full compensation for 
+        <pb/>
+        <lb/>his former trouble and kindness. The in-
+        <lb break="no"/>terest he had acquired in his late voyage 
+        <lb/>being very considerable, he made him a 
+        <lb/>present of one half; which <persName>Omri</persName>, with 
+        <lb/>great reluctance, accepted. <persName>Azem</persName>, as we 
+        <lb/>have before related, discovered a strong in-
+        <lb break="no"/>clination to learning, and made considera-
+        <lb break="no"/>ble progress therein while in the service of 
+        <lb/><persName>Selictor</persName>. But when he became acquaint-
+        <lb break="no"/>ed with <persName>Alzina</persName> and had obtained his free-
+        <lb break="no"/>dom, the clouds of misfortune hovered o-
+        <lb break="no"/>ver his mind, and buried in oblivion, for 
+        <lb/>a while, all inclination to any further pur-
+        <lb break="no"/>suit of education.
+      </p>
+      <p>
+        <persName>Omri</persName> being a man of universal learning, 
+        <lb/>and well knowing <persName>Azem’s</persName> former attach-
+        <lb break="no"/>ment to books, now proposed to instruct 
+        <lb/>him in all the branches of literature, which 
+        <lb/>might probably be of great service to him 
+        <lb/>in his future life. Being yet but twenty 
+        <pb/>
+        <lb/>years of age, and wishing for such an op-
+        <lb break="no"/>portunity, <persName>Azem</persName> very gladly accepted the 
+        <lb/>proposal; and, by three years assiduous 
+        <lb/>application to study, not only acquired a 
+        <lb/>competent knowledge of all the different 
+        <lb/>branches taught in their schools, but like-
+        <lb/>wise became acquainted with a number of 
+        <lb/>different languages of the eastern nations.
+      </p>
+      <p>
+        <persName>Azem</persName> now began to think of turning 
+        <lb/>his attention to some profitable employ-
+        <lb break="no"/>ment: And, being informed that the com-
+        <lb break="no"/>pany with whom he had made his former 
+        <lb/>voyage, were in want of a factor to reside 
+        <lb/>on the continent, and having an inclinati-
+        <lb break="no"/>on to return once more to that country, he 
+        <lb/>was resolved to call upon them, and in-
+        <lb break="no"/>form himself of their intentions. But, in 
+        <lb/>the interim, his journey was retarded by 
+        <lb/>the following melancholy circumstance—
+        <lb/>His mother, who was considerably advan-
+        <pb/>
+        <lb break="no"/>ced in years, and who had undergone hard-
+        <lb break="no"/>ships far beyond what her strength or con-
+        <lb break="no"/>stitution could support, was suddenly seiz-
+        <lb break="no"/>ed with an epidemic which prevailed at 
+        <lb/>that time, and which generally proved fa-
+        <lb break="no"/>tal, especially to the aged and infirm. <persName>Om-
+          <lb break="no"/>ri</persName>, who was a son of <seg xml:id="a021" corresp="#n021"><persName>Esculapius</persName>,</seg><note xml:id="n021" corresp="#a021"><term style="font-style: italic">Esculapius</term>: in Greek mythology the god of healing and medicine.</note> and tho-
+        <lb break="no"/>roughly acquainted with his profession, had 
+        <lb/>exerted every faculty to the utmost, for de-
+        <lb break="no"/>throning his antagonist: The conflict was 
+        <lb/>severe on both sides; but the enemy had 
+        <lb/>so strongly fortified himself, that he gave 
+        <lb/>up all idea of conquest. She continuing 
+        <lb/>in the full exercise of her reason, he thus 
+        <lb/>addressed her: ‘Madam, it is with the 
+        <lb/>greatest reluctance I inform you of the 
+        <lb/>impossibility of your recovering from this 
+        <lb/>fatal distemper. If, therefore, you wish 
+        <lb/>to impart any thing to your children, or 
+        <lb/>bestow on them your blessing, delay not; 
+        <pb/>
+        <lb/>for a moment may deprive you of the 
+        <lb/>power of utterance.’ She attempted a re-
+        <lb break="no"/>ply<unclear>,</unclear> but in vain: Her tongue faultered 
+        <lb/>and refused its office, and in a few mo-
+        <lb break="no"/>ments she breathed her last.
+      </p>
+    </div>
+       
+    <div type="section">
+      <head style="text-align:center">CHAP. XVIII.</head>
+      <p>
+        <persName>AZEM</persName> and his sister, at the death of their 
+        <lb/>only parent, were most disconsolate indeed. 
+        <lb/>But <persName>Alzina’s</persName> loss was irreparable. The 
+        <lb/>assistance and advice of a mother, at that 
+        <lb/>time of life, she considered as the greatest 
+        <lb/>of blessings. Time, however, which in 
+        <lb/>some degree effaces the memory of things, 
+        <lb/>had in a measure becalmed her troubled 
+        <lb/>mind, and serenity returned once more to 
+        <lb/>its welcome abode.
+      </p>
+      <pb/>
+      <p>
+        <persName>Azem</persName> continued with <persName>Omri</persName> some time 
+        <lb/>after the death of his mother; but his en-
+        <lb break="no"/>terprising genius would not suffer him to 
+        <lb/>remain long idle: He was, therefore, re-
+        <lb break="no"/>solved to put his former plan into execu-
+        <lb break="no"/>tion.
+      </p>
+      <p>
+        <persName>Alzina</persName> not having any immediate use 
+        <lb/>for the money which she received from 
+        <lb/><persName>Valachus</persName>, at her liberation, delivered it to 
+        <lb/>her brother, who promised to return the 
+        <lb/>same, with full compensation, whenever 
+        <lb/>her necessities required.
+      </p>
+      <p>
+        The next day was appointed for <persName>Azem’s</persName> 
+        <lb/>departure; and, after taking a sincere and 
+        <lb/>affectionate leave of his friend and sister, 
+        <lb/>he set out for <placeName>Algiers</placeName>, with great anxiety 
+        <lb/>to re-visit the <placeName>Southern Continent</placeName> before 
+        <lb/>his return. Having some business to trans-
+        <lb break="no"/>act for his friend by the way, the day was 
+        <pb/>
+        <lb/>spent before he reached the city. The 
+        <lb/>road he had taken led over an extended, 
+        <lb/>barren plain, at the termination of which 
+        <lb/>was a large forest, said to be the haunt of 
+        <lb/>a banditti. He had, however, previous to 
+        <lb/>his departure, provided arms for his de-
+        <lb break="no"/>fence, in case of an attack. The sun was 
+        <lb/>set before he entered the forest; and, pre-
+        <lb break="no"/>ceeding on with great expedition, he had 
+        <lb/>nearly cleared the thicket, and thought 
+        <lb/>himself out of danger; when suddenly two 
+        <lb/>ruffians darted into the road, a few steps 
+        <lb/>forward of him. One of them seized his 
+        <lb/>bridle, and, with an austere voice, demand-
+        <lb break="no"/>ed his money instantly. <persName>Azem</persName>, being de-
+        <lb break="no"/>termined to part with his treasure upon no 
+        <lb/>other condition than at the expence of his 
+        <lb/>life, replied, ‘You shall have immediately 
+        <lb/>whatever it is in my power to give;’ and 
+        <lb/>at the same instant drew a pistol, and lodg-
+        <pb/>
+        <lb break="no"/>ed the contents thereof in the breast of him 
+        <lb/>who held his horse, who suddenly fell, wel-
+        <lb break="no"/>tering in his gore. His companion, hear-
+        <lb break="no"/>ing the discharge of the pistol, and seeing 
+        <lb/>his friend fall, <choice><sic>retrated</sic><corr>retreated</corr></choice> with the utmost pre-
+        <lb break="no"/>cipitation into the forest.
+      </p>
+      <p>
+        <persName>Azem</persName>, putting spurs to his horse, in a 
+        <lb/>short time found himself out of danger, and 
+        <lb/>in the suburbs of the city. Being late in 
+        <lb/>the evening, he put up at the first public 
+        <lb/>inn. The next morning he called on the 
+        <lb/>merchants with whom he had made his 
+        <lb/>former voyage, and informed them, that 
+        <lb/>the interest he had acquired while in their 
+        <lb/>company in the trade on the continent, and 
+        <lb/>his having an inclination to lead a mercan-
+        <lb break="no"/>tile life, were sufficient motives, with their 
+        <lb/>assistance, to induce him to commence bu-
+        <lb break="no"/>siness on a large scale.
+      </p>
+      <pb/>
+      <p>
+       They made several voyages to the 
+       <lb/><placeName>bay of Senegal</placeName> since Azem had accompa-
+        <lb break="no"/>nied them, and found trade on the decline, 
+        <lb/>the inhabitants being chiefly drained of their 
+        <lb/>most valuable articles. They had, howe-
+        <lb break="no"/>ver, determined to establish a trade upon 
+        <lb/>the <seg xml:id="a022" corresp="#n022"><placeName>Calabar coast</placeName>,</seg><note xml:id="n022" corresp="#a022"><term style="font-style: italic">Calabar coast</term>: the coastal region near the <placeName>city of Calabar</placeName>, in the southeast of modern <placeName>Nigeria</placeName>.</note> more to the southward, 
+        <lb/>and were then fitting out a vessel for that 
+        <lb/>purpose. Having a high opinion of <persName>Azem’s</persName>
+        <lb/>talents and merit, he having so faithfully 
+        <lb/>conducted their business on the former voy-
+        <lb break="no"/>age, they very readily accepted his propo-
+        <lb break="no"/>sal, and it was agreed that he should sail 
+        <lb/>as soon as business would permit.
+      </p>
+      <p>
+        In the mean time, <persName>Azem</persName> laid out his 
+        <lb/>money in the purchase of such <choice><sic>arcicles</sic><corr>articles</corr></choice> as 
+        <lb/>he knew would insure him large profits at 
+        <lb/>the place whither they were bound.
+      </p>
+      <p>
+       All things being in readiness, they set 
+       <lb/>sail, and the second day cleared the straits, 
+        <pb/>
+        <lb/>and bent their course to the southward. But 
+        <lb/>the weather proving unfavourable, being 
+        <lb/>sometimes extremely boisterous, they were 
+        <lb/>in the utmost distress for many days. At 
+        <lb/>length, however, they made the island of 
+        <lb/><seg xml:id="a023" corresp="#n023"><placeName>St. Jago</placeName>,</seg><note xml:id="n023" corresp="#a023"><term style="font-style: italic">St. Jago</term>: the largest island in the <placeName>Cape Verde archipelago</placeName>.</note> and, with the utmost difficulty, 
+        <lb/>gained the harbour. Here they were in-
+        <lb break="no"/>formed, that the most advantageous situa-
+        <lb break="no"/>tion for their commercial business was near 
+        <lb/>the <seg xml:id="a024" corresp="#n024"><placeName>river Gambia</placeName>,</seg><note xml:id="n024" corresp="#a024"><term style="font-style: italic">River Gambia</term>: a major river south of the <placeName>Senegal River</placeName> and the central artery in modern day <placeName>Gambia</placeName>.</note> on account of its prox-
+        <lb break="no"/>imity to a nation who abounded with such 
+        <lb/>articles as they wished to traffic in.
+      </p>
+      <p>
+       As soon as wind and weather would per-
+       <lb break="no"/>mit, they hoisted sail; and, after a prospe-
+        <lb break="no"/>rous voyage, came to an anchor in the 
+        <lb/>mouth of <placeName>the Gambia</placeName>. There was a hand-
+        <lb break="no"/>some and safe harbour within the southern 
+        <lb/>bank, two leagues from its mouth. Here 
+        <lb/><persName>Azem</persName> fixed his place of residence.
+      </p>
+      <pb/>
+      <p>
+       <placeName>The Gambia</placeName>, like the <placeName>Nile</placeName>, overflows 
+        <lb/>its banks at certain seasons of the year; and 
+        <lb/>the productions of nature, both mineral 
+        <lb/>and vegetable, are found here in the high-
+        <lb break="no"/>est perfection, and in great abundance.
+      </p>
+      <p>
+       The country being very populous, and 
+       <lb/>the inhabitants of a peaceable and friendly 
+        <lb/>disposition, and anxious for traffic, were 
+        <lb/>favourable preludes to his future prosperity.
+      </p>
+    </div>
+       
+    <div type="section">
+      <head style="text-align:center">CHAP. XIX.</head>
+      <p>
+        <persName>AZEM</persName>, in the absence of the ship, made 
+        <lb/>frequent excursions into the country, barter-
+        <lb break="no"/>ing with the natives for their gold and ivo-
+        <lb break="no"/>ry; the former of which they collect in 
+        <lb/>small grains, being washed down from the 
+        <pb/>
+        <lb/>mountains in small streams, in great abun-
+        <lb break="no"/>dance, after heavy rains. He often called 
+        <lb/>on their king, who resided at a distance 
+        <lb/>from the shore, on account of being in the 
+        <lb/>centre of his people. In one of these vi-
+        <lb break="no"/>sits, the king informed him that two of his 
+        <lb/>neighbouring nations had commenced hos-
+        <lb break="no"/>tilities against each other, and that he had 
+        <lb/>been solicited, at turns, by each power, to 
+        <lb/>join in the conflict, and share equally in 
+        <lb/>the spoils of the enemy: But, as he al-
+        <lb break="no"/>ways refused taking arms except in his 
+        <lb/>own defence, he had resolved to remain 
+        <lb/>neuter, rather than contend with a power 
+        <lb/>from whom he had received no offence.
+      </p>
+      <p>
+       In a short time, however, their wars ter-
+       <lb break="no"/>minated in the total destruction of the wea-
+        <lb break="no"/>ker nation: Those who were not killed in 
+        <lb/>battle, were taken prisoners, and a general 
+        <pb/>
+        <lb/>plunder of the conquered country succeed-
+        <lb break="no"/>ed.
+      </p>
+      <p>
+       It had long been an established custom 
+       <lb/>among them, that whoever they took in 
+        <lb/>battle, they had an indubitable right to sell 
+        <lb/>for slaves. It was with this view they set 
+        <lb/>out for <seg xml:id="a025" corresp="#n025"><placeName>Cape Formosa</placeName>,</seg><note xml:id="n025" corresp="#a025"><term style="font-style: italic">Cape Formosa</term>: a harbor on a coastal island in present day <placeName>Guinea-Bissau</placeName>, just south of <placeName>Gambia</placeName> and <placeName>Senegal</placeName>.</note> where the Europe-
+        <lb break="no"/>an factors resided on account of purcha-
+        <lb break="no"/>sing slaves.
+      </p>
+      <p>
+        <persName>Azem</persName> happening to fall in company 
+        <lb/>with them, and observing the dejected and 
+        <lb/>forlorn situation of the prisoners, and the 
+        <lb/>cruel manner in which they were treated, 
+        <lb/>it conspired to rouse his indignation. He 
+        <lb/>entered into conversation with the chief of-
+        <lb break="no"/>ficer, and very strongly remonstrated a-
+        <lb break="no"/>gainst such proceedings. ‘Have you not 
+        <lb/>conquered them,’ said he, ‘and obliged 
+        <lb/>them to own you as their superiors; and 
+        <pb/>
+        <lb/>will you thus exterminate a nation who 
+        <lb/>have been unfortunate in war, and eradi-
+        <lb break="no"/>cate their name from the earth for ever? 
+        <lb/>Be more humane, and suffer them to re-
+        <lb break="no"/>turn to their native fields, and again en-
+        <lb break="no"/>joy their once peaceful abode.’ But, deaf 
+        <lb/>to all he could say, they were determined 
+        <lb/>to part with them upon no other condition 
+        <lb/>than a stipulated price for each person, and 
+        <lb/>therefore proceeded on their way.
+      </p>
+      <p>
+        <persName>Azem</persName> had resided on the coast a number 
+        <lb/>of years, and his success in trade had been 
+        <lb/>so great, that he had collected property to 
+        <lb/>a large amount for his employers, and like-
+        <lb break="no"/>wise procured a handsome fortune to him-
+        <lb break="no"/>self. He was, therefore, resolved to return 
+        <lb/>to <placeName>Algiers</placeName>, and spend the remainder of his 
+        <lb/>days in that metropolis. He had brought 
+        <lb/>his business to a close. The vessel return-
+        <lb break="no"/>ing, the captain informed him that war had 
+        <pb/>
+        <lb/>broke out between that government and the 
+        <lb/>court of Spain, and that it had become dan-
+        <lb break="no"/>gerous venturing property at sea without 
+        <lb/>sufficient force for protection, being fre-
+        <lb break="no"/>quently captured by the enemy, whose 
+        <lb/>ships were far superior to theirs.
+      </p>
+      <p>
+       They at length, however, resolved to 
+       <lb/>risk the voyage, and departed. Nothing 
+        <lb/>of consequence happened till they had pass-
+        <lb break="no"/>ed the <seg xml:id="a026" corresp="#n026"><placeName>Canary Isles</placeName>;</seg><note xml:id="n026" corresp="#a026"><term style="font-style: italic">Canary Isles</term>: a Spanish archipelago off the coast of northwestern <placeName>Africa</placeName>.</note> when, one morning, 
+        <lb/>they discovered a sail to windward, bear-
+        <lb break="no"/>ing down upon them. It was proposed, in 
+        <lb/>case it should prove an enemy, and superi-
+        <lb break="no"/>or to them, to surrender, on condition of 
+        <lb/>retaining their liberty, rather than risk their 
+        <lb/>fate, and the certainty of being made slaves 
+        <lb/>if taken. The captain and <persName>Azem</persName> could 
+        <lb/>not bear the thoughts of tamely submit-
+        <lb break="no"/>ting: They therefore encouraged their men 
+        <pb/>
+        <lb/>to stand by them, and defend their proper-
+        <lb break="no"/>ty to the last.
+      </p>
+      <p>
+       The enemy (for so they proved) after a 
+        <lb/>long <choice><orig>chace</orig><reg>chase</reg></choice>, came within shot; and the first 
+        <lb/>salutation was a broadside. Their only re-
+        <lb break="no"/>source was to prevent the enemy from 
+        <lb/>boarding them, and, with their small arms, 
+        <lb/>to make resistance when in close contact. 
+        <lb/>This they did with so good an effect, that 
+        <lb/>the hopes of success began to brighten in 
+        <lb/>every countenance, and filled them with 
+        <lb/>fresh vigour. The battle was severe on 
+        <lb/>both sides, and victory alternately wavered 
+        <lb/>in favour of each; but, by some unlucky 
+        <lb/>accident, and the loss of their captain, they 
+        <lb/>were obliged to surrender.
+      </p>
+      <p>
+        <persName>Azem</persName>, finding himself in the hands of 
+        <lb/>the enemy, determined patiently to submit 
+        <lb/>to his fate. The Spaniards, after securing 
+        <pb/>
+        <lb/>their prisoners, went to work in unloading 
+        <lb/>their prize; but they had scarcely cleared 
+        <lb/>it of the most valuable effects, when it went 
+        <lb/>down.
+      </p>
+      <p>
+        <persName>Azem</persName> had received several wounds 
+        <lb/>from the shot of the enemy: Being chief-
+        <lb break="no"/>ly superficial, he scarcely thought of them 
+        <lb/>during the battle; but, by the loss of blood, 
+        <lb/>he was now unable to move. The captain, 
+        <lb/>possessing a more humane disposition than 
+        <lb/>generally falls to the lot of that class of 
+        <lb/>people, suffered Azem to be treated with 
+        <lb/>kindness, and attention to be paid to his 
+        <lb/>wounds. In a few days he so far recover-
+        <lb break="no"/>ed his strength, that, with leave of the cap-
+        <lb break="no"/>tain, he was enabled to walk upon deck.
+      </p>
+      <p>
+       The prize they had taken was so valua-
+       <lb break="no"/>ble, and being in want of a new recruit of 
+        <lb/>men, the Spaniards were determined to put 
+        <pb/>
+        <lb/>into the first friendly port, in order to pre-
+        <lb break="no"/>vent a re-capture.
+      </p>
+      <p>
+        <persName>Azem</persName>, in the mean time, had recovered 
+        <lb/>from his wounds; and, one night, found 
+        <lb/>means to get upon deck with two of his 
+        <lb/>companions, and so artfully planned and 
+        <lb/>executed his design, that, by the next morn-
+        <lb break="no"/>ing, he was master of the ship and its whole 
+        <lb/>crew.
+      </p>
+      <p>
+       He now directed his course for <placeName>Algiers</placeName>; 
+        <lb/>and, meeting with no resistance, soon arri-
+        <lb break="no"/>ved in the harbour.
+      </p>
+      <p>
+       After the company were informed of the 
+       <lb/>loss of their ship and part of its cargo, they 
+        <lb/>proposed that the prisoners, together with 
+        <lb/>the vessel, should be sold to compensate 
+        <lb/>their loss. This proposal <persName>Azem</persName> viewed 
+        <lb/>with the utmost abhorrence, and remon-
+        <lb break="no"/>strated strongly against its being adopted.
+        <pb/>
+        <lb/>‘Though they are our prisoners,’ said he, 
+        <lb/>‘and the laws of our country countenance 
+        <lb/>the proceeding; yet the thoughts of bon-
+        <lb break="no"/>dage fill me with horror. Instantly will 
+        <lb/>I part with all my share of the cargo, ra-
+        <lb break="no"/>ther than such a plan should be adopted.’
+      </p>
+      <p>
+        <persName>Azem</persName>, therefore, as soon as he could 
+        <lb/>unload, after having exacted a firm pro-
+        <lb break="no"/>mise from the captain not to serve in that 
+        <lb/>capacity any more during the war, deliv-
+        <lb break="no"/>ered up his vessel to him, and obtained a 
+        <lb/>passport from the Dey for his safe return.
+      </p>
+    </div>
+       
+    <div type="section">
+      <head style="text-align:center">CHAP. XX.</head>
+      <p>
+        <persName>AZEM</persName> now purchased a house in that 
+        <lb/>part of the city most favourable for com-
+        <lb break="no"/>merce, and commenced trade by himself. 
+        <pb/>
+        <lb/>He wrote to his sister, informing her of his 
+        <lb/>return, and his determination to settle in 
+        <lb/>town; and requested her to come and re-
+        <lb break="no"/>side with him. She read the letter with 
+        <lb/>transport, and joyfully accepted the propo-
+        <lb break="no"/>sal. But it was with the greatest reluc-
+        <lb break="no"/>tance the family with whom she had so 
+        <lb/>long remained, could consent to her de-
+        <lb break="no"/>parture.
+      </p>
+      <p>
+        <persName>Alzina</persName> had been solicited by gentlemen 
+        <lb/>of fortune, who had made her many prof-
+        <lb break="no"/>fers of marriage; but she totally refused 
+        <lb/>them all, and was determined to remain in 
+        <lb/>a state of celibacy.
+      </p>
+      <p>
+        <persName>Azem’s</persName> acquaintance in town, hitherto, 
+        <lb/>had been very superficial, his attention ha-
+        <lb break="no"/>ving been absorbed in plans to accumulate 
+        <lb/>a fortune, which, by his industry and pru-
+        <lb break="no"/>dence, had now become very considerable. 
+        <pb/>
+        <lb/>His philanthropic disposition would not, 
+        <lb/>however, like the miser, permit him to 
+        <lb/>horde up his treasure: His greatest satis-
+        <lb break="no"/>faction consisted in relieving those who had 
+        <lb/>been pressed down by the hard hand of 
+        <lb/>misfortune.
+      </p>
+      <p>
+        <persName>Azem</persName>, by his assiduous attention to bu-
+        <lb break="no"/>siness, his punctuality in trade, and benev-
+        <lb break="no"/>olent distribution of money for the relief 
+        <lb/>of the poor and oppressed, now attracted 
+        <lb/>the attention of the rich and opulent, as 
+        <lb/>well as the sincere affection and esteem of 
+        <lb/>the lower class of people, from whom he 
+        <lb/>obtained the name of the Friend and Father 
+        <lb/>of the Unfortunate.
+      </p>
+      <p>
+        <persName>Azem</persName> had scarcely thought of changing 
+        <lb/>his situation in life, with respect to matri-
+        <lb break="no"/>mony. Since the fortunate discovery oc-
+        <lb break="no"/>casioned by his mother, that passion for the 
+        <pb/>
+        <lb/>female world had gradually subsided as he 
+        <lb/>advanced in years. There seemed, howe-
+        <lb break="no"/>ver, something still wanting to fill up that 
+        <lb/>measure of happiness which he did not as 
+        <lb/>yet completely enjoy.
+      </p>
+      <p>
+        <persName>Azem</persName> at length formed an acquaintance 
+        <lb/>with <persName>Shelimah</persName>, a young widow of high 
+        <lb/>birth, who possessed a noble mind and an 
+        <lb/>amiable disposition. The attractive charms 
+        <lb/>of innocence and beauty were here con-
+        <lb break="no"/>centrated, and served to gain the attention 
+        <lb/>and esteem of all her friends and acquaint-
+        <lb break="no"/>ance. She had been married when quite 
+        <lb/>young, and had lived with her husband a 
+        <lb/>number of years; who, dying without chil-
+        <lb break="no"/>dren, left his whole estate, which was ve-
+        <lb break="no"/>ry considerable, to her benefit.
+      </p>
+      <p>
+        <persName>Azem</persName> perceived a growing attachment 
+        <lb/>to her virtues, very different from the flut-
+        <pb/>
+        <lb break="no"/>tering dictates of fancy which he had be-
+        <lb break="no"/>fore experienced, but founded on the pur-
+        <lb break="no"/>est principles of benevolence and friend-
+        <lb break="no"/>ship. He considered Love as an arbitrary 
+        <lb/>monarch, yet too fickle and fleeting to 
+        <lb/>guide the helm in so important a voyage as 
+        <lb/>that of matrimony: Though he would steer 
+        <lb/>safely through tempestuous storms, yet 
+        <lb/>would he, even in sight of port, most in-
+        <lb break="no"/>evitably dash against the rocky shoals.
+      </p>
+      <p>
+       Their hands were at length joined in 
+       <lb/>marriage; and festivity and mirth, with 
+        <lb/>the acclamations of kindred and acquaint-
+        <lb break="no"/>ance, crowned the nuptial ceremony.
+      </p>
+      <p>
+       Many years endeared them to each o-
+       <lb break="no"/>ther. At length Heaven, to reward him 
+        <lb/>for his past misfortunes, blessed him with 
+        <lb/>a son, the express image of its father.
+      </p>
+      <pb/>
+      <p>
+        <persName>Omri</persName> had died while <persName>Azem</persName> was on the 
+        <lb/>continent, and left an only son, whose 
+        <lb/>name was <persName>Arramel</persName>. There had been, pre-
+        <lb break="no"/>vious to <persName>Azem’s</persName> manumission, the most 
+        <lb/>strict friendship subsisting between them. 
+        <lb/>He was under his father’s tuition at the 
+        <lb/>time <persName>Azem</persName> received his education; and 
+        <lb/>time, so far from weakening, had proved 
+        <lb/>a firm cement to their friendship.
+      </p>
+      <p>
+        <persName>Arramel</persName> removed to the city soon after 
+        <lb/><persName>Azem’s</persName> return. They had long <choice><sic>premiditated</sic><corr>premedita-
+          <lb break="no"/>ted</corr></choice> a commercial tour to <seg xml:id="a027" corresp="#n027"><placeName>Barca</placeName>,</seg><note xml:id="n027" corresp="#a027"><term style="font-style: italic">Barca</term>: an ancient city in <placeName>north Africa</placeName>, approximately near the current city <placeName>Marj</placeName> in <placeName>Libya</placeName>.</note> which at 
+        <lb/>length they commenced.
+      </p>
+      <p>
+       Previous to their return, they received 
+       <lb/>information that the plague, which had the 
+        <lb/>year before infested the neighbouring king-
+        <lb break="no"/>doms, had already made its way into <placeName>Al-
+          <lb break="no"/>giers</placeName>, and swept off numbers of its inhab-
+        <lb break="no"/>itants. And judge, my readers, what must 
+        <pb/>
+        <lb/>have been the feelings of <persName>Azem</persName>, on his 
+        <lb/>return, to find his wife, sister and child, 
+        <lb/>swept off by the pestilential deluge! Should 
+        <lb/>I attempt to describe them, language would 
+        <lb/>be inadequate to the task.
+      </p>
+      <p>
+       His cup of calamities was now complete-
+       <lb break="no"/>ly full. His health had for a long time 
+        <lb/>been on the decline; and the shock he 
+        <lb/>now received flung him into a raging fe-
+        <lb break="no"/>ver, which soon reduced him so low, that 
+        <lb/>he was unable to support himself, which 
+        <lb/>convinced his friend that he would not 
+        <lb/>long survive.
+      </p>
+      <p>
+        He intimated to <persName>Arramel</persName> the manner he 
+        <lb/>wished to dispose of his property, and ap-
+        <lb break="no"/>pointed him his administrator. One half 
+        <lb/>of his estate he appropriated to the relief 
+        <lb/>of the poor and unfortunate, and the inter-
+        <lb break="no"/>est of the other half for the yearly release 
+        <lb/>of some honest slave.
+      </p>
+      <pb/>
+      <p>
+       He had hardly time to execute his will, 
+       <lb/>when he bid adieu to his friends, and this 
+        <lb/>troublesome world, for ever.
+      </p>
+      <p>
+        This <persName>Arramel</persName> was the same person who 
+        <lb/>chanced to pass our plantation, and, for-
+        <lb break="no"/>tunately for me, received the fall from his 
+        <lb/>horse. His name, with <persName>Azem’s</persName>, has ever 
+        <lb/>continued to dwell on my enraptured 
+        <lb/>tongue; and, while the remembrance of 
+        <lb/>my relief from past misfortunes continues, 
+        <lb/>they shall never cease to be adored.
+      </p>
+      <p>
+       I have collected this narrative as a me-
+       <lb break="no"/>morial of my gratitude to Heaven, in thus 
+        <lb/>releasing me from the chains of tyrannical 
+        <lb/>oppression, and restoring me to my native 
+        <lb/>country, and the bosom of my family.
+      </p>
+      <head style="text-align:center">FINIS.</head>
+    </div>
+    
+    <div type="section">
+      
+        <head style="text-align:center">Subscribers’ Names.
+          <lb/>IN <placeName>VERMONT</placeName>.</head>
+      
+        <head style="text-align:center"><placeName>RUTLAND</placeName>.</head>
+      <lb/><persName>AMES, Jonathan</persName>
+      <lb/><persName>Blanchard, Timothy</persName>
+      <lb/><persName>Blanchard, Ephraim</persName>
+      <lb/><persName>Blanchard, Walter</persName>
+      <lb/><persName>Bell, Esq. Jonathan</persName>
+      <lb/><persName>Baker, William</persName>
+      <lb/><persName>Denniston, William</persName>
+      <lb/><persName>Delano, Rufus</persName>
+      <lb/><persName>Foot, Levi</persName>
+      <lb/><persName>Forbes, Samuel</persName>
+      <lb/><persName>Haynes, Lemuel</persName>
+      <lb/><persName>Hartwell, Joseph</persName>
+      <lb/><persName>Hart, Lombard</persName>
+      <lb/><persName>Johnson, Elihu</persName>
+      <lb/><persName>Mead, James, jun.</persName>
+      <lb/><persName>Mead, Silas</persName>
+      <lb/><persName> Meeker, David</persName>
+      <lb/><persName>Nott, William</persName>
+        <cb/>
+      <lb/><persName>Purdy, John</persName>, 2
+      <lb/><persName>Perry, Joshua</persName>
+      <lb/><persName>Ruggles, John</persName>
+      <lb/><persName>Smith, David</persName>, <seg xml:id="a028" corresp="#n028">12</seg><note xml:id="n028" corresp="#a028">The notation indicates subscription of twelve copies; <persName>David Smith</persName> was the <placeName>Rutland</placeName> postmaster from <date when="1801">1801</date>-<date when="1804">1804</date>.</note>
+      <lb/><persName>Sunderlin, Jesse</persName>
+      <lb/><persName>Sheldon, Medad</persName>
+      <lb/><persName>Thrall, Aaron</persName>
+      <lb/><persName>Whipple, Nehemiah</persName>
+      <lb/><persName>Watkins, Moses</persName>
+        
+      <head style="text-align:center"><placeName>IRA</placeName>.</head>
+        
+      <lb/><persName>Collins, John</persName>
+      <lb/><persName>Collins, Asa</persName>
+      <lb/><persName>Carpenter, Ira</persName>
+      <lb/><persName>Fish, Esq. Preserved</persName>
+      <lb/><persName>Graves, Daniel</persName>
+      <lb/><persName>Guilford, Simeon</persName>
+      <lb/><persName>Gates, Seth</persName>
+      <lb/><persName>Hunter, Daniel</persName>
+      <pb/>
+      <lb/><persName>Newton, Jason</persName>
+      <lb/><persName>Owen, Ebenezer</persName>
+      <lb/><persName>Owen, Jonathan</persName>
+      <lb/><persName>Sherman, Esq. Geo.</persName>
+      <lb/><persName>Sherman, Nathan</persName>
+      <lb/><persName>Wilmarth, Nath’l.</persName>
+      <lb/><persName>Warner, Omri</persName>
+      <lb/><persName>Whipple, Christo.</persName>
+      <lb/><persName><seg xml:id="a029" corresp="#n029">Whipple, Ama</seg><note xml:id="n029" corresp="#a029"><persName>Ama Whipple</persName> appears to be the only woman on this list.</note></persName>
+        
+      <head style="text-align:center"><placeName>MIDDLETOWN.</placeName></head>
+        
+        <lb/><persName>Allen, Samuel, jun.</persName>
+        <lb/><persName>Austin, Hearington</persName>
+      <lb/><persName>Burnham, Jacob</persName>, 2
+        <lb/><persName>Brewster, Orson, jun</persName>
+        <lb/><persName>Clark, Ezra</persName>
+        <lb/><persName>Clark, Rufus</persName>
+        <lb/><persName>Clark, Theophilus</persName>
+        <lb/><persName>Frisbe, Stephen</persName>
+        <lb/><persName>Frisbe, Thomas</persName>
+        <lb/><persName>Graves, Gideon</persName>
+        <lb/><persName>Joscelyn, Jabez</persName>
+        <lb/><persName>Miner, Joel</persName>
+        <lb/><persName>Rathbun, Wait, jun.</persName>
+        <lb/><persName>Spalding, Jeremiah</persName>
+        <lb/><persName>Walker, Luther</persName>
+        <cb/>
+        <lb/><persName>Wood, Nath’l. jun.</persName>
+        
+        <head style="text-align:center"><placeName>PITTSFORD</placeName>.</head>
+        
+          <lb/><persName>Avery, Elijah</persName>
+          <lb/><persName>Bates, Michael</persName>
+          <lb/><persName>Bristol, Nathaniel</persName>
+          <lb/><persName>Baxster, William</persName>
+          <lb/><persName>Conant, Calvin</persName>
+          <lb/><persName> Downey, John</persName>
+          <lb/><persName>Dutton, John</persName>
+          <lb/><persName>Ewing, Alexander</persName>
+          <lb/><persName>Frisbie, William</persName>
+          <lb/><persName>Green, Joel</persName>
+          <lb/><persName>Hickok, Stephen</persName>
+          <lb/><persName>Herrick, Elijah</persName>
+          <lb/><persName>Hendee, Caleb, jun.</persName>
+          <lb/><persName>Johnson, Heman</persName>
+          <lb/><persName>Lucas, Paul</persName>
+          <lb/><persName>Penfield, John, jun.</persName>
+          <lb/><persName>Woodruff, Ashur</persName>
+        
+          <head style="text-align:center"><placeName>RUPERT</placeName>.</head>
+        
+          <lb/><persName>Brandy, Frederick</persName>
+          <lb/><persName>Eastman, Enoch</persName>
+          <lb/><persName>Elwell, Harrison</persName>
+          <lb/><persName>Gookins, John M.</persName>
+        
+        <pb/>
+          <lb/><persName>Herriman, Jonathan</persName>
+          <lb/><persName>Huggins, Esq. Ashur</persName>
+          <lb/><persName>Harman, Benjamin</persName>
+          <lb/><persName>Johnson, Levi</persName>
+          <lb/><persName>Kent, Samuel</persName>
+          <lb/><persName>Moore, Esq. Grove</persName>
+          <lb/><persName>Spencer, Phinehas</persName>
+      <lb/><persName>Sheldon, Joel</persName>, 6
+          <lb/><persName>Sheldon, Esq. David</persName>
+          <lb/><persName>Smith, Luther</persName>
+          <lb/><persName>Smith, Truman</persName>
+          <lb/><persName>Stebbins, Samuel</persName>
+          <lb/><persName>Thomas, David</persName>
+       
+          <head style="text-align:center"><placeName>PAWLET</placeName>.</head>
+        
+          <lb/><persName>Ashley, Noah</persName>
+          <lb/><persName>Barlow, R. John</persName>
+          <lb/><persName>Cook, Titus A.</persName>
+          <lb/><persName>Cox, Robert</persName>
+          <lb/><persName>Fitch, Daniel, jun.</persName>
+          <lb/><persName>Griswold, Ahier</persName>
+          <lb/><persName>Harman, Silas</persName>
+          <lb/><persName>M’Daniel, Daniel</persName>
+          <lb/><persName>Pettingill, Samuel</persName>
+          <lb/><persName>Pepper, Simeon</persName>
+              <cb/>
+          <lb/><persName> Reed, James</persName>
+          <lb/><persName>Willard, J.</persName>
+          <lb/><persName>Wood, Otis.</persName>
+        
+          <head style="text-align:center"><placeName>ARLINGTON</placeName>.</head>
+        
+          <lb/><persName>Bearss, Levi</persName>
+          <lb/><persName>Moffett, Zebulon</persName>
+      <lb/><persName>Stone, Samuel</persName>, 2
+          <lb/><persName>Turner, Daniel</persName>
+          <lb/><persName>Young, Andrew</persName>
+        
+          <head style="text-align:center"><placeName>TINMOUTH</placeName>.</head>
+        
+          <lb/><persName>Clark, Jasper</persName>
+          <lb/><persName>Perry, Eliakim</persName>
+          <lb/><persName>Rice, Eber</persName>
+          <lb/><persName>Willford, Samuel</persName>
+        
+          <head style="text-align:center"><placeName>SANDGATE</placeName>.</head>
+        
+          <lb/><persName>Johnson, Matthew</persName>
+          <lb/><persName>Watkins, John</persName>
+        
+          <head style="text-align:center"><placeName>DORSET</placeName>.</head>
+        
+          <lb/><persName>Farwell, Skiff</persName>
+          <lb/><persName>Kent, Martin</persName>
+          <lb/><persName>Underhill, James, 6</persName>
+        <pb/>
+          <head style="text-align:center"><placeName>BENNINGTON</placeName>.</head>
+        
+          <lb/><persName>Abel, Thomas</persName>
+          <lb/><persName> Merrill, Orsamus C.</persName>
+          <lb/><persName>Robinson, Jona. E.</persName>
+          <lb/><persName>Selden, Andrew</persName>
+        
+          <head style="text-align:center"><placeName>BRANDON</placeName>.</head>
+        
+          <lb/><persName>Conant, Ebbe</persName>
+          <lb/><persName>Downey, Thomas</persName>
+          <lb/><persName>Downey, Charles</persName>
+          <lb/><persName>Mosely, Nathaniel I.</persName>
+        
+          <head style="text-align:center"><placeName>CLARENDEN</placeName>.</head>
+        
+          <lb/><persName>Colvin, Jonathan</persName>
+          <lb/><persName>Miner, Lamson</persName>
+        
+      <head style="text-align:center; font-style:italic"><placeName>Poultney</placeName>.</head>
+        
+          <lb/><persName>Aaron Smedley</persName>
+        <cb/>
+      <head style="text-align:center; font-style:italic"><placeName>Whiting</placeName>.</head>
+        
+      <lb/><persName>James Walker</persName>
+        
+      <head style="text-align:center; font-style:italic"><placeName>Chittenden</placeName>.</head>
+        
+        <lb/><persName>Samuel Harrison</persName>
+        
+      <head style="text-align:center; font-style:italic"><placeName>Manchester</placeName>.</head>
+        
+          <lb/><persName>William Cooley</persName>
+        
+      <head style="text-align:center; font-style:italic"><placeName>Salisbury</placeName>.</head>
+        
+      <lb/><persName>Sol. L. Barney</persName>, 2
+        
+      <head style="text-align:center; font-style:italic"><placeName>Orwell</placeName>.</head>
+        
+              <lb/><persName>Luther Brown</persName>
+        
+      <head style="text-align:center; font-style:italic"><placeName>Medway</placeName>.</head>
+        
+                <lb/><persName>Benjamin Farmer</persName>
+        
+      <head style="text-align:center; font-style:italic"><placeName>Castleton</placeName>.</head>
+        
+      <lb/><persName><seg xml:id="a030" corresp="#n030"><unclear>Arun.</unclear></seg><note xml:id="n030" corresp="#a030">Unclear in original, though there is an <persName>Arunah W. Hyde</persName> (born <date when="1799">1799</date>) from <placeName>Castleton</placeName>.</note> W. Hyde</persName>
+        
+      <head style="text-align:center; font-style:italic"><placeName>Fairhaven</placeName>.</head>
+        
+      <lb/><persName>Joel Hamilton</persName>
+      
+      <div type="section">
+        
+        <head style="text-align:center">IN <hi rend="italic"><placeName>NEW-YORK</placeName></hi>.</head>
+        
+          <head style="text-align:center"><placeName>TROY</placeName>.</head>
+        
+      <lb/><persName>Adams, Nathaniel</persName>
+      <lb/><persName>Benjamin, Caleb</persName>
+      <lb/><persName>Benjamin, Daniel</persName>
+        <cb/>
+      <lb/><persName>Chapman, Josiah</persName>
+      <lb/><persName>Calkins, Jesse</persName>
+      <lb/><persName>Freeman, U. W. </persName>
+                  <lb/><persName>Gillet, Amos</persName>
+        <pb/>
+      <lb/><persName>Hubbard, Ruggles</persName>
+      <lb/><persName>Martin, Samuel</persName>
+      <lb/><persName>Searls, John</persName>
+        <lb/><persName>Warren, Samuel</persName>, 6
+    </div>
+        
+          <head style="text-align:center"><placeName>GRANVILLE</placeName>.</head>
+        
+      <lb/><persName>Bishop, Isaac</persName>
+      <lb/><persName>Ball, Wadsworth</persName>
+      <lb/><persName>Eaton, Joshua, jun.</persName>
+      <lb/><persName>Holmes, Jacob</persName>
+      <lb/><persName>Joscelyn, Joseph</persName>
+      <lb/><persName>Lamb, Israel</persName>
+      <lb/><persName>Norton, Joseph</persName>
+      <lb/><persName> Skinner, Reuben</persName>
+      <lb/><persName>Smith, Howell</persName>
+        
+          <head style="text-align:center"><placeName>CAMBRIDGE</placeName>.</head>
+        
+      <lb/><persName>Barlow, Lewis</persName>
+      <lb/><persName>Deane, Solomon</persName>
+      <lb/><persName> King, Solomon</persName>
+      <lb/><persName>Porter, John</persName>
+      <lb/><persName>Worth, Edmund</persName>
+      <lb/><persName>Wells, Austin</persName>
+      <lb/><persName>Wells, Daniel L.</persName>
+        <cb/>
+        
+          <head style="text-align:center"><placeName>ARGYLE</placeName>.</head>
+        
+      <lb/><persName>Draper, John</persName>
+      <lb/><persName>Duell, Abner</persName>
+      <lb/><persName>Horton, Jonathan K.</persName>
+      <lb/><persName>King, David</persName>
+      <lb/><persName>Noyes, Hezekiah</persName>
+      <lb/><persName>Sewall, Jonathan</persName>
+        
+          <head style="text-align:center"><placeName>HEBRON</placeName>.</head>
+        
+      <lb/><persName>Kennedy, Bill</persName>
+      <lb/><persName>Livingston, William</persName>
+      <lb/><persName>Long, David</persName>
+      <lb/><persName>Webster, Alex. jun.</persName>
+        
+          <head style="text-align:center"><placeName>SCHAGHTICOKE</placeName>.</head>
+        
+      <lb/><persName>Gilbert, Benjamin</persName>
+      <lb/><persName>Mather, Bethel</persName>
+        
+      <head style="text-align:center; font-style:italic"><placeName>Lansingburgh</placeName></head>
+        
+      <lb/><persName>Ennice Guild</persName>
+      <lb/><persName>Benjamin Green</persName>, 6
+        
+      <head style="text-align:center; font-style:italic"><placeName>Easton</placeName>.</head>
+        
+      <lb/><persName>Seth Pe<gap reason="flawed-reproduction" extent="2 characters"/>rage</persName>
+    </div>
+    
+    <div type="section">
+        <p>
+        <hi rend="italic">A number of Subscription papers were 
+          <lb/>not returned in time to be inserted.</hi>
+        </p>
+    </div>
+
+  </body>
+ </text>
+</TEI>
