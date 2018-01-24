@@ -1,0 +1,1785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0"
+  xmlns:html="http://www.w3.org/1999/xhtml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Gentlemen and Ladies' Town and Country Magazine</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Published by the American Antiquarian Society's Just Teach One Initiative.</p>
+      </publicationStmt>
+
+      <sourceDesc xml:id="15579">
+        <biblStruct>
+          <monogr>
+            <author>
+              <persName>Anonymous</persName>
+            </author>
+            <title>The Story of Constantius and Pulchera</title>
+            <ref type="catalog-url">http://catalog.mwa.org/vwebv/holdingsInfo?bibId=15579</ref>
+            <idno type="aas">15579</idno>
+            <imprint>
+              <pubPlace>
+                <bibl style="font­-style: italic">The Story of Constantius and Pulchera</bibl>,
+                published in <bibl style="font­-style: italic">The Gentlemen and Ladies' Town and
+                  Country Magazine</bibl>, <date when="1789-06">June 1789</date> to <date
+                  when="1791-01">January 1791</date>
+                <placeName>Boston, MA</placeName>
+              </pubPlace>
+              <publisher>
+                <persName>Nathaniel Coverly</persName>
+              </publisher>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+
+      <sourceDesc xml:id="15579.01">
+        <biblStruct>
+          <monogr>
+            <title>The Story of Constantius and Pulchera</title>
+            <idno type="aas">15579</idno>
+            <imprint>
+              <date when="1789-06"/>
+            </imprint>
+          </monogr>
+          <series>
+            <biblScope>Volume 1, Number 5</biblScope>
+          </series>
+        </biblStruct>
+      </sourceDesc>
+
+      <sourceDesc xml:id="15579.02">
+        <biblStruct>
+          <monogr>
+            <title>The Story of Constantius and Pulchera</title>
+            <idno type="aas">15579</idno>
+            <imprint>
+              <date when="1789-07"/>
+            </imprint>
+          </monogr>
+          <series>
+            <biblScope>Volume 1, Number 6</biblScope>
+          </series>
+        </biblStruct>
+      </sourceDesc>
+
+      <sourceDesc xml:id="15579.03">
+        <biblStruct>
+          <monogr>
+            <title>The Story of Constantius and Pulchera</title>
+            <idno type="aas">15579</idno>
+            <imprint>
+              <date when="1789-08"/>
+            </imprint>
+          </monogr>
+          <series>
+            <biblScope>Volume 1, Number 7</biblScope>
+          </series>
+        </biblStruct>
+      </sourceDesc>
+
+      <sourceDesc xml:id="15579.04">
+        <biblStruct>
+          <monogr>
+            <title>The Story of Constantius and Pulchera</title>
+            <idno type="aas">15579</idno>
+            <imprint>
+              <date when="1789-09"/>
+            </imprint>
+          </monogr>
+          <series>
+            <biblScope>Volume 1, Number 8</biblScope>
+          </series>
+        </biblStruct>
+      </sourceDesc>
+
+      <sourceDesc xml:id="15579.05">
+        <biblStruct>
+          <monogr>
+            <title>The Story of Constantius and Pulchera</title>
+            <idno type="aas">15579</idno>
+            <imprint>
+              <date when="1789-10"/>
+            </imprint>
+          </monogr>
+          <series>
+            <biblScope>Volume 1, Number 9</biblScope>
+          </series>
+        </biblStruct>
+      </sourceDesc>
+
+      <sourceDesc xml:id="15579.06">
+        <biblStruct>
+          <monogr>
+            <title>The Story of Constantius and Pulchera</title>
+            <idno type="aas">15579</idno>
+            <imprint>
+              <date when="1789-11"/>
+            </imprint>
+          </monogr>
+          <series>
+            <biblScope>Volume 1, Number 10</biblScope>
+          </series>
+        </biblStruct>
+      </sourceDesc>
+
+      <sourceDesc xml:id="15579.07">
+        <biblStruct>
+          <monogr>
+            <title>The Story of Constantius and Pulchera</title>
+            <idno type="aas">15579</idno>
+            <imprint>
+              <date when="1789-12"/>
+            </imprint>
+          </monogr>
+          <series>
+            <biblScope>Volume 1, Number 11</biblScope>
+          </series>
+        </biblStruct>
+      </sourceDesc>
+
+      <sourceDesc xml:id="15579.08">
+        <biblStruct>
+          <monogr>
+            <title>The Story of Constantius and Pulchera</title>
+            <idno type="aas">15579</idno>
+            <imprint>
+              <date when="1790-01"/>
+            </imprint>
+          </monogr>
+          <series>
+            <biblScope>Volume 1, Number 12</biblScope>
+          </series>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text corresp="#15579">
+    <front>
+      <titlePage style="text-align:center">
+        <titlePart type="desc">The STORY of <persName>CONSTANTIUS</persName> and <lb/><seg
+            xml:id="a001" corresp="#n001"><persName>PULCHERA</persName>.</seg><note xml:id="n001"
+            corresp="#a001">This first installment, in <date when="1789-06">June of 1789</date>,
+            appeared with the following heading: “<hi rend="italic">For the </hi><bibl>GENTLEMEN <hi
+                rend="italic">and</hi> LADIES MAGAZINE</bibl>. <persName>Mr. COVERLY</persName>, <hi
+              rend="italic">If you think the following authentick Story worthy a place in your
+              entertaining Magazine, you’ll please to insert it in your fifth number.</hi>” After
+            the title, there appeared a line reading “[<hi rend="italic">Embellished with a fine
+              Engraving.</hi>]”</note></titlePart>
+      </titlePage>
+    </front>
+
+    <group>
+      <text corresp="#15579.01">   <body>
+          <div type="section">      <p>IN the suburbs of the city of <placeName>Phi- <lb break="no"
+                />ladelphia</placeName>, in the soft season of the <lb/>year, about one o’clock on a
+              moon- <lb/>shining morning, on the terrace of an <lb/>high building, forty feet from
+              the <lb/>ground, appeared a most beautiful <lb/>Lady of the age of sixteen—she was
+              <lb/>clad in a long white vest, her hair <lb/>of a beautiful chesnut colour hanging
+              <lb/>carelessly over her shoulders, every <lb/>mark of greatness was visible in her
+              <lb/>countenance, which was overcast with <lb/>a solemn gloom, and now and then,
+              <lb/>the unwilling tear unnoticed, rolled <lb/>down her cheek. </p>
+            <p> She cast her eyes around, taking a <lb/>survey of the garden below, and the
+              <lb/>places adjacent—a fixed melancholy <cb/>
+              <lb/>apparently encreased on her counte- <lb break="no"/>nance, and now and then the
+              big sigh <lb/>would burst from her labouring bo- <lb break="no"/>som—more than once
+              she attempted <lb/>to return into the chamber from <lb/>which she had made her
+              appearance— <lb/>and then would appear unresolved— <lb/>At length, taking a chair, and
+              seating <lb/>herself near the side of the terrace, <lb/>and after a few moments of
+              express- <lb break="no"/>ive silence she thus uttered herself, <lb/>“O
+                  <choice><sic>cruel,</sic><corr>cruel</corr></choice> fortune! O more cruel
+              <lb/>parent!—when shall I again be- <lb break="no"/>hold my adorable <hi rend="italic"
+                  ><persName>Constantius</persName></hi>? but <lb/>why do I mention him? why do I
+              re- <lb break="no"/>cal his lov’d ideas? He is gone— <lb/>I am banished forever from
+              him, clois- <lb break="no"/>tered up in this unblessed mansion—
+                  <lb/><choice><sic>debared</sic><corr>debarred</corr></choice> from him, for whose
+              sake <lb/>only I could wish to live!—but I must <lb/>deface his memory.—O for one
+              <lb/>draught from the <seg xml:id="a002" corresp="#n002"><placeName>river <hi
+                    rend="italic">Lethe</hi></placeName>,</seg><note xml:id="n002" corresp="#a002"
+                >In Greek mythology the <placeName>river <hi rend="italic">Lethe</hi></placeName>
+                was one of five rivers surrounding Hades, and its waters were believed to cause
+                anyone who drank them to experience total loss of memory. Before passing into Hades,
+                the dead had to drink from this river to erase all memories of their earthy
+                existence.</note> that the <lb/>tender feelings of my distracted bo- <lb break="no"
+              />som might no more be harrowed up <lb/>by his recollection! Alas! vain is the
+              <lb/>wish, the impression on my heart is so <lb/>deep, that it cannot be defaced but
+              by <lb/>annihilation!—can I ever eradicate <lb/>from my mind his lovely features, his
+              <lb/>charming disposition, his fine sense, <lb/>with all his finished accomplishments—
+              <lb/>No sooner than that could be the case <pb/>
+              <lb/>the <seg xml:id="a003" corresp="#n003">adamant</seg><note xml:id="n003"
+                corresp="#a003"><term style="font-style: italic">Adamant</term>: a rock or mineral
+                of impenetrable hardness.</note> would vegitate. All im- <lb break="no"
+              />possibilities will become practicable, <lb/>sooner than I could forget that flood
+              <lb/>of transport with which I surrender- <lb break="no"/>ed my heart to him, and took
+              delivery <lb/>of his in exchange, and called on <lb/>Heaven to register the
+              indissoluble <lb/>contract. </p>
+            <p> Oh! the effusion of extacy <lb/>of that happy moment, the soft re- <lb break="no"
+              />membrance of which serves no other <lb/>purpose, than to plant daggers in my
+              <lb/>distracted bosom. Why should a fa- <lb break="no"/>ther be lost to every tender
+              feeling, <lb/>and tear me instantaneously from the <lb/>summit of happiness, and place
+              me <lb/>in the <emph style="font­-style: italic">focus</emph> of torment!—“ne- <lb
+                break="no"/>ver more to see him!” The cru- <lb break="no"/>elest accents which ever
+              were utter- <lb break="no"/>ed by one who is totally unworthy <lb/>the name of “<term
+                style="font-style: italic">father</term>”! Has he as- <lb break="no"/>sassinated
+              him? or has he procured <lb/>his manumission to some foreign bar- <lb break="no"
+              />barous land? O could I but once <lb/>more see him, though it were just <lb/>long
+              enough to bid him a final fare- <lb break="no"/>well—O could I but have the
+              <lb/>satisfaction of taking my leave of him, <lb/>though it were in the agonies of
+              death, <lb/>how would I wash his mangled limbs <lb/>with tears, and kiss the departing
+              soul <lb/>from his quivering lips! How would <lb/>my soul burst through the shackles
+              of <lb/>its clay tenement, and bear him com- <lb break="no"/>pany through the
+              unexplored regions <lb/>of <placeName>Elysian</placeName>! but in vain the wish.—
+              <lb/>But what doth my eyes see passing <lb/>through the moon shade of the gar- <lb
+                break="no"/>den? It is my dear lov’d <hi rend="italic"><persName>Constanti- <lb
+                    break="no"/>us</persName></hi>, or his spirit returned from the <lb/><seg
+                xml:id="a004" corresp="#n004"><placeName><hi rend="italic">Elyssiam</hi>
+                  fields</placeName>!</seg><note xml:id="n004" corresp="#a004">In Greek mythology,
+                the <placeName><term style="font-style: italic">Elysian</term> fields</placeName>
+                (also called simply <placeName><term style="font-style: italic"
+                  >Elysium</term></placeName>) were the final paradisiacal resting place of gods and
+                select human heroes.</note> But hark, I hear <lb/>his <choice><orig>footsteps,
+                  </orig><reg>footsteps—</reg></choice>it is he, and not his spi- <lb break="no"
+              />rit—Once more have my optic <lb/>nerves reanimated my almost <lb/>deserted body—<hi
+                rend="italic"><persName>Constantius</persName>!</hi>
+              <hi rend="italic"><persName>Con- <lb break="no"/>stantius</persName>!</hi> once more
+              your <hi rend="italic"><persName>Pulchera</persName></hi>
+              <lb/>beholds you: my eyes are enchanted <lb/>at the prospect, though bars of iron
+              <lb/>hold me from your embraces! Three <lb/>fold bolted doors
+                  <choice><sic>secures</sic><corr>secure</corr></choice> me from you <lb/>—yet I
+              behold you and never <lb/>more will I complain of adverse for- <lb break="no"/>tune,
+              if I can but expire before you <lb/>are taken from my view, Dear <hi rend="italic"
+                  ><persName>Constan- <lb break="no"/>tius</persName>!</hi>
+              <hi rend="italic"><persName>Constantius</persName>!</hi> He lifted up his <cb/>
+              <lb/>eyes and beheld her—with the strong- <lb break="no"/>est emotions of elevated
+              joy, he ex- <lb break="no"/>claimed, “my Dear <hi rend="italic"
+                      ><persName><choice><sic>Puchera</sic><corr>Pulchera</corr></choice></persName>,</hi>
+              it is <lb/>enough! once more I do behold the <lb/>object to which in my mind I had
+              giv- <lb break="no"/>en a final adieu!—driven from <lb/>your arms by a father, who
+              till the fa- <lb break="no"/>tal moment had expressed his appro- <lb break="no"
+              />bation of me in the most flattering <lb/>terms, with a ferocity which I never
+              <lb/>before believed human nature capa- <lb break="no"/>ble of, he drove me from his
+              house, <lb/>after having torn from me the delight <lb/>of my eyes, and the ravisher of
+              my <lb/>heart—tell me my dearest <hi rend="italic"><persName>Pulche- <lb break="no"
+                  />ra</persName></hi>, what was the cause of this strange <lb/>alteration of
+              conduct in him, whom <lb/>once I thought worthy to be called <lb/>your father. </p>
+            <p> The distressed <hi rend="italic"><persName>Pulchera</persName></hi>, replyed,
+              <lb/>Ambition! cruel ambition is the <lb/>cause of our misfortune—no man <lb/>was ever
+              better pleased with another, <lb/>than my father was with you, until <lb/><seg
+                xml:id="a005" corresp="#n005"><persName>Monsieur le Monte</persName>,</seg><note
+                xml:id="n005" corresp="#a005"><term style="font-style: italic"><persName>Le
+                    Monte</persName></term>: this French name may allude to the verb <term
+                  style="font-style: italic">monter</term> (to climb, to mount, to raise) or the
+                noun <term style="font-style: italic">mont</term> (mountain).</note> only son and
+              <lb/>heir to a rich nobleman in <placeName>France</placeName>, <lb/>waited on him, and
+              offered to make <lb/>me his wife, giving a most inchanting
+                  <lb/><choice><sic>discription</sic><corr>description</corr></choice> of the
+              honours and pomp <lb/>he would advance me to—the <lb/>temptation was too great for him
+              to <lb/>withstand—the anticipations of tin- <lb break="no"/>sel’d greatness took full
+              possession of <lb/>his soul—he promised Monsieur <lb/>that I should be his—he soon in-
+                <lb break="no"/>formed me of my
+                  <choice><sic>distination</sic><corr>destination</corr></choice>, and <lb/>I could
+              see joy sparkling in his eyes <lb/>when he reflected on the good for- <lb break="no"
+              />tune to which he fondly imagined my <lb/>good stars had destined me—In <lb/>vain did
+              I remonstrate to him, <lb/>that by his own free and voluntary <lb/>consent I had
+              formed an indissoluble <lb/>union with my dearest <hi rend="italic"
+                  ><persName>Constantius</persName></hi>, and <lb/>that love had cemented us beyond
+              the <lb/>power of separation; and while <lb/>I was going on with my most <lb/>pathetic
+              lamentation for his conduct, <lb/>your approach interrupted me—a <lb/>degree of
+              rancor, which ’till then <lb/>I supposed him totally incapable of, <lb/>appeared in
+              his visage, and your own <lb/>recollection will furnish you with <lb/>ideas of his
+              conduct, until he drove <lb/>you from the garden in which we <pb/>
+              <lb/>were, and gave you the solemn <lb/>assurances you never should see me <lb/>more. </p>
+            <p> He then secured me in the cham- <lb break="no"/>ber communicating with the <seg
+                xml:id="a006" corresp="#n006">terrass,</seg><note xml:id="n006" corresp="#a006"
+                  ><term style="font-style: italic">Terrass</term>: terrace (French).</note>
+              <lb/>on which you see me forty feet <lb/>high, and to-morrow is the day when <lb/>I am
+              to embark for <placeName>France</placeName> in a pac- <lb break="no"/>ket,
+                  <choice><sic>lyling</sic><corr>lying</corr></choice> in the river, with monsieur,
+              <lb/>to be his forever—here her voice <lb/>failed her, and she almost dissolved in a
+              <lb/>flood of tears. <hi rend="italic"><persName>Constantius</persName></hi> was on
+              <lb/> the rack at this fatal intelligence— <lb/>In despair he drew his sword, and was
+              <lb/>on the eve of falling on its point, <lb/>thereby putting a period to an
+              <lb/>existence which he no longer could <lb/>consider as a blessing; but fortune
+              <lb/>which always favours the virtuous, <lb/>suggested to his mind the idea of a
+              <lb/>Tow-line he that day had observed <lb/>in his store, which had been left there
+              <lb/>by accident—he cries out <hi rend="italic"><persName>Pulchera</persName></hi>,
+              <lb/>be contented a few moments and I <lb/>will relieve you—so running to his
+              <lb/>store which stood not far distant, he <lb/>takes the tow-line, and lashing three
+              <lb/>oars at the end of each, making <lb/>the rope fast to the end of them, he <lb/>by
+              this means communicated the end <lb/>of the rope to <hi rend="italic"
+                  ><persName>Pulchera</persName></hi>, who disen- <lb break="no"/>gaged it from the
+              oar, made it fast to <lb/>one of the banisters of the terrass, by <lb/>which means she
+              descended, though <lb/>the knot by which she made the rope <lb/>fast slipped before
+              she had got to the <lb/>ground, yet she was so near it that <lb/>she received no
+              material damage <lb/>thereby—never perhaps was joy <lb/>more triumphant than on this
+              occasion <lb/>—he straightway conveyed her to his <lb/>chamber where the remainder of
+              the <lb/>night was spent in a far more agreeable <lb/>manner than the former part
+              thereof had <seg xml:id="a007" corresp="#n007">been.</seg><note xml:id="n007"
+                corresp="#a007">Here the first (<date when="1789-06">June</date>) installment ends
+                with the notice “[<hi rend="italic">To be continued</hi>.]”</note>
+            </p>
+          </div>
+        </body>
+      </text>
+    </group>
+
+    <group>
+      <text corresp="#15579.02">   <body>
+          <div type="section">      <p> NEVER was there perhaps a <lb/>greater transition from
+              doleful <lb/>anticipations to real joy than had <lb/>been experienced by
+                <persName>Pulchera</persName>; for <lb/>nothing could be more distressing to
+              <lb/>her than the idea of being forever <lb/>separated from her
+                <persName>Constantius</persName>, to <lb/>be forced by cruel parental authority
+              <lb/>from her home, her friends, and from <lb/>every pleasing prospect, into a foreign
+              <lb/>land, and there to be shackled for <lb/>life to a man to whom she had the
+              <lb/>most fixed and irreversable aversion, <lb/>and from whom she had no conceiva- <lb
+                break="no"/>ble way to escape than through the <lb/>avenue of death; thus
+              circumstanced, <lb/>to be in a manner bordering on the <lb/>invisible world, and
+              divested of all <lb/>her fearful apprehensions, at the same <lb/>time to find herself
+              in the full posses- <lb break="no"/>sion of him who was dearer to her <lb/>than all
+              things else, was well nigh too <lb/>hard for her. They scarcely had <lb/>finished
+              their reciprocal congratula- <lb break="no"/>tions, when the clock advertised them
+              <lb/>that two hours of the last half of the <lb/>night were expended, when
+                <persName>Constan- <lb break="no"/>tius</persName> informed her that her safety re-
+                <lb break="no"/>quired her to be put in some place <lb/>more secure from the
+              researches of <lb/>her father, who would doubtless make <lb/>the most vigorous efforts
+              to recover <lb/>her. This piece of information gave <lb/>a most surprising shock to
+                <persName>Pulchera</persName>, <lb/>who till that moment had considered <lb/>herself
+              in the most perfect security; <lb/>various schemes of safety were pro- <lb break="no"
+              />posed by each of them, not one of <lb/>which on examination proved admis- <lb
+                break="no"/>sible, at length the dawn of day ap- <lb break="no"/>proaching,
+              necessity obliged them to <lb/>leave their present place of retreat, <lb/>and conclude
+              on some place of secu- <lb break="no"/>rity after their departure from the '
+              <lb/>haven. </p>
+            <p> In this determination they quitted <lb/>the chamber, hand in hand through <lb/>the
+              meadows, while invention sup- <lb break="no"/>plied the place of conversation until
+              <lb/>they wandered down on the banks of <lb/><placeName>the Delaware</placeName> some
+              miles; when on <lb/>some occasion <persName>Pulchera</persName> being a <seg
+                xml:id="a008" corresp="#n008">few <cb/>
+                <lb/>rods</seg><note xml:id="n008" corresp="#a008"><term style="font-style: italic"
+                  >Rod</term>: a unit of measurement equal to 16.5 feet.</note> behind
+                <persName>Constantius</persName> when just <lb/>entering a short turn of the bank,
+              was <lb/><seg xml:id="a009" corresp="#n009">seized by half a dozen armed
+                men,</seg><note xml:id="n009" corresp="#a009"><persName>Constantius</persName> is
+                seized by a British impressment gang (or press gang). The Royal Navy established the
+                practice of impressment in <date when="1664">1664</date> (and deployed it until
+                  <date when="1814">1814</date>) to replace deserting sailors. Substandard wages
+                made desertion commonplace, and by impressing “volunteers” into service the Royal
+                Navy made sure that their ships had sufficient crews. The practice was a
+                considerable source of friction between the <placeName>United States</placeName> and
+                  <placeName>Great Britain</placeName> in the first decade of the nineteenth
+                century, and was one of the nominal causes of the War of <date when="1812"
+                  >1812</date>.</note>
+              <lb/>who hurried him on board of a <seg xml:id="a010" corresp="#n010">boat.</seg><note
+                xml:id="n010" corresp="#a010">In the original, this sentence reads “when on some
+                occasion <persName>Pulchera</persName> being a few rods behind
+                  <persName>Constantius</persName> when just entering a short turn of the bank, was
+                seized by half a dozen armed men, who hurried her on board of a boat.” We have
+                corrected the pronoun to conform to the details that follow.</note>
+              <lb/><persName>Pulchera</persName>, who by the means of the <lb/>feeble rays of light
+              which were retain- <lb break="no"/>ed by the atmosphere, had a dim <lb/>prospect of
+              this transaction; and al- <lb break="no"/>though what she esteemed as her <lb/><seg
+                xml:id="a011" corresp="#n011"><term style="font-style: italic">summum
+                bonum</term>,</seg><note xml:id="n011" corresp="#a011"><term
+                  style="font-style: italic">Summum bonum</term>: the highest good (Latin).</note>
+              was torn from her, <lb/>yet so sudden was the onset, and so <lb/>complete the
+              surprize, that it sum- <lb break="no"/>moned all the tender and fearful feel- <lb
+                break="no"/>ings which female nature is <choice><sic>susceptable</sic><corr>suscept-
+                    <lb break="no"/>ible</corr></choice> of; and <persName>Pulchera</persName>
+              retired behind <lb/>the opposite declivity of the bank, out <lb/>of the prospect of
+              the scene, and se- <lb break="no"/>cure from their view. Dreadful <lb/>were the
+              sensations which she here <lb/>experienced; her apprehensions of <lb/>personal danger
+              being at last in some <lb/>measure abated, the safety of <persName>Con- <lb break="no"
+                />stantius</persName> in the next instance occupied <lb/>her distracted bosom; she
+              burst into <lb/>a flood of tears, and exclaimed, <lb/>“Oh! heavens, where is he! what
+              <lb/>have they done with him! he is gone! <lb/>he is gone! never more shall my
+              <lb/>wretched eyes behold him! he has <lb/>fallen a prey to relentless <emph
+                style="font­-style: italic">British <lb/>barbarity</emph>! he must expire in some
+              <lb/>loathsome prisonship, or give up the <lb/>ghost in some forlorn, death-impreg-
+                <lb break="no"/>nated dungeon, without a friendly <lb/>hand to close his eyes when
+              they are <lb/><choice><sic>dimed</sic><corr>dimmed</corr></choice> by death! why did
+              my cow- <lb break="no"/>ardly fears prevail on me to leave <lb/>him? why did I not
+              like a true lover <lb/>(as I thought I was) press forward <lb/>to him and have been a
+              partner in his <lb/>misfortunes? had I been worthy the <lb/>name of a lover I should
+              have done <lb/>it; but I was a stranger to love though <lb/>I professed it, and now I
+              am justly <lb/>left to suffer torments greater than <lb/>would be probable on any
+              circum- <lb break="no"/>stances where he was present. But <lb/>can I not yet get to
+              him?—she <lb/>ran to the bank of the river where <lb/>she was seized by the party, but
+              noth- <lb break="no"/>ing of him or his captors could be <lb/>discovered—Frantic in
+              despair <lb/>she beat her breast, tore her hair, <lb/>cursed her fate and prayed for
+              anni- <lb break="no"/>hilation, and was just about com- <pb/>
+              <lb break="no"/>mitting her body to the watry grave, <lb/>when she was prevented
+              therefrom, <lb/>by her father’s taking hold of her <lb/>arm. </p>
+            <p> The consternation she was now in, <lb/>was more easily conjectured than de- <lb
+                break="no"/>scribed.——Her father, unacquaint- <lb break="no"/>ed with what had
+              happened to <persName>Con- <lb break="no"/>stantius</persName>, any further, than he
+              gather- <lb break="no"/>ed from the exclamations of <persName>Pulchera</persName>,
+              <lb/>suffered her to stay there no longer, <lb/>but instantly conducted her home, and
+              <lb/>confined her to an inner chamber, <lb/>leaving her to the reflections of her
+              <lb/>own mind, where sleep and comfort <lb/>were equally strangers to <seg
+                xml:id="a012" corresp="#n012">her.</seg><note xml:id="n012" corresp="#a012">The
+                second (<date when="1789-07">July</date>) installment ends here with the notice
+                  “[<hi rend="italic">To be continued</hi>.]”</note>
+            </p>
+          </div>
+        </body>
+      </text>
+    </group>
+
+    <group>
+      <text corresp="#15579.03">   <body>
+          <div type="section">      <p> THE next day her father enter- <lb break="no"/>ed the
+              chamber in a pleasant <lb/>air, inquiring her health, and saying <lb/>a variety of
+              very agreeable things to <lb/>her—taking no notice of her late <lb/>elopement—At
+              length, in soft ac- <lb break="no"/>cents, he observed to her that this <lb/>was the
+              day on which <persName>M. <hi rend="italic">Le Monte</hi></persName>
+              <lb/>had proposed to embark with her <lb/>for his native country, in order to
+              <lb/>make her his wife; and that all he <lb/>waited for was to be informed of her
+              <lb/>readiness to attend him. Her father <lb/>was about to proceed, but was inter- <lb
+                break="no"/>rupted by <persName>Pulchera</persName>, who thus accost- <lb break="no"
+              />ed him, ‘Dear father, the obligati- <lb break="no"/>on of paternal authority, and
+              the <lb/>duty of filial obedience, are amongst <lb/>the first ideas which took place
+              in <lb/>my mind; and with such forcible <lb/>lessons have those duties been incul- <lb
+                break="no"/>cated on my mind, that nothing will <lb/>ever be able to deface them;
+              and I <lb/>shall make it my first business as long <lb/>as I retain a rational
+              existence, to <lb/>practice the one, and submit cheer- <lb break="no"/>fully to the
+              other: But, dear and <lb/>respected father, the barely naming <lb/>of <persName>M. Le
+                Monte</persName> to me, under <lb/>my circumstances, cannot fail of giv- <lb
+                break="no"/>ing me sensations worse than the <lb/>most studied torture of <seg
+                xml:id="a013" corresp="#n013"><emph style="font­-style: italic">Wheel</emph>
+                <choice><sic>or</sic><corr>and</corr></choice>
+                <lb/><emph style="font­-style: italic">Rack</emph>:</seg><note xml:id="n013"
+                corresp="#a013"><term style="font-style: italic">Wheel and Rack</term>: medieval
+                torture devices designed to cause prolonged suffering by slowly tearing a victim’s
+                limbs from his or her torso.</note> But was I at my own dispo- <lb break="no"/>sal,
+              you, Sir, could command no- <lb break="no"/>thing which I could hesitate at obey- <lb
+                break="no"/>ing; but I am not my own—At <lb/>your special leave and request I have
+              <lb/>in a most solemn manner given up <lb/>myself to <persName>Constantius</persName>,
+              and am no <lb/>more my own—he took full possessi- <lb break="no"/>on of my heart when
+              I gave him my <lb/>promise, and I have neither power <lb/>or inclination to take it
+              back. You, <lb/>Sir, was present, and ratified our <lb/>contract by your most explicit
+              ap- <lb break="no"/>probation thereof; and therefore <lb/>cease to possess the right
+              or power <lb/>of disposing of me again: Pray, <lb/>dear Sir, give these considerations
+              <lb/>that weight which they deserve—Re- <lb break="no"/>member that I am under the
+              most <pb/>
+              <lb/>solemn obligations to my dear <persName>Con- <lb break="no"/>stantius</persName>,
+              that heaven has recognized <lb/>it, and that a violation thereof would <lb/>involve me
+              in the horrid sin of per- <lb break="no"/>jury, which would eventually de- <lb
+                break="no"/>prive me of every species of peace <lb/>here, and procure endless misery
+              to <lb/>me hereafter. Consider also, I pray <lb/>Sir, that <persName>Le
+                Monte</persName> is as odious <lb/>to me as <persName>Constantius</persName> is
+              agreeable— <lb/>that his temper and disposition are <lb/>naturally fierce and cruel to
+              the last <lb/>degree—that it is one of the articles <lb/>of his religion, that ‘no
+              faith is to <lb/>be kept with hereticks,’ and such, <lb/>you are sensible, he esteems
+              me— <lb/>that he despiseth that holy religion, <lb/>whose principles, in my early
+              infan- <lb break="no"/>cy, you have taught me to have the <lb/>highest regard for, as
+              being insepa- <lb break="no"/>rably connected with my <seg xml:id="a014"
+                corresp="#n014">future wel- <lb break="no"/>fare</seg><note xml:id="n014"
+                corresp="#a014"><persName>Pulchera’s</persName> family is Protestant, and
+                  <persName>Le Monte</persName> is a Catholic; <persName>Pulchera</persName> argues
+                that this difference makes them fundamentally incompatible.</note>—I hope you will
+              reflect suita- <lb break="no"/>bly on these things, and not let the <lb/>idea of the
+              pomp and show of tin- <lb break="no"/>sel’d greatness, and the place near a
+              <lb/>Monarch’s court, induce you to de- <lb break="no"/>stroy the present peace and
+              future <lb/>welfare of your only child.’ </p>
+            <p> Her father listened to what she <lb/>said until she had gone through; <lb/>when,
+              with a stern aspect, he reply- <lb break="no"/>ed, ‘Poor silly creature, your folly
+              <lb/>would be your utter ruin, had you <lb/>not a father living to bridle your gid-
+                <lb break="no"/>dy passions: But to reason with a <lb/>person void of rationality is
+              no part <lb/>of my business. Remember you are <lb/>under my government, and that my
+              <lb/>will is your law—that nothing will <lb/>be able to divert me from my pur- <lb
+                break="no"/>pose of having <persName>Le Monte</persName> for a son- <lb/>in-law, and
+              you may as well submit <lb/>to my pleasure quietly as to be drag- <lb break="no"/>ged
+              to it by force, which will be the <lb/>case if you prove refractory. As to <lb/>your
+                <persName>Constantius</persName>, he is a man whose <lb/>fortune does not exceed
+              that to which <lb/>you are born; but <persName>Le Monte</persName> has an
+              <lb/>inexhaustible fund both of riches <lb/>and honour.’ Thus saying, he left <lb/>her
+              to her own doleful reflections. <lb/>Sleepless and wearisome moments <lb/>were her
+              companions until the next <lb/>morning, when a servant of the fa- <lb break="no"/>mily
+              entered the room, informing her <pb/>
+              <lb/>it was her father’s pleasure that she <lb/>should prepare herself to breakfast
+              <lb/>with <persName>Le Monte</persName> and himself; at <lb/>which he left the room,
+              throwing <lb/>into her lap a news-paper of that <lb/>day. She took up the paper, and
+              the <lb/>first thing she espied therein was the <lb/>fatal intelligence that
+                <persName>Constantius</persName>, <lb/>after he had been taken prisoner by <lb/>the
+              British, proved to be frantickly re- <lb break="no"/>fractory, that in a fit of rage
+              one of <lb/>the officers had sheathed his sword in <lb/>his heart, and he was dead!—At
+              the <lb/>reading of which, poor <persName>Pulchera</persName>
+              <lb/>swooned away and fell on the floor; <lb/>The noise of which brought the ser- <lb
+                break="no"/>vant again into the apartment, for <lb/>by his master’s order he had
+              waited <lb/>at the door to observe her—He, see- <lb break="no"/>ing her in that
+              condition, called up <lb/>the family, and a long time it was <lb/>before they could
+              restore her to her <lb/>senses; and when at last it was ef- <lb break="no"/>fected,
+              with eyes starting with hor- <lb break="no"/>ror, she exclaimed, ‘He is gone! <lb/>He
+              is gone! <persName>Constantius</persName> is no more! <lb/>Had it not been for my
+              cruel father, <lb/>he would still have been alive with <lb/>me; but untimely death
+              hath closed <lb/>his eyes; and you, Oh! my father, <lb/>must be answerable for that
+              and all <lb/>its consequences! But you shall be <lb/>disappointed; never will I be
+                <persName>Le <lb/>Monte’s</persName>. If I am deprived of him <lb/>in life, I will
+              still be his in death— <lb/>He has had my heart, and I will ne- <lb break="no"/>ver
+              give it to another; I will de- <lb break="no"/>scend to the grave; I will retire
+              <lb/>from the theatre of this world, which <lb/>has no longer any thing in it to al-
+                <lb break="no"/>lure me, and will seek that peace in <lb/>the unexplored regions of
+              futurity, <lb/>of which I am deprived here by a <lb/>relentless father.’ </p>
+            <p> To no purpose did her father at- <lb break="no"/>tempt to reason with her, telling
+              her, <lb/>that as <persName>Constantius</persName> was dead she <lb/>was absolved from
+              all her obligations <lb/>—that she, in consequence thereof, <lb/>was again under
+              parental disposal— <lb/>that now she had no excuse of duty <lb/>to
+                <persName>Constantius</persName>—that <emph style="font­-style: italic">that</emph>
+              religion <lb/>which she the day before spoke so <lb/>highly of, made it her duty now
+              to <lb/>submit to the dictates of her father, <pb/>
+              <lb/>and that if she refused she must lose <lb/>his blessing and her own peace of
+              <lb/>conscience here, and be sure of the <lb/>indignation of her Maker and Judge
+              <lb/>hereafter; and that for her to conti- <lb break="no"/>nue obstinate would be of
+              no service <lb/>to her, as she was totally in his pow- <lb break="no"/>er, and that he
+              was fully determined <lb/>she should, that very night approach- <lb break="no"/>ing,
+              embark with <persName>Le Monte</persName>.—She <lb/>observed to him, that to urge the
+              <lb/>death of <persName>Constantius</persName> as an argument <lb/>for her again
+              coming under his dis- <lb break="no"/>posal, when at the same time he was <lb/>in
+              reality the guilty cause of it, did <lb/>not carry any great matter of force <lb/>with
+              it, and that it was enough for <lb/>him to deprive her of
+                <persName>Constantius</persName>, <lb/>without adding a curse of little less
+              <lb/>magnitude to her misfortune; for <lb/>the joining her to <persName>Le
+                Monte</persName> would <lb/>add as much to her wretchedness as <lb/>the depriving
+              her of <persName>Constantius</persName>. </p>
+            <p> Her father, finding that expostu- <lb break="no"/>lation had no kind of effect upon
+              <lb/>her, withdrew; making preparation <lb/>for her embarkation; and the even- <lb
+                break="no"/>ing following forced her into a coach <lb/>which conveyed her in the
+              course of <lb/>the night to the wharf where lay the <lb/>ship in which <persName>Le
+                Monte</persName> was to re- <lb break="no"/>turn to <placeName>France</placeName>,
+              waiting for her arri- <lb break="no"/>val. She was hurried on board— <lb/>and the wind
+              being favourable, they <lb/>hoisted sail, and in a few hours lost <lb/>sight of the
+              American shore.—Grief, <lb/>amazement and horror occupied the <lb/>breast of
+                <persName>Pulchera</persName>, though <persName>Le Monte</persName>
+              <lb/>used every effort to recommend him- <lb break="no"/>self to her; but all to no
+              purpose. <lb/>She replied to him, that it was in <lb/>vain for him to attempt what was
+              to- <lb break="no"/>tally impossible—that her aversion <lb/>to him was so great that
+              time and <lb/>circumstances would never be able to <lb/>efface it—that tho’ he had the
+              pow- <lb break="no"/>er over her body, yet her mind was, <lb/>and should continue
+              free—that she <lb/>never would give him her hand or <lb/>heart, and that he might rest
+              assured <lb/>he would never have the satisfaction <lb/>of being her husband—that even
+              the <lb/>crown of <placeName>France</placeName> was too trifling a <lb/>toy to have
+              any effect on her mind. <lb/>In discourses like this they passed a <cb/>
+              <lb/>tedious passage of thirty-one days, <lb/>when one morning the light present- <lb
+                break="no"/>ed to their view three British ships <lb/>at not more than half a
+              league’s dis- <lb break="no"/>tance, at the leeward of them—A <lb/>flight was
+              impossible—and in a few <lb/>minutes the nearest of the British <lb/>ships fired a
+              shot across their bow. <lb/>The Captain of the French ship call- <lb break="no"/>ed
+              his officers together and held a <lb/>momentary council of war, the re- <lb break="no"
+              />sult of which was to strike their co- <lb break="no"/>lours and yield themselves
+              prisoners <lb/>of war, which was done immediate- <lb break="no"/>ly. The Captain and
+              some of his <lb/>principal officers, together with <persName>Le <lb/>Monte</persName>
+              and <persName>Pulchera</persName>, were carried <lb/>on board the Commandant’s ship;
+              <lb/>but what was the surprise of <persName>Pulche- <lb break="no"/>ra</persName>,
+              when on board of the captor she <lb/>beheld her lost <persName>Constantius</persName>!
+              Nor <lb/>were the sensations of <persName>Constantius</persName>
+              <lb/>less nervous at beholding his adora- <lb break="no"/>ble
+                <persName>Pulchera</persName>—They both stood si- <lb break="no"/>lent, swallowed up
+              in extacy, while <lb/>their expressive countenances decla- <lb break="no"/>red the
+              emotions of their hearts more <lb/>intelligibly than the most finished
+              <lb/>composition of words is capable of <lb/>doing. </p>
+            <p> The Captain of the British ship, <lb/>on observing what passed, took <persName>Pul-
+                  <lb break="no"/>chera</persName> into his cabin, saying, ‘Fair <lb/>lady, by the
+              silent messages which <lb/>have passed between you and <persName>Con- <lb break="no"
+                />stantius</persName>, a prisoner in my ship, I fan- <lb break="no"/>cy you have had
+              some former ac- <lb break="no"/>quaintance with him, and that by <lb/>some means he
+              has been forced from <lb/>you, and your meeting appears to be <lb/>unexpected to both;
+              be so good as to <lb/>inform me of the circumstances, as <lb/>far as may be proper—You
+              are both <lb/>in my power; I will see you have <lb/>ample justice done you.
+                <persName>Pulchera</persName>
+              <lb/>then went on to inform him that she <lb/>was the only daughter of a rich far- <lb
+                break="no"/>mer in the neighbourhood of <placeName>Phila- <lb break="no"
+                />delphia</placeName>, that her father had paid ev- <lb break="no"/>ery attention to
+              her education, that <lb/>at the age of seventeen her father in- <lb break="no"/>formed
+              her that for three years past <lb/>he had made it the whole of his stu- <lb break="no"
+              />dy to devise means of recommending <lb/>her to the only son of a wealthy <pb/>
+              <lb/>merchant in the same neighbourhood, <lb/>whose name he said was
+                <persName>Constantius</persName>; <lb/>and that <persName>Constantius</persName> and
+              his father <lb/>had both agreed to the match, and <lb/>that he hoped there would be no
+              ob- <lb break="no"/>jections thereto on her part—that <lb/>with blushes she told her
+              father she <lb/>had no objection to offer to such a <lb/>proposal—that she had long
+              had a <lb/>strong prepossession in favour of <persName>Con- <lb break="no"
+                />stantius</persName>; in fine, she proceeded to <lb/>give him a brief history of
+              the trans- <lb break="no"/>actions which we have before rela- <lb break="no"/>ted,
+              until the then present moment. </p>
+            <p> The Captain at the end of the <lb/>narration called <persName>Constantius</persName>
+              into the <lb/>cabin, saying to him, ‘You have hi- <lb break="no"/>therto been a
+              prisoner in my ship— <lb/>you from this moment cease to be <lb/>one—you are henceforth
+              at liberty, <lb/>and have the freedom of the ship; <lb/>I congratulate you on your
+              fortunate <lb/>meeting with your admired <persName>Pulche- <lb break="no"
+                />ra</persName>—an elegant state-room shall be <lb/>allotted for your use—you and
+                <persName>Pul- <lb break="no"/>chera</persName> shall henceforth participate <lb/>at
+              my table, and when we arrive at <lb/><seg xml:id="a015" corresp="#n015"
+                  ><placeName>Portsmouth</placeName>,</seg><note xml:id="n015" corresp="#a015"><term
+                  style="font-style: italic"><placeName>Portsmouth</placeName></term>: an island
+                city off the southwest coast of <placeName>London</placeName> and an important naval
+                port for the British in the eighteenth and nineteenth centuries.</note> I will take
+              suitable care <lb/>of you. You shall have a safe con- <lb break="no"/>veyance to <seg
+                xml:id="a016" corresp="#n016"><placeName>Holland</placeName>,</seg><note
+                xml:id="n016" corresp="#a016"><term style="font-style: italic"
+                    ><placeName>Holland</placeName></term>: a neutral site during the Revolutionary
+                War.</note> from whence at <lb/>your leisure you may return to your <lb/>native
+                country.’—<persName>Constantius</persName> po- <lb break="no"/>litely returned him
+              his warmest thanks <lb/>for his offered goodness, and nothing <lb/>but harmony
+              subsisted in the cabin. </p>
+            <p>
+              <persName>Le Monte</persName>, who continued a pri- <lb break="no"/>soner on board the
+              same ship, in a <lb/>few days was informed of all that <lb/>had taken place with
+              regard to <persName>Con- <lb break="no"/>stantius</persName> and
+                <persName>Pulchera</persName>, and was stung <lb/>with resentment at the
+              information, <lb/>and swore revenge. The next day <lb/>he sent
+                <persName>Constantius</persName> a challenge to a <lb/>duel, which he accepted; and
+              that <lb/>night met for the purpose; in the <lb/>issue of which <persName>Le
+                Monte</persName> fell, and <lb/>had to ask his life of
+                <persName>Constantius</persName>, <lb/>who magnanimously gave it to <seg
+                xml:id="a017" corresp="#n017">him.</seg><note xml:id="n017" corresp="#a017">Here the
+                third (<date when="1789-08">August</date>) installment ends with the notice “(<hi
+                  rend="italic">To be Continued.</hi>)”</note>
+            </p>
+          </div>
+        </body>
+      </text>
+    </group>
+
+    <group>
+      <text corresp="#15579.04">   <body>
+          <div type="section">      <p>
+              <persName>LE MONTE</persName> was so sensible of <lb/>his obligation to
+                <persName>Constantius</persName>, <lb/>that he rose and expressed his warm- <lb
+                break="no"/>est acknowledgments to him on the <lb/>occasion; adding, that after
+              experi- <lb break="no"/>encing such a favour from him, he <lb/>had too much gratitude
+              to do any <lb/>thing which could in any degree prove <lb/>disagreeable to him:—I
+              therefore, <lb/>said he, do relinquish every idea of <lb/>any claim to the admirable
+                <persName>Pulchera</persName>
+              <lb/>—I resign her to you, Sir—Your <lb/>conduct has rendered you worthy of <lb/>her
+              who has not an equal on earth— <lb/>May you long live mutual blessings <lb/>to each
+              other, and may a beneficent <lb/>Providence grant that you may for- <lb break="no"
+              />ever be sharers of the best of bless- <lb break="no"/>ings which heaven has reserved
+              in <lb/>store for its dearest favourites; and <lb/>may I hope, that notwithstanding
+              all <lb/>which has passed, that <persName>Le Monte</persName> will <lb/>be recorded
+              amongst the number of <lb/>your friends. </p>
+            <p> Nothing could exceed the courte- <lb break="no"/>sy with which
+                <persName>Constantius</persName> and <persName>Pul- <lb break="no"/>chera</persName>
+              treated <persName>Le Monte</persName> on this occa- <lb break="no"/>sion; and the
+              remainder of the voyage <lb/>was spent in the most agreeable man- <lb break="no"/>ner,
+              until one night, after a most <lb/>beautifully serene day, they saw a
+              <lb/>prodigiously black cloud make its ap- <lb break="no"/>pearance in the western
+              hemisphere, <lb/>which was so hurried on by a terrific <lb/>gale, that in twenty
+              minutes time it <lb/>totally obscured the whole face of <lb/>the heavens, and involved
+              them in <lb/>one solid mass of substantial dark- <lb break="no"/>ness, while the wind
+              continued to <lb/>rage with the wild madness of the <lb/>most violent hurricane, so
+              that the <lb/>greatest skill and exertions of the of- <lb break="no"/>ficers and
+              mariners became necessary <lb/>to prevent their being totally ingulph- <lb break="no"
+              />ed in the bottom of the great deep. <lb/>What added to their frightful and
+              <lb/>horrid situation was, that after it had <lb/>continued without any mitigation for
+              <lb/>the space of about two hours, their <lb/>ears were saluted with the sound of <cb/>
+              <lb/>distant thunder, which every moment <lb/>with astonishing rapidity, brought
+              <lb/>nearer and nearer to their astonished <lb/>observation, until their ship, by the
+              <lb/>flashes of lightning, seemed to be <lb/>wrapped in sheets of fire, which were
+              <lb/>accompanied by such dreadful peals <lb/>of thunder as indicated that the final
+              <lb/>dissolution of universal nature was <lb/>fast approaching, while torrents of
+              <lb/>rain, as though the flood-gates of <lb/>heaven were unstopped, fell upon
+              <lb/>them with such impetuousity as was <lb/>sufficient (one would have thought)
+              <lb/>to have overwhelmed them in inevi- <lb break="no"/>table destruction. </p>
+            <p> While in this pitiable situation, be- <lb break="no"/>ing the sport of the enraged
+              elements, <lb/>at one moment tossed up to the clouds, <lb/>at the next immerged into
+              the bot- <lb break="no"/>tom of the convulsed deep—expect- <lb break="no"/>ing every
+              moment to be the last— <lb/>when nothing but fruitless cries and <lb/>lamentations
+              were to be heard be- <lb break="no"/>tween those amazing peals of thun- <lb break="no"
+              />der which kept almost constantly <lb/>bursting over their devoted heads, in <lb/>the
+              tenth hour of this desperate con- <lb break="no"/>dition, they felt the shock of the
+              <lb/>vessel’s striking on a bar—This was <lb/>but a completion of their despair—
+              <lb/>the Captain, however, ordered the <lb/>long-boat to be thrown out, that any
+              <lb/>who chose it might take their chance <lb/>in it, as it was more than probable
+              <lb/>that the next sea would beat the ship <lb/>to pieces, and bury those in the sand
+              <lb/>who remained on board; neither was <lb/>the prospect of venturing in the boat
+              <lb/>any more favourable, as it was bor- <lb break="no"/>dering hard on impossible for
+              a boat <lb/>to stand it for two minutes. It was <lb/>at this time
+                <persName>Constantius</persName> and <persName>Pulche- <lb break="no"/>ra</persName>
+              (who till then had kept hold of <lb/>each other’s hands) by some means <lb/>separated;
+              and in a few minutes <persName>Pul- <lb break="no"/>chera</persName> discovered,
+              through the medi- <lb break="no"/>um of the lightning, that she was the <lb/>only
+              person remaining on board. <lb/>This circumstance, distressing as it <lb/>was, could
+              add but little to her <lb/>wretchedness, which before was com- <lb break="no"
+              />plete—She stood still, and resigned <lb/>herself to fate. It was not long be- <lb
+                break="no"/>fore she perceived that the beating of <pb/>
+              <lb/>the seas had made a fatal inroad on <lb/>the ship, which threatened every mo- <lb
+                break="no"/>ment to come to pieces—which in <lb/>about five or six hours took place.
+                <lb/><persName>Pulchera</persName>, who was almost in a sus- <lb break="no"/>pension
+              of thought, found herself <lb/>floating on one of the hatches, on <lb/>which she was
+              soon washed upon the <lb/>beach.—The disconsolate <persName>Pulchera</persName>,
+              <lb/>with the small remains of strength <lb/>she yet possessed, was just able to
+              <lb/>avoid the fury of the succeeding wave, <lb/>which if she had not escaped, could
+              <lb/>not have failed of proving fatal to <lb/>her.—When she found herself be- <lb
+                break="no"/>yond the reach of the boisterous sur- <lb break="no"/>ges, she reclined
+              herself against the <lb/><choice><sic>declevity</sic><corr>declivity</corr></choice>
+              of a bank, where she sat to <lb/>bemoan her disasterous fate—weari- <lb break="no"
+              />ness overcame her, and she fell into <lb/>a sleep. When she awoke, she found
+              <lb/>the storm had subsided, the boister- <lb break="no"/>ous wind had sunk into a
+              perfect <lb/>calm, the sky was clear, the air was <lb/>serene, the face of nature
+              appeared <lb/>smiling, the birds on the boughs fill- <lb break="no"/>ed the air with
+              their melody, the sun <lb/>shone with peculiar lustre, and eve- <lb break="no"/>ry
+              appearance seemed calculated to <lb/>inspire the bosom with pleasing sen- <lb
+                break="no"/>sations; but all these circumstances <lb/>had no delights for
+                <persName>Pulchera</persName>—a fixed <lb/>gloom occupied her countenance, <lb/>and
+              the most melancholy sensations <lb/>rent her distressed breast; she wan- <lb
+                break="no"/>dered, making an useless moan to <lb/>the heedless flowers which
+              decorated <lb/>the wanton soil over which she ram- <lb break="no"/>bled.—Hours after
+              hours in successi- <lb break="no"/>on passed away, while she traversed <lb/>the shore,
+              where lay in forlorn ruins <lb/>the shattered remains of the ship; <lb/>but no signs
+              of any of the people, <lb/>dead or alive, were to be found. </p>
+            <p> In unsuccessful researches she spent <lb/>the day, in the course of which she
+              <lb/>found she was on a small island, <lb/>which, though under cultivation, was
+              <lb/>destitute of inhabitants. The night <lb/>succeeded the day, which she spent
+              <lb/>in a manner not less joyless than the <lb/>day had been—But on the return of
+              <lb/>day, just after bright <persName>Phœbus</persName> had ri- <lb break="no"/>sen
+              from his orient bed, she disco- <lb break="no"/>vered a vessel coming down from the <cb/>
+              <lb/>northward—As good fortune would <lb/>have it, she came within call of the
+              <lb/>shore; she therefore, with a voice <lb/>as loud as her enfeebled situation
+              <lb/>would admit, hailed them; and be- <lb break="no"/>ing asked what she desired? she
+              an- <lb break="no"/>swered, that she was the only survi- <lb break="no"/>vor from a
+              ship lately cast away there <lb/>in a storm, and wished to come on <lb/>board. The
+              Captain ordered his <lb/>boat to bring her on board his ves- <lb break="no"/>sel,
+              which was done accordingly.— <lb/>This vessel proved to be an American <lb/><seg
+                xml:id="a018" corresp="#n018">privateer,</seg><note xml:id="n018" corresp="#a018"
+                  ><term style="font-style: italic">Privateer</term>: A state-sponsored pirate.
+                During the age of sail, privateers were privately owned armed vessels commissioned
+                by governments to disrupt commercial shipping and seize their enemy’s merchant
+                vessels.</note> fitted out from a port in <lb/><placeName>France</placeName>, the
+                <persName>Captain being M—</persName>, <lb/>of <placeName>New York</placeName>, with
+              whom <persName>Pulchera</persName>
+              <lb/>had formerly had a slight acquaint- <lb break="no"/>ance, and knowing him to be a
+              gen- <lb break="no"/>tleman of strict honour, she informed <lb/>him of the whole of
+              her adventure. <lb/><persName>Capt. M.</persName> was very much affected with <lb/>her
+              story, but with no part of it more <lb/>than with the hapless fate of his friend
+                <lb/><persName>Constantius</persName>, with whom he had been <lb/>bred at school,
+              and for whom he en- <lb break="no"/>tertained the greatest regard: and <lb/>nothing in
+                <persName>Captain M’s</persName> power was <lb/>left unessayed to render
+                <persName>Pulchera</persName>
+              <lb/>happy: and she experienced every <lb/>mark of distinction, as well from all
+              <lb/>the officers as the Captain and sea <lb/>men, which their situation would ad- <lb
+                break="no"/>mit of. </p>
+            <p>
+              <persName>Captain M.</persName> informed her that af- <lb break="no"/>ter a few days’
+              cruise in those parts, <lb/>they were bound to <placeName>America</placeName>, and
+              <lb/>on their arrival there it should be <lb/>some of his first business to see her
+              <lb/>conducted safely to her friends; and <lb/>in a few days they sat out to put
+              <lb/>this purpose in effect—Nothing ma- <lb break="no"/>terial happened the first ten
+              days— <lb/>but on the eleventh day, they found <lb/>they were chased by a vessel of
+              supe- <lb break="no"/>rior force, and that she gained con- <lb break="no"/>siderably
+              upon them—and it was soon <lb/>made certain that she was a vessel of <lb/>more than
+              twice their force, conse- <lb break="no"/>quently a capture (extraordinaries
+              <lb/>excepted) was unavoidable. <persName>Capt. <lb/>M.</persName> advised
+                <persName>Pulchera</persName>, in order to es- <lb break="no"/>cape any ill usage
+              from their captors, <lb/>to divest herself of women’s appa- <lb break="no"/>rel, and
+              attire herself in a suit of his, <lb/>which she accordingly did, putting <pb/>
+              <lb/>on a neat suit of red regimentals, a <lb/>gold-laced hat, and a sword by her
+              <lb/>side, and took upon her the charac- <lb break="no"/>ter of a Lieutenant, under
+              the name <lb/>of <persName>VALORUS</persName>.—By this time their <lb/>pursuer was
+              within reach of them, <lb/>which was announced by the discharge <lb/>of one of her bow
+              guns. <persName>Capt. M.</persName>
+              <lb/>on a more particular inspection of <lb/>his enemy, began to conceive some
+              <lb/>hope of being able to make good his <lb/>defence against them: he according- <lb
+                break="no"/>ly made ready for an action, which soon <lb/>commenced with great fury
+              on both <lb/>sides. In a few moments the com- <lb break="no"/>batants were at not more
+              than sixty <lb/>feet distance, while an incessant dis- <lb break="no"/>charge of
+              cannon, many of which <lb/>were loaded with <seg xml:id="a019" corresp="#n019"
+                >langrage</seg><note xml:id="n019" corresp="#a019"><term style="font-style: italic"
+                  >Langre</term>: A type of canon shot consisting of scrap iron packed into a case;
+                often used in naval warfare to damage sails and rigging.</note> and <seg
+                xml:id="a020" corresp="#n020">grape- <lb/>shot,</seg><note xml:id="n020"
+                corresp="#a020"><term style="font-style: italic">Grape-shot</term>: A type of canon
+                shot consisting of small round balls packed into a canvas sack (thus said to
+                resemble a cluster of grapes).</note> was sufficient to have effectual- <lb
+                break="no"/>ly tried the fortitude of the oldest ve- <lb break="no"/>terans; and for
+              a very considerable <lb/>time fortune seemed undetermined <lb/>in whose favour to
+              decide, until a <lb/>well directed fire from the British <lb/>caused <persName>Capt.
+                M.</persName> to strike his colours, <lb/>and thereby decided the action.— <lb/>The
+              captor put a <seg xml:id="a021" corresp="#n021">prize-master on <lb/>board of the
+                prize,</seg><note xml:id="n021" corresp="#a021"><term style="font-style: italic"
+                  >Prize-master</term>: a naval officer put in charge of a seized ship. <term
+                  style="font-style: italic">Prize</term>: a naval term for an enemy ship seized in
+                battle and destined to be sold as the spoils of war. Prize ships made privateering
+                profitable.</note> taking the offi- <lb break="no"/>cers (amongst whom was
+                <persName>Valorus</persName>, <lb/>under the character of a lieutenant) <lb/>into
+              his own vessel. </p>
+            <p> The captor proved to be a sloop <lb/>of war from <placeName>Portsmouth</placeName>,
+              bound to <lb/><seg xml:id="a022" corresp="#n022"
+                ><placeName>Quebec</placeName>.</seg><note xml:id="n022" corresp="#a022"><term
+                  style="font-style: italic"><placeName>Quebec</placeName></term>: formerly the seat
+                of power for <placeName>New France</placeName>, the city had been ceded to the
+                British at the conclusion of the Seven Years War in <date when="1763">1763</date>.
+                By the 1770s, <placeName>Quebec</placeName> had become the center of British
+                authority in <placeName>Canada</placeName>. The city was also the site of the first
+                major defeat of the Continental Army in late <date when="1775-12">December of
+                  1775</date>.</note>
+              <persName>Captain M.</persName> and his officers <lb/>received as good treatment on
+              board <lb/>the sloop as could reasonably be ex- <lb break="no"/>pected from the hands
+              of a captor; <lb/>in particular the delicate appearance <lb/>of
+                <persName>Valorus</persName> insured to him an un- <lb break="no"/>common degree of
+              respect from the <lb/>under officers and men—she kept her <lb/>countenance as smooth
+              as the unruf- <lb break="no"/>fled sea, though at the same time her <lb/>recollection
+              of <persName>Constantius</persName> totally <lb/>destroyed every agreeable idea which
+              <lb/>was about to rise in her mind, tho’ <lb/>none but her pillow was a witness to
+              <lb/>her immoderate grief on the occa- <lb break="no"/>sion. </p>
+            <p> They pursued their voyage for <lb/><placeName>Quebec</placeName>, where the
+              prisoners had the <lb/>promise of being liberated, they giv- <lb break="no"/>ing their
+              parole not to enter into ac- <lb break="no"/>tual service against the British until <cb/>
+              <lb/>regularly exchanged: but how fickle <lb/>is fortune! When they supposed, by
+              <lb/>their reckoning, they were near in <lb/>with the land, a terrible storm assail-
+                <lb break="no"/>ed them, which continued without <lb/>intermission day after day,
+              the wind <lb/>rather increasing than diminishing, <lb/>till on the night of the third
+              day af- <lb break="no"/>ter the commencement of the storm; <lb/>when, about one
+              o’clock, they were <lb/>alarmed by the breaking of the sea
+                  <lb/><choice><sic>But</sic><corr>but</corr></choice> a very small distance a-head
+              of <lb/>them, a sure indication that a bar, <lb/>shoal, rocks, or land, was there, and
+              <lb/>so nigh was it, that all attempts to <lb/>avoid it were made use of in vain—
+              <lb/>they had scarcely time to realize their <lb/>situation before their vessel was a-
+                <lb break="no"/>ground—Their fate was apparently <lb/>fixed, and their small remains
+              of <lb/>hope seemed to be totally annihilated. <lb/>But this suspense lasted not long;
+              <lb/>the wind was so violent and the seas <lb/>so enormous, that the fourth sea af-
+                <lb break="no"/>ter the first struck reduced her to a <lb/>heap of ruins; and the
+              hands, by <lb/>the violence of the waves, were wash- <lb break="no"/>ed on the shore,
+              which was but a <lb/>few feet distant from the bow of the <lb/>vessel, and they had
+              the surprising <lb/>good fortune to escape a watery tomb, <lb/>saving three only, who
+              were drown- <lb break="no"/>ed.—They endeavoured to seek a <lb/>shelter from the storm
+              by advancing <lb/>up on the land; but all attempts of <lb/>this nature were in vain,
+              for, twenty <lb/>feet from the water was the farthest <lb/>they could extend, by
+              reason of a <lb/>bank which ascended nearly perpen- <lb break="no"/>dicular; and the
+              state of the night <lb/>was so dark that they could form no <lb/>idea of its height;
+              and as they tra- <lb break="no"/>versed to the right hand and the left, <lb/>they
+              found it was not to be avoided <lb/>either way, as at a short distance it <lb/>butted
+              down on the water; and they <lb/>found they must content themselves <lb/>in that
+              situation until morning: But <lb/>they were overwhelmed by one very <lb/>melancholy
+              consideration, <term style="font-style: italic">viz</term>. That <lb/>they were
+              totally ignorant of what <lb/>time in the tide it was; if it should <lb/>happen to be
+              any thing near low-wa- <lb break="no"/>ter, they could not possibly avoid be- <lb
+                break="no"/>ing swallowed up long before it was <pb/>
+              <lb/>high-water: However, it so happen- <lb break="no"/>ed that at the time of their
+              being <lb/>cast ashore it was about high-water, <lb/>and by keeping a constant
+              observation <lb/>they soon found that the tide was on <lb/>the ebb, which eased them
+              from their <lb/>dismal apprehensions on that account. <lb/>The night, however, passed
+              away in <lb/>a very joyless manner.—When the <lb/>day-light appeared, the storm still
+              <lb/>continuing, no very pleasing pros- <lb break="no"/>pect presented itself to their
+              view— <lb/>The beach on which they were, was <lb/>about thirty rods in length, bounded
+              <lb/>by an unsurmountable ledge of rocks <lb/>to the height of 150 feet, which but-
+                <lb break="no"/>ted at each extremity into the sea, <lb/>the ends of which they in
+              vain at- <lb break="no"/>tempted <seg xml:id="a023" corresp="#n023">to
+                double;</seg><note xml:id="n023" corresp="#a023"><term style="font-style: italic"
+                  >Double</term>: a naval term for sailing around a cape or point of land.</note>
+              their boats they <lb/>found crushed in ruins with the re- <lb break="no"/>mains of
+              their ship.—Providentially, <lb/>amongst the rubbish they found con- <lb break="no"
+              />siderable quantities of provisions; but <lb/>unfortunately, no kind of tools lar-
+                <lb break="no"/>ger than a jack-knife could they ob- <lb break="no"/>tain, though
+              the most diligent search- <lb break="no"/>es were made therefor.—They bu- <lb
+                break="no"/>sied themselves in securing their pro- <lb break="no"/>vision, by
+              carrying it above the reach <lb/>of the tide. They then secured a few <lb/>barrels of
+              ammunition which they <lb/>found undamaged, and some fire- <lb break="no"/>arms.
+              Fruitless attempts were then <lb/>made to ascend the precipice, until <lb/>experience
+              had taught them that no- <lb break="no"/>thing was to be expected from their <lb/>most
+              vigorous <seg xml:id="a024" corresp="#n024">exertions.</seg><note xml:id="n024"
+                corresp="#a024">The fourth (<date when="1789-09">September</date>) installment ends
+                here with the note “(<hi rend="italic">To be continued.</hi>)”</note>
+            </p>
+          </div>
+        </body>
+      </text>
+    </group>
+
+    <group>
+      <text corresp="#15579.05">   <body>
+          <div type="section">      <p> HAVING secured the whole of <lb/>the provisions they could
+              find <lb/>among the ruinous remains of their <lb/>ship, they began to collect
+              materials <lb/>for building a raft, and immediately <lb/>began to erect one, though
+              this <lb/>business went on very slowly for the <lb/>want of tools proper to execute it
+              <lb/>with, however, they did as well as <lb/>they could, and in the course of <lb/>two
+              or three days by their exertions, <pb/>
+              <lb/>they had fabricated sufficient to float <lb/>the whole of the unhappy sufferers,
+              <lb/>on board of which the next morning <lb/>they embarked with a part of their
+              <lb/>provisions, their fire arms, and a <lb/>quantity of ammunition; with this
+              <lb/>they pushed off from the shore, the <lb/>weather being very cold, and the
+              <lb/>heavens indicated the approach of a <lb/>storm. </p>
+            <p> It was a question at first, which <lb/>way they should direct their
+                  course<choice><sic>,</sic><corr>.</corr></choice>
+              <lb/>At last it was agreed to cruise along <lb/>shore, to the eastward. They pros- <lb
+                break="no"/>ecuted this intention, at about three, <lb/>and sometimes four rods
+              distance <lb/>from the shore, for five or six miles, <lb/>while nothing appeared to
+              them to <lb/>favour their wishes—nothing but a <lb/>perpendicular ledge of ragged
+              rocks <lb/>was to be seen; and by this time <lb/>the snow began gently to descend.
+              <lb/>They kept a constant look out for a <lb/>place where it was possible for them
+              <lb/>to run their raft ashore, where they <lb/>might encamp on dry land; but <lb/>this
+              they long sought in vain, till to- <lb break="no"/>wards evening, when the snow had
+              <lb/>fallen to the depth of twelve or thir- <lb break="no"/>teen inches, they
+              discovered a small <lb/>declivity in the bank, where they <lb/>ran their raft on
+              shore. And through <lb/>this declivity they ascended the <lb/>bank, which was about
+              one hundred <lb/>feet in length. When they had at- <lb break="no"/>tained the summit,
+              they had an ex- <lb break="no"/>tensive uncultivated plain in <seg xml:id="a025"
+                corresp="#n025">pursuit,</seg><note xml:id="n025" corresp="#a025"><term
+                  style="font-style: italic">Pursuit</term>: in front of them.</note>
+              <lb/>and not the least sign that any thing <lb/>human was ever there before them.
+              <lb/>With some difficulty in collecting <lb/>materials, they built them a comfort- <lb
+                break="no"/>able fire, and frying a quantity of <lb/>bread and meat, they soon eat a
+              <lb/>very hearty supper; by this time <lb/>it being dark, they made prepara- <lb
+                break="no"/>tions for <choice><sic>takeing</sic><corr>taking</corr></choice> some
+              repose. In the <lb/>morning they awoke and beheld a <lb/>serene air, and a pleasant
+              sky—they <lb/>consulted what course they should <lb/>then take, when it was agreed
+                  <choice><orig>to</orig><reg>that they should</reg></choice> di- <lb break="no"
+              />vide into a number of small com- <lb break="no"/>panies, each company to take a dif-
+                <lb break="no"/>ferent route, taking a quantity of <lb/>provisions each, and if
+              either party <lb/>found any inhabitants, to return to <cb/>
+              <lb/>that place and wait for the return <lb/>of the rest.
+              <persName>VALORUS</persName>, with two others, <lb/>composed one of those small com-
+                <lb break="no"/>panies, each taking a gun, a quanti- <lb break="no"/>ty of
+              ammunition and provisions, <lb/>they each took their different route, <lb/>the snow
+              being about six inches <lb/>deep. The first day they spent in <lb/>exploring the
+              inhospitable wilder- <lb break="no"/>ness, without meeting with any thing <lb/>worthy
+              of remark. On the latter <lb/>part of the second day they were <lb/>overtaken by a
+              furious storm of snow, <lb/>they travelled till almost night, and <lb/>seeing no kind
+              of probability of find- <lb break="no"/>ing any inhabitants, they concluded <lb/>to
+              stop under the <seg xml:id="a026" corresp="#n026"
+                    ><choice><sic>lee-wrad</sic><corr>lee-ward</corr></choice></seg><note
+                xml:id="n026" corresp="#a026"><term style="font-style: italic">Lee-ward</term>:
+                nautical term for the side away from the wind.</note> side of a <lb/>large rock, and
+              make as good prepa- <lb break="no"/>rations for the insuing night as they <lb/>could,
+              which was only to tread down <lb/>the snow, and collect such fuel as <lb/>they could,
+              to support a fire. The <lb/>storm continued to rage with uncom- <lb break="no"/>mon
+              fury during the whole of the <lb/>night and the succeeding day, dur- <lb break="no"
+              />ing which time, it was with the <lb/>greatest difficulty they kept them- <lb
+                break="no"/>selves from freezing, their fuel be- <lb break="no"/>ing exhausted, and
+              it was with the <lb/>greatest difficulty that they procured <lb/>a small quantity
+              more. They found <lb/>on the abatement of the snow, that <lb/>it had fallen between
+              four or five <lb/>feet in depth, and by reason of its <lb/>not being capable of
+              sustaining half <lb/>the weight of a man, it was intirely <lb/>out of their power to
+              proceed, either <lb/>backward or forward. </p>
+            <p> In this situation, all they could <lb/>do, was to make themselves as com- <lb
+                break="no"/>fortable as they could where they <lb/>were; the weather was so
+              intencely <lb/>cold, that a large fire was indispen- <lb break="no"/>sibly necessary,
+              and though they <lb/>were surrounded with timber, they <lb/>lacked the means of
+              falling it; how- <lb break="no"/>ever they collected the small remains <lb/>of wood
+              which they had, and after <lb/>incredible pains, they beat a track <lb/>to an old
+              large dry oak tree, at about <lb/>a rod’s distance from them, and <lb/>kindled a fire
+              in a fracture at the <lb/>bottom thereof, by which means in <lb/>less than two hours
+              they burned <lb/>down, which providentially falling <pb/>
+              <lb/>across the rock, broke and split the <lb/>main trunk to pieces; this was a
+              <lb/>very valuable acquisition, making as <lb/>much as <seg xml:id="a027"
+                corresp="#n027">two cords and an half of <lb/>wood.</seg><note xml:id="n027"
+                corresp="#a027"><term style="font-style: italic">Cord</term>: a measure of cut wood,
+                especially wood used for fuel. The term most likely derives from the practice of
+                using a cord of rope to insure that stacks were of equivalent dimensions (typically
+                a cord was a stack 4 feet wide by 4 feet long and 8 feet high).</note> This lasted
+              them for better <lb/>than three days, when their situation <lb/>seemed to arrive to
+              the height <lb/>of wretchedness, the rigor of the <lb/>weather not having in any
+              degree <lb/>abated, and their small store of pro- <lb break="no"/>visions they had
+              brought with them <lb/>being entirely spent, there seemed <lb/>nothing but inevitable
+              death before <lb/>their eyes, for although a second <lb/>similar attempt had furnished
+              them <lb/>with a very considerable stock of <lb/>wood, yet with nothing else to sus-
+                <lb break="no"/>tain nature, death could not appear <lb/>at a very great distance
+              from them, <lb/>especially as their natural strength <lb/>by excessive exertions, the
+              inclemen- <lb break="no"/>cy of the weather, severe hardships, <lb/>and want of food
+              was greatly ex- <lb break="no"/>hausted. </p>
+            <p> In this situation they lived or <lb/>rather existed for six days, having <lb/>no
+              kind of sustenance, excepting the <lb/>bark of trees which as it was frozen, <lb/>they
+              could get off only in very small <lb/>pieces with their knives, and then <lb/>thawing
+              by the fire, chewed and <lb/>swallowed it. </p>
+            <p> At the commencement of the se- <lb break="no"/>venth day, when their sufferings had
+              <lb/>reduced them to a surprising state of <lb/>weakness, and it was become certain
+              <lb/>that they could subsist but a very little <lb/>time longer, they began to <seg
+                xml:id="a028" corresp="#n028">wreck</seg><note xml:id="n028" corresp="#a028"><term
+                  style="font-style: italic">Wreck</term>: probably a misspelling of “rack,” as in
+                the expression “to rack one’s brains.”</note>
+              <lb/>their invention to determine what <lb/>they should do next; in vain did <lb/>they
+              then lament that they had not, <lb/>as soon as the storm abated have at- <lb
+                break="no"/>tempted to have forced a way thro’ <lb/>the snow back to their
+              rendezvous, <lb/>though the prospect was very un- <lb break="no"/>promising, it being
+              according to the <lb/>best of their judgment, nearly fifty <lb/>miles; but it was now
+              too late to <lb/>think of an attempt like that; and <lb/>after mutually condoling each
+              other <lb/>on their desperate situation, one of <lb/>the party thus addressed his
+              partners, <lb/><term style="font-style: italic">Dear fellow sufferers</term>. In our
+              sad <lb/>situation, a few hours more will <cb/>
+              <lb/>close our eyes, to be opened no <lb/>more; we now cease to be any ad- <lb
+                break="no"/>vantage to each other; and though <lb/>life is hard to part with, yet it
+              is of <lb/>little consequence to either of us, <lb/>whether we die this day or to-mor-
+                <lb break="no"/>row; and if <emph style="font­-style: italic">one</emph> dying to
+              day will <lb/>eventually save the life of the <emph style="font­-style: italic">two
+                <lb/>survivors</emph>, one had much better die <lb/>alone for the other two to live,
+              than <lb/>for all three to die together. For <lb/>my part as one, I move that we cast
+              <lb/>lots which of us shall die, to save the <lb/>other two.—If it falls to my lot, I
+              <lb/>will submit to my fate without a <lb/>murmur.—Nay, I had rather die
+              <lb/>instantly, than to die this lingering- <lb break="no"/>ly with my two suffering
+              partners. <lb/>The other two seemed well pleased <lb/>with the proposal; the lots were
+              <lb/>immediately prepared, and it was <lb/>the fate of <persName>Valorus</persName> to
+              be the victim. </p>
+            <p>
+              <persName>Valorus</persName> told them if they would <lb/>indulge him so far as to
+              give him <lb/>time to write but a few lines to his <lb/>father, which he wished them
+              to take <lb/>the care of, and if ever an opportu- <lb break="no"/>nity presented, that
+              they would for- <lb break="no"/>ward to him, and that then he would <lb/>willingly
+              resign to his fate—they <lb/>granted his request, and he wrote <lb/>as follows: </p>
+          </div> <div type="letter">
+            <floatingText>       <body>         
+                        <opener><salute><choice><sic>DRAR</sic><corr>DEAR</corr></choice>
+                    PAPPA,</salute></opener>
+                <p> FROM the centre of a frozen <lb/>wilderness on the borders of <lb/>the grave,
+                  please to receive this last <lb/>token from your only child—driven <lb/>from home,
+                  I have been the sport of <lb/>fortune, but fifteen minutes will put <lb/>me out of
+                  her power. I shall then <lb/>be in a state of changeless retribution. <lb/>Had I
+                  not been obliged, by a fa- <lb break="no"/>ther’s stern command, to forego a
+                  <lb/>promise I made by his express li- <lb break="no"/>cence, I might still have
+                  lived and <lb/>have been happy—as far as I am
+                      <lb/>concerned<choice><sic>.</sic><corr>,</corr></choice> I forgive you
+                  heartily, <lb/>but pray Sir, see that you are pre- <lb break="no"/>pared to stand
+                  at the bar of the <choice><sic>Omnicient</sic><corr>Omni- <lb break="no"
+                      />scient</corr></choice> Judge. </p>
+                <head style="text-align:right"><seg xml:id="a029" corresp="#n029"><closer><signed>
+                        <name role="pseudonym" type="person">YOUR LOST
+                      CHILD</name>.</signed></closer></seg><note xml:id="n029" corresp="#a029">Here
+                    the fifth (<date when="1789-10">October</date>) installment ends with the note,
+                      “(<hi rend="italic">To be continued.</hi>)”</note></head>
+              </body>
+            </floatingText>
+          </div>
+        </body>
+      </text>
+    </group>
+
+    <group>
+      <text corresp="#15579.06">   <body>
+          <div type="section">      <p>
+              <persName>VALORUS</persName> had just finished <lb/>the letter, and delivered it,
+              <lb/>when one of his woeful partners took <lb/>up the fatal gun, well loaded, and
+              <lb/>had got it to his face, and was just <lb/>pulling the trigger in order to lodge <cb/>
+              <lb/>its contents in his head, when he <lb/>chanced to raise his eyes a little, and
+              <lb/>discovered a Bear wallowing in the <lb/>snow, at about 20 yards distance— <lb/>He
+              exclaimed, “<persName>Valorus</persName>! thank <lb/>God you may yet live!” and dis-
+                <lb break="no"/>charged his piece at the Bear, lodg- <lb break="no"/>ing two balls
+              in his head, of which <lb/>he died instantly.—If ever joy was <lb/>to excess, it was
+              then so amongst <lb/>this little unfortunate company—<persName><emph
+                  style="font­-style: italic">Valorus</emph></persName>
+              <lb/>whom they both loved equal to <lb/>themselves, was still alive—without <lb/>going
+              to their prey, they both fell <lb/>upon him, embracing him as one <lb/>from the dead,
+              and the most tender, <lb/>expressive congratulations passed on <lb/>the occasion—they
+              all seemed lost <lb/>in extacy for some space of time. </p>
+            <p> After their effusions of joy were <lb/>in some measure abated, their small
+              <lb/>remains of strength were exerted in <lb/>beating a road to their new acquired
+              <lb/>provision, which after having with <lb/>difficulty proceeded, they made a
+              <lb/>small repast upon. By this time it <lb/>was night, and the Heavens had
+              <lb/>gathered an unusual degree of black- <lb break="no"/>ness, and very soon a
+              torrent of rain <lb/>began to descend.—They so fixed <lb/>their bear-skin (which was a
+              very <lb/>large one) as to be a very consider- <lb break="no"/>able shelter to them
+              from the rain, <lb/>and kept them tolerably dry thro’ <lb/>the sleepless night.—The
+              light of <lb/>day at last approached, after the most <lb/>rainy night they had ever
+              known, <lb/>when soon the clouds broke away, <lb/>the wind sprung up at North-West,
+              <lb/>and a very severe cold day ensued. <lb/>So much water was in the snow, and
+              <lb/>the cold so severe, that by the mid- <lb break="no"/>dle of the day it was froze
+              suffi- <lb break="no"/>ciently to bear them, which they <lb/>perceiving, formed an
+              idea of trying <lb/>to regain their place, of general <lb/>rendezvous; but their
+              enfeebled <lb/>state was such, that they scarcely <lb/>were determined whether to
+              attempt <lb/>it or not; but after mature delib- <lb break="no"/>eration it was
+              concluded to set out <lb/>in the morning, which accordingly <lb/>they put in practice,
+              taking with <lb/>them a quantity of meat, which they <pb/>
+              <lb/>judged sufficient for their use, till <lb/>such time as they should arrive at
+              <lb/>their place of rendezvous. </p>
+            <p> It is needless to recount the weari- <lb break="no"/>some steps which they
+              experienced <lb/>on their journey; suffice it to say, <lb/>that on the fifth day, just
+              before <lb/>night, they arrived at the place ex- <lb break="no"/>ceedingly fatigued,
+              which they found <lb/>in the same situation they had left it, <lb/>and no
+                  <choice><sic>sign</sic><corr>signs</corr></choice> were to be discovered <lb/>that
+              any person having been there since <lb/>their departure; but it was so near <lb/>the
+              windward side of the land, that <lb/>the wind in the time of the falling <lb/>of the
+              snow, had driven the snow <lb/>quite off from that place.—Fatigued <lb/>as they were,
+              they built a fire, and <lb/>provided some supper:—Here they <lb/>found bread, pork,
+              beef, tea, sugar, <lb/>and some cooking utensils, which <lb/>they had left there; and
+              they pre- <lb break="no"/>pared and eat a more comfortable <lb/>meal than they had
+              since their being <lb/>cast away. The next day they had <lb/>recourse to their raft,
+              which they <lb/>found inclosed with ice;—they then <lb/>repaired on the ice to the
+              place of <lb/>their shipwreck, which they likewise <lb/>found the snow drifted off
+              from. <lb/>Tired of any further researches, they <lb/>consulted which was the best
+              place <lb/>to fix their abode at, and when they <lb/>had considered that at this place
+              was <lb/>the greater part of the provisions they <lb/>had to depend on—that here, from
+              <lb/>the ruins of their ship, were materials <lb/>for building them a shelter—and that
+              <lb/>likewise, here they could draw fuel <lb/>from the same resource. They una- <lb
+                break="no"/>nimously agreed to make that the <lb/>place of their residence, hoping
+              they <lb/>had provisions enough to carry them <lb/>through the winter, and that in the
+              <lb/>spring Providence would find some <lb/>way for their deliverance. Under <lb/>the
+              impression of these ideas they went <lb/>to work, and fabricated themselves <lb/>a
+              hut, tolerably warm;—and, to <lb/>add to their good fortune, amongst <lb/>the ruins of
+              the ship they found <lb/>a cask of <placeName>Jamaica</placeName> rum, and another
+              <lb/>of brandy, and about <seg xml:id="a030" corresp="#n030">£. 8900</seg><note
+                xml:id="n030" corresp="#a030">£: in the 1780s, this number of British pounds would
+                be roughly equivalent to <placeName>US</placeName> $900,000 today.</note> in
+              <lb/>cash, tho’ <emph style="font­-style: italic">that</emph> they looked on as a <cb/>
+              <lb/>very small acquisition, but they se- <lb break="no"/>cured it:—In this situation
+              they <lb/><choice><orig>esteemed</orig><reg>considered</reg></choice> themselves
+              tolerably happy; <lb/>but a misfortune now attacked them <lb/>which they were in no
+              measure pre- <lb break="no"/>pared for. <persName>Valorus</persName>, and one of his
+              <lb/>companions were taken sick of a <seg xml:id="a031" corresp="#n031"><term
+                  style="font-style: italic">Plu- <lb break="no"/>risy</term>;</seg><note
+                xml:id="n031" corresp="#a031"><term style="font-style: italic">Pleurisy</term>: a
+                viral infection of the lungs. In addition to shortness of breath, other accompanying
+                symptoms include harsh coughing, diarrhea, fever, chills, and chest pains.</note>
+              this deadly disorder seized them <lb/>so violently that in three days both of
+              <lb/>their lives were despaired of by them- <lb break="no"/>selves and their
+              companion, who left <lb/>nothing unattempted, which he had <lb/>reason to hope would
+              contribute to <lb/>their recovery. There was nothing <lb/>but what the unfortunate two
+              un- <lb break="no"/>derwent, both from the extreme ra- <lb break="no"/>ging of their
+              distemper, and also from <lb/>the forlorn situation which they were <lb/>unfortunately
+              in; however, contrary <lb/>to their own, and their companion’s <lb/>expectations, on
+              the <choice><sic>eight</sic><corr>eighth</corr></choice> day their <lb/>fever broke,
+              and by slow degrees they <lb/>regained their wonted strength, so <lb/>that in about
+              five weeks they were <lb/>able to walk about, and were in a <lb/>good measure, able to
+              do such kind <lb/>of business as their circumstances re- <lb break="no"/>quired to be
+              done.—They now spent <lb/>their time as agreeably as could be <lb/>expected for people
+              in such lonely <lb/>circumstances, saving only the discon- <lb break="no"/>solate
+                <persName>Valorus</persName>, who as her thoughts <lb/>began to be less taken up on
+              her own <lb/>personal safety, the idea of her belov- <lb break="no"/>ed
+                <persName>Constantius</persName> would keep continual- <lb break="no"/>ly arising in
+              her distracted mind. The <lb/>horrors of that dreadful night where- <lb break="no"/>in
+              they parted by shipwreck, to meet <lb/>no more, would keep continually <lb/>harrowing
+              up her mind, and depriv- <lb break="no"/>ing her of every species of comfort— <lb/>her
+              mind was distracted with terrific <lb/>dreams, and her days spent in melan- <lb
+                break="no"/>choly reflections. At times she was <lb/>half resolved to unbosom
+              herself to <lb/>her <choice><sic>comrads</sic><corr>comrades</corr></choice>; but
+              reasons of policy <lb/>forbid the measure:—They still un- <lb break="no"/>suspecting
+              but <persName>Valorus</persName> was really <lb/>what he appeared to be—a man. </p>
+            <p> In this situation they spent their <lb/>time, until the return of spring, at
+              <lb/>which time their provision was nearly <lb/><seg xml:id="a032" corresp="#n032"
+                >exhausted;</seg><note xml:id="n032" corresp="#a032">Here the <date when="1789-11"
+                  >November</date> installment ends—in mid-sentence!—with the note “(<hi
+                  rend="italic">To be continued.</hi>)”</note>
+            </p>
+          </div>
+        </body>
+      </text>
+    </group>
+
+    <group>
+      <text corresp="#15579.07">   <body>
+          <div type="section">      <p> WHEN one morning, to their <lb/>inexpressable satisfaction,
+              <lb/>they espied a small vessel, not more <lb/>than a league and an half from
+              <lb/>shore. They made use of every <lb/>means in their power, to give them <lb/>notice
+              of their situation, by firing <lb/>guns of distress, which at last had <lb/>the
+              desired effect, and the vessel stood <lb/>in for the shore, till they got within
+              <lb/>call, when they hailed them, and asked <lb/>what they wished? They gave them
+              <lb/>a short account of their disaster, and <lb/>that in all probability they were the
+              <lb/>only survivors of a large crew. The <lb/>vessel sent their boat ashore and took
+              <lb/>them on board. She proved to be <lb/>a privateer from a port of <placeName>Essex
+                <lb/>county</placeName>, in <placeName>Massachusetts</placeName> state.— <lb/><emph
+                style="font­-style: italic"><persName>Valorus</persName></emph> did not think proper
+              to <lb/>make known her sex, tho’ she in- <lb break="no"/>formed them he was an
+              American, <lb/>and that he was a prisoner when he <lb/>had the misfortune to be
+              shipwrecked. <lb/>The Captain of the privateer, told
+              <lb/><persName>Valorus</persName>if he would enter on board <lb/>voluntarily, he
+              should be intitled out <lb/>of the dead shares to a Lieutenent’s <lb/>proportion of
+              the prize money, the <lb/>hands on board having agreed there- <lb break="no"/>to,
+                <persName>Valorus</persName> accepted thereof— <lb/>as for the other two, it was
+              <lb/>agreed they should be sat at liberty <lb/>the first
+                  <choice><sic>opportuuity</sic><corr>opportunity</corr></choice> which pre- <lb
+                break="no"/>sented. </p>
+            <pb/>
+            <p> They cruised on this coast about <lb/>a week, when they fell in with, and <lb/>took
+              a brigantine from <seg xml:id="a033" corresp="#n033"
+                ><placeName>Bristol</placeName></seg><note xml:id="n033" corresp="#a033"><term
+                  style="font-style: italic"><placeName>Bristol</placeName></term>: an important
+                eighteenth-century British commercial port, crucial in the triangular trade.</note>
+              bound <lb/>to <placeName>Quebec</placeName>, with a valuable cargo on <lb/>board. The
+              captain of the privateer <lb/>put <persName>Valorus</persName> on board as prize-mas-
+                <lb break="no"/>ter, with a sufficiency of hands, and <lb/>ordered her into <seg
+                xml:id="a034" corresp="#n034"><placeName>Salem</placeName>;</seg><note xml:id="n034"
+                corresp="#a034"><term style="font-style: italic"
+                ><placeName>Salem</placeName></term>: was the seventh largest city in the
+                  <placeName>U.S.</placeName> in <date when="1790">1790</date> and a primary port
+                for American privateers during the Revolutionary War.</note> but unfor- <lb
+                break="no"/>tunately the next day she was captur- <lb break="no"/>ed by a British
+              cruiser, and was carried <lb/>into <seg xml:id="a035" corresp="#n035"
+                  ><placeName>Halifax</placeName>.</seg><note xml:id="n035" corresp="#a035"><term
+                  style="font-style: italic"><placeName>Halifax</placeName></term>: a city in
+                  <placeName>Nova Scotia</placeName> and the site of the largest British naval base
+                on the <placeName>Atlantic coast</placeName> during the late eighteenth century.
+                During the Revolutionary War, the city was also a haven for loyalists who fled north
+                to <placeName>British Canada</placeName>.</note>
+              <persName>Valorus</persName> had, thro’ <lb/>his unacquaintedness with this kind
+              <lb/>of business, left the papers which he <lb/>had of the captain of the privateer,
+              <lb/>on board of her; and when the capt. <lb/>demanded his papers, he had no- <lb
+                break="no"/>thing to shew. In vain did <persName>Valorus</persName>
+              <lb/>inform him of the whole of the trans- <lb break="no"/>action. The captain of the
+              cruiser <lb/>said any one might make as good a <lb/>story as that—he accordingly put
+                <lb/><persName>Valorus</persName>in <emph style="font­-style: italic">irons</emph>,
+              and when they ar- <lb break="no"/>rived at <placeName>Halifax</placeName>, (perceiving
+              that <lb/>the irons hurted his wrists, they <lb/>were taken off) he was put into the
+              <lb/>dungeon, and there kept in order for <lb/>a trial for <seg xml:id="a036"
+                corresp="#n036"><emph style="font­-style: italic">piracy</emph>.</seg><note
+                xml:id="n036" corresp="#a036">Prior to <date when="1778">1778</date>, the British
+                did not legally recognize American soldiers as prisoners of war and thus subjected
+                them to criminal prosecutions. While the chronology of events in the text is murky,
+                the reference to Valorus’ forgotten papers likely means that it takes place after
+                this date. In other words, he is treated as a pirate (and thus as a criminal) and
+                not as a privateer (and thus as a prisoner of war), because he cannot prove that he
+                was apprehended while acting in the service of a government commission.</note>
+            </p>
+            <p> Those who are acquainted <choice><orig>in</orig><reg>with</reg></choice>
+              <placeName>Ha- <lb break="no"/>lifax</placeName> know that the <seg xml:id="a037"
+                corresp="#n037">Provost,</seg><note xml:id="n037" corresp="#a037"><term
+                  style="font-style: italic">Provost</term>: the structure serving as the
+                headquarters of the military police. In <date when="1777">1777</date>, the
+                  <persName>Provost Marshall of <placeName>Halifax</placeName></persName> was
+                suspended from duty because of the high number of prisoners who escaped from his
+                jail. This episode likely alludes to the reputation of
+                  <placeName>Halifax</placeName> prison as poorly secured.</note> under <lb/>which
+              the dungeon is situated, stands <lb/>on a rising piece of ground, and <lb/>that from a
+              vault in the bottom of <lb/>the dungeon, there is a drain of <lb/>about two feet
+              square, which leads <lb/>from the said vault out to the side of <lb/>the hill on which
+              the provost stands. <lb/>After <persName>Valorus</persName> had been confined in
+              <lb/>this place about ten days (the ele- <lb break="no"/>venth being appointed for his
+              trial) <lb/>he got acquainted with this circum- <lb break="no"/>stance of the drain,
+              he therefore, in <lb/>company with some others, deter- <lb break="no"/>mined to make
+              their escape through <lb/>that avenue: they therefore, one by <lb/>one, let themselves
+              down into the <lb/>vault, and crept out through the <lb/>drain on their hands and
+              knees, it <lb/>being about half filled up with filth; <lb/>however, they lived through
+              the <lb/>operation, though it was nauseous to <lb/>the last degree, and they all got
+              safe- <lb break="no"/>ly through, though they were all be- <lb break="no"/>daub’d in
+              filth, in order to divest <lb/>themselves of it, they had imme- <lb break="no"/>diate
+              recourse to the water, where <cb/>
+              <lb/>they found a small <seg xml:id="a038" corresp="#n038">shallop,</seg><note
+                xml:id="n038" corresp="#a038"><term style="font-style: italic">Shallop</term>: a
+                large heavy boat fitted with at least one mast and sometimes furnished with
+                guns.</note> on board <lb/>of which they entered, and under <lb/>cover of the night
+              got clear of the <lb/>harbour: But their <seg xml:id="a039" corresp="#n039"><emph
+                  style="font­-style: italic">evil genius</emph></seg><note xml:id="n039"
+                corresp="#a039"><term style="font-style: italic">Evil genius</term>: the bad spirits
+                following them.</note> had <lb/>not yet left them, for the second day <lb/>after
+              their escape they were taken up <lb/>by a small vessel of force, bound from <lb/><seg
+                xml:id="a040" corresp="#n040"><placeName>Penobscot</placeName></seg><note
+                xml:id="n040" corresp="#a040"><term style="font-style: italic"
+                    ><placeName>Penobscot</placeName></term>: a port city in what is now central
+                  <placeName>Maine</placeName>. During the early stages of the Revolutionary War,
+                  <placeName>Penobscot</placeName> was the site of a humiliating defeat for the
+                Americans (the worst naval defeat in <placeName>U.S.</placeName> history until
+                  <placeName>Pearl Harbor</placeName>). The American survivors who were not captured
+                were forced to walk into <placeName>Massachusetts</placeName> with little in the way
+                of provisions or equipment.</note> to <placeName>London</placeName>; so their
+              <lb/>pleasing hopes of seeing home was <lb/>once more brought to nothing. </p>
+            <p> The captain of this little cutter, <lb/>proved to be a very good natured <lb/>sort
+              of a man, and <persName>Valorus</persName> made it <lb/>his business to enter as far
+              into his <lb/>good graces as possible, and he had <lb/>every success he could wish
+              for, and <lb/>on their arrival at <placeName>London</placeName> he sat
+                <lb/><persName>Valorus</persName>and the rest of the prisoners <lb/>at liberty. </p>
+            <p>
+              <persName>Valorus</persName> now found the advantage <lb/>of the money which he had
+              saved <lb/>out of the wreck, he having about <lb/>200 <seg xml:id="a041"
+                corresp="#n041">guineas</seg><note xml:id="n041" corresp="#a041"><term
+                  style="font-style: italic">Guineas</term>: gold coins worth a British pound. The
+                coins were named after the <placeName>Guinea region</placeName> in
+                  <placeName>Africa</placeName> were the gold was originally mined. Two hundred
+                guineas would be the modern day equivalent of about $US 30,000.</note> in his
+              pockets which <lb/>his captors had not taken from him, <lb/>he procured himself a
+              couple of <lb/>suits of genteel cloaths, and in a few <lb/>days had an opportunity to
+              embark <lb/>for <placeName>Lisbon</placeName>, and from there in a few <lb/>days more
+              for <seg xml:id="a042" corresp="#n042"><placeName>France</placeName>.</seg><note
+                xml:id="n042" corresp="#a042"><persName>Valorus’s</persName> circuitous route from
+                London to Lisbon to <placeName>France</placeName> demonstrates how hostilities
+                between <placeName>England</placeName> and <placeName>France</placeName> made direct
+                travel almost impossible.</note> When he <lb/>arrived at
+                <placeName>France</placeName>, his first enqui- <lb break="no"/>ry was, if any
+              Americans were in <lb/>that place or not. As it happened <lb/>there was present a
+              French officer <lb/>who understood the English language <lb/>tolerably well, who
+              informed him <lb/>that at the next door but one, there <lb/>lodged an American
+              gentleman, who <lb/>he believed was of a very considerable <lb/>rank in the world. </p>
+            <p>
+              <persName>Valorus</persName>
+              <choice><sic>steped</sic><corr>stepped</corr></choice> to the door, and <lb/>asked if
+              he could have lodgings there <lb/>till an opportunity presented for him <lb/>to ship
+              for <emph style="font­-style: italic"><placeName>America</placeName></emph>? he was
+              answer- <lb break="no"/>ed in the affirmative, and entering <lb/>the house, he was
+              conducted into a <lb/>parlour, where saw a gentleman <lb/>reading a manuscript: the
+              gentle- <lb break="no"/>man rose to receive him, but how <lb/>great was the
+              astonishment of <persName>Valo- <lb break="no"/>rus</persName>, when in the face of
+              the gentle- <lb break="no"/>man he recognized every feature of <lb/><emph
+                style="font­-style: italic">the long (thought) lost</emph>
+              <persName>CONSTANTIUS</persName>. <lb/>At first thought, <persName>Valorus</persName>
+              had like to <lb/>have made a discovery of who he <lb/>was, by making the most
+              pathetick <pb/>
+              <lb/>acclamations; but a second thought <lb/>forbid any thing like that; knowing
+              <lb/>that “<emph style="font­-style: italic">time and absence cures the fond- <lb
+                  break="no"/>est love</emph>,” so taking each other by the <lb/>hand they passed
+              mutual &amp; civil com- <lb break="no"/>pliments, and each took seats. <persName>Con-
+                  <lb break="no"/>stantius</persName> ordered a bottle of wine and <lb/>some
+              glasses, and after drinking <lb/>to each others health,
+                <persName>Constantius</persName>
+              <choice><sic>enquired</sic><corr>in- <lb break="no"/>quired</corr></choice> what part
+              of <placeName>America</placeName>
+              <persName>Valo- <lb break="no"/>rus</persName> was from? he informed him he
+              <lb/>belonged to a privateer from <placeName>Salem</placeName>, <lb/>that he was
+              captured and carried in- <lb break="no"/>to <placeName>Halifax</placeName>, from
+              whence he made <lb/>his escape, was again taken, carried <lb/>into
+                <placeName>England</placeName>, where he was libera- <lb break="no"/>ted, and had
+              came to this place in <lb/>order to seek a passage home. Just <lb/>as this discourse
+              happened, a French <lb/>gentleman entered the parlour, whom
+                <lb/><persName>Valorus</persName>at first sight knew to be <emph
+                style="font­-style: italic"><persName>Le <lb/>Monte</persName></emph>, the first
+              cause of all her trou- <lb break="no"/>ble; mutual compliments passed <lb/>between
+                <persName>Constantius</persName> and <persName>Constantius</persName>Le Monte,
+              <lb/>and Miscellaneous discourse passed <lb/>away the time until supper was serv- <lb
+                break="no"/>ed; <persName>Valorus</persName> then proposed taking <lb/>his lodging,
+              and was conducted to <lb/>his bed: <persName>Constantius</persName> and <persName>Le
+                Monte</persName>
+              <lb/>afterwards repaired to their lodging, <lb/>which was separated from that of
+                <lb/><persName>Valorus</persName>only by a partition. </p>
+            <p> Sleep had in a great measure de- <lb break="no"/>parted from
+                <persName>Valorus</persName>—He attended <lb/>to the discourse of
+                <persName>Constantius</persName> and <lb/><persName>Le Monte</persName> after they
+              had taken their <lb/>beds. He found there was the most <lb/>intimate friendship
+              subsisting be- <lb break="no"/>tween them, and that a purpose of <lb/>marriage was on
+              foot between <persName>Con- <lb break="no"/>stantius</persName> and the only sister of
+                <persName>Le <lb/>Monte</persName>, and that she would be in <lb/>town on the morrow
+              from <placeName>Paris</placeName>, <choice><sic>and and</sic><corr>
+                  <lb/>and</corr></choice>that in a short time the nuptials <lb/>were to be
+              celebrated. Confusion <lb/>now took full possession of the dis- <lb break="no"
+              />tressed heart of <persName>Valorus</persName>. She view- <lb break="no"/>ed her
+                <persName>Constantius</persName> as totally lost to <lb/>her forever; now did she
+              curse her <lb/>unfortunate stars, and lamented the <lb/>time she escaped the gaping
+              liquid <lb/>grave, and all the horrors of the dis- <lb break="no"/>consolate island on
+              which she had <lb/>been shipwrecked; but most of all <lb/>the ill fated moments which
+              again <cb/>
+              <lb/>introduced her to the presence of <lb/><persName>Constantius</persName>.—Despair
+              and anguish <lb/>rent her heart through the tedious <lb/>watches of the night, and her
+              pillow <lb/>was wet with the choicest tears <lb/>that ever flowed within the realm of
+                <lb/><placeName>France</placeName>. </p>
+            <p> On the return of the morning they <lb/>all arose, and every preparation was
+              <lb/>making for the reception of the lady,
+                    <lb/><persName><choice><sic>Le.</sic><corr>Le</corr></choice>
+              Monte’s</persName>sister. Breakfast was <LB/>at last brought on the table;
+                <persName>Le <lb/>Monte</persName>, <persName>Constantius</persName> and
+                <persName>Valorus</persName>
+              <lb/>sat down.—<persName>Valorus</persName> enquired of
+                <lb/><persName>Constantius</persName> what part of <placeName>America</placeName>
+              <lb/>he was from? he replied, from <placeName>Phi- <lb break="no"
+                />ladelphia</placeName>.— Pray sir, said he, did you <lb/>ever have any acquaintance
+              with a <lb/>gentleman by the name of ——? <lb/><emph style="font­-style: italic">(we
+                must be excused for omitting his <lb/>name here.)</emph> Yes, replied
+                <persName>Constan- <lb break="no"/>tius</persName>, with a very expressive counte-
+                <lb break="no"/>nance.—Did you know a daughter <lb/>of his by the name of
+                <persName>Pulchera</persName>? <lb/>Yes, replied <persName>Constantius</persName>,
+              with a de- <lb break="no"/>gree of melancholy in his face,— <lb/>Why? continued
+                <persName>Constantius</persName>, was <lb/>you ever acquainted with her? some
+              <lb/>years ago, replied <persName>Valorus</persName>, I was <lb/>very intimate in the
+              family, and if I <lb/>forget not, when I last knew the fa- <lb break="no"/>mily she
+              was the only surviving child <lb/>which her father had. Can you in- <lb break="no"
+              />form me if ever she married, or <lb/>whether she is yet alive or not? <lb/>This
+              question brought tears into the <lb/>eyes of <persName>Constantius</persName>, who
+              with a <lb/>voice which bespoke the perturbation <lb/>of his mind, replied—poor
+                <persName>Pulchera</persName>, <lb/>the ornament of her sex, and the <lb/>pride of
+              human nature, is no more: <lb/>some misunderstanding with her fa- <lb break="no"/>ther
+              with regard to a proposed mar- <lb break="no"/>riage, caused her to leave her home,
+              <lb/>and to cross the <placeName>Atlantic</placeName>, in which <lb/>voyage the vessel
+              was wrecked, and <lb/><emph style="font­-style: italic">dear
+                  <persName>Pulchera</persName></emph> was the only person <lb/>who was lost!—His
+              tears prevented <lb/>him from proceeding any further, <lb/>and
+                <persName>Valorus’s</persName> feelings were too sen- <lb break="no"/>sible to
+              prosecute the enquiry. Af- <lb break="no"/>ter breakfast <persName>Valorus</persName>
+              asked <persName>Con- <lb break="no"/>stantius</persName> to walk with him in the gar-
+                <lb break="no"/>den. <persName>Constantius</persName> rather declined, <lb/>saying,
+              he should be exceeding fond <pb/>
+              <lb/>and proud of an interview, but it <lb/>was absolutely necessary for him to
+              <lb/>make all the preparation he could to <lb/>receive some company of rank which
+              <lb/>would attend on him in the after- <lb break="no"/>noon, in consequence of which,
+              sir, <lb/>said he, I dare say you will excuse <lb/>me. <persName>Valorus</persName>
+              replied, he had too <lb/>much good nature to urge him to a <lb/>measure that was
+              disagreeable to him, <lb/>and retired to his chamber and wrote <lb/>a letter to
+                <persName>Constantius</persName>, then walked <lb/>out to take a view of the town,
+              giv- <lb break="no"/>ing the letter to a boy in the street, <lb/>making a present to
+              him of a <lb/>guinea to secure the delivery of it to <lb/>the lady of the house where
+                <persName>Constan- <lb break="no"/>tius</persName> boarded. In about half an hour
+                <lb/><persName>Constantius</persName>received the letter of the <lb/>lady, he broke
+              it open and read as <lb/>follows: </p>
+          </div> <div type="letter">
+            <floatingText>       <body><hi rend="italic">          <opener><salute>Dear
+                        <persName>Constantius</persName>,</salute></opener>
+                  <p> THOUGH through the adversity of <lb/>fickle fortune, I have for a long time
+                    <lb/>been deprived of my only happiness, <lb/>which consisted in being with the
+                    ami- <lb break="no"/>able <persName>Constantius</persName>, and though perhaps
+                    <lb/>my name may by this time be obliterated <lb/>from your memory, yet yours is
+                    not, <lb/>and never will cease to rest in mine; <lb/>and no satisfaction or
+                    comfort shall I <lb/>enjoy, until we have an opportunity to <lb/>fulfil, those
+                    sacred promises which we <lb/>have mutually made to each other. </p>
+                  <head style="text-align:right"><closer>This from the comfortless <lb/><signed><hi
+                          rend="roman"><persName>PULCHERA</persName></hi>.</signed></closer></head>
+                </hi>
+              </body>
+            </floatingText>
+          </div> <div type="section">      <p>
+              <persName>Constantius</persName> was thunderstruck at <lb/>reading these lines,
+              viewing the writ- <lb break="no"/>ing he would exclaim—“It must be <lb/>so—I am too
+              well acquainted with <lb/>the hand to be capable of being im- <lb break="no"/>posed
+              on.—She is still alive, and I <lb/>am her’s, and she is mine! an indis- <lb break="no"
+              />soluble bond has united us together, <lb/>which nothing but death is capable <lb/>of
+              dissolving. O heavens where is <lb/>she? I am on the <emph style="font­-style: italic"
+                >rack</emph> till I behold <lb/>her! Where can she be? Where is <lb/>the post-boy
+              who delivered the let- <lb break="no"/>ter? &amp;c. </p>
+            <p>
+              <persName>Constantius</persName> went on in such like <lb/>exclamations until
+                <persName>Le Monte</persName> came <lb/>in, to whom he read the letter. <persName>Le
+                <lb/>Monte</persName> was a little struck at first <lb/>hearing it, but on
+              considering the <cb/>
+              <lb/>subject, he told Constantius it was <lb/>impossible for it to be a reality, but
+              it <lb/>was a piece of imposition contrived <lb/>by some ill-minded person, in order
+              <lb/>to break off his proposed marriage <lb/>with his sister; saying, you know,
+              <lb/>you positively know, my <persName>Constan- <lb break="no"/>tius</persName>, that
+              it is beyond the reach of <lb/>possibilities for her to be alive.—She <lb/>did not
+              leave the ship with us, and it <lb/>is not in the power even of credu- <lb break="no"
+              />lousness itself to form an idea of her <lb/>escaping.
+                <persName>Constantius</persName> stood in a <lb/>maze; at last he replied, “it must
+              <lb/>be, you are in the right, it is impossi- <lb break="no"/>ble she should be alive,
+              she is long <lb/>since paid the great debt of nature, <lb/>and is no more.”
+                <persName>VALORUS</persName> continued <lb/>to walk the streets, wishing to know
+              <lb/>the effect which the letter had on the <lb/>mind of
+                <persName>Constantius</persName>, not being able <lb/>to form a judgment of how his
+              af- <lb break="no"/>fections stood towards <persName>Pulchera</persName>; <lb/>about
+              noon he returns to the house, <lb/>closely examining the looks of <persName>Con- <lb
+                  break="no"/>stantius</persName>, but could read nothing in his <lb/>countenance
+              for certain.—He then <lb/>enters into a discourse with him, in <lb/>the course of
+              which he enquires of <lb/>him how long since he was in <placeName>Phi- <lb break="no"
+                />ladelphia</placeName>? he answered about six <lb/>or eight weeks.—Was the father
+              of <lb/><persName>Pulchera</persName> alive when you left the <lb/>place? He was—Was
+              he much af- <lb break="no"/>fected with the death of his daugh- <lb break="no"/>ter?
+              exceedingly, it had like to have <lb/>ruined his senses. I think when I <lb/>was there
+              last, continued <persName>Valorus</persName>, a <lb/>certain gentleman by the name of
+                <lb/><persName>Constantius</persName>was paying his addresses <lb/>to
+                <persName>Pulchera</persName>.—Do you know any <lb/>thing with regard to him?
+                <persName>Constan- <lb break="no"/>tius</persName>, with some tender emotions,
+              <lb/>replied, yes I am the person.—I was <lb/>once happy in the love of the most
+              <lb/>amiable <persName>Pulchera</persName>; she engrossed the <lb/>whole of my soul,
+              and I believe I had <lb/>no less share in the affections of
+                <lb/><persName>Pulchera</persName> but cruel death, that in- <lb break="no"
+              />terrupter of human felicity, forced <lb/>her from me, and left me inconsola- <lb
+                break="no"/>bly to bemoan her hapless fate.— <lb/>Shipwrecked on the coast of
+                <placeName>England</placeName>, <lb/>having but a moment to avail our- <lb
+                break="no"/>selves of the boat (which was at best <pb/>
+              <lb/>but a <emph style="font­-style: italic">forlorn hope</emph>) I by some means
+              <lb/>let go her hand, and in the confusion <lb/>I did not perceive it ’till after I
+              was <lb/>in the boat, and the <seg xml:id="a043" corresp="#n043">fast was cut from
+                <lb/>the vessel.</seg><note xml:id="n043" corresp="#a043"><term
+                  style="font-style: italic">Fast</term>: the rope which lashes the longboat to the
+                ship.</note> Distracted I had like to <lb/>have thrown myself from the boat
+              <lb/>into the water and attempted to <lb/>have regained the vessel and mingled
+              <lb/>fates with her; but being fully <lb/>sensible of the impracticability of
+              <lb/>regaining the vessel, I contented <lb/>myself to live, expecting though <lb/>that
+              every moment would be the <lb/>last, however we floated in a man- <lb break="no"/>ner
+              really miraculous, about four <lb/>or five miles, when, providentially <lb/>we struck
+              on a small uninhabited <lb/>island, two days after which we <lb/>were taken off by a
+              pleasure boat, <lb/>who went with us to the island on <lb/>which we supposed our
+              vessel was <lb/>wrecked, which proved to be the <lb/><seg xml:id="a044"
+                corresp="#n044">same.</seg><note xml:id="n044" corresp="#a044">Here the <date
+                  when="1789-12">December</date> installment ends with the note “(<hi rend="italic"
+                  >To be concluded in our next.</hi>)”</note>
+            </p>
+          </div>
+        </body>
+      </text>
+    </group>
+
+    <group>
+      <text corresp="#15579.08">   <body>
+          <div type="section">      <p> HERE was I in hopes of finding <lb/>my
+                <persName>Pulchera</persName> whether dead or <lb/>alive, but my hopes were in vain,
+              not <lb/>a trace of her was to be found; a <lb/>small trunk of her’s I found wash’d
+              <lb/>up, which I took into possession, out <lb/>of which I took this locket, having
+              <lb/>her picture set in gold, this I have <lb/>ever worn on my breast, and <lb/>never
+              shall it be transfered to any <lb/>other place—O thou amiable <persName>Pul- <lb
+                  break="no"/>chera</persName>! never will your image be <lb/>erased from my
+              memory—never shall <lb/>I forget the time when we exchang- <lb break="no"/>ed mutual
+              vows, and gave ourselves <lb/>up to each other, when joys extatic <lb/>took full
+              possession of our enraptured <lb/>breasts at anticipating scenes of feli- <lb
+                break="no"/>city, which we fondly promised our- <lb break="no"/>selves, but which
+              cruel fortune never <lb/>designed we should realize—here
+                    <lb/><persName><choice><sic>Constantius</sic><corr>Constantius’s</corr></choice></persName>
+              utterance failed him, here <lb/>he gave himself up to a flood of <lb/>immoderate
+              grief, and <persName>Valorus</persName> could <lb/>scarcely contain himself—at length
+              in <lb/>broken accents he thus accosted him, <lb/>“<emph style="font­-style: italic"
+                >Dear Sir</emph>, I pray that you would <lb/>moderate your grief which can be
+              <lb/>of no service to you—your sorrows <lb/>can never reanimate
+                <persName>Pulchera</persName>, when <lb/>death separates lovers, tho’ it is im- <lb
+                break="no"/>possible intirely to forget, yet duty <lb/>makes it necessary to banish
+              every <lb/>idea as far as is practicable—you <lb/>may no doubt find another to supply
+              <lb/>the place of <persName>Pulchera</persName>.” O reply’d
+                <lb/><persName>Constantius</persName>, these are the reflexions <lb/>of a mind at
+              ease—’tis true I cannot <lb/>reanimate the admirable <persName>Pulchera</persName>—
+              <lb/>she has bid a final farewell to all <seg xml:id="a045" corresp="#n045">sub- <lb
+                  break="no"/>lunary</seg><note xml:id="n045" corresp="#a045"><term
+                  style="font-style: italic">Sublunary</term>: of or belonging to this world,
+                earthly, terrestrial.</note> things, but my veneration for <lb/>her will never cease
+              to exist, neither <lb/><choice><sic>will</sic><corr>will it</corr></choice> in any
+              degree abate.—’Tis true <lb/>I have sought relief in the arms of <lb/>another, and
+              soon, very soon are the <lb/><choice><sic>nuptial</sic><corr>nuptials</corr></choice>,
+              to be celebrated, but there <lb/>is nothing which can erase that su- <lb break="no"
+              />preme affection which I have once for <lb/>all placed on the inimitable
+                <persName>Pulche- <lb break="no"/>ra</persName>; she is no more! </p>
+            <cb/>
+            <p> Dear Sir, replyed <persName>Valorus</persName> your <lb/>affections were very
+              sincere, and pro- <lb break="no"/>vidence will never admit of such vir- <lb break="no"
+              />tues going unrewarded—It must <lb/>have in its store of beneficence some
+              <lb/>peculiar blessing to bestow upon you, <lb/>and tho’ I am no prophet I will ven-
+                <lb break="no"/>ture to predict that your days of sor- <lb break="no"/>row are
+              nearly at an end—something <lb/>you have no idea of at present will <lb/>soon open
+              upon you which will inspire <lb/>you with such sensations as you have <lb/>a long time
+              been a stranger to—I <lb/>pray you to dismiss the subject, and <lb/>ask me no further
+              questions on the <lb/>matter—whether ever you see me <lb/>again or not, remember what
+              I now <lb/>say to you.—Saying this he bid him <lb/>adieu, and could not be prevailed
+              on <lb/>to stay any longer with him—he <lb/>walked away into the City, leaving
+                <lb/><persName>Constantius</persName> in amazement. </p>
+            <p>
+              <persName>Constantius</persName> employ’d his reason- <lb break="no"/>ing powers to
+              conclude what the se- <lb break="no"/>quel of this matter should be; vari- <lb
+                break="no"/>ous were his conjectures ’tho he <lb/>could form
+                  <choice><sic>do</sic><corr>no</corr></choice> fixed idea in his own <lb/>mind—he
+              walked into the house, sat <lb/>down and continued his rumination <lb/>on this
+              inexplicable adventure; <lb/>while he was musing came in a boy <lb/>and delivering him
+              a letter retired— <lb/>he opened the letter and read, </p>
+          </div> <div type="letter">
+            <floatingText>       <body>“<hi rend="italic">          <opener><salute>Dear
+                      Sir,</salute></opener>
+                  <p> If you will call at the sign of the Eagle <lb/>at half past four precisely,
+                    you will <lb/>hear of something you very little expect, <lb/>and which concerns
+                    you in the highest <lb/>degree, after that it will be too late. </p>
+                  <closer><head style="text-align:right; font-style:roman">ADIEU.”</head></closer>
+                </hi>
+              </body>
+            </floatingText>
+          </div> <div type="section">      <p> This still served to increase his <lb/>wonder—but he
+              considered it rather <lb/>as an unfortunate appointment on <lb/>one account, as that
+              was the time <lb/>appointed for the arrival of <persName>Le
+                    <lb/><choice><sic>Mont’s</sic><corr>Monte’s</corr></choice></persName> sister,
+              whom he wished to <lb/>receive with all the respect possible— <lb/>he at one time
+              would imagine it was <lb/>a stratagem of some enemy of his, <lb/>in order to introduce
+              a friend between <lb/>him and his proposed bride, and then <lb/>he would determine to
+              pay no kind of <lb/>attention to the message, then again <lb/>the anxiety of his mind
+              would be <lb/>such, that he resolved, let the event <pb/>
+              <lb/>be what it would, he would attend <lb/>the summons—accordingly at a little
+              <lb/>past four he made preparations to go, <lb/>and at twenty-five minutes sat out,
+              <lb/>but as he had left the door, he look- <lb break="no"/>ed round and discovered his
+              proposed <lb/>bride, approaching at some distance <lb/>attended with a very splendid
+              retinue, <lb/>at the sight of which staggered his <lb/>resolution of proceeding—it
+              could <lb/>not fail of striking his mind most <lb/>powerfully, that if he absented
+              him- <lb break="no"/>self at this time, the lady would con- <lb break="no"/>ceive such
+              a dislike at this want of <lb/>respect, that she would abandon him <lb/>forever, and
+              that he should draw upon <lb/>him the revenge of <persName>Le Monte</persName>, and
+              all <lb/>his connexions—however, his curio- <lb break="no"/>sity was so great, and his
+              anxiety so <lb/>irresistible, that his determination to <lb/>go, overcame every
+              consideration to <lb/>the contrary.—He therefore turned <lb/>his face towards the
+              Eagle and suffer- <lb break="no"/>ed nothing to divert his steps—he <lb/>arrived at 29
+              minutes past four, at <lb/>the door he met a <seg xml:id="a046" corresp="#n046"
+                >barber, and a toilet <lb/>woman going out.</seg><note xml:id="n046" corresp="#a046"
+                  ><term style="font-style: italic">Barber and toilet woman</term>: hairdresser and
+                domestic servant who assisted in washing and dressing elite women.</note> He asked
+              the <lb/>hostess if there were any commands <lb/>there for him? she answered, that in
+              <lb/>the chamber parlour was a young <lb/>gentleman waiting for you, if your <lb/>name
+              is <persName>Constantius</persName>, that is my name <lb/>replyed he—she shewed him
+              the way <lb/>to the room, which he entered—but <lb/>heavens, what a surprize was he
+              seiz- <lb break="no"/>ed with, when he instead of a young <lb/>gentleman, found his
+              eyes fixed <lb/>on his adorable <persName>PULCHERA</persName>; decked <lb/>in all the
+              magnificence which the <lb/>city of <seg xml:id="a047" corresp="#n047"
+                  ><placeName>Bordeaux</placeName></seg><note xml:id="n047" corresp="#a047"><term
+                  style="font-style: italic"><placeName>Bordeaux</placeName></term>: an important
+                port city in the southwest <placeName>France</placeName> and a central hub for trade
+                between <placeName>France</placeName> and the <placeName>West
+                Indies</placeName>.</note> could afford—she <lb/>rose in the most graceful manner
+              <lb/>to receive him, such a sweetness was <lb/>in her countenance, as could not fail
+              <lb/>of ravishing the heart of the most stu- <lb break="no"/>pid beholder, her eyes
+              acquired ad- <lb break="no"/>ditional lustre, as they met those of <lb/>her long
+              wished for <persName>Constantius</persName>, <lb/>whose surprise was so great, that
+              his <lb/>organs of speech were totally incapa- <lb break="no"/>ble (for a while) to
+              perform their <lb/>functions, while <emph style="font­-style: italic"
+                  ><persName>Pulchera</persName></emph> thus ad- <lb break="no"/>dressed him: “<emph
+                style="font­-style: italic">Dear <persName>Constantius</persName></emph>,
+                  <choice><sic>It</sic><corr>it</corr></choice>
+              <lb/>is long since my heart has been to- <lb break="no"/>tally in your possession, and
+              many and <cb/>
+              <lb/>great have been the sufferings which <lb/>I have passed through for the sake of
+              <lb/>him whom I have now the pleasure <lb/>of beholding, and you Sir, and you
+                <lb/><emph style="font­-style: italic">only</emph> know whether my sufferings have
+              <lb/>been in vain or not—you Sir, <lb/>know whether I am to be happy in <lb/>your
+              favour, or whether the sister of <lb/><persName>Le Monte</persName> predominates in
+              your affec- <lb break="no"/>tions.—You Sir, can decide on a ques- <lb break="no"/>tion
+              which is of more consequence <lb/>to me than the riches of both the <placeName>In- <lb
+                  break="no"/>dies</placeName>.—My complete happiness, and <lb/>my insuperable
+              misery, are now sus- <lb break="no"/>pended in the ballance of your mind, <lb/>and as
+              the one or the other scale prepon- <lb break="no"/>derates, will my fate be happy or
+              <lb/>miserable in the extreme—yet Sir, do <lb/>not misunderstand me, perhaps my
+              <lb/>language conveys ideas different <lb/>from my intentions, notwithstanding
+              <lb/>the many terms I have made use <lb/>of, I value your repose so
+                  <choice><sic>higly</sic><corr>highly</corr></choice>, that <lb/>I never can wish
+              you to do a thing <lb/>disagreeable to yourself, in order to <lb/>oblige me; and even
+              an event like <lb/>that, was I sensible of it, would only <lb/>add to my torment—If
+                  <choice><sic>Sir, </sic><corr>Sir, I</corr></choice> have poses- <lb break="no"
+              />sion of your heart, I shall be thank- <lb break="no"/>ful for your hand also; but to
+              have <lb/>the <emph style="font­-style: italic">latter</emph> without the <emph
+                style="font­-style: italic">former</emph>, is
+                  <choice><sic>wha</sic><corr>what</corr></choice>
+              <lb/>is so foreign from my wish, that it <lb/>never can obtain my consent, I plead
+              <lb/>no contract, but leave you to the free <lb/>determination of your affections.” </p>
+            <p>
+              <persName>CONSTANTIUS</persName> by this time, had <lb/>in some good degree recovered
+              of his <lb/><choice><sic>surprize</sic><corr>surprise</corr></choice>, he encircled
+              her in his arms, <lb/>and in accents of rapture exclaimed, <lb/>“O transcendantly
+              propitious Hea- <lb break="no"/>ven, thrice bountiful, inexhausta- <lb break="no"
+              />ble, magnificent Providence! inex- <lb break="no"/>pressibly benevolent and
+              superlatively <lb/>beneficient fates! The most exalted <lb/>language is more than
+              infinitely too <lb/>inexpressive to give an idea of the <lb/>grateful sensations which
+              occupy my <lb/>breast, which is borne down with <lb/>the grateful sense which I have
+              <lb/>of your inconceivable benediction <lb/>towards me! I arrived at the <lb/>summit
+              of human gratification—I <lb/>am lost in extacy, O! ye powers <pb/>
+              <lb/>omniscient, is this real, or the unsubs- <lb break="no"/>tantial fabrick of an
+              empty vision? O <lb/>transcendently beneficent powers ’tis <lb/>no fiction, ’tis no
+              reverie of an in- <lb break="no"/>sane mind, for I am above being <lb/>imposed on in
+              this matter, I have <lb/>her in my arms the real half adora- <lb break="no"/>ble
+                <persName>Pulchera</persName>, propitious providence <lb/>has once more placed her
+              in my <lb/>embraces, and the freeks of wild for- <lb break="no"/>tune shall never more
+              separate me <lb/>from the object of my delight. No, <lb/>no, my admirable angel my
+              dearest <lb/><persName>Pulchera</persName>, you have the full possession <lb/>of a
+              heart totally incapable of disi- <lb break="no"/>mulation or change. No—sooner
+              <lb/>than I could withdraw my supreme <lb/>affection from you, and place it on
+              <lb/>another, shall the course of nature <lb/>receive a total revolution, the sun
+              <lb/>shall cease to communicate light or <lb/>heat, darkness shall become the
+              <lb/>medium of discerning objects—be- <lb break="no"/>lieve me, my dearest
+                <persName>Pulchera</persName>
+              <choice><sic>assoon</sic><corr>as soon</corr></choice>
+              <lb/>as my small affairs in <placeName>France</placeName> are set- <lb break="no"
+              />tled we will cross the <placeName>Atlantic</placeName>, we <lb/>will revisit the
+              land of freedom—we <lb/>will solemnize the long wished for <lb/>marriage ceremonies,
+              and we will live <lb/>the remainder of our days in that fe- <lb break="no"/>licity
+              which we have so long in vain <lb/>sought for. </p>
+            <p> In this way they exchanged a va- <lb break="no"/>riety of mutual expressions of the
+              <lb/>most fond affections, until time had <lb/>insensibly introduced the shades of
+              <lb/>the evening, when <persName>Constantius</persName> again <lb/>began to think of
+              his appointment <lb/>with the sister of <persName>Le Monte</persName>. He
+              <lb/>mentioned to <persName>Pulchera</persName> the overtures <lb/>which he had made
+              to <persName><choice><sic>Le Mont’s</sic><corr>Le Monte’s</corr></choice></persName>
+              <lb/>sister, in consequence of his total- <lb break="no"/>ly despairing of ever seeing
+              her <lb/>again—that a sense of honour, <lb/>made it necessary for him to re- <lb
+                break="no"/>pair to his lodgings and to inform <lb/>her of his situation, and to
+              make as <lb/>good terms with her as he could, <lb/>and that he would spend as little
+              <lb/>time on this matter as the nature of <lb/>the thing would admit of. </p>
+            <p>
+              <persName>Constantius</persName> then repaired to his <lb/>place of abode, where he
+                  <choice><sic>fonnd</sic><corr>found</corr></choice>
+              <persName>Le <lb/>Monte</persName> and his sister waiting with im- <lb break="no"
+              />patience and anxiety for his return; <cb/>
+              <lb/>on his arrival, joy seemed to sparkle <lb/>in their countenances, but rather
+              <lb/>decreased as they read in his visage <lb/>that every thing was not right in his
+              <lb/>mind. However, <persName>Constantius</persName> went <lb/>thro’ the usual
+              formalities of wel- <lb break="no"/>coming the lady with a tolerable <lb/>good grace.
+              But he soon called <persName>Le <lb/>Monte</persName> aside, desiring to speak with
+              <lb/>him alone. “My dear friend, said <lb/>he, we have long been in strict friend- <lb
+                break="no"/>ship, together, which I zealously wish <lb/>to cultivate and improve,
+              and there <lb/>is a matter which lays with peculiar <lb/>weight on my mind, about
+              which I <lb/>wish to ask your advice, I hope you <lb/>will give me your sentiments
+              fully— <lb/>speak on, quoth <persName>Le Monte</persName>, the best <lb/>of my poor
+              advice is always at your <lb/>service, and you cannot lay a greater <lb/>obligation
+              upon me than to command <lb/>my best services. For a considera- <lb break="no"/>ble
+              time (continued <persName>Constantius</persName>) <lb/>you have been acquainted with
+              my <lb/>affairs, you was no stranger to my <lb/>treaty with
+                <persName>Pulchera</persName>, to the passion <lb/>I had for her, and the solemn
+              obliga- <lb break="no"/>tions I was under to her, since her <lb/>exit you have been
+              fully let into the <lb/>particulars of my negociations with <lb/>your amiable sister,
+              and the length <lb/>to which we have carried the matter <lb/>—now Sir, supposing that
+                <persName>Pulchera</persName>
+              <lb/>should prove to be still alive, and <lb/>should insist on my fulfilling my en-
+                <lb break="no"/>gagements, what could you advise <lb/>me to do Sir? pray dear Sir,
+              on the <lb/>sacred bonds of friendship by which <lb/>we are cemented, give me your im-
+                <lb break="no"/>partial opinion on the matter. </p>
+            <p> “<emph style="font­-style: italic">What should you do</emph>,” reply’d
+                <lb/><persName>Le Monte</persName>, can there remain a doubt <lb/>in your mind with
+              regard to what <lb/>you should do? I think it is impossi- <lb break="no"/>ble there
+              should—are you not a man <lb/>of honour? does not your engage- <lb break="no"/>ments,
+              your solemn promises lay <lb/>with some degree of weight on your <lb/>mind? can you
+              harbour an idea that <lb/>you are at liberty to break thro’ the <lb/>solemn and
+              delicate obligations of a <lb/>matrimonial contract? If you do, <lb/>how can you
+              answer to your own <lb/>conscience, to the wronged lady who <lb/>has placed so much
+              confidence in <pb/>
+              <lb/>you? can you have the most distant <lb/>idea that you can make a second con- <lb
+                break="no"/>veyance of yourself to one woman be- <lb break="no"/>fore you are
+              discharged from the oth- <lb break="no"/>er? can you lawfully dispose of any ar- <lb
+                break="no"/>ticle, after you have conveyed away the <lb/>whole of your title to it?
+              If you <lb/>cannot, I wish to be informed of the <lb/>means by which you were
+              discharg- <lb break="no"/>ed from your obligations to <persName>Pulche- <lb break="no"
+                />ra</persName>? will you say, you supposed she <lb/>was dead? Is that sufficient
+              think <lb/>you? can your own mistake deprive <lb/>her of that right which she had to
+              <lb/>you, in consequence of your volun- <lb break="no"/>tary contract? No, your good
+              sense <lb/>will forbid your harbouring such un- <lb break="no"/>worthy ideas. If
+                <persName>Pulchera</persName> is alive, <lb/>in the name of common justice mar- <lb
+                break="no"/>ry her, your engagements to my sis- <lb break="no"/>ter must in the
+              nature of things, be <lb/>on this implyed condition, that <persName>Pul- <lb
+                  break="no"/>chera</persName> was no more! it was totally out <lb/>of your power to
+              make any other <lb/>contract with her, whether that con- <lb break="no"/>dition was
+              express or not. </p>
+            <p> Well, (said <persName>Constantius</persName>) strange as <lb/>it may appear,
+                <persName>Pulchera</persName> is yet alive <lb/>—I have seen her—she is now at
+              <lb/>the sign of the Eagle; <persName>Le Monte</persName>
+              <lb/>interrupted him, saying “Then <lb/>marry her, otherwise I should esteem <lb/>you
+              as totally unworthy of any <lb/>share in my friendship—you seem to <lb/>hesitate, I
+              will call in my sister—I <lb/>will inform her of the circumstances, <lb/>and then, if
+              she will consent to marry <lb/>you under this predicament, I shall blush <lb/>when I
+              reflect that I was ever allied <lb/>to her, and from henceforth will for- <lb
+                break="no"/>ever disown her as a relation of mine. <lb/>I will call her and inform
+              her, tho’ <lb/>I see by your countenance, that your <lb/>sentiments correspond with
+              mine.” </p>
+            <p>
+              <persName>Le Monte</persName> called in his sister to <lb/>them and informed her of
+              the whole <lb/>affair, who, looking on <persName/>
+              <lb/>with a pleasant and very wishful <lb/>countenance, thus said: “Dear sir,
+              <lb/>disappointments were never agreea- <lb break="no"/>ble to my nature, and I have
+              often <lb/>thought that I had the least patience <lb/>to bear with them of any mortal
+              ex- <lb break="no"/>isting, and I have not a single doubt <lb/>but my affections are
+              as strong to- <cb/>
+              <lb break="no"/>wards you as <persName>Pulchera’s</persName> are, yet <lb/>you are
+              her’s by right, and your after <lb/>engagements to me under the mis- <lb break="no"
+              />taken idea of her being dead, cannot <lb/>make her claim to you invalid, hesi- <lb
+                break="no"/>tate not, my dear <persName>Constantius</persName>, fulfil <lb/>your
+              engagements to her; you will <lb/>totally forfeit every claim to my af- <lb break="no"
+              />fections and esteem, if you do not— <lb/>you have my most fervent prayers <lb/>that
+              you may continue long and last- <lb break="no"/>ing blessings to each other in the
+              <lb/>connubial state, she will always be <lb/>sure of a peculiar place in my esteem
+              <lb/>for the good-will I bear to you—I <lb/>hope you will favour us by introdu- <lb
+                break="no"/>cing her into our company this eve- <lb break="no"/>ning, it will afford
+              me the most sen- <lb break="no"/>sible pleasure to be in any measure <lb/>instrumental
+              in conducing to her hap- <lb break="no"/>piness. <persName>Constantius</persName>
+              returned her <lb/>a very polite compliment, for her <lb/>candid and amiable overture,
+              expres- <lb break="no"/>sing his wishes, that providence <lb/>would furnish her with
+              an husband <lb/>suitable to her rank in life, and one <lb/>that would be much more
+              worthy <lb/>of her than he could have the <lb/>arrogance to pretend to be; he
+              <lb/>then in company with <persName>Le Monte</persName>, <lb/>waited on
+                <persName>Pulchera</persName> from the sign of <lb/>the Eagle, introduced her to the
+              sister <lb/>of <persName>Le Monte</persName>, where the remainder <lb/>of the evening
+              was spent in the <lb/>greatest conviviality, and nothing <lb/>could exceed the
+              pleasing compli- <lb break="no"/>ments, which passed between those ri- <lb break="no"
+              />val ladies. </p>
+            <p>
+              <persName>Constantius</persName> and <persName>Pulchera</persName>, after <lb/>this,
+              made the greatest dispatch pos- <lb break="no"/>sible in their preparations, for re-
+                <lb break="no"/>turning home, and in about one <lb/>weeks time, they embarked
+              accord- <lb break="no"/>ingly, taking an affectionate farewel <lb/>of <persName>Le
+                Monte</persName> and his sister, and <lb/>after a short and pleasant passage,
+              <lb/>they arrived safely at <placeName>Philadelphia</placeName>, <lb/>and on the same
+              day repaired to her <lb/>father’s house. The shock was al- <lb break="no"/>most too
+              great for her father’s <lb/>nerves, he embraced them both ex- <lb break="no"
+              />tatically—asking a thousand pardons <lb/>for his misconduct towards them, <lb/>and
+              with tears of joy promised to <lb/>devote the remainder of his days to <pb/>
+              <lb/>the substantiating their happiness, <lb/>about a week from this, they joined
+              <lb/>their hands at the altar of <seg xml:id="a048" corresp="#n048"
+                  ><persName>Hymen</persName>,</seg><note xml:id="n048" corresp="#a048"><term
+                  style="font-style: italic"><persName>Hymen</persName></term>: the god of marriage
+                in Greek mythology.</note>
+              <lb/>amidst a croud of spectators, whose <lb/>pleased countenances bespoke the
+              <lb/>inward joy of their hearts, and they <lb/>now live the greatest ornaments of
+              <lb/>the married state. </p>
+          </div>
+        </body>
+      </text>
+    </group>
+  </text>
+</TEI>
